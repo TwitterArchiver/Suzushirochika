@@ -47,3 +47,6 @@ https://video.twimg.com/amplify_video/2082753185911832576/vid/avc1/1078x2108/LnV
 https://video.twimg.com/ext_tw_video/2077419160955736065/pu/vid/avc1/960x720/kYjKcEcO1hFkQavd.mp4
 https://video.twimg.com/amplify_video/1997901689110880256/vid/avc1/660x556/mO6SY10nmCW3PJ0O.mp4
 https://video.twimg.com/ext_tw_video/1866061027252785152/pu/vid/avc1/868x720/8Xf4UQGbfl65CypY.mp4?tag=12
+https://video.twimg.com/amplify_video/2051916263618965504/vid/avc1/590x1280/u2jH4Gy8TJoisWvP.mp4
+https://video.twimg.com/amplify_video/2042163236221657088/vid/avc1/720x960/f4CAYmlsxAmJ8bPh.mp4
+https://video.twimg.com/amplify_video/2046923648066576384/vid/avc1/960x720/8VU-p4ncwV2EgeGu.mp4
