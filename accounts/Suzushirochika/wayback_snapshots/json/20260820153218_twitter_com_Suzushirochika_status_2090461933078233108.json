@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2090259905588629739",
+    "created_at": "2026-08-20T15:32:18.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090461933078233108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "917534084313735168",
+          "start": 0,
+          "username": "lingchuanqian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090461933078233108",
+    "in_reply_to_user_id": "917534084313735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090259905588629739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingchuanqian 魔法少女不是可以变装嘛（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090259893773340672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIYTHibEAANidJ.jpg",
+        "width": 2356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2090259905588629739",
+        "created_at": "2026-08-20T15:32:18.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090461933078233108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "917534084313735168",
+              "start": 0,
+              "username": "lingchuanqian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090461933078233108",
+        "in_reply_to_user_id": "917534084313735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090259905588629739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingchuanqian 魔法少女不是可以变装嘛（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090259893773340672"
+          ]
+        },
+        "author_id": "917534084313735168",
+        "conversation_id": "2090259905588629739",
+        "created_at": "2026-08-20T02:09:31.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090259905588629739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/681zUhp1b4",
+              "end": 40,
+              "expanded_url": "https://x.com/lingchuanqian/status/2090259905588629739/photo/1",
+              "media_key": "3_2090259893773340672",
+              "start": 17,
+              "url": "https://t.co/681zUhp1b4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090259905588629739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090259893773340672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 536,
+          "impression_count": 73356,
+          "like_count": 4009,
+          "quote_count": 1,
+          "reply_count": 256,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "有人问这套怎么上厕所（歪比扒布） https://t.co/681zUhp1b4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090461933078233108",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15052,
+          "following_count": 752,
+          "like_count": 88067,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18099
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-09T23:35:47.000Z",
+        "description": "这里是茜茜哦 不是福利姬 不卖图包 不卖原味  不聊骚 不接推广 不接广告 不会指使任何粉丝进行引战或者赚钱行为 如果发现请立刻告诉我  随缘发图（目前只在X偶尔B站其他均为盗图） 能让大家觉得可爱就很满足了哦 转载请私聊经过我允许 不约线下哦",
+        "id": "917534084313735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090259905588629739",
+        "name": "玲川茜",
+        "pinned_tweet_id": "1923562653794041931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/917534084313735168/1698981274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913471292780797952/wIvLvzFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117852,
+          "following_count": 63,
+          "like_count": 2572,
+          "listed_count": 442,
+          "media_count": 665,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "lingchuanqian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

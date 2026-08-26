@@ -1,0 +1,277 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1789921861649813567",
+    "created_at": "2024-05-14T02:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T03:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790212270209024066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421851995355369477",
+          "start": 0,
+          "username": "Aichijiandanxyz"
+        },
+        {
+          "end": 27,
+          "id": "380749300",
+          "start": 21,
+          "username": "Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790212270209024066",
+    "in_reply_to_user_id": "1421851995355369477",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789921861649813567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aichijiandanxyz 问你话呢@apple"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1789921861649813567",
+        "created_at": "2024-05-14T02:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T03:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790212270209024066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            },
+            {
+              "end": 27,
+              "id": "380749300",
+              "start": 21,
+              "username": "Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790212270209024066",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789921861649813567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz 问你话呢@apple"
+      },
+      {
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "1789921861649813567",
+        "created_at": "2024-05-13T07:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T08:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789921861649813567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789921861649813567",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 41112,
+          "like_count": 351,
+          "quote_count": 8,
+          "reply_count": 55,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁取消了手机耳机孔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13259,
+          "following_count": 907,
+          "like_count": 77032,
+          "listed_count": 22,
+          "tweet_count": 16408
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "我也不知道自己想干嘛\n不知道发给谁的消息就发在推特\n@eggyyybaby\nvpn⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz007.damoplane.life/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz007.damoplane.life/#/register?code=CLdIZc2K",
+                "start": 0,
+                "url": "https://t.co/IJkkvwcpNO"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1694768407147917551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773734861385453568/RauNYdco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11194,
+          "following_count": 423,
+          "like_count": 122184,
+          "listed_count": 65,
+          "tweet_count": 48743
+        },
+        "url": "https://t.co/IJkkvwcpNO",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rwvgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rwvgY"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "location": "Cupertino, CA",
+        "name": "Apple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717013664954499072/2dcJ0Unw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9754540,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 15211,
+          "tweet_count": 0
+        },
+        "username": "Apple",
+        "verified": true
+      }
+    ]
+  }
+}

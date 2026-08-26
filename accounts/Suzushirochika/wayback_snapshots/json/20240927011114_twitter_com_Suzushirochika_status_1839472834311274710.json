@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1839015098238775298"
+      ],
+      "media_source_tweet_id": [
+        "1839140084353835081"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1839472834311274710",
+    "created_at": "2024-09-27T01:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T02:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839472834311274710"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "フリーアイコン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812858602241294336",
+          "start": 3,
+          "username": "Koch_ox_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ksjiqwjqlm",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Koch_ox_ai/status/1839140084353835081/photo/1",
+          "media_key": "3_1839015098238775298",
+          "start": 29,
+          "url": "https://t.co/KSJIQwJQLM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839472834311274710",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839140084353835081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Koch_ox_ai: pop\n#フリーアイコン https://t.co/KSJIQwJQLM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1839015098238775298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYV-fQMaMAIt1Z3.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839015098238775298"
+          ],
+          "media_source_tweet_id": [
+            "1839140084353835081"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1839472834311274710",
+        "created_at": "2024-09-27T01:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T02:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839472834311274710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "フリーアイコン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812858602241294336",
+              "start": 3,
+              "username": "Koch_ox_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksjiqwjqlm",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Koch_ox_ai/status/1839140084353835081/photo/1",
+              "media_key": "3_1839015098238775298",
+              "start": 29,
+              "url": "https://t.co/KSJIQwJQLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839472834311274710",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839140084353835081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Koch_ox_ai: pop\n#フリーアイコン https://t.co/KSJIQwJQLM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839015098238775298"
+          ]
+        },
+        "author_id": "1812858602241294336",
+        "conversation_id": "1839140084353835081",
+        "created_at": "2024-09-26T03:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T04:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839140084353835081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 4,
+              "tag": "フリーアイコン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksjiqwjqlm",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Koch_ox_ai/status/1839140084353835081/photo/1",
+              "media_key": "3_1839015098238775298",
+              "start": 13,
+              "url": "https://t.co/KSJIQwJQLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839140084353835081",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 83368,
+          "like_count": 2338,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "pop\n#フリーアイコン https://t.co/KSJIQwJQLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13432,
+          "following_count": 886,
+          "like_count": 77353,
+          "listed_count": 22,
+          "tweet_count": 16565
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T14:35:56.000Z",
+        "description": "こちょうと読みます 水色多め #AIart 依頼はDMにて。いつでもまってます sub:@Koch_ai_ox",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 15,
+                "tag": "AIart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Koch_ai_ox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kochox",
+                "end": 23,
+                "expanded_url": "https://lit.link/kochox",
+                "start": 0,
+                "url": "https://t.co/QS4JPE5n9g"
+              }
+            ]
+          }
+        },
+        "id": "1812858602241294336",
+        "location": "Internet 依頼など→",
+        "name": "蠱蝶",
+        "pinned_tweet_id": "1825201953875656760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832489013082783744/O61Aa_cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 50,
+          "like_count": 1427,
+          "listed_count": 4,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/QS4JPE5n9g",
+        "username": "Koch_ox_ai",
+        "verified": true
+      }
+    ]
+  }
+}

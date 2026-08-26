@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878411369743253504"
+      ],
+      "media_source_tweet_id": [
+        "1878411377351811215"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1878748243674407257",
+    "created_at": "2025-01-13T10:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T11:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878748243674407257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824091921385676800",
+          "start": 3,
+          "username": "WorldSaboten"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NS30L8sgfd",
+          "end": 50,
+          "expanded_url": "https://x.com/WorldSaboten/status/1878411377351811215/photo/1",
+          "media_key": "3_1878411369743253504",
+          "start": 27,
+          "url": "https://t.co/NS30L8sgfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878748243674407257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3078
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878411377351811215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WorldSaboten: 第六駆逐隊です。 https://t.co/NS30L8sgfd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_1878411369743253504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhF1MEOaAAAKkqn.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878411369743253504"
+          ],
+          "media_source_tweet_id": [
+            "1878411377351811215"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1878748243674407257",
+        "created_at": "2025-01-13T10:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T11:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878748243674407257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824091921385676800",
+              "start": 3,
+              "username": "WorldSaboten"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NS30L8sgfd",
+              "end": 50,
+              "expanded_url": "https://x.com/WorldSaboten/status/1878411377351811215/photo/1",
+              "media_key": "3_1878411369743253504",
+              "start": 27,
+              "url": "https://t.co/NS30L8sgfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878748243674407257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3078
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878411377351811215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WorldSaboten: 第六駆逐隊です。 https://t.co/NS30L8sgfd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878411369743253504"
+          ]
+        },
+        "author_id": "1824091921385676800",
+        "conversation_id": "1878411377351811215",
+        "created_at": "2025-01-12T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878411377351811215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NS30L8sgfd",
+              "end": 32,
+              "expanded_url": "https://x.com/WorldSaboten/status/1878411377351811215/photo/1",
+              "media_key": "3_1878411369743253504",
+              "start": 9,
+              "url": "https://t.co/NS30L8sgfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878411377351811215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5007,
+          "impression_count": 518363,
+          "like_count": 29945,
+          "quote_count": 14,
+          "reply_count": 19,
+          "retweet_count": 3078
+        },
+        "reply_settings": "everyone",
+        "text": "第六駆逐隊です。 https://t.co/NS30L8sgfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13718,
+          "following_count": 858,
+          "like_count": 78250,
+          "listed_count": 22,
+          "media_count": 919,
+          "tweet_count": 16714
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T14:33:12.000Z",
+        "description": "サボテンマンと申します🌵\nAIで作品を作っています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sabotenman",
+                "end": 23,
+                "expanded_url": "https://lit.link/sabotenman",
+                "start": 0,
+                "url": "https://t.co/vbZOdT8f56"
+              }
+            ]
+          }
+        },
+        "id": "1824091921385676800",
+        "name": "サボテンマン",
+        "pinned_tweet_id": "1877687535222079705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860701236598833152/1SLYqx81_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10720,
+          "following_count": 43,
+          "like_count": 86,
+          "listed_count": 63,
+          "media_count": 76,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/vbZOdT8f56",
+        "username": "WorldSaboten",
+        "verified": true
+      }
+    ]
+  }
+}

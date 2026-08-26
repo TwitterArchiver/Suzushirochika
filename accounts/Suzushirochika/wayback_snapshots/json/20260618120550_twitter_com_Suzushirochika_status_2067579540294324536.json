@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2067013314937344350",
+    "created_at": "2026-06-18T12:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067579540294324536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1448103761407217669",
+          "start": 0,
+          "username": "killthebadblood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067579540294324536",
+    "in_reply_to_user_id": "1448103761407217669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067013314937344350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killthebadblood 萌🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2000,
+        "height": 1280,
+        "media_key": "13_2067013259434106880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067013259434106880/img/_Lo8GUflPliGHca_.jpg",
+        "public_metrics": {
+          "view_count": 304
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067013259434106880/vid/avc1/320x568/5U_yAOF9eM7QzQWm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067013259434106880/vid/avc1/480x852/VnctDz2sQlmZJsE1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067013259434106880/vid/avc1/720x1280/BU7d75uw-K5csaLx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067013259434106880/pl/p5OBAIjoDUVousld.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2067013314937344350",
+        "created_at": "2026-06-18T12:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067579540294324536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1448103761407217669",
+              "start": 0,
+              "username": "killthebadblood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067579540294324536",
+        "in_reply_to_user_id": "1448103761407217669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067013314937344350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killthebadblood 萌🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067013259434106880"
+          ]
+        },
+        "author_id": "1448103761407217669",
+        "conversation_id": "2067013314937344350",
+        "created_at": "2026-06-16T22:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067013314937344350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKgexjmF8B",
+              "end": 58,
+              "expanded_url": "https://x.com/killthebadblood/status/2067013314937344350/video/1",
+              "media_key": "13_2067013259434106880",
+              "start": 35,
+              "url": "https://t.co/HKgexjmF8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067013314937344350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 838,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我又驾临洗衣房了\n此视频建议打开声音食用\n这么看大小眼好严重（ https://t.co/HKgexjmF8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14970,
+          "following_count": 743,
+          "like_count": 84931,
+          "listed_count": 14,
+          "media_count": 939,
+          "tweet_count": 17643
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T01:50:33.000Z",
+        "description": "I go by Iris:) Open relationship💞/left-lib 粉红和约炮请退散，此账号没有你们感兴趣的内容",
+        "id": "1448103761407217669",
+        "location": "Toronto, Ontario",
+        "name": "槍 擊 落 日",
+        "pinned_tweet_id": "1791442261882122714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584856223337263104/Dhk4r7cO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 719,
+          "like_count": 37274,
+          "listed_count": 5,
+          "media_count": 1678,
+          "tweet_count": 5660
+        },
+        "username": "killthebadblood",
+        "verified": false
+      }
+    ]
+  }
+}

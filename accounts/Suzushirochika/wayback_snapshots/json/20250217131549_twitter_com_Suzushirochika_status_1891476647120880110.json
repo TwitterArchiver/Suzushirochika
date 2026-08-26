@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1891363087292444737",
+    "created_at": "2025-02-17T13:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T14:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891476647120880110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2445363991",
+          "start": 0,
+          "username": "Geiketsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891476647120880110",
+    "in_reply_to_user_id": "2445363991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891363087292444737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Geiketsu 你猜原著小说是哪年写的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1891363087292444737",
+        "created_at": "2025-02-17T13:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T14:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891476647120880110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2445363991",
+              "start": 0,
+              "username": "Geiketsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891476647120880110",
+        "in_reply_to_user_id": "2445363991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891363087292444737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Geiketsu 你猜原著小说是哪年写的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2445363991",
+        "conversation_id": "1891363087292444737",
+        "created_at": "2025-02-17T05:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T06:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891363087292444737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891363087292444737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果有童鞋想来日本发展，建议先看03年版的《白色巨塔》。动漫和抖音里看不到的日企职场生态，这里全都有\n\n日企容错率极低，每天都要面对复杂规矩和潜规则、还有随时背刺你的“同事”。别说外国人，就算日本人，一个小错误都会引来不公待遇，被孤立、排挤，甚至被逼到自动离职\n\n在这种环境下，外国人只有两种选择： 1.要么老老实实当一辈子社畜、2.要么趁早逃离这个压抑的国家\n\n(当然，有能力创业是另一回事)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 130002,
+          "like_count": 536,
+          "quote_count": 15,
+          "reply_count": 80,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "如果有童鞋想来日本发展，建议先看03年版的《白色巨塔》。动漫和抖音里看不到的日企职场生态，这里全都有\n\n日企容错率极低，每天都要面对复杂规矩和潜规则、还有随时背刺你的“同事”。别说外国人，就算日本人，一个小错误都会引来不公待遇，被孤立、排挤，甚至被逼到自动离职…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13873,
+          "following_count": 852,
+          "like_count": 78893,
+          "listed_count": 22,
+          "media_count": 922,
+          "tweet_count": 16759
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-15T12:11:25.000Z",
+        "description": "东京常驻，动漫迷，游戏狂，日剧爱好者+资深吃货！专业Cloud Engineer & SRE。分享日本的点点滴滴！",
+        "id": "2445363991",
+        "location": "東京",
+        "name": "Geiketsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791840388237688832/yVrsU8xT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 884,
+          "like_count": 12864,
+          "listed_count": 13,
+          "media_count": 1223,
+          "tweet_count": 5922
+        },
+        "username": "Geiketsu",
+        "verified": true
+      }
+    ]
+  }
+}

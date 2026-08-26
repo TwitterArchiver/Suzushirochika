@@ -1,0 +1,91 @@
+{
+  "data": {
+    "author_id": "1253292430792839174",
+    "conversation_id": "1849124008509497779",
+    "created_at": "2024-10-23T16:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-23T17:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1849124008509497779"
+    ],
+    "id": "1849124008509497779",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 377,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849015165121151487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "God knows...\n一番の宝物 \n六等星の夜 \nand I'm home\nspiral https://t.co/BwjbGRmVlO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1253292430792839174",
+        "conversation_id": "1849124008509497779",
+        "created_at": "2024-10-23T16:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-23T17:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849124008509497779"
+        ],
+        "id": "1849124008509497779",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849015165121151487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "God knows...\n一番の宝物 \n六等星の夜 \nand I'm home\nspiral https://t.co/BwjbGRmVlO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13532,
+          "following_count": 878,
+          "like_count": 77852,
+          "listed_count": 22,
+          "media_count": 913,
+          "tweet_count": 16647
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

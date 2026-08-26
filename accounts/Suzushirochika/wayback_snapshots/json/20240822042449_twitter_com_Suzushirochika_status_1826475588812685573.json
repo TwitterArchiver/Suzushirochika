@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1826232370703536596",
+    "created_at": "2024-08-22T04:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T05:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826475588812685573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1699721154938953728",
+          "start": 0,
+          "username": "adCA_xuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826475588812685573",
+    "in_reply_to_user_id": "1699721154938953728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826232370703536596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adCA_xuan 是不是变瘦了，脂肪不堆积（我猜的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1826232370703536596",
+        "created_at": "2024-08-22T04:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T05:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826475588812685573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1699721154938953728",
+              "start": 0,
+              "username": "adCA_xuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826475588812685573",
+        "in_reply_to_user_id": "1699721154938953728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826232370703536596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adCA_xuan 是不是变瘦了，脂肪不堆积（我猜的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699721154938953728",
+        "conversation_id": "1826232370703536596",
+        "created_at": "2024-08-21T12:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T13:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826232370703536596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826232370703536596",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么我打了这么多日雌胸部一点感觉没有，到现在打了有6、7盒了吧\n是因为我22年初每周打两针黄体酮、打了大概四十支的原因么（看药商说的这个东西好我就买来打了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13334,
+          "following_count": 892,
+          "like_count": 77316,
+          "listed_count": 23,
+          "tweet_count": 16494
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T09:48:06.000Z",
+        "description": "MTF🏳️‍⚧️/🍥2020.12.24/日本石川县某不知名小农村工厂研修黑奴/我的女朋友:@HaruchaInui/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "HaruchaInui"
+              }
+            ]
+          }
+        },
+        "id": "1699721154938953728",
+        "location": "Japan",
+        "name": "萱萱的故事书",
+        "pinned_tweet_id": "1810635745138454616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822876959359250432/ZMyV_Xvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 1795,
+          "like_count": 684,
+          "listed_count": 3,
+          "tweet_count": 649
+        },
+        "username": "adCA_xuan",
+        "verified": false
+      }
+    ]
+  }
+}

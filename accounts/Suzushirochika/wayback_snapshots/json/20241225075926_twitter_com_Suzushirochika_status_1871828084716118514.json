@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1871517681620549633"
+      ],
+      "media_source_tweet_id": [
+        "1871517768144810120"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1871828084716118514",
+    "created_at": "2024-12-25T07:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T08:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871828084716118514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2991113310",
+          "start": 3,
+          "username": "kanata_mako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzqXSlIfDD",
+          "end": 93,
+          "expanded_url": "https://x.com/kanata_mako/status/1871517768144810120/video/1",
+          "media_key": "13_1871517681620549633",
+          "start": 70,
+          "url": "https://t.co/GzqXSlIfDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871828084716118514",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 792
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871517768144810120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanata_mako: これが冬コミの新刊です！\n是非お手元でパラパラしてみてください！！\n※委託通販、リプライに載せております https://t.co/GzqXSlIfDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9765,
+        "height": 1080,
+        "media_key": "13_1871517681620549633",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1871517681620549633/img/ZQPZcVbMKfOXA6X7.jpg",
+        "public_metrics": {
+          "view_count": 44033
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1871517681620549633/vid/avc1/1920x1080/M3TcS1_Kp-k55dJ5.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1871517681620549633/vid/avc1/1280x720/2-PJCxrdw4eX7ReY.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1871517681620549633/vid/avc1/640x360/o9nhI-KozPyxtsu3.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1871517681620549633/pl/ISbzg5i7mOVDRoq7.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1871517681620549633/vid/avc1/480x270/HsCKFIY3fD7D-gjI.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1871517681620549633"
+          ],
+          "media_source_tweet_id": [
+            "1871517768144810120"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1871828084716118514",
+        "created_at": "2024-12-25T07:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T08:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871828084716118514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2991113310",
+              "start": 3,
+              "username": "kanata_mako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzqXSlIfDD",
+              "end": 93,
+              "expanded_url": "https://x.com/kanata_mako/status/1871517768144810120/video/1",
+              "media_key": "13_1871517681620549633",
+              "start": 70,
+              "url": "https://t.co/GzqXSlIfDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871828084716118514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 792
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871517768144810120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanata_mako: これが冬コミの新刊です！\n是非お手元でパラパラしてみてください！！\n※委託通販、リプライに載せております https://t.co/GzqXSlIfDD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1871517681620549633"
+          ]
+        },
+        "author_id": "2991113310",
+        "conversation_id": "1871517768144810120",
+        "created_at": "2024-12-24T11:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T12:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871517768144810120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzqXSlIfDD",
+              "end": 76,
+              "expanded_url": "https://x.com/kanata_mako/status/1871517768144810120/video/1",
+              "media_key": "13_1871517681620549633",
+              "start": 53,
+              "url": "https://t.co/GzqXSlIfDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871517768144810120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 641,
+          "impression_count": 121204,
+          "like_count": 5805,
+          "quote_count": 9,
+          "reply_count": 10,
+          "retweet_count": 792
+        },
+        "reply_settings": "everyone",
+        "text": "これが冬コミの新刊です！\n是非お手元でパラパラしてみてください！！\n※委託通販、リプライに載せております https://t.co/GzqXSlIfDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13622,
+          "following_count": 874,
+          "like_count": 78239,
+          "listed_count": 22,
+          "media_count": 917,
+          "tweet_count": 16679
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-20T12:41:18.000Z",
+        "description": "アニメやイラスト描いてるオタク。美少女系アニメキャラの絵とか描きます。新刊、既刊ともにメロンブックス様にて委託してます。イラストに頂いたリプライ、ありがたく拝見しております！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 23,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=107969",
+                "start": 0,
+                "url": "https://t.co/tb6eVIpVT2"
+              }
+            ]
+          }
+        },
+        "id": "2991113310",
+        "location": "カントー地方にある秋葉原",
+        "name": "たなかまこ@C105日曜東ス75ab",
+        "pinned_tweet_id": "1871173448887898253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1413551383148515328/IeOLeXXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46322,
+          "following_count": 1019,
+          "like_count": 39092,
+          "listed_count": 402,
+          "media_count": 260,
+          "tweet_count": 13736
+        },
+        "url": "https://t.co/tb6eVIpVT2",
+        "username": "kanata_mako",
+        "verified": true
+      }
+    ]
+  }
+}

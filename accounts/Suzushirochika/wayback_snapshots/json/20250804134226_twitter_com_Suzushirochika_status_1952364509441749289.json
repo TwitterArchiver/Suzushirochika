@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1952341938897817901",
+    "created_at": "2025-08-04T13:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T14:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952364509441749289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1133557421421367296",
+          "start": 0,
+          "username": "Inkcity_718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952364509441749289",
+    "in_reply_to_user_id": "1133557421421367296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952341938897817901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inkcity_718 生日快乐！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6166,
+        "height": 720,
+        "media_key": "7_1952341889161830400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952341889161830400/pu/img/V2S8pnmWSKort1s3.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952341889161830400/pu/vid/avc1/480x270/JyhR7LoXq-w54dRm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952341889161830400/pu/vid/avc1/640x360/dAFAPOGBhF-yTZXl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952341889161830400/pu/vid/avc1/1280x720/d6ebUQ-r3j73MHdh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952341889161830400/pu/pl/Zel_T_MIzCY5Y5Sr.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1952341938897817901",
+        "created_at": "2025-08-04T13:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952364509441749289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1133557421421367296",
+              "start": 0,
+              "username": "Inkcity_718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952364509441749289",
+        "in_reply_to_user_id": "1133557421421367296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952341938897817901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inkcity_718 生日快乐！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952341889161830400"
+          ]
+        },
+        "author_id": "1133557421421367296",
+        "conversation_id": "1952341938897817901",
+        "created_at": "2025-08-04T12:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952341938897817901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/POqu2bCri3",
+              "end": 35,
+              "expanded_url": "https://x.com/Inkcity_718/status/1952341938897817901/video/1",
+              "media_key": "7_1952341889161830400",
+              "start": 12,
+              "url": "https://t.co/POqu2bCri3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952341938897817901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 142,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开心开心开心，生日快乐 https://t.co/POqu2bCri3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14539,
+          "following_count": 837,
+          "like_count": 79863,
+          "listed_count": 24,
+          "media_count": 934,
+          "tweet_count": 16880
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-29T02:15:24.000Z",
+        "description": "自由生活！不约，不卖，没门槛，不线下，有对象",
+        "id": "1133557421421367296",
+        "location": "济南",
+        "name": "我不是墨鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742961796833763329/FG1DOdJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5929,
+          "following_count": 128,
+          "like_count": 5275,
+          "listed_count": 14,
+          "media_count": 387,
+          "tweet_count": 1784
+        },
+        "username": "Inkcity_718",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875517472570507264"
+      ],
+      "media_source_tweet_id": [
+        "1875517491503596011"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1875906679105290459",
+    "created_at": "2025-01-05T14:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T15:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875906679105290459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1084767640571109377",
+          "start": 3,
+          "username": "ichiichizero2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JhsddLa3sw",
+          "end": 42,
+          "expanded_url": "https://x.com/ichiichizero2/status/1875517491503596011/photo/1",
+          "media_key": "3_1875517472570507264",
+          "start": 19,
+          "url": "https://t.co/JhsddLa3sw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875906679105290459",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875517491503596011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ichiichizero2: https://t.co/JhsddLa3sw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1743,
+        "media_key": "3_1875517472570507264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgctNFKagAAbdAY.jpg",
+        "width": 2016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875517472570507264"
+          ],
+          "media_source_tweet_id": [
+            "1875517491503596011"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1875906679105290459",
+        "created_at": "2025-01-05T14:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T15:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875906679105290459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1084767640571109377",
+              "start": 3,
+              "username": "ichiichizero2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhsddLa3sw",
+              "end": 42,
+              "expanded_url": "https://x.com/ichiichizero2/status/1875517491503596011/photo/1",
+              "media_key": "3_1875517472570507264",
+              "start": 19,
+              "url": "https://t.co/JhsddLa3sw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875906679105290459",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875517491503596011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ichiichizero2: https://t.co/JhsddLa3sw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875517472570507264"
+          ]
+        },
+        "author_id": "1084767640571109377",
+        "conversation_id": "1875517491503596011",
+        "created_at": "2025-01-04T12:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T13:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875517491503596011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhsddLa3sw",
+              "end": 23,
+              "expanded_url": "https://x.com/ichiichizero2/status/1875517491503596011/photo/1",
+              "media_key": "3_1875517472570507264",
+              "start": 0,
+              "url": "https://t.co/JhsddLa3sw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875517491503596011",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 29352,
+          "like_count": 3266,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JhsddLa3sw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13672,
+          "following_count": 874,
+          "like_count": 78196,
+          "listed_count": 22,
+          "media_count": 919,
+          "tweet_count": 16701
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-14T11:02:14.000Z",
+        "description": "いちいちぜろに。趣味でイラスト描いたりします。よろしくお願い申し上げます。厚塗りが上手になりたいです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=21899005",
+                "start": 0,
+                "url": "https://t.co/igLyrtN0ED"
+              }
+            ]
+          }
+        },
+        "id": "1084767640571109377",
+        "name": "1102",
+        "pinned_tweet_id": "1857462693785215294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653035023916994562/LBXpG2HX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24089,
+          "following_count": 909,
+          "like_count": 24177,
+          "listed_count": 180,
+          "media_count": 929,
+          "tweet_count": 4794
+        },
+        "url": "https://t.co/igLyrtN0ED",
+        "username": "ichiichizero2",
+        "verified": true
+      }
+    ]
+  }
+}

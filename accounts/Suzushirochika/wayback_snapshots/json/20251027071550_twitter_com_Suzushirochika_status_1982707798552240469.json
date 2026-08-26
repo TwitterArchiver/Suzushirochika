@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982707786954723328"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1982484326211375172",
+    "created_at": "2025-10-27T07:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982707798552240469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1954500072517103617",
+          "start": 0,
+          "username": "dtxx333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v7hUskanzA",
+          "end": 41,
+          "expanded_url": "https://x.com/Suzushirochika/status/1982707798552240469/photo/1",
+          "media_key": "3_1982707786954723328",
+          "start": 18,
+          "url": "https://t.co/v7hUskanzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982707798552240469",
+    "in_reply_to_user_id": "1954500072517103617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982484326211375172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dtxx333 经典回顾之老资历 https://t.co/v7hUskanzA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_1982707786954723328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4P-OjbWUAAyhLi.jpg",
+        "width": 1096
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1982484313154240513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4My-qpXwAEDN2Y.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982707786954723328"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1982484326211375172",
+        "created_at": "2025-10-27T07:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982707798552240469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1954500072517103617",
+              "start": 0,
+              "username": "dtxx333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7hUskanzA",
+              "end": 41,
+              "expanded_url": "https://x.com/Suzushirochika/status/1982707798552240469/photo/1",
+              "media_key": "3_1982707786954723328",
+              "start": 18,
+              "url": "https://t.co/v7hUskanzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982707798552240469",
+        "in_reply_to_user_id": "1954500072517103617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982484326211375172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dtxx333 经典回顾之老资历 https://t.co/v7hUskanzA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982484313154240513"
+          ]
+        },
+        "author_id": "1954500072517103617",
+        "conversation_id": "1982484326211375172",
+        "created_at": "2025-10-26T16:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982484326211375172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o55OnhnhXA",
+              "end": 34,
+              "expanded_url": "https://x.com/dtxx333/status/1982484326211375172/photo/1",
+              "media_key": "3_1982484313154240513",
+              "start": 11,
+              "url": "https://t.co/o55OnhnhXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982484326211375172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5191,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这啥意思？汉化组呢。 https://t.co/o55OnhnhXA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14699,
+          "following_count": 831,
+          "like_count": 78483,
+          "listed_count": 23,
+          "media_count": 896,
+          "tweet_count": 16761
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "关评推广自辨",
+        "id": "1954500072517103617",
+        "location": "绿🚪99",
+        "name": "蛋挞熊",
+        "pinned_tweet_id": "1981713051704496586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954607190750396416/OthEAx5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 252,
+          "like_count": 2404,
+          "listed_count": 6,
+          "media_count": 109,
+          "tweet_count": 978
+        },
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

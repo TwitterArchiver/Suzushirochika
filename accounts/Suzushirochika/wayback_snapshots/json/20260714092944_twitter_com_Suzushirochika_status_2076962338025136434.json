@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2076846368321356259",
+    "created_at": "2026-07-14T09:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076962338025136434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1271512602145730560",
+          "start": 0,
+          "username": "Akino_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076962338025136434",
+    "in_reply_to_user_id": "1271512602145730560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076846368321356259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akino_QwQ 看来猫娘刚需普瑞巴林（×"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076846350692700160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJwwJoa0AAP3cd.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2076846368321356259",
+        "created_at": "2026-07-14T09:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076962338025136434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1271512602145730560",
+              "start": 0,
+              "username": "Akino_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076962338025136434",
+        "in_reply_to_user_id": "1271512602145730560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076846368321356259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akino_QwQ 看来猫娘刚需普瑞巴林（×"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076846350692700160"
+          ]
+        },
+        "author_id": "1271512602145730560",
+        "conversation_id": "2076846368321356259",
+        "created_at": "2026-07-14T01:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076846368321356259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIisOScszp",
+              "end": 44,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2076846368321356259/photo/1",
+              "media_key": "3_2076846350692700160",
+              "start": 21,
+              "url": "https://t.co/SIisOScszp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076846368321356259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "应激对猫咪不好\n猫娘应激了是不是也要吃药 https://t.co/SIisOScszp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15048,
+          "following_count": 750,
+          "like_count": 86459,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17842
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含糖友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已/ADHD/想od/想要5HT2A激动剂/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "location": "华立科技展厅",
+        "name": "一定不是银喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 946,
+          "like_count": 18447,
+          "listed_count": 6,
+          "media_count": 670,
+          "tweet_count": 3906
+        },
+        "url": "",
+        "username": "Akino_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

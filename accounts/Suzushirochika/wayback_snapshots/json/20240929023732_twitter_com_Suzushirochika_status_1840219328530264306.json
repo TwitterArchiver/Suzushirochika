@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1839653874543837184"
+      ],
+      "media_source_tweet_id": [
+        "1839994715581673674"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1840219328530264306",
+    "created_at": "2024-09-29T02:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T03:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840219328530264306"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "葬送のフリーレン",
+          "probability": 0.7645,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 87,
+          "tag": "フリーレン2期"
+        },
+        {
+          "end": 102,
+          "start": 96,
+          "tag": "フリーレン"
+        },
+        {
+          "end": 111,
+          "start": 103,
+          "tag": "frieren"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1554275945841692672",
+          "start": 3,
+          "username": "Anime_Frieren"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l6kxxp36af",
+          "end": 135,
+          "expanded_url": "https://twitter.com/Anime_Frieren/status/1839994715581673674/video/1",
+          "media_key": "13_1839653874543837184",
+          "start": 112,
+          "url": "https://t.co/l6kxxp36AF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840219328530264306",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81658
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839994715581673674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anime_Frieren: ╋━━━━━━━\n　『葬送のフリーレン』\n　TVアニメ2期制作決定🪄\n　　　　 ━━━━━━━╋\n\nそろそろ、旅の続きを始めようか。\n\n#フリーレン2期 #フリーレン\n#frieren https://t.co/l6kxxp36AF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21396,
+        "height": 720,
+        "media_key": "13_1839653874543837184",
+        "preview_image_url": "https://pbs.twimg.com/media/GYfDtnNboAAYgrd.jpg",
+        "public_metrics": {
+          "view_count": 2011852
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1839653874543837184/vid/avc1/480x270/qCDm73F08xBGKQ43.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1839653874543837184/vid/avc1/640x360/hs0TkBrbKwZVZldF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1839653874543837184/vid/avc1/1280x720/p8kOy7ATFUQnN_pD.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1839653874543837184/pl/TqGpieAlDX5_bz28.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1839653874543837184"
+          ],
+          "media_source_tweet_id": [
+            "1839994715581673674"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1840219328530264306",
+        "created_at": "2024-09-29T02:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T03:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840219328530264306"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "葬送のフリーレン",
+              "probability": 0.7645,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 87,
+              "tag": "フリーレン2期"
+            },
+            {
+              "end": 102,
+              "start": 96,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 111,
+              "start": 103,
+              "tag": "frieren"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1554275945841692672",
+              "start": 3,
+              "username": "Anime_Frieren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6kxxp36af",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Anime_Frieren/status/1839994715581673674/video/1",
+              "media_key": "13_1839653874543837184",
+              "start": 112,
+              "url": "https://t.co/l6kxxp36AF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840219328530264306",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81658
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839994715581673674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anime_Frieren: ╋━━━━━━━\n　『葬送のフリーレン』\n　TVアニメ2期制作決定🪄\n　　　　 ━━━━━━━╋\n\nそろそろ、旅の続きを始めようか。\n\n#フリーレン2期 #フリーレン\n#frieren https://t.co/l6kxxp36AF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1839653874543837184"
+          ]
+        },
+        "author_id": "1554275945841692672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1839994715581673674",
+        "created_at": "2024-09-28T11:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T12:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839994715581673674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "フリーレン2期"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "frieren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6kxxp36af",
+              "end": 116,
+              "expanded_url": "https://twitter.com/Anime_Frieren/status/1839994715581673674/video/1",
+              "media_key": "13_1839653874543837184",
+              "start": 93,
+              "url": "https://t.co/l6kxxp36AF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839994715581673674",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8358,
+          "impression_count": 10748921,
+          "like_count": 235198,
+          "quote_count": 10615,
+          "reply_count": 1145,
+          "retweet_count": 81658
+        },
+        "reply_settings": "everyone",
+        "text": "╋━━━━━━━\n　『葬送のフリーレン』\n　TVアニメ2期制作決定🪄\n　　　　 ━━━━━━━╋\n\nそろそろ、旅の続きを始めようか。\n\n#フリーレン2期 #フリーレン\n#frieren https://t.co/l6kxxp36AF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13465,
+          "following_count": 885,
+          "like_count": 77371,
+          "listed_count": 22,
+          "tweet_count": 16566
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T01:21:37.000Z",
+        "description": "TVアニメ2期制作決定!原作:山田鐘人・アベツカサ(小学館「週刊少年サンデー」連載中)による『葬送のフリーレン』アニメの公式アカウントです。推奨ハッシュタグ：#フリーレン #frieren ※原則、個別リプライは行っておりません",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "フリーレン"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "frieren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "frieren-anime.jp",
+                "end": 23,
+                "expanded_url": "http://frieren-anime.jp",
+                "start": 0,
+                "url": "https://t.co/81iohm9k3C"
+              }
+            ]
+          }
+        },
+        "id": "1554275945841692672",
+        "name": "『葬送のフリーレン』アニメ公式",
+        "pinned_tweet_id": "1839994715581673674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780079237673955328/I_FUq6XT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458467,
+          "following_count": 52,
+          "like_count": 4,
+          "listed_count": 1590,
+          "tweet_count": 2845
+        },
+        "url": "https://t.co/81iohm9k3C",
+        "username": "Anime_Frieren",
+        "verified": true
+      }
+    ]
+  }
+}

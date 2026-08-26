@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1881722750521557140",
+    "created_at": "2025-01-22T05:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T06:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881931922693382492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528798633168347137",
+          "start": 0,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881931922693382492",
+    "in_reply_to_user_id": "1528798633168347137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881722750521557140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomoriNao2022 我投瓶子君152一票"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1881722750521557140",
+        "created_at": "2025-01-22T05:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T06:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881931922693382492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881931922693382492",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881722750521557140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 我投瓶子君152一票"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528798633168347137",
+        "conversation_id": "1881722750521557140",
+        "created_at": "2025-01-21T15:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T16:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881722750521557140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881722750521557140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 44275,
+          "like_count": 609,
+          "quote_count": 4,
+          "reply_count": 107,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "B站哪个up视频底下弱智最多？\n\n我投小约翰可汗一票。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13751,
+          "following_count": 858,
+          "like_count": 78381,
+          "listed_count": 22,
+          "media_count": 920,
+          "tweet_count": 16731
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "もうどうだっていいや． 思人:@dongxuelianhaha 笨蛋妹妹：@Neko96650208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "dongxuelianhaha"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "Neko96650208"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "友利 奈緒 Tomori Nao",
+        "pinned_tweet_id": "1880507903645454800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788577160338591745/Rz76kBBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14486,
+          "following_count": 553,
+          "like_count": 10954,
+          "listed_count": 45,
+          "media_count": 2110,
+          "tweet_count": 9387
+        },
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

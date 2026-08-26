@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086050017702522880"
+      ],
+      "media_source_tweet_id": [
+        "2086050023234753009"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2086295445987643605",
+    "created_at": "2026-08-09T03:36:10.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T04:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086295445987643605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900350877489389569",
+          "start": 3,
+          "username": "ponpon_mym"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AjVyeDZ4GC",
+          "end": 53,
+          "expanded_url": "https://x.com/ponpon_mym/status/2086050023234753009/photo/1",
+          "media_key": "3_2086050017702522880",
+          "start": 30,
+          "url": "https://t.co/AjVyeDZ4GC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086295445987643605",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086050017702522880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086050023234753009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ponpon_mym: 液タブ買ったので練習してる https://t.co/AjVyeDZ4GC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1673,
+        "media_key": "3_2086050017702522880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMjcFDbMAAJ5xm.jpg",
+        "width": 1409
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086050017702522880"
+          ]
+        },
+        "author_id": "1900350877489389569",
+        "conversation_id": "2086050023234753009",
+        "created_at": "2026-08-08T11:20:57.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086050023234753009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjVyeDZ4GC",
+              "end": 37,
+              "expanded_url": "https://x.com/ponpon_mym/status/2086050023234753009/photo/1",
+              "media_key": "3_2086050017702522880",
+              "start": 14,
+              "url": "https://t.co/AjVyeDZ4GC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086050023234753009",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086050017702522880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 25862,
+          "like_count": 2953,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "液タブ買ったので練習してる https://t.co/AjVyeDZ4GC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086050017702522880"
+          ],
+          "media_source_tweet_id": [
+            "2086050023234753009"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2086295445987643605",
+        "created_at": "2026-08-09T03:36:10.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086295445987643605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900350877489389569",
+              "start": 3,
+              "username": "ponpon_mym"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjVyeDZ4GC",
+              "end": 53,
+              "expanded_url": "https://x.com/ponpon_mym/status/2086050023234753009/photo/1",
+              "media_key": "3_2086050017702522880",
+              "start": 30,
+              "url": "https://t.co/AjVyeDZ4GC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086295445987643605",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086050017702522880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086050023234753009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ponpon_mym: 液タブ買ったので練習してる https://t.co/AjVyeDZ4GC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086295445987643605",
+        "name": "鈴白千夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15053,
+          "following_count": 756,
+          "like_count": 87826,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18047
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-14T00:59:15.000Z",
+        "description": "イラスト描きます \nご依頼✉️▷yunokipon@gmail.com(現在企業様のみ)\nskeb▷https://t.co/A4UnDkTVCC\nお題箱▷ https://t.co/8GOUtk4BDr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ponpon_mym",
+                "end": 73,
+                "expanded_url": "https://skeb.jp/@ponpon_mym",
+                "start": 50,
+                "url": "https://t.co/A4UnDkTVCC"
+              },
+              {
+                "display_url": "odaibako.net/u/ponpon_mym",
+                "end": 102,
+                "expanded_url": "https://odaibako.net/u/ponpon_mym",
+                "start": 79,
+                "url": "https://t.co/8GOUtk4BDr"
+              }
+            ]
+          }
+        },
+        "id": "1900350877489389569",
+        "is_identity_verified": false,
+        "location": "AI学習、無断転載、使用✖️",
+        "most_recent_tweet_id": "2086057249164976632",
+        "name": "柚ノ木ぽん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900350877489389569/1781954456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030468723539406848/OeGreo-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6852,
+          "following_count": 106,
+          "like_count": 338,
+          "listed_count": 49,
+          "media_count": 42,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "ponpon_mym",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

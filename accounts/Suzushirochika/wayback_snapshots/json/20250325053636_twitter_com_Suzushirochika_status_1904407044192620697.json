@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Vegetables",
+          "id": "842797798626009088",
+          "name": "Vegetable recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vegetables",
+          "id": "842797798626009088",
+          "name": "Vegetable recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Recipies/Books",
+          "id": "846736745517350912",
+          "name": "Recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Vegetables",
+          "id": "842797798626009088",
+          "name": "Vegetable recipes"
+        }
+      }
+    ],
+    "conversation_id": "1904293397717979620",
+    "created_at": "2025-03-25T05:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T06:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904407044192620697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352281301613568000",
+          "start": 0,
+          "username": "Starlight4You_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904407044192620697",
+    "in_reply_to_user_id": "1352281301613568000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904293397717979620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starlight4You_ 温野菜！虽然有点小贵（单人139）但可以和牛吃到饱（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          }
+        ],
+        "conversation_id": "1904293397717979620",
+        "created_at": "2025-03-25T05:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T06:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904407044192620697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352281301613568000",
+              "start": 0,
+              "username": "Starlight4You_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904407044192620697",
+        "in_reply_to_user_id": "1352281301613568000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904293397717979620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starlight4You_ 温野菜！虽然有点小贵（单人139）但可以和牛吃到饱（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352281301613568000",
+        "conversation_id": "1904293397717979620",
+        "created_at": "2025-03-24T22:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T23:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904293397717979620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904293397717979620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1032,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京平价日料推荐？👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900094021185527808/MoC6OZp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14026,
+          "following_count": 856,
+          "like_count": 79499,
+          "listed_count": 23,
+          "media_count": 929,
+          "tweet_count": 16831
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T15:46:11.000Z",
+        "description": "年年岁岁花相似，岁岁年年人不同。",
+        "id": "1352281301613568000",
+        "location": "星星",
+        "name": "Starlight✨",
+        "pinned_tweet_id": "1856285866831823171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776753869571399680/nqm8DMRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5328,
+          "following_count": 323,
+          "like_count": 36126,
+          "listed_count": 19,
+          "media_count": 2798,
+          "tweet_count": 15633
+        },
+        "username": "Starlight4You_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2026265373054763224",
+    "created_at": "2026-02-24T12:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026278589885485215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545981918260256768",
+          "start": 0,
+          "username": "chenchouyan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026278589885485215",
+    "in_reply_to_user_id": "1545981918260256768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026265373054763224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenchouyan1 是鹅肝!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026265363865079809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB69nOHbEAEFl5U.jpg",
+        "width": 1302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2026265373054763224",
+        "created_at": "2026-02-24T12:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026278589885485215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545981918260256768",
+              "start": 0,
+              "username": "chenchouyan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026278589885485215",
+        "in_reply_to_user_id": "1545981918260256768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265373054763224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenchouyan1 是鹅肝!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026265363865079809"
+          ]
+        },
+        "author_id": "1545981918260256768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026265373054763224",
+        "created_at": "2026-02-24T11:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026265373054763224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8r0N1R6xy",
+              "end": 28,
+              "expanded_url": "https://x.com/chenchouyan1/status/2026265373054763224/photo/1",
+              "media_key": "3_2026265363865079809",
+              "start": 5,
+              "url": "https://t.co/M8r0N1R6xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026265373054763224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝先吃 https://t.co/M8r0N1R6xy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14889,
+          "following_count": 774,
+          "like_count": 80787,
+          "listed_count": 13,
+          "media_count": 908,
+          "tweet_count": 16941
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T04:03:15.000Z",
+        "description": "我有神经病但希望有人鸟我的碎碎念版｜白皮薄肌和帅哥自拍发我知道不！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9B%A8%E4%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9B%A8%E4%BF%A1%E5%B0%81%E2%9C%89%EF%B8%8F",
+                "start": 0,
+                "url": "https://t.co/4au6VbibeN"
+              }
+            ]
+          }
+        },
+        "id": "1545981918260256768",
+        "location": "许愿妹子和我互fo",
+        "name": "雨信封。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024663741661593600/gVXfeSnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 86,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/4au6VbibeN",
+        "username": "chenchouyan1",
+        "verified": false
+      }
+    ]
+  }
+}

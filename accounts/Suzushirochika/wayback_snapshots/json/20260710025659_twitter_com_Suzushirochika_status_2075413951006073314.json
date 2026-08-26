@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075413939295584256"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075315150744072228",
+    "created_at": "2026-07-10T02:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075413951006073314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698565249069125632",
+          "start": 0,
+          "username": "isilhelwa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k0QgVIIuc8",
+          "end": 42,
+          "expanded_url": "https://x.com/Suzushirochika/status/2075413951006073314/photo/1",
+          "media_key": "3_2075413939295584256",
+          "start": 19,
+          "url": "https://t.co/k0QgVIIuc8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075413951006073314",
+    "in_reply_to_user_id": "1698565249069125632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075315150744072228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isilhelwa 同款温湿度计（ https://t.co/k0QgVIIuc8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2075413939295584256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1Z-1WbgAAXMjA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075315145786408960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0AIS2WQAAvAGj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075413939295584256"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075315150744072228",
+        "created_at": "2026-07-10T02:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075413951006073314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698565249069125632",
+              "start": 0,
+              "username": "isilhelwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0QgVIIuc8",
+              "end": 42,
+              "expanded_url": "https://x.com/Suzushirochika/status/2075413951006073314/photo/1",
+              "media_key": "3_2075413939295584256",
+              "start": 19,
+              "url": "https://t.co/k0QgVIIuc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075413951006073314",
+        "in_reply_to_user_id": "1698565249069125632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075315150744072228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isilhelwa 同款温湿度计（ https://t.co/k0QgVIIuc8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075315145786408960"
+          ]
+        },
+        "author_id": "1698565249069125632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075315150744072228",
+        "created_at": "2026-07-09T20:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075315150744072228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHxGqlmBzj",
+              "end": 34,
+              "expanded_url": "https://x.com/isilhelwa/status/2075315150744072228/photo/1",
+              "media_key": "3_2075315145786408960",
+              "start": 11,
+              "url": "https://t.co/pHxGqlmBzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075315150744072228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深井冰 我要被热疯了 https://t.co/pHxGqlmBzj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15050,
+          "following_count": 749,
+          "like_count": 86407,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17804
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T05:15:02.000Z",
+        "description": "Male to Peacock(MTP)! huar umpolë nanwenë caimanna 此人@pto314159 言论与我无关x(bushi(uswë",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "pto314159"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lanmingyue.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://lanmingyue.wordpress.com/",
+                "start": 0,
+                "url": "https://t.co/hCDX7ebKfX"
+              }
+            ]
+          }
+        },
+        "id": "1698565249069125632",
+        "location": "万寿堂",
+        "name": "蓝明月",
+        "pinned_tweet_id": "1805834212500558069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806196557894885376/tr7WRa-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 353,
+          "like_count": 5907,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/hCDX7ebKfX",
+        "username": "isilhelwa",
+        "verified": false
+      }
+    ]
+  }
+}

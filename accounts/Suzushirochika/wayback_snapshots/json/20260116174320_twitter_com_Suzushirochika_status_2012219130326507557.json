@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2012216143415755109",
+    "created_at": "2026-01-16T17:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T18:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012219130326507557"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012219130326507557",
+    "in_reply_to_user_id": "1253292430792839174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012216143415755109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神秘bug之点开互关首页显示双取但其实并没有（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2012216143415755109",
+        "created_at": "2026-01-16T17:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012219130326507557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012219130326507557",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012216143415755109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神秘bug之点开互关首页显示双取但其实并没有（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2012216143415755109",
+        "created_at": "2026-01-16T17:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012216143415755109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012216143415755109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特你在干什么！操作随机失灵加载失败就算了为什么tl上还突然出现了好几个b掉的人发的帖子（呆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14781,
+          "following_count": 823,
+          "like_count": 79462,
+          "listed_count": 13,
+          "media_count": 902,
+          "tweet_count": 16820
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

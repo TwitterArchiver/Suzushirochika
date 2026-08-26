@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085571563567587328"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085571577245286589",
+    "created_at": "2026-08-07T03:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085571577245286589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oHUDkOO5w1",
+          "end": 86,
+          "expanded_url": "https://x.com/Suzushirochika/status/2085571577245286589/photo/1",
+          "media_key": "3_2085571563567587328",
+          "start": 63,
+          "url": "https://t.co/oHUDkOO5w1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085571577245286589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去尝了k记复刻的虾堡，只有柠檬口味的酱，清香的味道中和了油腻。忘记了之前原版什么口味了所以不做比较。这个挺好吃的嗯(ゝ∀･) https://t.co/oHUDkOO5w1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2666,
+        "media_key": "3_2085571563567587328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFwSYgaIAAuSlu.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085571563567587328"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085571577245286589",
+        "created_at": "2026-08-07T03:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085571577245286589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHUDkOO5w1",
+              "end": 86,
+              "expanded_url": "https://x.com/Suzushirochika/status/2085571577245286589/photo/1",
+              "media_key": "3_2085571563567587328",
+              "start": 63,
+              "url": "https://t.co/oHUDkOO5w1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085571577245286589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去尝了k记复刻的虾堡，只有柠檬口味的酱，清香的味道中和了油腻。忘记了之前原版什么口味了所以不做比较。这个挺好吃的嗯(ゝ∀･) https://t.co/oHUDkOO5w1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15063,
+          "following_count": 755,
+          "like_count": 87796,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18032
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

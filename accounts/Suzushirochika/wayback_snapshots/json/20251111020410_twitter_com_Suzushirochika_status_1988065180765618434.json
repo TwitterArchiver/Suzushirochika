@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987869287869276160"
+      ],
+      "media_source_tweet_id": [
+        "1987869292235563365"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1988065180765618434",
+    "created_at": "2025-11-11T02:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T03:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988065180765618434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364519178170892298",
+          "start": 3,
+          "username": "SS7D_0015"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cVqH34xeDo",
+          "end": 82,
+          "expanded_url": "https://x.com/SS7D_0015/status/1987869292235563365/photo/1",
+          "media_key": "3_1987869287869276160",
+          "start": 59,
+          "url": "https://t.co/cVqH34xeDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988065180765618434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987869292235563365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SS7D_0015: 出点雌激素，泰补200三盒580包邮\n凝胶110两支200包邮\n诺坤复85三盒以上包邮 https://t.co/cVqH34xeDo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988065180765618434].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988065180765618434",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988065180765618434"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1987869287869276160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZUlctbYAAv_d6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987869287869276160"
+          ]
+        },
+        "author_id": "1364519178170892298",
+        "conversation_id": "1987869292235563365",
+        "created_at": "2025-11-10T13:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987869292235563365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cVqH34xeDo",
+              "end": 67,
+              "expanded_url": "https://x.com/SS7D_0015/status/1987869292235563365/photo/1",
+              "media_key": "3_1987869287869276160",
+              "start": 44,
+              "url": "https://t.co/cVqH34xeDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987869292235563365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出点雌激素，泰补200三盒580包邮\n凝胶110两支200包邮\n诺坤复85三盒以上包邮 https://t.co/cVqH34xeDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14746,
+          "following_count": 833,
+          "like_count": 78679,
+          "listed_count": 23,
+          "media_count": 899,
+          "tweet_count": 16781
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-24T10:15:27.000Z",
+        "description": "法！我有艾滋病😈hpv👿滴虫病👿衣原体感染👿乙型肝炎👿腹股沟肉芽肿👿阴虱病👿疥疮病👿生殖器疱疹👿我祈求🥺🙏🏻上天能再爱❤️我一次☝🏻我祈求🥺🙏🏻上天能再爱❤️我一次☝🏻我祈求🥺🙏🏻上天能再爱❤️我一次☝🏻",
+        "id": "1364519178170892298",
+        "location": "西安東站",
+        "name": "阿语语语语语语.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963635333352112128/6Kuaftcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 299,
+          "like_count": 1580,
+          "listed_count": 7,
+          "media_count": 1124,
+          "tweet_count": 6555
+        },
+        "username": "SS7D_0015",
+        "verified": false
+      }
+    ]
+  }
+}

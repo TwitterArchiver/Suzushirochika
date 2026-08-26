@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056326758820093952"
+      ],
+      "media_source_tweet_id": [
+        "2056326822187729404"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1245280092407738373",
+          "name": "やはり俺の青春ラブコメはまちがっている。"
+        }
+      }
+    ],
+    "conversation_id": "2056329515010568279",
+    "created_at": "2026-05-18T11:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056329515010568279"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "俺ガイル"
+        },
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "由比ヶ浜結衣"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1517495312948277248",
+          "start": 3,
+          "username": "MachineGun____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NzyDalqIvg",
+          "end": 57,
+          "expanded_url": "https://x.com/MachineGun____/status/2056326822187729404/photo/1",
+          "media_key": "3_2056326758820093952",
+          "start": 34,
+          "url": "https://t.co/NzyDalqIvg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056329515010568279",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056326822187729404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MachineGun____: #俺ガイル\n#由比ヶ浜結衣 https://t.co/NzyDalqIvg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056326758820093952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImKStGaIAA1liX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056326758820093952"
+          ],
+          "media_source_tweet_id": [
+            "2056326822187729404"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1245280092407738373",
+              "name": "やはり俺の青春ラブコメはまちがっている。"
+            }
+          }
+        ],
+        "conversation_id": "2056329515010568279",
+        "created_at": "2026-05-18T11:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056329515010568279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "俺ガイル"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "由比ヶ浜結衣"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1517495312948277248",
+              "start": 3,
+              "username": "MachineGun____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzyDalqIvg",
+              "end": 57,
+              "expanded_url": "https://x.com/MachineGun____/status/2056326822187729404/photo/1",
+              "media_key": "3_2056326758820093952",
+              "start": 34,
+              "url": "https://t.co/NzyDalqIvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056329515010568279",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056326822187729404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MachineGun____: #俺ガイル\n#由比ヶ浜結衣 https://t.co/NzyDalqIvg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056326758820093952"
+          ]
+        },
+        "author_id": "1517495312948277248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1245280092407738373",
+              "name": "やはり俺の青春ラブコメはまちがっている。"
+            }
+          }
+        ],
+        "conversation_id": "2056326822187729404",
+        "created_at": "2026-05-18T10:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056326822187729404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "俺ガイル"
+            },
+            {
+              "end": 13,
+              "start": 6,
+              "tag": "由比ヶ浜結衣"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzyDalqIvg",
+              "end": 37,
+              "expanded_url": "https://x.com/MachineGun____/status/2056326822187729404/photo/1",
+              "media_key": "3_2056326758820093952",
+              "start": 14,
+              "url": "https://t.co/NzyDalqIvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056326822187729404",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#俺ガイル\n#由比ヶ浜結衣 https://t.co/NzyDalqIvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14984,
+          "following_count": 748,
+          "like_count": 84422,
+          "listed_count": 14,
+          "media_count": 935,
+          "tweet_count": 17524
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T13:27:37.000Z",
+        "description": "“Ich muß fort,ich muß reisen,ich muß in die Freiheit.” ｜Cosplayer",
+        "id": "1517495312948277248",
+        "location": "德国",
+        "name": "Charlotte",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626270851879555073/4FJCVhPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34133,
+          "following_count": 602,
+          "like_count": 11660,
+          "listed_count": 70,
+          "media_count": 111,
+          "tweet_count": 1193
+        },
+        "username": "MachineGun____",
+        "verified": true
+      }
+    ]
+  }
+}

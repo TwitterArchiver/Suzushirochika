@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1982692685749363005",
+    "created_at": "2025-10-28T00:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T01:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982964207441379366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937594393772589058",
+          "start": 0,
+          "username": "san45142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982964207441379366",
+    "in_reply_to_user_id": "1937594393772589058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982692685749363005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@san45142 好骂！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_1982692679541501952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PwfL7WsAAJys9.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1982692685749363005",
+        "created_at": "2025-10-28T00:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T01:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982964207441379366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "san45142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982964207441379366",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982692685749363005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@san45142 好骂！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982692679541501952"
+          ]
+        },
+        "author_id": "1937594393772589058",
+        "conversation_id": "1982692685749363005",
+        "created_at": "2025-10-27T06:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982692685749363005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gF255apVA6",
+              "end": 74,
+              "expanded_url": "https://x.com/san45142/status/1982692685749363005/photo/1",
+              "media_key": "3_1982692679541501952",
+              "start": 51,
+              "url": "https://t.co/gF255apVA6"
+            },
+            {
+              "display_url": "x.com/lihaigeupasaka…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/lihaigeupasaka/status/1982463545121128949",
+              "start": 75,
+              "url": "https://t.co/5EP3e3QBFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982692685749363005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 801,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982463545121128949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是不是以为自己骂骂小三，然后就把自己撇的干干净净了，你是最没资格说这个话的人，俩公婆也是天生神人一对 https://t.co/gF255apVA6 https://t.co/5EP3e3QBFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14705,
+          "following_count": 831,
+          "like_count": 78494,
+          "listed_count": 23,
+          "media_count": 896,
+          "tweet_count": 16762
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "主人-@N0rthern_Land-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "小三暴打老公带我私奔的那个雨夜",
+        "pinned_tweet_id": "1962175426962555145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 177,
+          "like_count": 2845,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 1046
+        },
+        "username": "san45142",
+        "verified": false
+      }
+    ]
+  }
+}

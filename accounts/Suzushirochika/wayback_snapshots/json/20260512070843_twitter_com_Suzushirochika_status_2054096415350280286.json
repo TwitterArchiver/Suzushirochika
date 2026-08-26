@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2054031455962226718",
+    "created_at": "2026-05-12T07:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T08:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054096415350280286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054096415350280286",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054031455962226718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen 自害／自決／自裁（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2054031455962226718",
+        "created_at": "2026-05-12T07:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054096415350280286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054096415350280286",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054031455962226718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 自害／自決／自裁（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2054031455962226718",
+        "created_at": "2026-05-12T02:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054031455962226718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054031455962226718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "墙内咋那么喜欢用「自s」黑话代替「自杀」？\n\n環状線认为，「自s」这类规避词的大量传播弊大于利：一会降低词语心理重量，本来「自杀」是生死攸关的词汇，一替换成「自s」，其严肃性立刻被消解，沦为青少年社群里的梗、口癖，甚至带有恶意的玩笑。\n\n二会削弱自杀干预效率。真正求助的人被埋在玩梗、阴 阳怪气、情绪宣泄里，平台算法难以识别具有真正自杀倾向的高风险表达，心理援助也更不容易触及真正需要的人。\n\n三会形成青少年模仿效应。「自s」比「自杀」轻很多，更容易传播，从而更容易令脆弱人群认为「既然这个词这么常用，那用死亡表达痛苦也没什么大不了啊」从而产生自杀倾向。\n\n環状線不用「自s」代替「自杀」，也尽量不用字母代替汉字，这不仅是因为这种替换在墙外显得非常愚蠢，更是为了规范用语、清晰表达，展现词语真实的一面。同时環状線也希望有自杀倾向的人群尽快寻找专业人士寻求心理援助，環状線不想再看到第 3 个自杀的互 fo 了😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2108,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "墙内咋那么喜欢用「自s」黑话代替「自杀」？\n\n環状線认为，「自s」这类规避词的大量传播弊大于利：一会降低词语心理重量，本来「自杀」是生死攸关的词汇，一替换成「自s」，其严肃性立刻被消解，沦为青少年社群里的梗、口癖，甚至带有恶意的玩笑。\n\n二会削弱自杀干预效率。真正求助的人被埋在玩梗、阴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14984,
+          "following_count": 750,
+          "like_count": 84310,
+          "listed_count": 14,
+          "media_count": 933,
+          "tweet_count": 17496
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3021,
+          "following_count": 819,
+          "like_count": 19404,
+          "listed_count": 7,
+          "media_count": 1025,
+          "tweet_count": 5687
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

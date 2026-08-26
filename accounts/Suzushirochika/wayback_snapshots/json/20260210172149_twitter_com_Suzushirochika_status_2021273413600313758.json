@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2021188397855826279",
+    "created_at": "2026-02-10T17:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T18:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021273413600313758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021273413600313758",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021188397855826279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 雪菜出勤中（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021188388985229312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAy0IY2b0AA-dyn.jpg",
+        "width": 1398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2021188397855826279",
+        "created_at": "2026-02-10T17:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021273413600313758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021273413600313758",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021188397855826279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 雪菜出勤中（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021188388985229312"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2021188397855826279",
+        "created_at": "2026-02-10T11:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:41:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021187668298617089",
+          "2021188397855826279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sr23LrOdUJ",
+              "end": 37,
+              "expanded_url": "https://x.com/0xo_snow/status/2021188397855826279/photo/1",
+              "media_key": "3_2021188388985229312",
+              "start": 14,
+              "url": "https://t.co/sr23LrOdUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021188397855826279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉不觉得我有种贵妇感🤤 https://t.co/sr23LrOdUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14837,
+          "following_count": 777,
+          "like_count": 80476,
+          "listed_count": 13,
+          "media_count": 907,
+          "tweet_count": 16908
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 来寻找真实的我吧！一般07话唠装萌姬/美少女全肯定‼️｜点击亮点查看我的日常～喜欢唱歌中日英都会学📍ip#北京 欢迎来找我玩哦~投喂入门可以扫背景赞赏谢谢你;ㅅ;",
+        "id": "1522094329954652161",
+        "location": "🚪88会陪你聊天解锁线下( 𓏼˙ ᴥ ˙𓏼 )",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2019770714757255332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18558,
+          "following_count": 412,
+          "like_count": 14679,
+          "listed_count": 32,
+          "media_count": 1147,
+          "tweet_count": 12247
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

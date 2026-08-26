@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2062066092730929319",
+    "created_at": "2026-06-03T08:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062082753706037489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Kitsunetenchou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062082753706037489",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062082544741552268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitsunetenchou 我是不漏胳膊不漏裸腿主义者，现在理想要崩塌了（除非宅着不出门×"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2062066092730929319",
+        "created_at": "2026-06-03T08:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062082753706037489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Kitsunetenchou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062082753706037489",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062082544741552268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitsunetenchou 我是不漏胳膊不漏裸腿主义者，现在理想要崩塌了（除非宅着不出门×"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383940842239381510",
+        "conversation_id": "2062066092730929319",
+        "created_at": "2026-06-03T08:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062082544741552268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062082544741552268",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062082286426914859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 确实(x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14974,
+          "following_count": 745,
+          "like_count": 84871,
+          "listed_count": 15,
+          "media_count": 938,
+          "tweet_count": 17590
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/烟鬼/电脑配件零售商（好友特价日常）/亞空間生物/物质位面存在裂解中/超凡智能大列巴/厌恶键政仔，跳脸会B/tl大清洗中..../🚪=15x LEDX/15x Defib/100x 闪耀世界医药/受狐喜爱的兔叽 @0xo_snow (垂涎\n/人活着就是得打游戏啊_(¦3_ヽ)ュ赛博极乐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1383940842239381510",
+        "location": "亚空间",
+        "name": "狐店長🦴「狐雷斯特·屑尔曼」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053473144837677056/RPoVkMo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 907,
+          "like_count": 120085,
+          "listed_count": 20,
+          "media_count": 13203,
+          "tweet_count": 101793
+        },
+        "username": "Kitsunetenchou",
+        "verified": false
+      }
+    ]
+  }
+}

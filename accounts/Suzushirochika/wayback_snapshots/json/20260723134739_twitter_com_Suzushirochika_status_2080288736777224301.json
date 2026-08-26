@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2080254967550824716",
+    "created_at": "2026-07-23T13:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080288736777224301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080288736777224301",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080279665768579152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue 这个好吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2080254967550824716",
+        "created_at": "2026-07-23T13:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080288736777224301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080288736777224301",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080279665768579152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue 这个好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838866598427549696",
+        "conversation_id": "2080254967550824716",
+        "created_at": "2026-07-23T13:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080279665768579152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080279665768579152",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080254967550824716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 学习新吃法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15065,
+          "following_count": 758,
+          "like_count": 87320,
+          "listed_count": 14,
+          "media_count": 954,
+          "tweet_count": 17965
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "2025.10含糖丨2026.5持证启动hrt丨28岁大龄跨\n🌹花儿会在最美的时刻凋谢，或许我也是",
+        "id": "1838866598427549696",
+        "name": "云梦玥Yuzuki🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 269,
+          "like_count": 4325,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 2626
+        },
+        "url": "",
+        "username": "Yunmengyue",
+        "verified": true
+      }
+    ]
+  }
+}

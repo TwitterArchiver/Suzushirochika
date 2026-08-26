@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2067529557222318416",
+    "created_at": "2026-06-18T12:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067578304480367008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1461728708935385088",
+          "start": 0,
+          "username": "Qbb7680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067578304480367008",
+    "in_reply_to_user_id": "1461728708935385088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067529557222318416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qbb7680 可爱nya"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067529527417614336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFXJqRbsAAb2_1.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2067529557222318416",
+        "created_at": "2026-06-18T12:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067578304480367008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1461728708935385088",
+              "start": 0,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067578304480367008",
+        "in_reply_to_user_id": "1461728708935385088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067529557222318416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qbb7680 可爱nya"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067529527417614336"
+          ]
+        },
+        "author_id": "1461728708935385088",
+        "conversation_id": "2067529557222318416",
+        "created_at": "2026-06-18T08:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067529557222318416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "今日气波波"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQABqOUkg3",
+              "end": 45,
+              "expanded_url": "https://x.com/Qbb7680/status/2067529557222318416/photo/1",
+              "media_key": "3_2067529527417614336",
+              "start": 22,
+              "url": "https://t.co/wQABqOUkg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067529557222318416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天穿的是古时候喵粒子的穿搭\n#今日气波波 https://t.co/wQABqOUkg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14970,
+          "following_count": 743,
+          "like_count": 84928,
+          "listed_count": 14,
+          "media_count": 939,
+          "tweet_count": 17642
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "跨，双/是凶猛的九节狼，饲养条件：室温24℃湿度50%适当阳光直射 / 喵粒子、柚子、代糖、水水、ted永远正确/常驻苏沪，喜欢🪢和K9/🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maj-wind.qbb.moe",
+                "end": 23,
+                "expanded_url": "http://maj-wind.qbb.moe",
+                "start": 0,
+                "url": "https://t.co/ooAlNHfsel"
+              }
+            ]
+          }
+        },
+        "id": "1461728708935385088",
+        "location": "休息日欢迎请我打日麻",
+        "name": "是气波波nya～",
+        "pinned_tweet_id": "2000871019247231472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997841678657597440/MtDkFV17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14699,
+          "following_count": 1147,
+          "like_count": 107436,
+          "listed_count": 36,
+          "media_count": 1180,
+          "tweet_count": 7390
+        },
+        "url": "https://t.co/ooAlNHfsel",
+        "username": "Qbb7680",
+        "verified": false
+      }
+    ]
+  }
+}

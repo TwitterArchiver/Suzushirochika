@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2086691615385829668",
+    "created_at": "2026-08-18T09:23:39.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089644381989130461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2069468918377545728",
+          "start": 0,
+          "username": "Mardcardy0sj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089644381989130461",
+    "in_reply_to_user_id": "2069468918377545728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089395034324099363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mardcardy0sj 感谢分享🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2086691615385829668",
+        "created_at": "2026-08-18T09:23:39.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089644381989130461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2069468918377545728",
+              "start": 0,
+              "username": "Mardcardy0sj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089644381989130461",
+        "in_reply_to_user_id": "2069468918377545728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089395034324099363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mardcardy0sj 感谢分享🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069468918377545728",
+        "conversation_id": "2086691615385829668",
+        "created_at": "2026-08-17T16:52:49.000Z",
+        "display_text_range": [
+          28,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089395034324099363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            },
+            {
+              "end": 27,
+              "id": "2070541460659924992",
+              "start": 16,
+              "username": "Kiri_yume1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089395034324099363",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087058252416622818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika @Kiri_yume1 羟考酮和曲马多 我都用过 但那都是好多好多年以前的事了 那个时候氨分羟考酮俗称512 65一盒 其实512和当时的复方曲马多相对比 我个人真的更喜欢曲马多 头一天晚上吃了曲马多 舒服一整宿 药效下去了 直到第二天睡觉前身上也麻酥酥的感觉很舒服 可是那个时候512吃了之后 没两个小时以后就没有效果了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089644381989130461",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15053,
+          "following_count": 750,
+          "like_count": 88102,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18074
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T17:14:04.000Z",
+        "description": "",
+        "id": "2069468918377545728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089395034324099363",
+        "name": "Meal card",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069468918377545728/1783186904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069469165510168576/StF_kGZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 44,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "Mardcardy0sj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

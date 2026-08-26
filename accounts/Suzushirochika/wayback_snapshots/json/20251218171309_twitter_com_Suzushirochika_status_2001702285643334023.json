@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001487692765523968"
+      ],
+      "media_source_tweet_id": [
+        "2001490167211999301"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2001702285643334023",
+    "created_at": "2025-12-18T17:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T18:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001702285643334023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "951838474939727872",
+          "start": 3,
+          "username": "hatimokumei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ubOQtEGvlg",
+          "end": 113,
+          "expanded_url": "https://x.com/hatimokumei/status/2001490167211999301/photo/1",
+          "media_key": "3_2001487692765523968",
+          "start": 90,
+          "url": "https://t.co/ubOQtEGvlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001702285643334023",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001490167211999301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hatimokumei: 本日発売！\n\n小説 葬送のフリーレン前奏2\n\n光栄なことに第二弾も書かせていただきました。楽しんでもらえますように！どうぞよろしくお願いします。 https://t.co/ubOQtEGvlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001487692765523968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8a2c8Wa8AAOo1x.jpg",
+        "width": 1304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001487692765523968"
+          ],
+          "media_source_tweet_id": [
+            "2001490167211999301"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2001702285643334023",
+        "created_at": "2025-12-18T17:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001702285643334023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "951838474939727872",
+              "start": 3,
+              "username": "hatimokumei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubOQtEGvlg",
+              "end": 113,
+              "expanded_url": "https://x.com/hatimokumei/status/2001490167211999301/photo/1",
+              "media_key": "3_2001487692765523968",
+              "start": 90,
+              "url": "https://t.co/ubOQtEGvlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001702285643334023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001490167211999301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hatimokumei: 本日発売！\n\n小説 葬送のフリーレン前奏2\n\n光栄なことに第二弾も書かせていただきました。楽しんでもらえますように！どうぞよろしくお願いします。 https://t.co/ubOQtEGvlg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001487692765523968"
+          ]
+        },
+        "author_id": "951838474939727872",
+        "conversation_id": "2001490167211999301",
+        "created_at": "2025-12-18T03:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T04:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001490167211999301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubOQtEGvlg",
+              "end": 96,
+              "expanded_url": "https://x.com/hatimokumei/status/2001490167211999301/photo/1",
+              "media_key": "3_2001487692765523968",
+              "start": 73,
+              "url": "https://t.co/ubOQtEGvlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001490167211999301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 28760,
+          "like_count": 996,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "本日発売！\n\n小説 葬送のフリーレン前奏2\n\n光栄なことに第二弾も書かせていただきました。楽しんでもらえますように！どうぞよろしくお願いします。 https://t.co/ubOQtEGvlg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756490651717632/hHxhaRLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14773,
+          "following_count": 829,
+          "like_count": 79054,
+          "listed_count": 24,
+          "media_count": 902,
+          "tweet_count": 16794
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T15:29:11.000Z",
+        "description": "作家。『ミモザの告白』発売中。他に『時と四季シリーズ』『小説 葬送のフリーレン前奏』など。映画『夏へのトンネル、さよならの出口』blu-ray発売中。",
+        "id": "951838474939727872",
+        "name": "八目迷",
+        "pinned_tweet_id": "2001490167211999301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079764661153673216/Xkq8z21P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28825,
+          "following_count": 280,
+          "like_count": 25060,
+          "listed_count": 91,
+          "media_count": 555,
+          "tweet_count": 7634
+        },
+        "username": "hatimokumei",
+        "verified": true
+      }
+    ]
+  }
+}

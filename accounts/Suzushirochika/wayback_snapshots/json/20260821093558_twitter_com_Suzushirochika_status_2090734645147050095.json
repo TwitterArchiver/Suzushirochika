@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090729666084778251",
+    "created_at": "2026-08-21T09:35:58.000Z",
+    "display_text_range": [
+      11,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090734645147050095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2061391257012981760",
+          "start": 0,
+          "username": "yzbnbi666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090734645147050095",
+    "in_reply_to_user_id": "2061391257012981760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090729666084778251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzbnbi666 摸摸你…复学以后感觉特别痛苦的话去找教务处协商一下保留学籍请长假试试🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090729666084778251",
+        "created_at": "2026-08-21T09:35:58.000Z",
+        "display_text_range": [
+          11,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090734645147050095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061391257012981760",
+              "start": 0,
+              "username": "yzbnbi666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090734645147050095",
+        "in_reply_to_user_id": "2061391257012981760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090729666084778251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzbnbi666 摸摸你…复学以后感觉特别痛苦的话去找教务处协商一下保留学籍请长假试试🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061391257012981760",
+        "conversation_id": "2090729666084778251",
+        "created_at": "2026-08-21T09:16:10.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090729666084778251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Suzushirochika…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Suzushirochika/status/2090464486276907166",
+              "start": 22,
+              "url": "https://t.co/PoFxjgRctm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090729666084778251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090464486276907166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的吗过两天就要开学了咋办，，TvT好害怕 https://t.co/PoFxjgRctm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090734645147050095",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15060,
+          "following_count": 754,
+          "like_count": 88183,
+          "listed_count": 14,
+          "media_count": 958,
+          "tweet_count": 18126
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T10:16:40.000Z",
+        "description": "有着低于平均水平的执着和自负",
+        "id": "2061391257012981760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090729666084778251",
+        "name": "我的意境总偏偏差一划",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061391257012981760/1787120303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089959968367890432/VikMS-9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 55,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "yzbnbi666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

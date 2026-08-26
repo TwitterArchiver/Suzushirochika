@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2074917393261121922",
+    "created_at": "2026-07-10T05:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075454786238070949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818418625558331392",
+          "start": 0,
+          "username": "61sAumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075454786238070949",
+    "in_reply_to_user_id": "1818418625558331392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074917393261121922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@61sAumi 握握手，握握双手👐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2074917393261121922",
+        "created_at": "2026-07-10T05:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075454786238070949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818418625558331392",
+              "start": 0,
+              "username": "61sAumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075454786238070949",
+        "in_reply_to_user_id": "1818418625558331392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074917393261121922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@61sAumi 握握手，握握双手👐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818418625558331392",
+        "conversation_id": "2074917393261121922",
+        "created_at": "2026-07-08T18:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074917393261121922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074917393261121922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 76009,
+          "like_count": 1829,
+          "quote_count": 42,
+          "reply_count": 147,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "我内心有一百万个lex在大喊太痛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15050,
+          "following_count": 749,
+          "like_count": 86427,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17815
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:49:30.000Z",
+        "description": "你改了状态好像在说爱",
+        "id": "1818418625558331392",
+        "location": "高p线下查无此人 不约 看眼缘互关 墙内外社媒不互通不加v",
+        "name": "苦薄荷",
+        "pinned_tweet_id": "2073436717822951922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066422882155040768/zWTErsXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 47,
+          "like_count": 4023,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 1650
+        },
+        "url": "",
+        "username": "61sAumi",
+        "verified": false
+      }
+    ]
+  }
+}

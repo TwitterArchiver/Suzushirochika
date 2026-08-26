@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2089967489610555842",
+    "created_at": "2026-08-19T06:52:00.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089968609384935932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Ajs_ririka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089968609384935932",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089968311056601499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajs_ririka 雀豪好强我上不去QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2089967489610555842",
+        "created_at": "2026-08-19T06:52:00.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089968609384935932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Ajs_ririka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089968609384935932",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089968311056601499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajs_ririka 雀豪好强我上不去QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681716872415440896",
+        "conversation_id": "2089967489610555842",
+        "created_at": "2026-08-19T06:50:49.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089968311056601499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089968311056601499",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089968032349294803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 喜欢我豪一守门员pt搬运工吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089968609384935932",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15046,
+          "following_count": 751,
+          "like_count": 87981,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18078
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "遗憾总是贯穿人生始终/逃生舱@Ajs_aya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "Ajs_aya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajs_ririka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajs_ririka",
+                "start": 0,
+                "url": "https://t.co/z8vFlbD5qN"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "is_identity_verified": false,
+        "location": "精神世界",
+        "most_recent_tweet_id": "2089968311056601499",
+        "name": "Ririka",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681716872415440896/1763025470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085697171576549376/2dwx28N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 1265,
+          "like_count": 34178,
+          "listed_count": 2,
+          "media_count": 973,
+          "tweet_count": 21268
+        },
+        "url": "https://t.co/z8vFlbD5qN",
+        "username": "Ajs_ririka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

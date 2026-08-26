@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983133073912078336"
+      ],
+      "media_source_tweet_id": [
+        "1983133105314771073"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1137023406333779968",
+          "name": "Kaguya-sama: Love is War"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1137023406333779968",
+          "name": "Kaguya-sama: Love is War"
+        }
+      }
+    ],
+    "conversation_id": "1983468059311694003",
+    "created_at": "2025-10-29T09:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T10:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983468059311694003"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "アコスタ"
+        },
+        {
+          "end": 54,
+          "start": 47,
+          "tag": "アコスタ鶴舞"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1197342934883979264",
+          "start": 3,
+          "username": "Rinda_Hina_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kmKbLYrkxx",
+          "end": 78,
+          "expanded_url": "https://x.com/Rinda_Hina_/status/1983133105314771073/photo/1",
+          "media_key": "3_1983133073912078336",
+          "start": 55,
+          "url": "https://t.co/kmKbLYrkxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983468059311694003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983133105314771073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinda_Hina_: [ cos ]  \nかぐや様は告らせたい\n\n #アコスタ  #アコスタ鶴舞 https://t.co/kmKbLYrkxx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1983133073912078336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WBBgzboAAITDl.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983133073912078336"
+          ],
+          "media_source_tweet_id": [
+            "1983133105314771073"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1137023406333779968",
+              "name": "Kaguya-sama: Love is War"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1137023406333779968",
+              "name": "Kaguya-sama: Love is War"
+            }
+          }
+        ],
+        "conversation_id": "1983468059311694003",
+        "created_at": "2025-10-29T09:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T10:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983468059311694003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "アコスタ"
+            },
+            {
+              "end": 54,
+              "start": 47,
+              "tag": "アコスタ鶴舞"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1197342934883979264",
+              "start": 3,
+              "username": "Rinda_Hina_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmKbLYrkxx",
+              "end": 78,
+              "expanded_url": "https://x.com/Rinda_Hina_/status/1983133105314771073/photo/1",
+              "media_key": "3_1983133073912078336",
+              "start": 55,
+              "url": "https://t.co/kmKbLYrkxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983468059311694003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983133105314771073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinda_Hina_: [ cos ]  \nかぐや様は告らせたい\n\n #アコスタ  #アコスタ鶴舞 https://t.co/kmKbLYrkxx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983133073912078336"
+          ]
+        },
+        "author_id": "1197342934883979264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1137023406333779968",
+              "name": "Kaguya-sama: Love is War"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1137023406333779968",
+              "name": "Kaguya-sama: Love is War"
+            }
+          }
+        ],
+        "conversation_id": "1983133105314771073",
+        "created_at": "2025-10-28T11:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983133105314771073"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "アコスタ"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "アコスタ鶴舞"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmKbLYrkxx",
+              "end": 61,
+              "expanded_url": "https://x.com/Rinda_Hina_/status/1983133105314771073/photo/1",
+              "media_key": "3_1983133073912078336",
+              "start": 38,
+              "url": "https://t.co/kmKbLYrkxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983133105314771073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 25362,
+          "like_count": 2030,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "[ cos ]  \nかぐや様は告らせたい\n\n #アコスタ  #アコスタ鶴舞 https://t.co/kmKbLYrkxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14714,
+          "following_count": 831,
+          "like_count": 78542,
+          "listed_count": 23,
+          "media_count": 896,
+          "tweet_count": 16772
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-21T02:36:39.000Z",
+        "description": "20↑ 🚨雑多垢・重加工 お写真はDMにお願いします🙏 趣味垢▷@Hina_Rinda_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Hina_Rinda_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rinda_hina_?t=…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rinda_hina_?t=ySIDUt&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/8BTMLyRKsp"
+              }
+            ]
+          }
+        },
+        "id": "1197342934883979264",
+        "location": "パイモンの顎・フリーナ養護したい",
+        "name": "おひな🌼ラグコス",
+        "pinned_tweet_id": "1980959124092264720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953454229559160832/fvc4VYpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13755,
+          "following_count": 540,
+          "like_count": 83874,
+          "listed_count": 223,
+          "media_count": 869,
+          "tweet_count": 47900
+        },
+        "url": "https://t.co/8BTMLyRKsp",
+        "username": "Rinda_Hina_",
+        "verified": false
+      }
+    ]
+  }
+}

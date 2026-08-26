@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2044806682438758545",
+    "created_at": "2026-04-17T06:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T07:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045029952790381049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760994638478118912",
+          "start": 0,
+          "username": "3timesdie333"
+        },
+        {
+          "end": 29,
+          "id": "2010357366466990080",
+          "start": 19,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045029952790381049",
+    "in_reply_to_user_id": "1760994638478118912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044806682438758545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3timesdie333 便民链接：@kyanu_tut"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044806678311526400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCc1w8a4AA2DZZ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2044806682438758545",
+        "created_at": "2026-04-17T06:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045029952790381049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760994638478118912",
+              "start": 0,
+              "username": "3timesdie333"
+            },
+            {
+              "end": 29,
+              "id": "2010357366466990080",
+              "start": 19,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045029952790381049",
+        "in_reply_to_user_id": "1760994638478118912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044806682438758545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3timesdie333 便民链接：@kyanu_tut"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044806678311526400"
+          ]
+        },
+        "author_id": "1760994638478118912",
+        "conversation_id": "2044806682438758545",
+        "created_at": "2026-04-16T15:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044806682438758545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6f2IykVDP",
+              "end": 63,
+              "expanded_url": "https://x.com/3timesdie333/status/2044806682438758545/photo/1",
+              "media_key": "3_2044806678311526400",
+              "start": 40,
+              "url": "https://t.co/b6f2IykVDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044806682438758545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2538,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被个都不认识的神经病缠上了，大家稍微注意点吧，，，，（污染眼睛致歉，两天后删） https://t.co/b6f2IykVDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14691,
+          "following_count": 748,
+          "like_count": 84149,
+          "listed_count": 14,
+          "media_count": 925,
+          "tweet_count": 17346
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:47:00.000Z",
+        "description": "一江之水夜未央 一江之隔夜思凉\n\n性别男",
+        "id": "1760994638478118912",
+        "location": "距离冰岛 9999 千米的小众岛",
+        "name": "kkkbzydizzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032695415985025026/MxZ8Z_TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 960,
+          "like_count": 21378,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 3624
+        },
+        "username": "3timesdie333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "投稿私信奇异搞笑故事\n骂我先骂@shennaichuan22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "shennaichuan22"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "明日有香.",
+        "pinned_tweet_id": "2043766824786133368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430656332730368/-ga_5xd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 359,
+          "like_count": 576,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1536
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

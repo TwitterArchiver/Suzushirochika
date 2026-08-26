@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2076645994012573825",
+    "created_at": "2026-07-14T11:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076990148835946913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076990148835946913",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076645994012573825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 吃金刚烷胺的是打算变成一只🐔吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2076645994012573825",
+        "created_at": "2026-07-14T11:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076990148835946913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076990148835946913",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076645994012573825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 吃金刚烷胺的是打算变成一只🐔吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2076645994012573825",
+        "created_at": "2026-07-13T12:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076645994012573825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076645994012573825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1982,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃金刚烷胺的是打算变成一只🐔吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15048,
+          "following_count": 750,
+          "like_count": 86495,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17849
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 不好看 可互关 机器人除外\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n生活號 | 一天會發10+條推請見諒\nINTJ | 无所谓性别 | ed | BMI15.5 | 友跨\n有點陰暗 囤積癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "plane294"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2076197204243742963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076966433515532288/I6rNTjt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 237,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 1509
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

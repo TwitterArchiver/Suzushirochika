@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2086115203155169468",
+    "created_at": "2026-08-09T03:08:45.000Z",
+    "display_text_range": [
+      32,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T04:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086288545048887481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1475902620867133441",
+          "start": 0,
+          "username": "paper_white0413"
+        },
+        {
+          "end": 31,
+          "id": "1442362841193795593",
+          "start": 17,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086288545048887481",
+    "in_reply_to_user_id": "1475902620867133441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086115203155169468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paper_white0413 @kusunoki_riko (⁠人⁠*⁠´⁠∀⁠｀⁠)⁠｡⁠*ﾟ⁠+"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3280,
+        "media_key": "3_2086115156594233344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNerqVbkAA9KCj.jpg",
+        "width": 2464
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2086115166886957056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNesQraEAATSCI.jpg",
+        "width": 4080
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2086115178815594497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNes9HaoAEPBBP.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2086115192459718656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNetv8bcAAYV2M.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2086115203155169468",
+        "created_at": "2026-08-09T03:08:45.000Z",
+        "display_text_range": [
+          32,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086288545048887481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1475902620867133441",
+              "start": 0,
+              "username": "paper_white0413"
+            },
+            {
+              "end": 31,
+              "id": "1442362841193795593",
+              "start": 17,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086288545048887481",
+        "in_reply_to_user_id": "1475902620867133441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086115203155169468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paper_white0413 @kusunoki_riko (⁠人⁠*⁠´⁠∀⁠｀⁠)⁠｡⁠*ﾟ⁠+"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086115156594233344",
+            "3_2086115166886957056",
+            "3_2086115178815594497",
+            "3_2086115192459718656"
+          ]
+        },
+        "author_id": "1475902620867133441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086115203155169468",
+        "created_at": "2026-08-08T15:39:57.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086115203155169468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyNB4bzTSm",
+              "end": 30,
+              "expanded_url": "https://x.com/paper_white0413/status/2086115203155169468/photo/1",
+              "media_key": "3_2086115156594233344",
+              "start": 7,
+              "url": "https://t.co/oyNB4bzTSm"
+            },
+            {
+              "display_url": "pic.x.com/oyNB4bzTSm",
+              "end": 30,
+              "expanded_url": "https://x.com/paper_white0413/status/2086115203155169468/photo/1",
+              "media_key": "3_2086115166886957056",
+              "start": 7,
+              "url": "https://t.co/oyNB4bzTSm"
+            },
+            {
+              "display_url": "pic.x.com/oyNB4bzTSm",
+              "end": 30,
+              "expanded_url": "https://x.com/paper_white0413/status/2086115203155169468/photo/1",
+              "media_key": "3_2086115178815594497",
+              "start": 7,
+              "url": "https://t.co/oyNB4bzTSm"
+            },
+            {
+              "display_url": "pic.x.com/oyNB4bzTSm",
+              "end": 30,
+              "expanded_url": "https://x.com/paper_white0413/status/2086115203155169468/photo/1",
+              "media_key": "3_2086115192459718656",
+              "start": 7,
+              "url": "https://t.co/oyNB4bzTSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086115203155169468",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086115156594233344"
+          },
+          {
+            "media_key": "3_2086115166886957056"
+          },
+          {
+            "media_key": "3_2086115178815594497"
+          },
+          {
+            "media_key": "3_2086115192459718656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 376,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和楠姐与千夏 https://t.co/oyNB4bzTSm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086288545048887481",
+        "name": "鈴白千夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15053,
+          "following_count": 756,
+          "like_count": 87822,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18046
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-28T18:53:08.000Z",
+        "description": "每天不是饿饿就是困困|外表是大姐姐，内心是雌小鬼，一张嘴就是大叔丨女同DD丨聊天容易突然失踪丨北京丨不可爱",
+        "id": "1475902620867133441",
+        "is_identity_verified": false,
+        "location": "北京 昌平",
+        "most_recent_tweet_id": "2086128464223162597",
+        "name": "好困好困的白纸",
+        "pinned_tweet_id": "1768205120008003956",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1475902620867133441/1641231869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998428802448515072/6O4L8uBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 256,
+          "like_count": 11766,
+          "listed_count": 11,
+          "media_count": 589,
+          "tweet_count": 3255
+        },
+        "url": "",
+        "username": "paper_white0413",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "是非在己，毁誉由人，得失不论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "is_identity_verified": false,
+        "location": "此心安处是吾乡",
+        "most_recent_tweet_id": "2086281108552040860",
+        "name": "楠•理子",
+        "pinned_tweet_id": "2083491575318155443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442362841193795593/1753952768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085005265947197440/xAse1W1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8157,
+          "following_count": 1509,
+          "like_count": 106912,
+          "listed_count": 32,
+          "media_count": 4348,
+          "tweet_count": 58478
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

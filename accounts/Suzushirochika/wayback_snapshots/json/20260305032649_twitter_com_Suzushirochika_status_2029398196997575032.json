@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2029364684449788056",
+    "created_at": "2026-03-05T03:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T04:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029398196997575032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754023103339094016",
+          "start": 0,
+          "username": "zhangcw04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029398196997575032",
+    "in_reply_to_user_id": "1754023103339094016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029364684449788056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangcw04 我要吃🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_2029364567017746432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCnAUljbcAATEsh.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2029364684449788056",
+        "created_at": "2026-03-05T03:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029398196997575032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754023103339094016",
+              "start": 0,
+              "username": "zhangcw04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029398196997575032",
+        "in_reply_to_user_id": "1754023103339094016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029364684449788056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangcw04 我要吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029364567017746432"
+          ]
+        },
+        "author_id": "1754023103339094016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029364684449788056",
+        "created_at": "2026-03-05T01:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T02:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029364684449788056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eZwUMyirIM",
+              "end": 42,
+              "expanded_url": "https://x.com/zhangcw04/status/2029364684449788056/photo/1",
+              "media_key": "3_2029364567017746432",
+              "start": 19,
+              "url": "https://t.co/eZwUMyirIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029364684449788056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "超高蛋挞被我烤出来了，你喜欢吃的吗？ https://t.co/eZwUMyirIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14896,
+          "following_count": 775,
+          "like_count": 81277,
+          "listed_count": 13,
+          "media_count": 912,
+          "tweet_count": 16995
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T06:04:44.000Z",
+        "description": "美食",
+        "id": "1754023103339094016",
+        "name": "白雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754321141446115328/C3N53vHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12902,
+          "following_count": 10424,
+          "like_count": 9569,
+          "listed_count": 28,
+          "media_count": 2678,
+          "tweet_count": 10919
+        },
+        "username": "zhangcw04",
+        "verified": false
+      }
+    ]
+  }
+}

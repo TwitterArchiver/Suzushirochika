@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2086140042544922890",
+    "created_at": "2026-08-09T02:15:43.000Z",
+    "display_text_range": [
+      16,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086275198849085631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086275198849085631",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086140042544922890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy 应该没什么事……感冒就好好休息吧（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086140033585856513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPN1TsWbQAEntH6.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2086140042544922890",
+        "created_at": "2026-08-09T02:15:43.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086275198849085631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086275198849085631",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086140042544922890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy 应该没什么事……感冒就好好休息吧（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086140033585856513"
+          ]
+        },
+        "author_id": "2053864757329817600",
+        "conversation_id": "2086140042544922890",
+        "created_at": "2026-08-08T17:18:39.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T18:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086140042544922890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNCzZSwdmB",
+              "end": 108,
+              "expanded_url": "https://x.com/today_is_foggy/status/2086140042544922890/photo/1",
+              "media_key": "3_2086140033585856513",
+              "start": 85,
+              "url": "https://t.co/nNCzZSwdmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086140042544922890",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086140033585856513"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天洗澡，上周去测激素抽血的针眼扩散的尤为明显，明明当天就只是一个像蚊子咬了之后的小红点一样。结果越来越大。雾怀疑这个也和这两天出现的没来由的感冒也有联系）要去看看吗？ https://t.co/nNCzZSwdmB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086275198849085631",
+        "name": "鈴白千夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15057,
+          "following_count": 756,
+          "like_count": 87812,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18041
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "友情从不区分国籍、人种和性别🏳️‍⚧️\n希望和ta人的关系，可以变得很纯粹\n这里是大雾喵ww叫咱大雾就好~欢迎聊天眯",
+        "id": "2053864757329817600",
+        "is_identity_verified": false,
+        "location": "月球 坎帕努斯环形山",
+        "most_recent_tweet_id": "2086254127554936929",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2084194549996589385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053864757329817600/1780220741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 111,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1046
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

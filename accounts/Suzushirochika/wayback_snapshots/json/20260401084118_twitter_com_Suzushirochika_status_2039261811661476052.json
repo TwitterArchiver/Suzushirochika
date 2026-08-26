@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2039091642679067069",
+    "created_at": "2026-04-01T08:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039261811661476052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039261811661476052",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039091642679067069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 我之前还见过说捏造陷阱NTR的是百合神作的×"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_2039088541695881216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HExMOaFaMAAhVc4.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2039091642679067069",
+        "created_at": "2026-04-01T08:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039261811661476052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039261811661476052",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039091642679067069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 我之前还见过说捏造陷阱NTR的是百合神作的×"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039088541695881216"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2039091642679067069",
+        "created_at": "2026-03-31T21:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039091642679067069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F77EmGcF91",
+              "end": 159,
+              "expanded_url": "https://x.com/Olebe179131/status/2039091642679067069/photo/1",
+              "media_key": "3_2039088541695881216",
+              "start": 136,
+              "url": "https://t.co/F77EmGcF91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039091642679067069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 393,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥老有人把citrus封为神作，还跟终将，安岛放在一起说，第一集就是一个女主和男的亲真能看下去吗？我是不行，朋友看完了只会心疼柚子，为啥说和终将很像，终将我漫画动画都二刷了舞台剧和最后表白我一直在哭，人物塑造拉满了，这是真圣经，而且有那么多好的百合作品为啥要老推这部啊 https://t.co/F77EmGcF91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14896,
+          "following_count": 750,
+          "like_count": 83195,
+          "listed_count": 13,
+          "media_count": 919,
+          "tweet_count": 17198
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "全天下最好的女孩@rinii165892 @wu_si787878\n04医学生/od/精神不稳定/百合厨/二次元/清水推/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "rinii165892"
+              },
+              {
+                "end": 33,
+                "start": 21,
+                "username": "wu_si787878"
+              }
+            ]
+          }
+        },
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038220330976919552/yFwQ_L6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 491,
+          "like_count": 20239,
+          "listed_count": 0,
+          "media_count": 765,
+          "tweet_count": 2551
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

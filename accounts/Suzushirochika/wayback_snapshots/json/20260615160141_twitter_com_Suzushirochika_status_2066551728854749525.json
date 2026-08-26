@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066551687880552448",
+        "3_2066551688178319360"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2066551728854749525",
+    "created_at": "2026-06-15T16:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066551728854749525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yXGI1ZVP17",
+          "end": 30,
+          "expanded_url": "https://x.com/Suzushirochika/status/2066551728854749525/photo/1",
+          "media_key": "3_2066551687880552448",
+          "start": 7,
+          "url": "https://t.co/yXGI1ZVP17"
+        },
+        {
+          "display_url": "pic.x.com/yXGI1ZVP17",
+          "end": 30,
+          "expanded_url": "https://x.com/Suzushirochika/status/2066551728854749525/photo/1",
+          "media_key": "3_2066551688178319360",
+          "start": 7,
+          "url": "https://t.co/yXGI1ZVP17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066551728854749525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "外星科技（× https://t.co/yXGI1ZVP17"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066551687880552448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3dz6IasAAXO8h.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066551688178319360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3dz7PaQAAOKRi.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066551687880552448",
+            "3_2066551688178319360"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2066551728854749525",
+        "created_at": "2026-06-15T16:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066551728854749525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXGI1ZVP17",
+              "end": 30,
+              "expanded_url": "https://x.com/Suzushirochika/status/2066551728854749525/photo/1",
+              "media_key": "3_2066551687880552448",
+              "start": 7,
+              "url": "https://t.co/yXGI1ZVP17"
+            },
+            {
+              "display_url": "pic.x.com/yXGI1ZVP17",
+              "end": 30,
+              "expanded_url": "https://x.com/Suzushirochika/status/2066551728854749525/photo/1",
+              "media_key": "3_2066551688178319360",
+              "start": 7,
+              "url": "https://t.co/yXGI1ZVP17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066551728854749525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "外星科技（× https://t.co/yXGI1ZVP17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14971,
+          "following_count": 744,
+          "like_count": 84883,
+          "listed_count": 14,
+          "media_count": 939,
+          "tweet_count": 17637
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876042136958664704"
+      ],
+      "media_source_tweet_id": [
+        "1876042215308603667"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1876197456003936327",
+    "created_at": "2025-01-06T09:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T10:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876197456003936327"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "BocchiTheRock",
+          "probability": 0.8758,
+          "start": 52,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 39,
+          "tag": "ぼっち・ざ・ろっく"
+        },
+        {
+          "end": 65,
+          "start": 51,
+          "tag": "BocchiTheRock"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "906173993551462400",
+          "start": 3,
+          "username": "the_freakin_yui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IEgyaxGm8g",
+          "end": 89,
+          "expanded_url": "https://x.com/the_freakin_yui/status/1876042215308603667/photo/1",
+          "media_key": "3_1876042136958664704",
+          "start": 66,
+          "url": "https://t.co/IEgyaxGm8g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876197456003936327",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 543
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876042215308603667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @the_freakin_yui: blue guy chillin\n\n#ぼっち・ざ・ろっく \n#BocchiTheRock https://t.co/IEgyaxGm8g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1270,
+        "media_key": "3_1876042136958664704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgkKYkUWAAAGNkO.jpg",
+        "width": 1910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876042136958664704"
+          ],
+          "media_source_tweet_id": [
+            "1876042215308603667"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1876197456003936327",
+        "created_at": "2025-01-06T09:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T10:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876197456003936327"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "BocchiTheRock",
+              "probability": 0.8758,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "ぼっち・ざ・ろっく"
+            },
+            {
+              "end": 65,
+              "start": 51,
+              "tag": "BocchiTheRock"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "906173993551462400",
+              "start": 3,
+              "username": "the_freakin_yui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEgyaxGm8g",
+              "end": 89,
+              "expanded_url": "https://x.com/the_freakin_yui/status/1876042215308603667/photo/1",
+              "media_key": "3_1876042136958664704",
+              "start": 66,
+              "url": "https://t.co/IEgyaxGm8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876197456003936327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 543
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876042215308603667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @the_freakin_yui: blue guy chillin\n\n#ぼっち・ざ・ろっく \n#BocchiTheRock https://t.co/IEgyaxGm8g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876042136958664704"
+          ]
+        },
+        "author_id": "906173993551462400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1876042215308603667",
+        "created_at": "2025-01-05T23:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T00:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876042215308603667"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "BocchiTheRock",
+              "probability": 0.8127,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "ぼっち・ざ・ろっく"
+            },
+            {
+              "end": 44,
+              "start": 30,
+              "tag": "BocchiTheRock"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEgyaxGm8g",
+              "end": 68,
+              "expanded_url": "https://x.com/the_freakin_yui/status/1876042215308603667/photo/1",
+              "media_key": "3_1876042136958664704",
+              "start": 45,
+              "url": "https://t.co/IEgyaxGm8g"
+            },
+            {
+              "display_url": "x.com/art_retr0/stat…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/art_retr0/status/1873304900798714212",
+              "start": 69,
+              "url": "https://t.co/0qFfCxDLWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876042215308603667",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 42645,
+          "like_count": 3458,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 543
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873304900798714212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "blue guy chillin\n\n#ぼっち・ざ・ろっく \n#BocchiTheRock https://t.co/IEgyaxGm8g https://t.co/0qFfCxDLWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13682,
+          "following_count": 874,
+          "like_count": 78207,
+          "listed_count": 22,
+          "media_count": 919,
+          "tweet_count": 16705
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-08T15:14:50.000Z",
+        "description": "self-proclaimed creator of da keionbu and professional funny image maker | alt: @midori_gotoh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "midori_gotoh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/the_freakin_yui",
+                "end": 23,
+                "expanded_url": "https://throne.com/the_freakin_yui",
+                "start": 0,
+                "url": "https://t.co/RTIvBbepiB"
+              }
+            ]
+          }
+        },
+        "id": "906173993551462400",
+        "location": "Big Übel, LLC",
+        "name": "Yui (COMMS OPEN)",
+        "pinned_tweet_id": "1857473215494291902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864403460244033536/Bz6ltI_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13522,
+          "following_count": 658,
+          "like_count": 33965,
+          "listed_count": 33,
+          "media_count": 4061,
+          "tweet_count": 10636
+        },
+        "url": "https://t.co/RTIvBbepiB",
+        "username": "the_freakin_yui",
+        "verified": false
+      }
+    ]
+  }
+}

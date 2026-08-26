@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090800410202366136",
+    "created_at": "2026-08-22T00:52:49.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T01:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090965379300593818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "875941935738789888",
+          "start": 0,
+          "username": "Rinfair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090965379300593818",
+    "in_reply_to_user_id": "875941935738789888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090951618330296783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinfair 谢谢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090800410202366136",
+        "created_at": "2026-08-22T00:52:49.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090965379300593818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "875941935738789888",
+              "start": 0,
+              "username": "Rinfair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090965379300593818",
+        "in_reply_to_user_id": "875941935738789888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090951618330296783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinfair 谢谢（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "875941935738789888",
+        "conversation_id": "2090800410202366136",
+        "created_at": "2026-08-21T23:58:08.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090951618330296783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090951618330296783",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090800410202366136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 可以加屏蔽词了都"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090965379300593818",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15068,
+          "following_count": 755,
+          "like_count": 88348,
+          "listed_count": 14,
+          "media_count": 959,
+          "tweet_count": 18159
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2017-06-17T05:03:26.000Z",
+        "description": "植物系狐狸 | APF-HQ时空协调与熵变研究中心 | 华东驻南京地区应急响应队员 | Vtuber | 永远乐观😀 | 中文/English OK | 回fo请pm | True side of me @ReaL_Rinfair  | 🪶愿翎羽能随飞雀前往秀澈之地，而非被猎人的枪子穷追不舍。——翎澈🪶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "ReaL_Rinfair"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinTime",
+                "end": 23,
+                "expanded_url": "https://t.me/RinTime",
+                "start": 0,
+                "url": "https://t.co/B6NbL3ZdTT"
+              }
+            ]
+          }
+        },
+        "id": "875941935738789888",
+        "is_identity_verified": false,
+        "location": "Ark Protocol Foundation-HQ",
+        "most_recent_tweet_id": "2090956749360783406",
+        "name": "翎澈Rinfair（生命科学版）",
+        "pinned_tweet_id": "1886549029011775605",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/875941935738789888/1701199427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833915486532415488/qk6dSdri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 233,
+          "like_count": 17363,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 5296
+        },
+        "url": "https://t.co/B6NbL3ZdTT",
+        "username": "Rinfair",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1892218504855564552",
+    "created_at": "2025-02-20T04:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T05:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892428278209691860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507723638249713664",
+          "start": 0,
+          "username": "yuebanzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892428278209691860",
+    "in_reply_to_user_id": "1507723638249713664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892218504855564552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuebanzhu 从来没有觉得鸡肉比牛肉好吃过（求鸡肉党不要喷我🥺）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1892218504855564552",
+        "created_at": "2025-02-20T04:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892428278209691860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507723638249713664",
+              "start": 0,
+              "username": "yuebanzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892428278209691860",
+        "in_reply_to_user_id": "1507723638249713664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892218504855564552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuebanzhu 从来没有觉得鸡肉比牛肉好吃过（求鸡肉党不要喷我🥺）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507723638249713664",
+        "conversation_id": "1892218504855564552",
+        "created_at": "2025-02-19T14:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T15:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892218504855564552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JapanBanZaiLov…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/JapanBanZaiLove/status/1891787268588961965",
+              "start": 35,
+              "url": "https://t.co/4Z0Wc4dKdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892218504855564552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5494,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891787268588961965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人过了30岁就会开始觉得鸡肉好吃\n30之前一般会认为最好吃的就是牛肉 https://t.co/4Z0Wc4dKdl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13877,
+          "following_count": 853,
+          "like_count": 79028,
+          "listed_count": 22,
+          "media_count": 924,
+          "tweet_count": 16772
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T14:18:40.000Z",
+        "description": "一直在日本。似乎是一名法律工作者。右翼，非典型自由主义。政治面貌境外势力汉奸叛徒反革命分子。荒川商学院🥱创始人。https://t.co/zwDurJQwha宫司🥳私信回复较慢（一般周三周六晚上回复）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "runjinja.jp",
+                "end": 79,
+                "expanded_url": "http://runjinja.jp",
+                "start": 56,
+                "url": "https://t.co/zwDurJQwha"
+              }
+            ]
+          }
+        },
+        "id": "1507723638249713664",
+        "location": "日本东京",
+        "name": "月半",
+        "pinned_tweet_id": "1759587368640667866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529606141545545728/ufDWA7bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13027,
+          "following_count": 4385,
+          "like_count": 228358,
+          "listed_count": 79,
+          "media_count": 3128,
+          "tweet_count": 39861
+        },
+        "username": "yuebanzhu",
+        "verified": true
+      }
+    ]
+  }
+}

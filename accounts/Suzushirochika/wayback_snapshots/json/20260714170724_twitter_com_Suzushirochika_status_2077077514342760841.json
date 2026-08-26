@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2077074344434635168",
+    "created_at": "2026-07-14T17:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077077514342760841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077077514342760841",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077074344434635168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy 好可爱好可爱!!!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2077074317519818752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNAFkPbEAABvky.jpg",
+        "width": 461
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077074329221963776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNAGP1boAAM56I.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2077074344434635168",
+        "created_at": "2026-07-14T17:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077077514342760841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077077514342760841",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077074344434635168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy 好可爱好可爱!!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077074317519818752",
+            "3_2077074329221963776"
+          ]
+        },
+        "author_id": "2053864757329817600",
+        "conversation_id": "2077074344434635168",
+        "created_at": "2026-07-14T16:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077074344434635168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dddKce7HF8",
+              "end": 35,
+              "expanded_url": "https://x.com/today_is_foggy/status/2077074344434635168/photo/1",
+              "media_key": "3_2077074317519818752",
+              "start": 12,
+              "url": "https://t.co/dddKce7HF8"
+            },
+            {
+              "display_url": "pic.x.com/dddKce7HF8",
+              "end": 35,
+              "expanded_url": "https://x.com/today_is_foggy/status/2077074344434635168/photo/1",
+              "media_key": "3_2077074329221963776",
+              "start": 12,
+              "url": "https://t.co/dddKce7HF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077074344434635168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚是郊狼小尾巴www https://t.co/dddKce7HF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15052,
+          "following_count": 751,
+          "like_count": 86563,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17862
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "这里是大雾！可以叫咱大雾ww，二次元，笨蛋，无糖，不od、割手，什么都会一点但什么都做不好，只要接纳咱那一定会有反馈的说ww接触过的东西有好多，但都很入门...航空航天 时事政治 摄影 化妆 化学 锻炼健身 番剧游戏 还自己学过一点c和Python...希望有人可以来找咱聊天什么的。",
+        "id": "2053864757329817600",
+        "location": "成都  山东上学",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2075249973487104381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 96,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 728
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false
+      }
+    ]
+  }
+}

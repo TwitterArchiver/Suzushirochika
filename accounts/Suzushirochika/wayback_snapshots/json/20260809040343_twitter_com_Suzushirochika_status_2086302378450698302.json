@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2086144619033579577",
+    "created_at": "2026-08-09T04:03:43.000Z",
+    "display_text_range": [
+      8,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086302378450698302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1922389433510461442",
+          "start": 0,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086302378450698302",
+    "in_reply_to_user_id": "1922389433510461442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086144619033579577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RieXwX 普瑞巴林，你是不是想开孩子呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086144607243431937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPN5d6jXcAEVbQP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2086144619033579577",
+        "created_at": "2026-08-09T04:03:43.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086302378450698302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1922389433510461442",
+              "start": 0,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086302378450698302",
+        "in_reply_to_user_id": "1922389433510461442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086144619033579577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RieXwX 普瑞巴林，你是不是想开孩子呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086144607243431937"
+          ]
+        },
+        "author_id": "1922389433510461442",
+        "conversation_id": "2086144619033579577",
+        "created_at": "2026-08-08T17:36:50.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T18:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086144619033579577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fud7wCKYoM",
+              "end": 92,
+              "expanded_url": "https://x.com/RieXwX/status/2086144619033579577/photo/1",
+              "media_key": "3_2086144607243431937",
+              "start": 69,
+              "url": "https://t.co/fud7wCKYoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086144619033579577",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086144607243431937"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 872,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我了个老骚雷雷啊 我刚刚不信邪去翻家里药柜子还有没有上古时期的愈美片和右美沙芬遗物 结果翻到了一板没吃的普瑞巴林 孩子你是想开普瑞巴林吗 https://t.co/fud7wCKYoM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086302378450698302",
+        "name": "鈴白千夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15053,
+          "following_count": 756,
+          "like_count": 87846,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18056
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "而我就是一个只爱打游戏的老实人，我什么也不懂。",
+        "id": "1922389433510461442",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086148775634977190",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922389433510461442/1751180665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10160,
+          "following_count": 53,
+          "like_count": 450,
+          "listed_count": 11,
+          "media_count": 395,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

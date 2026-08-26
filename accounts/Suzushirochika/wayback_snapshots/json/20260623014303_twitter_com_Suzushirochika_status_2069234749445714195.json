@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2069233659274776797",
+    "created_at": "2026-06-23T01:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T02:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069234749445714195"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069234749445714195",
+    "in_reply_to_user_id": "1253292430792839174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069233659274776797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这辈子就是被索尼手机害了×"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2069233656015826944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdlDAAbMAAgNr3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1180,
+        "media_key": "3_2069233656108077056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdlDAWa0AAF5DQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069233659274776797",
+        "created_at": "2026-06-23T01:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069234749445714195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069234749445714195",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069233659274776797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这辈子就是被索尼手机害了×"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069233656015826944",
+            "3_2069233656108077056"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069233659274776797",
+        "created_at": "2026-06-23T01:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069233659274776797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/81MGaIrmEP",
+              "end": 56,
+              "expanded_url": "https://x.com/Suzushirochika/status/2069233659274776797/photo/1",
+              "media_key": "3_2069233656015826944",
+              "start": 33,
+              "url": "https://t.co/81MGaIrmEP"
+            },
+            {
+              "display_url": "pic.x.com/81MGaIrmEP",
+              "end": 56,
+              "expanded_url": "https://x.com/Suzushirochika/status/2069233659274776797/photo/1",
+              "media_key": "3_2069233656108077056",
+              "start": 33,
+              "url": "https://t.co/81MGaIrmEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069233659274776797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂小学门口1块钱的黑加仑玻璃瓶饮料和1毛钱一个的绿色长条奶糖（ https://t.co/81MGaIrmEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14971,
+          "following_count": 747,
+          "like_count": 85120,
+          "listed_count": 14,
+          "media_count": 943,
+          "tweet_count": 17672
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

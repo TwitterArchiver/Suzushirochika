@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1978366243678663062",
+    "created_at": "2025-10-15T12:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978431556650750247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350462273458868227",
+          "start": 0,
+          "username": "ZaindORp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978431556650750247",
+    "in_reply_to_user_id": "1350462273458868227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978430499606401442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaindORp 不是没露脸嘛quq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1978366243678663062",
+        "created_at": "2025-10-15T12:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978431556650750247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350462273458868227",
+              "start": 0,
+              "username": "ZaindORp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978431556650750247",
+        "in_reply_to_user_id": "1350462273458868227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978430499606401442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaindORp 不是没露脸嘛quq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350462273458868227",
+        "conversation_id": "1978366243678663062",
+        "created_at": "2025-10-15T11:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T12:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978430499606401442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978430499606401442",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978366243678663062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 羡慕好看QwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "1593184193613553664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14686,
+          "following_count": 833,
+          "like_count": 78525,
+          "listed_count": 23,
+          "media_count": 894,
+          "tweet_count": 16739
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-16T15:18:06.000Z",
+        "description": "清水生活推，或許有些偏負能…我會努力壓制的。\n是含糖MTF🏳‍⚧。\n願意與任何人成為朋友。\n是大貓貓@AnyNeko_ 的家養貓娘。\n想要成為溫柔的，可以幫助大家的人…\n姐姐是@BerryHotaruYuki\n哥哥是@VeraxLeeIsMe\n妹妹是@InfinRain\n還有好多好多的朋友，寫不下了呢…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "AnyNeko_"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "BerryHotaruYuki"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "VeraxLeeIsMe"
+              },
+              {
+                "end": 135,
+                "start": 125,
+                "username": "InfinRain"
+              }
+            ]
+          }
+        },
+        "id": "1350462273458868227",
+        "location": "2.50km",
+        "name": "*۫۫۫۫۫۫۫۫۫۫雨۫۫۫۫۫۫۫۫۫樱۫۫۫۫۫۫۫۫۫۫落𝗭𝗮𝗶𝗻𝗱𝗢𝗥𝗽",
+        "pinned_tweet_id": "1650829946560864256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886324430680535040/kEH7ya8r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5157,
+          "following_count": 151,
+          "like_count": 251790,
+          "listed_count": 30,
+          "media_count": 1079,
+          "tweet_count": 32825
+        },
+        "username": "ZaindORp",
+        "verified": false
+      }
+    ]
+  }
+}

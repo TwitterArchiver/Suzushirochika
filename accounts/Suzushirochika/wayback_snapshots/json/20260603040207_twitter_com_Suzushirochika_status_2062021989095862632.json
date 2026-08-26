@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2061813852124352872",
+    "created_at": "2026-06-03T04:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062021989095862632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033094355972726788",
+          "start": 0,
+          "username": "dongmugen0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062021989095862632",
+    "in_reply_to_user_id": "2033094355972726788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061813852124352872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongmugen0508 帅."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21333,
+        "height": 1280,
+        "media_key": "7_2061813833006809088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2061813833006809088/pu/img/EkT6Wt2Z6db0HR5s.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061813833006809088/pu/vid/avc1/320x568/QPapGE0Hv0jNbl8e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061813833006809088/pu/vid/avc1/480x852/wCF0mdSgCnvorzvu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061813833006809088/pu/vid/avc1/720x1280/BvxQbSUoWI7tBtB4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2061813833006809088/pu/pl/zGiCVTQJevQaKGUd.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2061813852124352872",
+        "created_at": "2026-06-03T04:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062021989095862632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033094355972726788",
+              "start": 0,
+              "username": "dongmugen0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062021989095862632",
+        "in_reply_to_user_id": "2033094355972726788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061813852124352872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongmugen0508 帅."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2061813833006809088"
+          ]
+        },
+        "author_id": "2033094355972726788",
+        "conversation_id": "2061813852124352872",
+        "created_at": "2026-06-02T14:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061813852124352872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDpobi2vUW",
+              "end": 31,
+              "expanded_url": "https://x.com/dongmugen0508/status/2061813852124352872/video/1",
+              "media_key": "7_2061813833006809088",
+              "start": 8,
+              "url": "https://t.co/DDpobi2vUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061813852124352872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Relife. https://t.co/DDpobi2vUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14972,
+          "following_count": 745,
+          "like_count": 84859,
+          "listed_count": 14,
+          "media_count": 938,
+          "tweet_count": 17582
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T08:14:16.000Z",
+        "description": "幸福的活下去吧\n前世@dongmugen08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "dongmugen08"
+              }
+            ]
+          }
+        },
+        "id": "2033094355972726788",
+        "name": "东木艮（推油巡回中）",
+        "pinned_tweet_id": "2033095957039194381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033095147467190276/aYDkP8w8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 285,
+          "like_count": 2544,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 435
+        },
+        "username": "dongmugen0508",
+        "verified": false
+      }
+    ]
+  }
+}

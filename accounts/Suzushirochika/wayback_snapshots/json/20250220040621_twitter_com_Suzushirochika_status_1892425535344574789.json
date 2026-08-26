@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1892251356959785361",
+    "created_at": "2025-02-20T04:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T05:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892425535344574789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "886489222445539329",
+          "start": 0,
+          "username": "Shigured2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892425535344574789",
+    "in_reply_to_user_id": "886489222445539329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892251356959785361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shigured2o 时雨好！生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 83,
+        "media_key": "3_1892251350924144640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkKgk_2WMAA5pRm.jpg",
+        "width": 275
+      },
+      {
+        "height": 1470,
+        "media_key": "3_1892251351209357312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkKglA6WMAAxR9H.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1892251356959785361",
+        "created_at": "2025-02-20T04:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892425535344574789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "886489222445539329",
+              "start": 0,
+              "username": "Shigured2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892425535344574789",
+        "in_reply_to_user_id": "886489222445539329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892251356959785361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shigured2o 时雨好！生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892251350924144640",
+            "3_1892251351209357312"
+          ]
+        },
+        "author_id": "886489222445539329",
+        "conversation_id": "1892251356959785361",
+        "created_at": "2025-02-19T16:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T17:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892251356959785361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOc3oFK4fe",
+              "end": 27,
+              "expanded_url": "https://x.com/Shigured2o/status/1892251356959785361/photo/1",
+              "media_key": "3_1892251350924144640",
+              "start": 4,
+              "url": "https://t.co/cOc3oFK4fe"
+            },
+            {
+              "display_url": "pic.x.com/cOc3oFK4fe",
+              "end": 27,
+              "expanded_url": "https://x.com/Shigured2o/status/1892251356959785361/photo/1",
+              "media_key": "3_1892251351209357312",
+              "start": 4,
+              "url": "https://t.co/cOc3oFK4fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892251356959785361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "快乐？ https://t.co/cOc3oFK4fe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13877,
+          "following_count": 853,
+          "like_count": 79024,
+          "listed_count": 22,
+          "media_count": 924,
+          "tweet_count": 16770
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T07:34:35.000Z",
+        "description": "いい雨だね",
+        "id": "886489222445539329",
+        "location": "Sasebo-shi, Nagasaki",
+        "name": "迷失在重水中的时雨",
+        "pinned_tweet_id": "1419186358384422912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1142441535612473345/djz0w77q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 2336,
+          "like_count": 23777,
+          "listed_count": 10,
+          "media_count": 616,
+          "tweet_count": 18676
+        },
+        "username": "Shigured2o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896170022533210113"
+      ],
+      "media_source_tweet_id": [
+        "1896170028422332453"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1896438225411149857",
+    "created_at": "2025-03-03T05:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T06:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896438225411149857"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 96,
+          "tag": "きみが死ぬまで恋をしたい"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "きみ死ぬ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1407707676478304257",
+          "start": 3,
+          "username": "kimishinu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TJeXk7PEOY",
+          "end": 139,
+          "expanded_url": "https://x.com/kimishinu/status/1896170028422332453/photo/1",
+          "media_key": "3_1896170022533210113",
+          "start": 116,
+          "url": "https://t.co/TJeXk7PEOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896438225411149857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12831
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896170028422332453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimishinu: .˚✦✧⁺‧┈┈┈┈┈┈┈┈┈┈‧⁺ ✧✦˚.\n\n　　きみが死ぬまで恋をしたい\n　　　　TVアニメ化決定!!\n\n.˚✦✧⁺‧┈┈┈┈┈┈┈┈┈┈‧⁺ ✧✦˚.\n\n#きみが死ぬまで恋をしたい #きみ死ぬ https://t.co/TJeXk7PEOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_1896170022533210113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlCMltLWIAExl-j.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896170022533210113"
+          ],
+          "media_source_tweet_id": [
+            "1896170028422332453"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1896438225411149857",
+        "created_at": "2025-03-03T05:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T06:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896438225411149857"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 96,
+              "tag": "きみが死ぬまで恋をしたい"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "きみ死ぬ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1407707676478304257",
+              "start": 3,
+              "username": "kimishinu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJeXk7PEOY",
+              "end": 139,
+              "expanded_url": "https://x.com/kimishinu/status/1896170028422332453/photo/1",
+              "media_key": "3_1896170022533210113",
+              "start": 116,
+              "url": "https://t.co/TJeXk7PEOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896438225411149857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12831
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896170028422332453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimishinu: .˚✦✧⁺‧┈┈┈┈┈┈┈┈┈┈‧⁺ ✧✦˚.\n\n　　きみが死ぬまで恋をしたい\n　　　　TVアニメ化決定!!\n\n.˚✦✧⁺‧┈┈┈┈┈┈┈┈┈┈‧⁺ ✧✦˚.\n\n#きみが死ぬまで恋をしたい #きみ死ぬ https://t.co/TJeXk7PEOY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896170022533210113"
+          ]
+        },
+        "author_id": "1407707676478304257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1896170028422332453",
+        "created_at": "2025-03-02T12:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T13:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896170028422332453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 81,
+              "tag": "きみが死ぬまで恋をしたい"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "きみ死ぬ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJeXk7PEOY",
+              "end": 124,
+              "expanded_url": "https://x.com/kimishinu/status/1896170028422332453/photo/1",
+              "media_key": "3_1896170022533210113",
+              "start": 101,
+              "url": "https://t.co/TJeXk7PEOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896170028422332453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2511,
+          "impression_count": 1874999,
+          "like_count": 36705,
+          "quote_count": 2645,
+          "reply_count": 169,
+          "retweet_count": 12831
+        },
+        "reply_settings": "everyone",
+        "text": ".˚✦✧⁺‧┈┈┈┈┈┈┈┈┈┈‧⁺ ✧✦˚.\n\n　　きみが死ぬまで恋をしたい\n　　　　TVアニメ化決定!!\n\n.˚✦✧⁺‧┈┈┈┈┈┈┈┈┈┈‧⁺ ✧✦˚.\n\n#きみが死ぬまで恋をしたい #きみ死ぬ https://t.co/TJeXk7PEOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13914,
+          "following_count": 851,
+          "like_count": 79196,
+          "listed_count": 22,
+          "media_count": 927,
+          "tweet_count": 16797
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T14:31:09.000Z",
+        "description": "『きみが死ぬまで恋をしたい』公式アカウント｜著者：あおのなち @aooont｜コミックス①〜⑦発売中｜#きみが死ぬまで恋をしたい #きみ死ぬ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 51,
+                "tag": "きみが死ぬまで恋をしたい"
+              },
+              {
+                "end": 70,
+                "start": 65,
+                "tag": "きみ死ぬ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 31,
+                "username": "aooont"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ichijin-plus.com/comics/2410174…",
+                "end": 23,
+                "expanded_url": "https://ichijin-plus.com/comics/2410174332975",
+                "start": 0,
+                "url": "https://t.co/KSPKWHpFGI"
+              }
+            ]
+          }
+        },
+        "id": "1407707676478304257",
+        "name": "きみが死ぬまで恋をしたい公式",
+        "pinned_tweet_id": "1896170028422332453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455411589453352961/oL2jTGMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66190,
+          "following_count": 8,
+          "like_count": 31,
+          "listed_count": 239,
+          "media_count": 444,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/KSPKWHpFGI",
+        "username": "kimishinu",
+        "verified": false
+      }
+    ]
+  }
+}

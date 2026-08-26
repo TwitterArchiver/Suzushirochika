@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834543482616291328"
+      ],
+      "media_source_tweet_id": [
+        "1834543488127693230"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1835011650493333936",
+    "created_at": "2024-09-14T17:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T18:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835011650493333936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537855059610189825",
+          "start": 3,
+          "username": "syaparinton"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5uv6skdjeq",
+          "end": 44,
+          "expanded_url": "https://twitter.com/syaparinton/status/1834543488127693230/photo/1",
+          "media_key": "3_1834543482616291328",
+          "start": 21,
+          "url": "https://t.co/5uv6sKDjEQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835011650493333936",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1253
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834543488127693230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @syaparinton: ん！！ https://t.co/5uv6sKDjEQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1788,
+        "media_key": "3_1834543482616291328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXWbk95aIAAE33Q.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834543482616291328"
+          ],
+          "media_source_tweet_id": [
+            "1834543488127693230"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1835011650493333936",
+        "created_at": "2024-09-14T17:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T18:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835011650493333936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537855059610189825",
+              "start": 3,
+              "username": "syaparinton"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uv6skdjeq",
+              "end": 44,
+              "expanded_url": "https://twitter.com/syaparinton/status/1834543488127693230/photo/1",
+              "media_key": "3_1834543482616291328",
+              "start": 21,
+              "url": "https://t.co/5uv6sKDjEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835011650493333936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1253
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834543488127693230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @syaparinton: ん！！ https://t.co/5uv6sKDjEQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834543482616291328"
+          ]
+        },
+        "author_id": "1537855059610189825",
+        "conversation_id": "1834543488127693230",
+        "created_at": "2024-09-13T10:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T11:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834543488127693230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uv6skdjeq",
+              "end": 27,
+              "expanded_url": "https://twitter.com/syaparinton/status/1834543488127693230/photo/1",
+              "media_key": "3_1834543482616291328",
+              "start": 4,
+              "url": "https://t.co/5uv6sKDjEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834543488127693230",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 495,
+          "impression_count": 188793,
+          "like_count": 16048,
+          "quote_count": 17,
+          "reply_count": 1,
+          "retweet_count": 1253
+        },
+        "reply_settings": "following",
+        "text": "ん！！ https://t.co/5uv6sKDjEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13398,
+          "following_count": 886,
+          "like_count": 77451,
+          "listed_count": 22,
+          "tweet_count": 16528
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T17:50:14.000Z",
+        "description": "ネタ絵を描いたり感想をつぶやいたりラジバンダリ🤲",
+        "id": "1537855059610189825",
+        "name": "シャパリントン",
+        "pinned_tweet_id": "1771713798807937176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786040823538409472/RNPHa6Ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26116,
+          "following_count": 10,
+          "like_count": 244,
+          "listed_count": 164,
+          "tweet_count": 572
+        },
+        "username": "syaparinton",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047602684107329536"
+      ],
+      "media_source_tweet_id": [
+        "2047605213352370340"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2047629936383676850",
+    "created_at": "2026-04-24T10:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047629936383676850"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "春日野穹"
+        },
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "ヨスガノソラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1704054246528954368",
+          "start": 3,
+          "username": "0721KaiKinSyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sz1LKzYAk5",
+          "end": 66,
+          "expanded_url": "https://x.com/0721KaiKinSyou/status/2047605213352370340/photo/1",
+          "media_key": "3_2047602684107329536",
+          "start": 43,
+          "url": "https://t.co/Sz1LKzYAk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047629936383676850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047605213352370340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0721KaiKinSyou: 穂見学園1年生。\n#春日野穹 #ヨスガノソラ https://t.co/Sz1LKzYAk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2937,
+        "media_key": "3_2047602684107329536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqLyuNakAAmwqq.jpg",
+        "width": 2937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047602684107329536"
+          ],
+          "media_source_tweet_id": [
+            "2047605213352370340"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2047629936383676850",
+        "created_at": "2026-04-24T10:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047629936383676850"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "春日野穹"
+            },
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "ヨスガノソラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1704054246528954368",
+              "start": 3,
+              "username": "0721KaiKinSyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sz1LKzYAk5",
+              "end": 66,
+              "expanded_url": "https://x.com/0721KaiKinSyou/status/2047605213352370340/photo/1",
+              "media_key": "3_2047602684107329536",
+              "start": 43,
+              "url": "https://t.co/Sz1LKzYAk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047629936383676850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047605213352370340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0721KaiKinSyou: 穂見学園1年生。\n#春日野穹 #ヨスガノソラ https://t.co/Sz1LKzYAk5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047602684107329536"
+          ]
+        },
+        "author_id": "1704054246528954368",
+        "conversation_id": "2047605213352370340",
+        "created_at": "2026-04-24T09:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047605213352370340"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "春日野穹"
+            },
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "ヨスガノソラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sz1LKzYAk5",
+              "end": 46,
+              "expanded_url": "https://x.com/0721KaiKinSyou/status/2047605213352370340/photo/1",
+              "media_key": "3_2047602684107329536",
+              "start": 23,
+              "url": "https://t.co/Sz1LKzYAk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047605213352370340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 2458,
+          "like_count": 380,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "穂見学園1年生。\n#春日野穹 #ヨスガノソラ https://t.co/Sz1LKzYAk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14746,
+          "following_count": 754,
+          "like_count": 84523,
+          "listed_count": 14,
+          "media_count": 930,
+          "tweet_count": 17412
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T08:46:16.000Z",
+        "description": "＝詩乃  |  日常&RT垢@365days0721  |  コスプレ写真置き場",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "365days0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/0721kaikinsyou",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/0721kaikinsyou",
+                "start": 0,
+                "url": "https://t.co/rlJolGWgOh"
+              }
+            ]
+          }
+        },
+        "id": "1704054246528954368",
+        "location": "帝都アーガデウム",
+        "name": "タイタス十七世",
+        "pinned_tweet_id": "2021728480078311705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899262695091929088/fumgezLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67671,
+          "following_count": 88,
+          "like_count": 5658,
+          "listed_count": 337,
+          "media_count": 384,
+          "tweet_count": 1203
+        },
+        "url": "https://t.co/rlJolGWgOh",
+        "username": "0721KaiKinSyou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2075189756032643093",
+    "created_at": "2026-07-10T05:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075451306446336223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084526175727185920",
+          "start": 0,
+          "username": "yukominami520"
+        },
+        {
+          "end": 36,
+          "id": "1879216872102711296",
+          "start": 20,
+          "username": "wbde2Z1Pz673486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075451306446336223",
+    "in_reply_to_user_id": "1084526175727185920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075189756032643093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukominami520 便民链接：@wbde2z1pz673486"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075189681424388096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyOBTrbUAAklTn.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075189681445384192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyOBTwbsAA0HQJ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075189681436925952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyOBTuaoAAvWYB.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075189681420173312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyOBTqbAAACZUs.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2075189756032643093",
+        "created_at": "2026-07-10T05:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075451306446336223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1084526175727185920",
+              "start": 0,
+              "username": "yukominami520"
+            },
+            {
+              "end": 36,
+              "id": "1879216872102711296",
+              "start": 20,
+              "username": "wbde2Z1Pz673486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075451306446336223",
+        "in_reply_to_user_id": "1084526175727185920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075189756032643093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukominami520 便民链接：@wbde2z1pz673486"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075189681424388096",
+            "3_2075189681445384192",
+            "3_2075189681436925952",
+            "3_2075189681420173312"
+          ]
+        },
+        "author_id": "1084526175727185920",
+        "conversation_id": "2075189756032643093",
+        "created_at": "2026-07-09T12:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075189756032643093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kLIfX0AiK",
+              "end": 58,
+              "expanded_url": "https://x.com/yukominami520/status/2075189756032643093/photo/1",
+              "media_key": "3_2075189681424388096",
+              "start": 35,
+              "url": "https://t.co/6kLIfX0AiK"
+            },
+            {
+              "display_url": "pic.x.com/6kLIfX0AiK",
+              "end": 58,
+              "expanded_url": "https://x.com/yukominami520/status/2075189756032643093/photo/1",
+              "media_key": "3_2075189681445384192",
+              "start": 35,
+              "url": "https://t.co/6kLIfX0AiK"
+            },
+            {
+              "display_url": "pic.x.com/6kLIfX0AiK",
+              "end": 58,
+              "expanded_url": "https://x.com/yukominami520/status/2075189756032643093/photo/1",
+              "media_key": "3_2075189681436925952",
+              "start": 35,
+              "url": "https://t.co/6kLIfX0AiK"
+            },
+            {
+              "display_url": "pic.x.com/6kLIfX0AiK",
+              "end": 58,
+              "expanded_url": "https://x.com/yukominami520/status/2075189756032643093/photo/1",
+              "media_key": "3_2075189681420173312",
+              "start": 35,
+              "url": "https://t.co/6kLIfX0AiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075189756032643093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24975,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不知道跟朋友玩玩梗开个玩笑怎么又惹到你这条公狗了，我投降了✋🥲🤚 https://t.co/6kLIfX0AiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15050,
+          "following_count": 749,
+          "like_count": 86421,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17814
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:02:44.000Z",
+        "description": "enfp不快乐小咪丨天蝎丨168cm 75kg丨年龄是永远18岁丨屁话巨多的碎碎念大王\r一个喜欢欣赏美好肉体的淳朴小女孩😋只是爱说骚话我真的不看🐮不yp不陪聊",
+        "id": "1084526175727185920",
+        "location": "老婆的怀里",
+        "name": "Yukominami",
+        "pinned_tweet_id": "2073430751228633574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059467800499122176/fQznr4xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 440,
+          "like_count": 13627,
+          "listed_count": 3,
+          "media_count": 1022,
+          "tweet_count": 5014
+        },
+        "url": "",
+        "username": "yukominami520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T17:20:07.000Z",
+        "description": "",
+        "id": "1879216872102711296",
+        "name": "寄寄子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879217660938055680/l8Av3K9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 125,
+          "like_count": 32993,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "wbde2Z1Pz673486",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-18T05:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056249241006395577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053435734737186816",
+          "start": 0,
+          "username": "xingstaro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056249241006395577",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056235871817589089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingstaro 唑吡坦是神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T05:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056249241006395577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056249241006395577",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 唑吡坦是神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T04:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056235871817589089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056235871817589089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是中推药圈欣赏思诺思的首批人，那是右美风靡一时盛行无比、pr80还在地上玩泥巴的时代，内网有网友请我做毕业论文问卷，让我回答对od的看法和经历\n我说我吃思诺思，对方：？这是啥\n\n当时居然没有多少人意识到思诺思具备娱乐潜力，恶评更是数不胜数，直到右美倒台，思诺思才出现在大众视野"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14983,
+          "following_count": 748,
+          "like_count": 84409,
+          "listed_count": 14,
+          "media_count": 934,
+          "tweet_count": 17518
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 274,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 373
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

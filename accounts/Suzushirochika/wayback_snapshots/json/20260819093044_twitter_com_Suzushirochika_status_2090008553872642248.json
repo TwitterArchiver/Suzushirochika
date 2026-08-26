@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2089977800568754383",
+    "created_at": "2026-08-19T09:30:44.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090008553872642248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Kitsunetenchou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090008553872642248",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089977800568754383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitsunetenchou 烤鸭🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2089977800568754383",
+        "created_at": "2026-08-19T09:30:44.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090008553872642248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Kitsunetenchou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090008553872642248",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089977800568754383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitsunetenchou 烤鸭🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383940842239381510",
+        "conversation_id": "2089977800568754383",
+        "created_at": "2026-08-19T07:28:32.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089977800568754383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089977800568754383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "_(:з」∠)_中午吃了太多烧鸭和烧肉而感到不舒服中...."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090008553872642248",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15046,
+          "following_count": 751,
+          "like_count": 87979,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18080
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/烟鬼/电脑配件零售商（好友特价日常）/亞空間生物/Waaagh!!/厌恶键政仔，跳脸会B/tl大清洗中..../🚪=15x LEDX/15x Defib/100x 闪耀世界医药/受狐喜爱的兔叽 @0xo_snow (煲汤预备\n/陷入沉思",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1383940842239381510",
+        "is_identity_verified": false,
+        "location": "亚空间",
+        "most_recent_tweet_id": "2090005080267501690",
+        "name": "狐店長🦴「塔科夫之狐」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383940842239381510/1778421124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082742635954118656/7xaGMOfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2839,
+          "following_count": 908,
+          "like_count": 122460,
+          "listed_count": 21,
+          "media_count": 13369,
+          "tweet_count": 104452
+        },
+        "url": "",
+        "username": "Kitsunetenchou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

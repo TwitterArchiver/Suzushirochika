@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2052343574818361631",
+    "created_at": "2026-05-07T12:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052370888771924254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052370888771924254",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052343574818361631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 摸摸遥酱😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2052343566027141120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtjmXobMAAZHRU.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2052343574818361631",
+        "created_at": "2026-05-07T12:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052370888771924254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052370888771924254",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052343574818361631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 摸摸遥酱😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052343566027141120"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2052343574818361631",
+        "created_at": "2026-05-07T11:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052343574818361631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1m6JgJO0ZP",
+              "end": 151,
+              "expanded_url": "https://x.com/Miiharukawa/status/2052343574818361631/photo/1",
+              "media_key": "3_2052343566027141120",
+              "start": 128,
+              "url": "https://t.co/1m6JgJO0ZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052343574818361631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2142,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈个逼我第一次知道牙髓炎还能母女隔空传染。我受够了他妈的。你痛你就好好说话我给你钱好了，为什么要说我传染的。真气哭了关我屁事啊我自己也好崩溃啊胃一直痛明天还要再去做根管我就很容易吗钱都是我自己挣自己掏 生活费也没给我发 我也只是一个刚上大学的普通人而已。 https://t.co/1m6JgJO0ZP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14981,
+          "following_count": 751,
+          "like_count": 84170,
+          "listed_count": 14,
+          "media_count": 930,
+          "tweet_count": 17460
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 215,
+          "like_count": 6921,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 2687
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1896376715699740885",
+    "created_at": "2025-03-04T08:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T09:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896841546999402814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1643892668668452864",
+          "start": 0,
+          "username": "zhangji69081059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896841546999402814",
+    "in_reply_to_user_id": "1643892668668452864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896376715699740885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangji69081059 皮蛋 香菜 洋葱 肥肠 臭豆腐 肝脏都可以！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1896376691536138240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlFIjbNXkAARP90.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1896376715699740885",
+        "created_at": "2025-03-04T08:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T09:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896841546999402814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1643892668668452864",
+              "start": 0,
+              "username": "zhangji69081059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896841546999402814",
+        "in_reply_to_user_id": "1643892668668452864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896376715699740885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangji69081059 皮蛋 香菜 洋葱 肥肠 臭豆腐 肝脏都可以！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896376691536138240"
+          ]
+        },
+        "author_id": "1643892668668452864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1896376715699740885",
+        "created_at": "2025-03-03T01:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T02:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896376715699740885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P4aPgl5udU",
+              "end": 49,
+              "expanded_url": "https://x.com/zhangji69081059/status/1896376715699740885/photo/1",
+              "media_key": "3_1896376691536138240",
+              "start": 26,
+              "url": "https://t.co/P4aPgl5udU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896376715699740885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 455853,
+          "like_count": 1165,
+          "quote_count": 57,
+          "reply_count": 1380,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "真的有能吃五种以上的人吗？  有没有能通杀的勇士！ https://t.co/P4aPgl5udU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13918,
+          "following_count": 852,
+          "like_count": 79226,
+          "listed_count": 22,
+          "media_count": 927,
+          "tweet_count": 16805
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T08:26:09.000Z",
+        "description": "互粉！互粉！",
+        "id": "1643892668668452864",
+        "name": "长颈鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643902775418552320/hpztB6vA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17991,
+          "following_count": 19654,
+          "like_count": 12233,
+          "listed_count": 16,
+          "media_count": 5943,
+          "tweet_count": 6090
+        },
+        "username": "zhangji69081059",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893897860246065152",
+        "3_1893897860225126400",
+        "3_1893897823093145600",
+        "3_1893897836900888576"
+      ],
+      "media_source_tweet_id": [
+        "1893994291770573030",
+        "1893994291770573030",
+        "1893994291770573030",
+        "1893994291770573030"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1894419048513114187",
+    "created_at": "2025-02-25T16:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T17:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894419048513114187"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419597578866335744",
+          "start": 3,
+          "username": "ArameDraw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WgU5JAnM5N",
+          "end": 61,
+          "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+          "media_key": "3_1893897860246065152",
+          "start": 38,
+          "url": "https://t.co/WgU5JAnM5N"
+        },
+        {
+          "display_url": "pic.x.com/WgU5JAnM5N",
+          "end": 61,
+          "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+          "media_key": "3_1893897860225126400",
+          "start": 38,
+          "url": "https://t.co/WgU5JAnM5N"
+        },
+        {
+          "display_url": "pic.x.com/WgU5JAnM5N",
+          "end": 61,
+          "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+          "media_key": "3_1893897823093145600",
+          "start": 38,
+          "url": "https://t.co/WgU5JAnM5N"
+        },
+        {
+          "display_url": "pic.x.com/WgU5JAnM5N",
+          "end": 61,
+          "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+          "media_key": "3_1893897836900888576",
+          "start": 38,
+          "url": "https://t.co/WgU5JAnM5N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894419048513114187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1740
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893994291770573030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArameDraw: #ぼっち・ざ・ろっく\n全員描けた―！まとめ！ https://t.co/WgU5JAnM5N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1893897860246065152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkh6EdDW0AAb4pB.jpg",
+        "width": 850
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1893897860225126400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkh6Ec-XUAA9E2V.jpg",
+        "width": 850
+      },
+      {
+        "height": 1416,
+        "media_key": "3_1893897823093145600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkh6CSpaQAAvmHI.jpg",
+        "width": 1003
+      },
+      {
+        "height": 1416,
+        "media_key": "3_1893897836900888576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkh6DGFbsAA_aZr.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893897860246065152",
+            "3_1893897860225126400",
+            "3_1893897823093145600",
+            "3_1893897836900888576"
+          ],
+          "media_source_tweet_id": [
+            "1893994291770573030",
+            "1893994291770573030",
+            "1893994291770573030",
+            "1893994291770573030"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1894419048513114187",
+        "created_at": "2025-02-25T16:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894419048513114187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419597578866335744",
+              "start": 3,
+              "username": "ArameDraw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WgU5JAnM5N",
+              "end": 61,
+              "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+              "media_key": "3_1893897860246065152",
+              "start": 38,
+              "url": "https://t.co/WgU5JAnM5N"
+            },
+            {
+              "display_url": "pic.x.com/WgU5JAnM5N",
+              "end": 61,
+              "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+              "media_key": "3_1893897860225126400",
+              "start": 38,
+              "url": "https://t.co/WgU5JAnM5N"
+            },
+            {
+              "display_url": "pic.x.com/WgU5JAnM5N",
+              "end": 61,
+              "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+              "media_key": "3_1893897823093145600",
+              "start": 38,
+              "url": "https://t.co/WgU5JAnM5N"
+            },
+            {
+              "display_url": "pic.x.com/WgU5JAnM5N",
+              "end": 61,
+              "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+              "media_key": "3_1893897836900888576",
+              "start": 38,
+              "url": "https://t.co/WgU5JAnM5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894419048513114187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1740
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893994291770573030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArameDraw: #ぼっち・ざ・ろっく\n全員描けた―！まとめ！ https://t.co/WgU5JAnM5N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893897860246065152",
+            "3_1893897860225126400",
+            "3_1893897823093145600",
+            "3_1893897836900888576"
+          ]
+        },
+        "author_id": "1419597578866335744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1893994291770573030",
+        "created_at": "2025-02-24T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893994291770573030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WgU5JAnM5N",
+              "end": 46,
+              "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+              "media_key": "3_1893897860246065152",
+              "start": 23,
+              "url": "https://t.co/WgU5JAnM5N"
+            },
+            {
+              "display_url": "pic.x.com/WgU5JAnM5N",
+              "end": 46,
+              "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+              "media_key": "3_1893897860225126400",
+              "start": 23,
+              "url": "https://t.co/WgU5JAnM5N"
+            },
+            {
+              "display_url": "pic.x.com/WgU5JAnM5N",
+              "end": 46,
+              "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+              "media_key": "3_1893897823093145600",
+              "start": 23,
+              "url": "https://t.co/WgU5JAnM5N"
+            },
+            {
+              "display_url": "pic.x.com/WgU5JAnM5N",
+              "end": 46,
+              "expanded_url": "https://x.com/ArameDraw/status/1893994291770573030/photo/1",
+              "media_key": "3_1893897836900888576",
+              "start": 23,
+              "url": "https://t.co/WgU5JAnM5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893994291770573030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1524,
+          "impression_count": 218873,
+          "like_count": 13675,
+          "quote_count": 16,
+          "reply_count": 17,
+          "retweet_count": 1740
+        },
+        "reply_settings": "everyone",
+        "text": "#ぼっち・ざ・ろっく\n全員描けた―！まとめ！ https://t.co/WgU5JAnM5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13900,
+          "following_count": 852,
+          "like_count": 79094,
+          "listed_count": 22,
+          "media_count": 925,
+          "tweet_count": 16776
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T09:56:58.000Z",
+        "description": "何かあればDMかメールまで✨ Skeb→https://t.co/SNBGlyExPc FANBOX→https://t.co/Y21lZg1sj3 メール→aramedraw@gmail.com https://t.co/ndVfJQdcVe うちの子FA感想→#あらめどろう",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 132,
+                "tag": "あらめどろう"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ArameDraw",
+                "end": 43,
+                "expanded_url": "http://skeb.jp/@ArameDraw",
+                "start": 20,
+                "url": "https://t.co/SNBGlyExPc"
+              },
+              {
+                "display_url": "aramedraw.fanbox.cc",
+                "end": 74,
+                "expanded_url": "http://aramedraw.fanbox.cc",
+                "start": 51,
+                "url": "https://t.co/Y21lZg1sj3"
+              },
+              {
+                "display_url": "youtube.com/@ARAMEDRAW",
+                "end": 122,
+                "expanded_url": "https://www.youtube.com/@ARAMEDRAW",
+                "start": 99,
+                "url": "https://t.co/ndVfJQdcVe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/Aram…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/ArameDraw",
+                "start": 0,
+                "url": "https://t.co/pE8NXyXSdV"
+              }
+            ]
+          }
+        },
+        "id": "1419597578866335744",
+        "location": "AI学習✖️無断転載、無断利用も✖️",
+        "name": "あらめ",
+        "pinned_tweet_id": "1887641362683863185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882557192307695617/BQ7_ybaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5914,
+          "following_count": 371,
+          "like_count": 5841,
+          "listed_count": 67,
+          "media_count": 974,
+          "tweet_count": 10543
+        },
+        "url": "https://t.co/pE8NXyXSdV",
+        "username": "ArameDraw",
+        "verified": false
+      }
+    ]
+  }
+}

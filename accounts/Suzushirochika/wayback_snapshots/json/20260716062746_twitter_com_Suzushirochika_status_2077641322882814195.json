@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2077419199975301127",
+    "created_at": "2026-07-16T06:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077641322882814195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639247931898306561",
+          "start": 0,
+          "username": "sam51824016070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077641322882814195",
+    "in_reply_to_user_id": "1639247931898306561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077419199975301127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sam51824016070 太坏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14058,
+        "height": 720,
+        "media_key": "7_2077419160955736065",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2077419160955736065/pu/img/c3eUiegeS56Be_aI.jpg",
+        "public_metrics": {
+          "view_count": 166885
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077419160955736065/pu/vid/avc1/360x270/zHd8AqhSlJNNDoat.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077419160955736065/pu/vid/avc1/480x360/EsZPs7DH5qjQNp56.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077419160955736065/pu/vid/avc1/960x720/kYjKcEcO1hFkQavd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2077419160955736065/pu/pl/tPNIrZnSD9ZRej3W.m3u8?v=827"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2077419199975301127",
+        "created_at": "2026-07-16T06:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077641322882814195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639247931898306561",
+              "start": 0,
+              "username": "sam51824016070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077641322882814195",
+        "in_reply_to_user_id": "1639247931898306561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077419199975301127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sam51824016070 太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2077419160955736065"
+          ]
+        },
+        "author_id": "1639247931898306561",
+        "conversation_id": "2077419199975301127",
+        "created_at": "2026-07-15T15:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077419199975301127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3wvtcijII",
+              "end": 81,
+              "expanded_url": "https://x.com/sam51824016070/status/2077419199975301127/video/1",
+              "media_key": "7_2077419160955736065",
+              "start": 58,
+              "url": "https://t.co/T3wvtcijII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077419199975301127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 276055,
+          "like_count": 999,
+          "quote_count": 3,
+          "reply_count": 91,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "主播我姓“习” 你可以用姓加上“包子”叫我吗？\n\n配合的主播马上就送出了“习包子”，结果抖音直播间和账号被秒封🤪。 https://t.co/T3wvtcijII"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15054,
+          "following_count": 752,
+          "like_count": 86716,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17882
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "共产党那么邪恶，如果我们不反共，我们还是人吗❓\n\n爱国就反共，反共才是真爱国，没有共产党才有新中国，爱国反共，反共光荣，亲共可耻！\n\n请关注小号https://t.co/dllXpw0KFa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 95,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 72,
+                "url": "https://t.co/dllXpw0KFa"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "2043574281398091860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41687,
+          "following_count": 11703,
+          "like_count": 59520,
+          "listed_count": 200,
+          "media_count": 5161,
+          "tweet_count": 15099
+        },
+        "url": "",
+        "username": "sam51824016070",
+        "verified": true
+      }
+    ]
+  }
+}

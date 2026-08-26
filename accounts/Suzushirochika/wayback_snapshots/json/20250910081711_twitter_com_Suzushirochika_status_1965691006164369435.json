@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1965195085395701908",
+    "created_at": "2025-09-10T08:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T09:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965691006164369435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893280336534216706",
+          "start": 0,
+          "username": "mtnyan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965691006164369435",
+    "in_reply_to_user_id": "1893280336534216706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965195085395701908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtnyan8964 校领导是天气之子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_1965195078672285698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0XGgxKbgAI2JlG.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1965195085395701908",
+        "created_at": "2025-09-10T08:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965691006164369435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893280336534216706",
+              "start": 0,
+              "username": "mtnyan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965691006164369435",
+        "in_reply_to_user_id": "1893280336534216706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965195085395701908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtnyan8964 校领导是天气之子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965195078672285698"
+          ]
+        },
+        "author_id": "1893280336534216706",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965195085395701908",
+        "created_at": "2025-09-08T23:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T00:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965195085395701908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DJ2Z7dwrx",
+              "end": 23,
+              "expanded_url": "https://x.com/mtnyan8964/status/1965195085395701908/photo/1",
+              "media_key": "3_1965195078672285698",
+              "start": 0,
+              "url": "https://t.co/5DJ2Z7dwrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965195085395701908",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17951,
+          "like_count": 224,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5DJ2Z7dwrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "pinned_tweet_id": "1593184193613553664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14592,
+          "following_count": 835,
+          "like_count": 79775,
+          "listed_count": 24,
+          "media_count": 893,
+          "tweet_count": 16733
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T12:43:12.000Z",
+        "description": "喵呜~",
+        "id": "1893280336534216706",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱",
+        "pinned_tweet_id": "1964198000668155924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961227208519028737/3F0v-y9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 846,
+          "like_count": 3825,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 865
+        },
+        "username": "mtnyan8964",
+        "verified": true
+      }
+    ]
+  }
+}

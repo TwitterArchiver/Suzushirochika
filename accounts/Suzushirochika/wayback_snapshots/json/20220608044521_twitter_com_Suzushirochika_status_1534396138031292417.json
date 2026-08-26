@@ -1,0 +1,442 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jun 08 04:45:21 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 267695291,
+        "id_str": "267695291",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "巴丢草 Badiucao💉💉",
+        "screen_name": "badiucao"
+      },
+      {
+        "id": 1272405078683430913,
+        "id_str": "1272405078683430913",
+        "indices": [
+          38,
+          47
+        ],
+        "name": "🚩葉洪文🏴习近平",
+        "screen_name": "49addict"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1534396138031292417,
+  "id_str": "1534396138031292417",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 08 01:57:30 +0000 2022",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1534353898538156032",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/PdDUCogHzl"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1272405078683430913,
+          "id_str": "1272405078683430913",
+          "indices": [
+            24,
+            33
+          ],
+          "name": "🚩葉洪文🏴习近平",
+          "screen_name": "49addict"
+        }
+      ]
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KGD8UqdnHt",
+            "expanded_url": "https://twitter.com/badiucao/status/1534353898538156032/photo/1",
+            "id": 1534353792967524353,
+            "id_str": "1534353792967524353",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUsepTWaQAE1Csl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUsepTWaQAE1Csl.jpg",
+            "sizes": {
+              "large": {
+                "h": 1098,
+                "resize": "fit",
+                "w": 749
+              },
+              "medium": {
+                "h": 1098,
+                "resize": "fit",
+                "w": 749
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 464
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KGD8UqdnHt"
+          },
+          {
+            "display_url": "pic.twitter.com/KGD8UqdnHt",
+            "expanded_url": "https://twitter.com/badiucao/status/1534353898538156032/photo/1",
+            "id": 1534353792967544832,
+            "id_str": "1534353792967544832",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUsepTWakAApAe6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUsepTWakAApAe6.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KGD8UqdnHt"
+          },
+          {
+            "display_url": "pic.twitter.com/KGD8UqdnHt",
+            "expanded_url": "https://twitter.com/badiucao/status/1534353898538156032/photo/1",
+            "id": 1534353792967516160,
+            "id_str": "1534353792967516160",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUsepTWaIAAyiuq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUsepTWaIAAyiuq.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1830
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1072
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 608
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KGD8UqdnHt"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1272405078683430913,
+            "id_str": "1272405078683430913",
+            "indices": [
+              24,
+              33
+            ],
+            "name": "🚩葉洪文🏴习近平",
+            "screen_name": "49addict"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KGD8UqdnHt",
+            "expanded_url": "https://twitter.com/badiucao/status/1534353898538156032/photo/1",
+            "id": 1534353792967524353,
+            "id_str": "1534353792967524353",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUsepTWaQAE1Csl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUsepTWaQAE1Csl.jpg",
+            "sizes": {
+              "large": {
+                "h": 1098,
+                "resize": "fit",
+                "w": 749
+              },
+              "medium": {
+                "h": 1098,
+                "resize": "fit",
+                "w": 749
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 464
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KGD8UqdnHt"
+          },
+          {
+            "display_url": "pic.twitter.com/KGD8UqdnHt",
+            "expanded_url": "https://twitter.com/badiucao/status/1534353898538156032/photo/1",
+            "id": 1534353792967544832,
+            "id_str": "1534353792967544832",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUsepTWakAApAe6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUsepTWakAApAe6.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KGD8UqdnHt"
+          },
+          {
+            "display_url": "pic.twitter.com/KGD8UqdnHt",
+            "expanded_url": "https://twitter.com/badiucao/status/1534353898538156032/photo/1",
+            "id": 1534353792967516160,
+            "id_str": "1534353792967516160",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUsepTWaIAAyiuq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUsepTWaIAAyiuq.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1830
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1072
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 608
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KGD8UqdnHt"
+          }
+        ]
+      },
+      "full_text": "1. Chinese twitter user @49addict is missing from Twitter after cosplaying tankman on Tiananmen Massacre anniversary 2022.\nVery worried about his situation.\nNo update since the last post of those photos.\nHope this brave young man is safe and free. \n\nPlease support him ❤️💪 https://t.co/KGD8UqdnHt"
+    },
+    "favorite_count": 240,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1534353898538156032,
+    "id_str": "1534353898538156032",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 3,
+    "reply_count": 9,
+    "retweet_count": 103,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "1. Chinese twitter user @49addict is missing from Twitter after cosplaying tankman on Tiananmen Massacre anniversar… https://t.co/PdDUCogHzl",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 17 11:22:49 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Chinese Artist hated by CCP/ Cartoonist for @theage @smh /Activist/Human rights/Anti-racism/DM for original art / NFT for Ukraine http://Badiucao.com",
+      "favourites_count": 41635,
+      "follow_request_sent": null,
+      "followers_count": 104184,
+      "following": null,
+      "friends_count": 15731,
+      "geo_enabled": false,
+      "id": 267695291,
+      "id_str": "267695291",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 819,
+      "location": null,
+      "name": "巴丢草 Badiucao💉💉",
+      "notifications": null,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1654344600",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1251816290211082240/jo1xNu8y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251816290211082240/jo1xNu8y_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "badiucao",
+      "statuses_count": 198093,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://badiucao.com",
+      "utc_offset": null,
+      "verified": true,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @badiucao: 1. Chinese twitter user @49addict is missing from Twitter after cosplaying tankman on Tiananmen Massacre anniversary 2022.\nVe…",
+  "timestamp_ms": "1654663521665",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Apr 23 12:00:18 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "Day4🕯@49addict",
+    "favourites_count": 62198,
+    "follow_request_sent": null,
+    "followers_count": 6876,
+    "following": null,
+    "friends_count": 995,
+    "geo_enabled": true,
+    "id": 1253292430792839174,
+    "id_str": "1253292430792839174",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 15,
+    "location": "菲利亚女子学院",
+    "name": "🏳️‍⚧️铃白千夏Paranoia",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1652629127",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1529059563256750081/tCfS1kQM_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1529059563256750081/tCfS1kQM_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Suzushirochika",
+    "statuses_count": 10617,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

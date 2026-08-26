@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090725021652283392"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090437215155630355",
+    "created_at": "2026-08-21T08:57:44.000Z",
+    "display_text_range": [
+      11,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090725026765172808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070541460659924992",
+          "start": 0,
+          "username": "Kiri_yume1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3QElXtWxi",
+          "end": 35,
+          "expanded_url": "https://x.com/Suzushirochika/status/2090725026765172808/photo/1",
+          "media_key": "3_2090725021652283392",
+          "start": 12,
+          "url": "https://t.co/G3QElXtWxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090725026765172808",
+    "in_reply_to_user_id": "2070541460659924992",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090725021652283392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090437215155630355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiri_yume1 https://t.co/G3QElXtWxi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2090725021652283392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQO_VH6a8AAPwll.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090725021652283392"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090437215155630355",
+        "created_at": "2026-08-21T08:57:44.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090725026765172808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070541460659924992",
+              "start": 0,
+              "username": "Kiri_yume1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3QElXtWxi",
+              "end": 35,
+              "expanded_url": "https://x.com/Suzushirochika/status/2090725026765172808/photo/1",
+              "media_key": "3_2090725021652283392",
+              "start": 12,
+              "url": "https://t.co/G3QElXtWxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090725026765172808",
+        "in_reply_to_user_id": "2070541460659924992",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090725021652283392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090437215155630355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiri_yume1 https://t.co/G3QElXtWxi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070541460659924992",
+        "conversation_id": "2090437215155630355",
+        "created_at": "2026-08-20T13:54:05.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090437215155630355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090437215155630355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "变强的好处就是可以把看不起的人踩在脚下\n但是丝袜弄脏了，好麻烦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090725026765172808",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15059,
+          "following_count": 754,
+          "like_count": 88174,
+          "listed_count": 14,
+          "media_count": 958,
+          "tweet_count": 18121
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "其实是ロプ三代目 || 放弃社交",
+        "id": "2070541460659924992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090698548396601822",
+        "name": "Kiriyume",
+        "pinned_tweet_id": "2070546609449173327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070541460659924992/1787152678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090095888580714496/d58BHUn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 138,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

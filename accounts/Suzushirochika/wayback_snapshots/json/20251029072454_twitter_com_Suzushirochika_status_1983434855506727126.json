@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1983181238606450897",
+    "created_at": "2025-10-29T07:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T08:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983434855506727126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983434855506727126",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983181238606450897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 有可能是雄激素受体不敏感（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1983181238606450897",
+        "created_at": "2025-10-29T07:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T08:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983434855506727126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983434855506727126",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983181238606450897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 有可能是雄激素受体不敏感（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "1983181238606450897",
+        "created_at": "2025-10-28T14:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983181238606450897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983181238606450897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6527,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "染色体检查结果是46,XY，那关于为什么雌雄双高的问题。。。\n我该考虑我肝脏是不是废了啊，可能一直都是没有什么功能的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14715,
+          "following_count": 831,
+          "like_count": 78537,
+          "listed_count": 23,
+          "media_count": 896,
+          "tweet_count": 16771
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同；仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘；是星眠的日常碎碎念号；半个软件工程师加半个音乐人；在努力成为艺术家和技术大佬的路上；有自己的一套审美标准；会转很多自己觉得漂亮的画；不定期推歌；文学少女；古风/汉服女；北京的小女孩来找我玩",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "1975169707985486036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 3087,
+          "like_count": 2930,
+          "listed_count": 3,
+          "media_count": 552,
+          "tweet_count": 6457
+        },
+        "username": "hoshinemu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090464486276907166",
+    "created_at": "2026-08-21T10:09:57.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090743199640002937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2065075114178416640",
+          "start": 0,
+          "username": "guaax37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090743199640002937",
+    "in_reply_to_user_id": "2065075114178416640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090742824950280410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guaax37 一定很辛苦 很强…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090464486276907166",
+        "created_at": "2026-08-21T10:09:57.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090743199640002937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2065075114178416640",
+              "start": 0,
+              "username": "guaax37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090743199640002937",
+        "in_reply_to_user_id": "2065075114178416640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090742824950280410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guaax37 一定很辛苦 很强…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065075114178416640",
+        "conversation_id": "2090464486276907166",
+        "created_at": "2026-08-21T10:08:28.000Z",
+        "display_text_range": [
+          16,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090742824950280410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090742824950280410",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090464486276907166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 高一休学整个高中就没念，就去外地自己读了直到考上大学"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090743199640002937",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15061,
+          "following_count": 754,
+          "like_count": 88198,
+          "listed_count": 14,
+          "media_count": 959,
+          "tweet_count": 18134
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T14:15:08.000Z",
+        "description": "太坏了，是人，是老鼠，是屌丝\n臭挂壁的",
+        "id": "2065075114178416640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090742824950280410",
+        "name": "gua",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065075114178416640/1781320339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088953341489602560/WoSbem4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 35,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "guaax37",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

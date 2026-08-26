@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1953695591843999829",
+    "created_at": "2025-08-08T10:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T11:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953761641272947049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1524331133856784384",
+          "start": 0,
+          "username": "SnAraAra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953761641272947049",
+    "in_reply_to_user_id": "1524331133856784384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953695591843999829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnAraAra 轻音少女/摇曳露营，非常轻松愉快！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1953695591843999829",
+        "created_at": "2025-08-08T10:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953761641272947049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1524331133856784384",
+              "start": 0,
+              "username": "SnAraAra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953761641272947049",
+        "in_reply_to_user_id": "1524331133856784384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953695591843999829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnAraAra 轻音少女/摇曳露营，非常轻松愉快！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524331133856784384",
+        "conversation_id": "1953695591843999829",
+        "created_at": "2025-08-08T05:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T06:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953695591843999829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953695591843999829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复活!!!今天开始重新看番!\n今天看的是(败犬女主太多了)\n有推荐的番吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14531,
+          "following_count": 837,
+          "like_count": 79885,
+          "listed_count": 24,
+          "media_count": 934,
+          "tweet_count": 16885
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T10:10:48.000Z",
+        "description": "可以称呼我小芬，精神分裂患者因为病症的问题所以我脑子里大部分都是消极的想法\n希望我搬运的有趣图片和帖子可以缓解你当前的焦虑和不开心。\n是树洞推主，欢迎找我聊天哦。\n如果没有回复私信就是没看到，请稍等捏",
+        "id": "1524331133856784384",
+        "location": "距你500m",
+        "name": "芬·里卡",
+        "pinned_tweet_id": "1904168069850873922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889140590203617280/z_JkAXQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6942,
+          "following_count": 464,
+          "like_count": 10411,
+          "listed_count": 8,
+          "media_count": 1298,
+          "tweet_count": 4131
+        },
+        "username": "SnAraAra",
+        "verified": false
+      }
+    ]
+  }
+}

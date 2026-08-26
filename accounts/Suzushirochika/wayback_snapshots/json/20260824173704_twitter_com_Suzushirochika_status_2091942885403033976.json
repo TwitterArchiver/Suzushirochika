@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2091911277069345018",
+    "created_at": "2026-08-24T17:37:04.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091942885403033976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1406710586608652289",
+          "start": 0,
+          "username": "ruririru7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091942885403033976",
+    "in_reply_to_user_id": "1406710586608652289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091911277069345018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruririru7 比企谷来了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2091911277069345018",
+        "created_at": "2026-08-24T17:37:04.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091942885403033976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1406710586608652289",
+              "start": 0,
+              "username": "ruririru7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091942885403033976",
+        "in_reply_to_user_id": "1406710586608652289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091911277069345018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruririru7 比企谷来了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406710586608652289",
+        "conversation_id": "2091911277069345018",
+        "created_at": "2026-08-24T15:31:28.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091911277069345018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091911277069345018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌温柔的人。温柔的人其实对所有人都温柔，我却会误以为只对我温柔，然后就沾沾自喜得意忘形，最后闹得不欢而散，双方都受到伤害。所以我才讨厌温柔的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091942885403033976",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15097,
+          "following_count": 756,
+          "like_count": 88619,
+          "listed_count": 14,
+          "media_count": 960,
+          "tweet_count": 18188
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-20T20:28:43.000Z",
+        "description": "愿所有宝宝都能被温柔以待｜可以和我一起玩吗｜（168/52）",
+        "id": "1406710586608652289",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091911277069345018",
+        "name": "恋し🌸",
+        "pinned_tweet_id": "2082329423932793333",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1406710586608652289/1771879221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064060311863517185/CWRtACGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 80,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "ruririru7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

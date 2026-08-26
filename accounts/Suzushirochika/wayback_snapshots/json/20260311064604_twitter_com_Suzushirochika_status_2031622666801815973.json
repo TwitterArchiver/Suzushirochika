@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2031398929477275833",
+    "created_at": "2026-03-11T06:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T07:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031622666801815973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753433273865498624",
+          "start": 0,
+          "username": "qiaoke_choco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031622666801815973",
+    "in_reply_to_user_id": "1753433273865498624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031398929477275833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiaoke_choco 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2031398916378472449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDD6jTfaMAE45ly.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2031398929477275833",
+        "created_at": "2026-03-11T06:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031622666801815973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753433273865498624",
+              "start": 0,
+              "username": "qiaoke_choco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031622666801815973",
+        "in_reply_to_user_id": "1753433273865498624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031398929477275833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiaoke_choco 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031398916378472449"
+          ]
+        },
+        "author_id": "1753433273865498624",
+        "conversation_id": "2031398929477275833",
+        "created_at": "2026-03-10T15:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031398929477275833"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "伪娘"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcBcOOUvSm",
+              "end": 47,
+              "expanded_url": "https://x.com/qiaoke_choco/status/2031398929477275833/photo/1",
+              "media_key": "3_2031398916378472449",
+              "start": 24,
+              "url": "https://t.co/fcBcOOUvSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031398929477275833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2444,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "朋友说这张好看\n#可爱的男孩子 #伪娘 #男娘 https://t.co/fcBcOOUvSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14892,
+          "following_count": 752,
+          "like_count": 81727,
+          "listed_count": 13,
+          "media_count": 911,
+          "tweet_count": 17032
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T15:00:58.000Z",
+        "description": "“反正就是，成分複雜音遊人？” 你好喵，我是巧克（喜欢吃巧克力｜只是伪娘｜玩MC/FPS｜泛ACGN/搞计算机｜互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chocoqaq.com",
+                "end": 23,
+                "expanded_url": "http://chocoqaq.com",
+                "start": 0,
+                "url": "https://t.co/PKEaSDYDSL"
+              }
+            ]
+          }
+        },
+        "id": "1753433273865498624",
+        "location": "East Asia",
+        "name": "南雲チョコ🍫🍰🍮🍙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020527726277570560/1ebi-zik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 443,
+          "like_count": 5128,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1036
+        },
+        "url": "https://t.co/PKEaSDYDSL",
+        "username": "qiaoke_choco",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2068898121749573903",
+    "created_at": "2026-06-23T00:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069218139414638975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1468680674458488833",
+          "start": 0,
+          "username": "Doll070707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069218139414638975",
+    "in_reply_to_user_id": "1468680674458488833",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068898121749573903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doll070707 （"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2068898121749573903",
+        "created_at": "2026-06-23T00:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069218139414638975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468680674458488833",
+              "start": 0,
+              "username": "Doll070707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069218139414638975",
+        "in_reply_to_user_id": "1468680674458488833",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068898121749573903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doll070707 （"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468680674458488833",
+        "conversation_id": "2068898121749573903",
+        "created_at": "2026-06-22T03:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068898121749573903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068898121749573903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1686,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女的od完全性冷淡知道不😂😂男的就不一样随便都能，女的就不是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14971,
+          "following_count": 746,
+          "like_count": 85094,
+          "listed_count": 14,
+          "media_count": 942,
+          "tweet_count": 17666
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T20:35:47.000Z",
+        "description": "扩列52谁想加我",
+        "id": "1468680674458488833",
+        "name": "yd",
+        "pinned_tweet_id": "1998762211867766834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893254177893060608/Hu16SB4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 120,
+          "like_count": 795,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "Doll070707",
+        "verified": false
+      }
+    ]
+  }
+}

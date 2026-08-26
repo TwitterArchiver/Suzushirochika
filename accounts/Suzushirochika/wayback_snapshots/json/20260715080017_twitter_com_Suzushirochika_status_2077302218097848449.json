@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2077044207668396422",
+    "created_at": "2026-07-15T08:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077302218097848449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1749798935357767680",
+          "start": 0,
+          "username": "Nameiccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077302218097848449",
+    "in_reply_to_user_id": "1749798935357767680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077044207668396422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nameiccc 宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2077044198348623872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMksZlbEAAmkIf.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2077044207668396422",
+        "created_at": "2026-07-15T08:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077302218097848449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749798935357767680",
+              "start": 0,
+              "username": "Nameiccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077302218097848449",
+        "in_reply_to_user_id": "1749798935357767680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077044207668396422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nameiccc 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077044198348623872"
+          ]
+        },
+        "author_id": "1749798935357767680",
+        "conversation_id": "2077044207668396422",
+        "created_at": "2026-07-14T14:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077044207668396422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8znsbijfE",
+              "end": 26,
+              "expanded_url": "https://x.com/Nameiccc/status/2077044207668396422/photo/1",
+              "media_key": "3_2077044198348623872",
+              "start": 3,
+              "url": "https://t.co/T8znsbijfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077044207668396422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21997,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝 https://t.co/T8znsbijfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15052,
+          "following_count": 752,
+          "like_count": 86605,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17869
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T14:19:18.000Z",
+        "description": "把我当傻子看就行了",
+        "id": "1749798935357767680",
+        "name": "海克斯科技",
+        "pinned_tweet_id": "2037652562296615053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884611841625890816/fNfl7BWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67799,
+          "following_count": 22,
+          "like_count": 1275,
+          "listed_count": 150,
+          "media_count": 398,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "Nameiccc",
+        "verified": true
+      }
+    ]
+  }
+}

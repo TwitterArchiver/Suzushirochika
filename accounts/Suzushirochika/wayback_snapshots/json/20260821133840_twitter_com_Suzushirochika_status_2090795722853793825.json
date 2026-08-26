@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2090464486276907166",
+    "created_at": "2026-08-21T13:38:40.000Z",
+    "display_text_range": [
+      13,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090795722853793825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754805561856790528",
+          "start": 0,
+          "username": "Lenso946499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090795722853793825",
+    "in_reply_to_user_id": "1754805561856790528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090787885792497797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lenso946499 如果是以我本人的经验来讲，大学以前的教育环境和大学环境完全是两个世界……（虽然也不排除有一小部分的大学管的特别严……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2090464486276907166",
+        "created_at": "2026-08-21T13:38:40.000Z",
+        "display_text_range": [
+          13,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090795722853793825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754805561856790528",
+              "start": 0,
+              "username": "Lenso946499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090795722853793825",
+        "in_reply_to_user_id": "1754805561856790528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090787885792497797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lenso946499 如果是以我本人的经验来讲，大学以前的教育环境和大学环境完全是两个世界……（虽然也不排除有一小部分的大学管的特别严……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754805561856790528",
+        "conversation_id": "2090464486276907166",
+        "created_at": "2026-08-21T13:07:31.000Z",
+        "display_text_range": [
+          16,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090787885792497797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090787885792497797",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090464486276907166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 两年没去高中，最后好不容易考上了个大学，现在就很焦虑是否真的能适应校园环境。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090795722853793825",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15063,
+          "following_count": 755,
+          "like_count": 88242,
+          "listed_count": 14,
+          "media_count": 958,
+          "tweet_count": 18149
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T09:54:01.000Z",
+        "description": "FtX🏳️‍⚧️｜she/they｜18↑｜爱自言自语，可能有血图，很少发画没什么关注的必要，请当我不存在。餐券可互粉。",
+        "id": "1754805561856790528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090793143797158086",
+        "name": "塩",
+        "pinned_tweet_id": "1993292063908282455",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754805561856790528/1774667019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017509782362677248/UILw1QL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 419,
+          "like_count": 6085,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1904
+        },
+        "url": "",
+        "username": "Lenso946499",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

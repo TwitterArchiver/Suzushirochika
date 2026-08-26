@@ -1,0 +1,346 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 15 06:37:33 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          34,
+          40
+        ],
+        "text": "Ganyu"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/bTr3NWmHW7",
+        "expanded_url": "https://twitter.com/mementojai/status/1493104741282611201/photo/1",
+        "id": 1493104237764825091,
+        "id_str": "1493104237764825091",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/FLiSZLiaUAMvZXb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FLiSZLiaUAMvZXb.jpg",
+        "sizes": {
+          "large": {
+            "h": 1790,
+            "resize": "fit",
+            "w": 1400
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 939
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 532
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1493104741282611201,
+        "source_status_id_str": "1493104741282611201",
+        "source_user_id": 1319287977332240385,
+        "source_user_id_str": "1319287977332240385",
+        "type": "photo",
+        "url": "https://t.co/bTr3NWmHW7"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1319287977332240385,
+        "id_str": "1319287977332240385",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "memeno",
+        "screen_name": "mementojai"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/bTr3NWmHW7",
+        "expanded_url": "https://twitter.com/mementojai/status/1493104741282611201/photo/1",
+        "id": 1493104237764825091,
+        "id_str": "1493104237764825091",
+        "indices": [
+          41,
+          64
+        ],
+        "media_url": "http://pbs.twimg.com/media/FLiSZLiaUAMvZXb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FLiSZLiaUAMvZXb.jpg",
+        "sizes": {
+          "large": {
+            "h": 1790,
+            "resize": "fit",
+            "w": 1400
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 939
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 532
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1493104741282611201,
+        "source_status_id_str": "1493104741282611201",
+        "source_user_id": 1319287977332240385,
+        "source_user_id_str": "1319287977332240385",
+        "type": "photo",
+        "url": "https://t.co/bTr3NWmHW7"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1493474545272905728,
+  "id_str": "1493474545272905728",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 14 06:08:05 +0000 2022",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            18,
+            24
+          ],
+          "text": "Ganyu"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bTr3NWmHW7",
+          "expanded_url": "https://twitter.com/mementojai/status/1493104741282611201/photo/1",
+          "id": 1493104237764825091,
+          "id_str": "1493104237764825091",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLiSZLiaUAMvZXb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLiSZLiaUAMvZXb.jpg",
+          "sizes": {
+            "large": {
+              "h": 1790,
+              "resize": "fit",
+              "w": 1400
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 939
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 532
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bTr3NWmHW7"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bTr3NWmHW7",
+          "expanded_url": "https://twitter.com/mementojai/status/1493104741282611201/photo/1",
+          "id": 1493104237764825091,
+          "id_str": "1493104237764825091",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLiSZLiaUAMvZXb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLiSZLiaUAMvZXb.jpg",
+          "sizes": {
+            "large": {
+              "h": 1790,
+              "resize": "fit",
+              "w": 1400
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 939
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 532
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bTr3NWmHW7"
+        }
+      ]
+    },
+    "favorite_count": 88581,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1493104741282611201,
+    "id_str": "1493104741282611201",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 152,
+    "reply_count": 136,
+    "retweet_count": 15216,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Happy Valentine❤️💙#Ganyu https://t.co/bTr3NWmHW7",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 22 14:42:38 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "イラストレーター兼live2Dモデラ―です。可愛い女の子が大好きです。 ◆プロフィールなど→【https://potofu.me/nlho92u3?pub_id=nlho92u3】",
+      "favourites_count": 2064,
+      "follow_request_sent": null,
+      "followers_count": 99612,
+      "following": null,
+      "friends_count": 415,
+      "geo_enabled": false,
+      "id": 1319287977332240385,
+      "id_str": "1319287977332240385",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 773,
+      "location": "（現在ご依頼停止中）",
+      "name": "memeno",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319287977332240385/1640861238",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1486622109120200704/kFXbxhA9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486622109120200704/kFXbxhA9_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "mementojai",
+      "statuses_count": 4322,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @mementojai: Happy Valentine❤️💙#Ganyu https://t.co/bTr3NWmHW7",
+  "timestamp_ms": "1644907053665",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Apr 23 12:00:18 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。——可橙（Kenchiu）",
+    "favourites_count": 45756,
+    "follow_request_sent": null,
+    "followers_count": 2263,
+    "following": null,
+    "friends_count": 1426,
+    "geo_enabled": false,
+    "id": 1253292430792839174,
+    "id_str": "1253292430792839174",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 13,
+    "location": "41.8°N,123.38°E",
+    "name": "鈴白 千夏🏳‍⚧️",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1638724774",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1490866558549172227/7284L0t4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490866558549172227/7284L0t4_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Suzushirochika",
+    "statuses_count": 6406,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2030688078869004663",
+    "created_at": "2026-03-09T01:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T02:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030820105492541473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1860730309559623680",
+          "start": 0,
+          "username": "ybbyy19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030820105492541473",
+    "in_reply_to_user_id": "1860730309559623680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030688078869004663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ybbyy19 黑色的好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2030688078869004663",
+        "created_at": "2026-03-09T01:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T02:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030820105492541473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1860730309559623680",
+              "start": 0,
+              "username": "ybbyy19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030820105492541473",
+        "in_reply_to_user_id": "1860730309559623680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030688078869004663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ybbyy19 黑色的好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860730309559623680",
+        "conversation_id": "2030688078869004663",
+        "created_at": "2026-03-08T16:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030688078869004663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030688078869004663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2192,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔爪啥味道好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14890,
+          "following_count": 774,
+          "like_count": 81596,
+          "listed_count": 13,
+          "media_count": 910,
+          "tweet_count": 17018
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:01:00.000Z",
+        "description": "阳痿治好了，低素质选手。不是🚪没有🚪，我爱回谁回谁|近期厌人随缘回复",
+        "id": "1860730309559623680",
+        "name": "海盐芝士薯片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022412239224082433/EFDouAnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 262,
+          "like_count": 18608,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 490
+        },
+        "username": "ybbyy19",
+        "verified": false
+      }
+    ]
+  }
+}

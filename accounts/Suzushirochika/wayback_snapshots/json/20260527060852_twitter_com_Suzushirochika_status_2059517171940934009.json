@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2059517163577499648"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2059303653547413792",
+    "created_at": "2026-05-27T06:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059517171940934009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k3ZCOKAcAW",
+          "end": 40,
+          "expanded_url": "https://x.com/Suzushirochika/status/2059517171940934009/photo/1",
+          "media_key": "16_2059517163577499648",
+          "start": 17,
+          "url": "https://t.co/k3ZCOKAcAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059517171940934009",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059303653547413792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 哇还有呆唯（ https://t.co/k3ZCOKAcAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "16_2059517163577499648",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJTf8s_bYAAYzgB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJTf8s_bYAAYzgB.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2059303085928034304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQdPvmbMAAtx8O.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059517163577499648"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2059303653547413792",
+        "created_at": "2026-05-27T06:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059517171940934009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3ZCOKAcAW",
+              "end": 40,
+              "expanded_url": "https://x.com/Suzushirochika/status/2059517171940934009/photo/1",
+              "media_key": "16_2059517163577499648",
+              "start": 17,
+              "url": "https://t.co/k3ZCOKAcAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059517171940934009",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059303653547413792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 哇还有呆唯（ https://t.co/k3ZCOKAcAW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059303085928034304"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2059303653547413792",
+        "created_at": "2026-05-26T16:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:58:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059303236289585346",
+          "2059303653547413792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyEs9DEiM4",
+              "end": 38,
+              "expanded_url": "https://x.com/0xo_snow/status/2059303653547413792/photo/1",
+              "media_key": "3_2059303085928034304",
+              "start": 15,
+              "url": "https://t.co/JyEs9DEiM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059303653547413792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2090,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给自己夹了个m字刘海（\n好呆 https://t.co/JyEs9DEiM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14989,
+          "following_count": 746,
+          "like_count": 84604,
+          "listed_count": 14,
+          "media_count": 936,
+          "tweet_count": 17549
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 变得可爱是唯一追求 ！ip北京｜一般路过美少女厨",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2057457616205566077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18099,
+          "following_count": 418,
+          "like_count": 16558,
+          "listed_count": 34,
+          "media_count": 1323,
+          "tweet_count": 14083
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

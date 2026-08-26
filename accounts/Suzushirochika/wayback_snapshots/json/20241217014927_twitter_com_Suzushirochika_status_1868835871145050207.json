@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1868572956684919250",
+    "created_at": "2024-12-17T01:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T02:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868835871145050207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776506115112718336",
+          "start": 0,
+          "username": "xiaosanjiu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868835871145050207",
+    "in_reply_to_user_id": "1776506115112718336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868572956684919250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosanjiu520 大四喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1868572956684919250",
+        "created_at": "2024-12-17T01:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T02:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868835871145050207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776506115112718336",
+              "start": 0,
+              "username": "xiaosanjiu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868835871145050207",
+        "in_reply_to_user_id": "1776506115112718336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868572956684919250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosanjiu520 大四喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868572953669197824"
+          ]
+        },
+        "author_id": "1776506115112718336",
+        "conversation_id": "1868572956684919250",
+        "created_at": "2024-12-16T08:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T09:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868572956684919250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFSoIywMvr",
+              "end": 27,
+              "expanded_url": "https://x.com/xiaosanjiu520/status/1868572956684919250/photo/1",
+              "media_key": "3_1868572953669197824",
+              "start": 4,
+              "url": "https://t.co/OFSoIywMvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868572956684919250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 49402,
+          "like_count": 360,
+          "quote_count": 12,
+          "reply_count": 321,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "叫什么 https://t.co/OFSoIywMvr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13576,
+          "following_count": 872,
+          "like_count": 78153,
+          "listed_count": 22,
+          "media_count": 915,
+          "tweet_count": 16666
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T07:04:09.000Z",
+        "description": "サンジウって呼んでね！あまり気にする必要はありません    #ブルアカ #Genshin #崩壊スターレイル",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "Genshin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "崩壊スターレイル"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.jp",
+                "end": 23,
+                "expanded_url": "https://bluearchive.jp/",
+                "start": 0,
+                "url": "https://t.co/0EdBzt12ku"
+              }
+            ]
+          }
+        },
+        "id": "1776506115112718336",
+        "location": "シティングの箱",
+        "name": "小三玖.",
+        "pinned_tweet_id": "1852983127393579483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868494683992903680/SgP7vbpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 761,
+          "like_count": 14381,
+          "listed_count": 4,
+          "media_count": 803,
+          "tweet_count": 6618
+        },
+        "url": "https://t.co/0EdBzt12ku",
+        "username": "xiaosanjiu520",
+        "verified": false
+      }
+    ]
+  }
+}

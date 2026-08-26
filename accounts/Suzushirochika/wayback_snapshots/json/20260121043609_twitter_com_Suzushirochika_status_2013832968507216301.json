@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2013775237855485953"
+      ],
+      "media_source_tweet_id": [
+        "2013775298718773754"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2013832968507216301",
+    "created_at": "2026-01-21T04:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T05:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013832968507216301"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 17,
+          "tag": "WHITEALBUM2"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "冬马和纱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "728906452782358528",
+          "start": 3,
+          "username": "KisaragiAsh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DbT8vprh5k",
+          "end": 59,
+          "expanded_url": "https://x.com/KisaragiAsh/status/2013775298718773754/video/1",
+          "media_key": "7_2013775237855485953",
+          "start": 36,
+          "url": "https://t.co/DbT8vprh5k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013832968507216301",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013775298718773754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @KisaragiAsh: #WHITEALBUM2 #冬马和纱 https://t.co/DbT8vprh5k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13742,
+        "height": 960,
+        "media_key": "7_2013775237855485953",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013775237855485953/pu/img/nByVG7ap06qnJY4k.jpg",
+        "public_metrics": {
+          "view_count": 3875
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013775237855485953/pu/vid/avc1/320x426/stEy6OZuw4AebNVn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013775237855485953/pu/vid/avc1/480x640/5dshSUgi2jZtTKQA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013775237855485953/pu/vid/avc1/720x960/Jb2JnpxZGhjlUTQ8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013775237855485953/pu/pl/4L_WmiiVx3Wk04sM.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013775237855485953"
+          ],
+          "media_source_tweet_id": [
+            "2013775298718773754"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013832968507216301",
+        "created_at": "2026-01-21T04:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013832968507216301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "WHITEALBUM2"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "冬马和纱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "728906452782358528",
+              "start": 3,
+              "username": "KisaragiAsh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbT8vprh5k",
+              "end": 59,
+              "expanded_url": "https://x.com/KisaragiAsh/status/2013775298718773754/video/1",
+              "media_key": "7_2013775237855485953",
+              "start": 36,
+              "url": "https://t.co/DbT8vprh5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013832968507216301",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013775298718773754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @KisaragiAsh: #WHITEALBUM2 #冬马和纱 https://t.co/DbT8vprh5k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013775237855485953"
+          ]
+        },
+        "author_id": "728906452782358528",
+        "conversation_id": "2013775298718773754",
+        "created_at": "2026-01-21T00:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T01:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013775298718773754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "WHITEALBUM2"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "冬马和纱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbT8vprh5k",
+              "end": 42,
+              "expanded_url": "https://x.com/KisaragiAsh/status/2013775298718773754/video/1",
+              "media_key": "7_2013775237855485953",
+              "start": 19,
+              "url": "https://t.co/DbT8vprh5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013775298718773754",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 11147,
+          "like_count": 1108,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "reply_settings": "following",
+        "text": "#WHITEALBUM2 #冬马和纱 https://t.co/DbT8vprh5k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14798,
+          "following_count": 823,
+          "like_count": 79642,
+          "listed_count": 13,
+          "media_count": 902,
+          "tweet_count": 16830
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-07T11:16:55.000Z",
+        "description": "中国コスプレイヤー如月灰official weibo:https://t.co/UGRQsv6q2b INS：@kisaragiash This is my one & only real accou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "kisaragiash"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "weibo.com/u/1968438512",
+                "end": 50,
+                "expanded_url": "http://weibo.com/u/1968438512",
+                "start": 27,
+                "url": "https://t.co/UGRQsv6q2b"
+              }
+            ]
+          }
+        },
+        "id": "728906452782358528",
+        "location": "四川, 中华人民共和国",
+        "name": "如月灰",
+        "pinned_tweet_id": "1478241607228919811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1478637111506919424/TIIL7F8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558354,
+          "following_count": 2495,
+          "like_count": 1302,
+          "listed_count": 1990,
+          "media_count": 1115,
+          "tweet_count": 2464
+        },
+        "username": "KisaragiAsh",
+        "verified": false
+      }
+    ]
+  }
+}

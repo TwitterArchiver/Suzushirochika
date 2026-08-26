@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2074187251638993363",
+    "created_at": "2026-07-07T05:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074359490724696401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        },
+        {
+          "end": 25,
+          "id": "1597605170502062080",
+          "start": 12,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074359490724696401",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074187251638993363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 @Ayanami_rin0 好强好强！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074187244336721920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj-TyhWMAAmq8j.jpg",
+        "width": 2048
+      },
+      {
+        "height": 799,
+        "media_key": "3_2074187246874300416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj-T7-WkAAC8ai.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2074187249516716033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj-UF0WoAEyTVn.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2074187251638993363",
+        "created_at": "2026-07-07T05:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074359490724696401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            },
+            {
+              "end": 25,
+              "id": "1597605170502062080",
+              "start": 12,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074359490724696401",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074187251638993363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 @Ayanami_rin0 好强好强！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074187244336721920",
+            "3_2074187246874300416",
+            "3_2074187249516716033"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074187251638993363",
+        "created_at": "2026-07-06T17:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074187251638993363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrK7Eq0HGP",
+              "end": 145,
+              "expanded_url": "https://x.com/mario_2333/status/2074187251638993363/photo/1",
+              "media_key": "3_2074187244336721920",
+              "start": 122,
+              "url": "https://t.co/DrK7Eq0HGP"
+            },
+            {
+              "display_url": "pic.x.com/DrK7Eq0HGP",
+              "end": 145,
+              "expanded_url": "https://x.com/mario_2333/status/2074187251638993363/photo/1",
+              "media_key": "3_2074187246874300416",
+              "start": 122,
+              "url": "https://t.co/DrK7Eq0HGP"
+            },
+            {
+              "display_url": "pic.x.com/DrK7Eq0HGP",
+              "end": 145,
+              "expanded_url": "https://x.com/mario_2333/status/2074187251638993363/photo/1",
+              "media_key": "3_2074187249516716033",
+              "start": 122,
+              "url": "https://t.co/DrK7Eq0HGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074187251638993363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 836,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃可爱宝宝点菜的锅塌豆腐～咱也第一次吃真好吃诶！\n\n咱这个做法是两片豆腐夹一层肉馅，然后再裹上鸡蛋液煎熟，并且有汤汁调味，感觉有肉更香(⁠*⁠´⁠ω⁠｀⁠*⁠)\n\n就是这一锅真难翻面呀www，反正我是颠锅颠的还飞出去了一片，而且感觉碎碎的 https://t.co/DrK7Eq0HGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15047,
+          "following_count": 748,
+          "like_count": 86266,
+          "listed_count": 14,
+          "media_count": 950,
+          "tweet_count": 17791
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱宝宝💕：@Ayanami_rin0 & @A1oneSKy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8AZ2t"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3942,
+          "following_count": 279,
+          "like_count": 55171,
+          "listed_count": 20,
+          "media_count": 1159,
+          "tweet_count": 18329
+        },
+        "url": "https://t.co/pjgtS8AZ2t",
+        "username": "mario_2333",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "大龄术后MTF，某二次元公司游戏开发🎮Unity客户端🦋\n只管开心,无需正常\n 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n宝宝：@mario_2333 老公：@shuishui2333\n#啊呀纳米相册  #小绫的诗歌日记本 #小绫饭店 #aynm吃什么",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 122,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 146,
+                "start": 141,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 155,
+                "start": 147,
+                "tag": "aynm吃什么"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "mario_2333"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "shuishui2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm🌊",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4923,
+          "following_count": 1085,
+          "like_count": 18817,
+          "listed_count": 16,
+          "media_count": 1773,
+          "tweet_count": 11574
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": true
+      }
+    ]
+  }
+}

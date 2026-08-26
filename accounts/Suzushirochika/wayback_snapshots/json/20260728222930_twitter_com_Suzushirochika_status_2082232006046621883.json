@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2082032136656412724",
+    "created_at": "2026-07-28T22:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082232006046621883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442362841193795593",
+          "start": 0,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082232006046621883",
+    "in_reply_to_user_id": "1442362841193795593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082032136656412724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusunoki_riko 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3082,
+        "media_key": "3_2082032114292412416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTdLUda0AAZah3.jpg",
+        "width": 1194
+      },
+      {
+        "height": 3078,
+        "media_key": "3_2082032123108904960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTdL1Tb0AA1uae.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2082032136656412724",
+        "created_at": "2026-07-28T22:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082232006046621883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082232006046621883",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082032136656412724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082032114292412416",
+            "3_2082032123108904960"
+          ]
+        },
+        "author_id": "1442362841193795593",
+        "conversation_id": "2082032136656412724",
+        "created_at": "2026-07-28T09:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082032136656412724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbcfI5f4Iw",
+              "end": 34,
+              "expanded_url": "https://x.com/kusunoki_riko/status/2082032136656412724/photo/1",
+              "media_key": "3_2082032114292412416",
+              "start": 11,
+              "url": "https://t.co/rbcfI5f4Iw"
+            },
+            {
+              "display_url": "pic.x.com/rbcfI5f4Iw",
+              "end": 34,
+              "expanded_url": "https://x.com/kusunoki_riko/status/2082032136656412724/photo/1",
+              "media_key": "3_2082032123108904960",
+              "start": 11,
+              "url": "https://t.co/rbcfI5f4Iw"
+            },
+            {
+              "display_url": "x.com/kafei684134/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/kafei684134/status/2082002603521515597",
+              "start": 35,
+              "url": "https://t.co/fAMgmMOFHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082032136656412724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 408,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082002603521515597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "←抽烟前\n一根烟后→ https://t.co/rbcfI5f4Iw https://t.co/fAMgmMOFHU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15052,
+          "following_count": 756,
+          "like_count": 87483,
+          "listed_count": 14,
+          "media_count": 954,
+          "tweet_count": 17970
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "赌书消得泼茶香，当时只道是寻常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "location": "此心安处是吾乡",
+        "name": "楠•理子",
+        "pinned_tweet_id": "2079118702591828265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079083393401380865/XQJlXSb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8139,
+          "following_count": 1486,
+          "like_count": 107324,
+          "listed_count": 32,
+          "media_count": 4303,
+          "tweet_count": 58144
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": true
+      }
+    ]
+  }
+}

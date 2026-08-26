@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2055949364565364863",
+    "created_at": "2026-05-18T05:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056249694368723072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653726569553358849",
+          "start": 0,
+          "username": "MinazukiNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056249694368723072",
+    "in_reply_to_user_id": "1653726569553358849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055949364565364863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinazukiNya 可能是过敏…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2055949073510014976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgyyhrboAATiln.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2055949364565364863",
+        "created_at": "2026-05-18T05:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056249694368723072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653726569553358849",
+              "start": 0,
+              "username": "MinazukiNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056249694368723072",
+        "in_reply_to_user_id": "1653726569553358849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055949364565364863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinazukiNya 可能是过敏…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055949073510014976"
+          ]
+        },
+        "author_id": "1653726569553358849",
+        "conversation_id": "2055949364565364863",
+        "created_at": "2026-05-17T09:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055949364565364863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfVkAEnwWQ",
+              "end": 56,
+              "expanded_url": "https://x.com/MinazukiNya/status/2055949364565364863/photo/1",
+              "media_key": "3_2055949073510014976",
+              "start": 33,
+              "url": "https://t.co/TfVkAEnwWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055949364565364863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 21722,
+          "like_count": 451,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "某些防滑过膝袜上面的硅胶贴的时候没感觉，脱下来就会痛是什么原理（ https://t.co/TfVkAEnwWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14983,
+          "following_count": 748,
+          "like_count": 84411,
+          "listed_count": 14,
+          "media_count": 934,
+          "tweet_count": 17520
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T11:42:03.000Z",
+        "description": "男孩子，清水，随便发发，没什么好看的图，随缘更新。",
+        "id": "1653726569553358849",
+        "location": "星ノ谷",
+        "name": "MinazukiNya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973295516378071040/qD7KXg5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7495,
+          "following_count": 237,
+          "like_count": 14418,
+          "listed_count": 33,
+          "media_count": 207,
+          "tweet_count": 424
+        },
+        "username": "MinazukiNya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2045769043140132976",
+    "created_at": "2026-04-19T07:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T08:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045773355891274012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045773355891274012",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045769043140132976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 谁家偶像去逛街了🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045769025209393152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQIFugaYAARsgW.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2045769043140132976",
+        "created_at": "2026-04-19T07:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045773355891274012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045773355891274012",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045769043140132976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 谁家偶像去逛街了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045769025209393152"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2045769043140132976",
+        "created_at": "2026-04-19T07:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045769043140132976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojI9X2Hz2M",
+              "end": 58,
+              "expanded_url": "https://x.com/0xo_snow/status/2045769043140132976/photo/1",
+              "media_key": "3_2045769025209393152",
+              "start": 35,
+              "url": "https://t.co/ojI9X2Hz2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045769043140132976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去买衣服了激情购入上衣！\n虽然和裤子不是很搭但有没有觉得超帅的👍👍🙀 https://t.co/ojI9X2Hz2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14716,
+          "following_count": 749,
+          "like_count": 84255,
+          "listed_count": 14,
+          "media_count": 925,
+          "tweet_count": 17356
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 变得可爱是唯一追求 ！ip北京｜一般路过美少女厨｜亮点是我的日常｜持续接线下中ing入门咨询ᗜ ‸ ᗜ",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下•⩊•背景有赞赏码喵",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2043222752866480625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17915,
+          "following_count": 417,
+          "like_count": 15768,
+          "listed_count": 34,
+          "media_count": 1261,
+          "tweet_count": 13484
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

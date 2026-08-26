@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2060233701221670922",
+    "created_at": "2026-05-29T05:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060233701221670922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1411756326460432384",
+          "start": 3,
+          "username": "xxxApril_D13"
+        },
+        {
+          "end": 25,
+          "id": "1616462041421840389",
+          "start": 18,
+          "username": "Rita88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060233701221670922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060099681942937961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxApril_D13: @Rita88 《在外小心套狗的》\n《你偶尔也吃饲料吧？》\n《你因为饲料和猪打过架吧？》\n《你在人们看不到的时候，用四只脚走路吧》 😂我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2060233701221670922",
+        "created_at": "2026-05-29T05:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060233701221670922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1411756326460432384",
+              "start": 3,
+              "username": "xxxApril_D13"
+            },
+            {
+              "end": 25,
+              "id": "1616462041421840389",
+              "start": 18,
+              "username": "Rita88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060233701221670922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060099681942937961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxApril_D13: @Rita88 《在外小心套狗的》\n《你偶尔也吃饲料吧？》\n《你因为饲料和猪打过架吧？》\n《你在人们看不到的时候，用四只脚走路吧》 😂我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1411756326460432384",
+        "conversation_id": "2060068567832481945",
+        "created_at": "2026-05-28T20:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060099681942937961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1616462041421840389",
+              "start": 0,
+              "username": "Rita88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060099681942937961",
+        "in_reply_to_user_id": "1616462041421840389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2426,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060097447796613344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rita88 《在外小心套狗的》\n《你偶尔也吃饲料吧？》\n《你因为饲料和猪打过架吧？》\n《你在人们看不到的时候，用四只脚走路吧》 😂我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14980,
+          "following_count": 744,
+          "like_count": 84703,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 17569
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-04T18:38:42.000Z",
+        "description": "卖出是「数学」，买入是「艺术」\n #web3新人 #Crypto 入口 👉🏻#OKX 一键带飞\n安全丝滑，无缝衔接130+公链 \ndex交易手续费折扣：https://t.co/QKWIDPiBDX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 17,
+                "tag": "web3新人"
+              },
+              {
+                "end": 32,
+                "start": 25,
+                "tag": "Crypto"
+              },
+              {
+                "end": 42,
+                "start": 38,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com/zh-hans/invita…",
+                "end": 99,
+                "expanded_url": "https://web3.okx.com/zh-hans/invitation?shortC",
+                "start": 76,
+                "url": "https://t.co/QKWIDPiBDX"
+              }
+            ]
+          }
+        },
+        "id": "1411756326460432384",
+        "location": "bay area",
+        "name": "April",
+        "pinned_tweet_id": "2043459496044085745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884747607098146817/Monp3AwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16195,
+          "following_count": 686,
+          "like_count": 9425,
+          "listed_count": 361,
+          "media_count": 2207,
+          "tweet_count": 17237
+        },
+        "username": "xxxApril_D13",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-20T15:46:06.000Z",
+        "description": "Crypto亏钱大师｜MEME铁血钻石手｜AI入门小白｜ENFP快乐小狗｜抽象大师｜梦想天降横财｜所有推文均是主观｜没有任何投资建议｜✈️ https://t.co/ymdWuWtJr5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rita7019",
+                "end": 93,
+                "expanded_url": "https://t.me/Rita7019",
+                "start": 70,
+                "url": "https://t.co/ymdWuWtJr5"
+              }
+            ]
+          }
+        },
+        "id": "1616462041421840389",
+        "location": "合作请私信💌",
+        "name": "Rita👻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059200278721912833/fEbGattC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24949,
+          "following_count": 2710,
+          "like_count": 42245,
+          "listed_count": 221,
+          "media_count": 1759,
+          "tweet_count": 21158
+        },
+        "username": "Rita88",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959527336698904576"
+      ],
+      "media_source_tweet_id": [
+        "1959527364884681153"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "KING OF PRISM",
+          "id": "1059458486411526149",
+          "name": "KING OF PRISM"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1294427893045399554",
+          "name": "Pretty Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "KING OF PRISM",
+          "id": "1059458486411526149",
+          "name": "KING OF PRISM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294427893045399554",
+          "name": "Pretty Series"
+        }
+      }
+    ],
+    "conversation_id": "1959550878555439186",
+    "created_at": "2025-08-24T09:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T10:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959550878555439186"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "山田リョウ",
+          "probability": 0.919,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714665441153675264",
+          "start": 3,
+          "username": "torikobo_327"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbRWJU8m2y",
+          "end": 55,
+          "expanded_url": "https://x.com/torikobo_327/status/1959527364884681153/photo/1",
+          "media_key": "3_1959527336698904576",
+          "start": 32,
+          "url": "https://t.co/NbRWJU8m2y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959550878555439186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959527364884681153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @torikobo_327: ギャルJKっぽい山田リョウ https://t.co/NbRWJU8m2y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959527336698904576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGjuw-bAAA0JTL.jpg",
+        "width": 1729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959527336698904576"
+          ],
+          "media_source_tweet_id": [
+            "1959527364884681153"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          }
+        ],
+        "conversation_id": "1959550878555439186",
+        "created_at": "2025-08-24T09:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T10:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959550878555439186"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "山田リョウ",
+              "probability": 0.919,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714665441153675264",
+              "start": 3,
+              "username": "torikobo_327"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbRWJU8m2y",
+              "end": 55,
+              "expanded_url": "https://x.com/torikobo_327/status/1959527364884681153/photo/1",
+              "media_key": "3_1959527336698904576",
+              "start": 32,
+              "url": "https://t.co/NbRWJU8m2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959550878555439186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959527364884681153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @torikobo_327: ギャルJKっぽい山田リョウ https://t.co/NbRWJU8m2y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959527336698904576"
+          ]
+        },
+        "author_id": "1714665441153675264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          }
+        ],
+        "conversation_id": "1959527364884681153",
+        "created_at": "2025-08-24T08:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T09:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959527364884681153"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "山田リョウ",
+              "probability": 0.9181,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbRWJU8m2y",
+              "end": 37,
+              "expanded_url": "https://x.com/torikobo_327/status/1959527364884681153/photo/1",
+              "media_key": "3_1959527336698904576",
+              "start": 14,
+              "url": "https://t.co/NbRWJU8m2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959527364884681153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 8279,
+          "like_count": 1049,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "ギャルJKっぽい山田リョウ https://t.co/NbRWJU8m2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14587,
+          "following_count": 835,
+          "like_count": 79811,
+          "listed_count": 24,
+          "media_count": 934,
+          "tweet_count": 16892
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:31:20.000Z",
+        "description": "のどごし！よいとし！とりこぼし！ 成人済/山田リョウと七浦すばるがすき、ぼざろ、アイプリメインの雑多垢。主にぼリョウ/自由気ままにお絵描きしていきたいです 日常ツイートあり マロ▶︎ https://t.co/jFouUurrXw BOOTH▶︎ https://t.co/H0dSLPfG6U",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/YPbj3",
+                "end": 115,
+                "expanded_url": "https://x.gd/YPbj3",
+                "start": 92,
+                "url": "https://t.co/jFouUurrXw"
+              },
+              {
+                "display_url": "yumekimitori.booth.pm",
+                "end": 147,
+                "expanded_url": "https://yumekimitori.booth.pm/",
+                "start": 124,
+                "url": "https://t.co/H0dSLPfG6U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/89124390",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/89124390",
+                "start": 0,
+                "url": "https://t.co/CuCHv48jnb"
+              }
+            ]
+          }
+        },
+        "id": "1714665441153675264",
+        "location": "新刊などのイベント情報は『ハイライト』ご覧下さい",
+        "name": "とりこぼし",
+        "pinned_tweet_id": "1914580826274312353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778425992559861760/-gyKFotZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22540,
+          "following_count": 91,
+          "like_count": 3739,
+          "listed_count": 124,
+          "media_count": 319,
+          "tweet_count": 3619
+        },
+        "url": "https://t.co/CuCHv48jnb",
+        "username": "torikobo_327",
+        "verified": false
+      }
+    ]
+  }
+}

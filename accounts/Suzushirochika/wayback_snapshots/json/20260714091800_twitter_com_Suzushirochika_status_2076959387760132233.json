@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2076935311939239972",
+    "created_at": "2026-07-14T09:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076959387760132233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076959387760132233",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076935311939239972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_Land 北漂亮漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2076935276736425984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLBoU9aMAAqILe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2076935311939239972",
+        "created_at": "2026-07-14T09:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076959387760132233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076959387760132233",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076935311939239972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 北漂亮漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076935276736425984"
+          ]
+        },
+        "author_id": "1346974977434771460",
+        "conversation_id": "2076935311939239972",
+        "created_at": "2026-07-14T07:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076935311939239972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/feteUZqckt",
+              "end": 52,
+              "expanded_url": "https://x.com/N0rthern_Land/status/2076935311939239972/photo/1",
+              "media_key": "3_2076935276736425984",
+              "start": 29,
+              "url": "https://t.co/feteUZqckt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076935311939239972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2656,
+          "like_count": 211,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没戴美瞳所以看起来好没神啊，不对焦了www👀but很森系 https://t.co/feteUZqckt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15047,
+          "following_count": 750,
+          "like_count": 86451,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17837
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "bi/日常推/从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男别关注我/目前只有×&小红书账号，其他平台出现均为盗窃。女朋友：@ayashikinoco\n私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北极最后一只雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056942176878444544/dwWBMQ9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63797,
+          "following_count": 923,
+          "like_count": 118633,
+          "listed_count": 153,
+          "media_count": 3783,
+          "tweet_count": 37982
+        },
+        "url": "",
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

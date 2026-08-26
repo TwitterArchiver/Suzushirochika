@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2032418985778851908",
+    "created_at": "2026-03-13T16:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T17:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032500985491554351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032500985491554351",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032418985778851908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 42t起然后每十分钟补7t一共补3次（按130斤算）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2032418885346226176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSaNT_bcAAfKi9.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2032418985778851908",
+        "created_at": "2026-03-13T16:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032500985491554351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032500985491554351",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032418985778851908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 42t起然后每十分钟补7t一共补3次（按130斤算）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032418885346226176"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "conversation_id": "2032418985778851908",
+        "created_at": "2026-03-13T11:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032418985778851908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cF0yV0dDTk",
+              "end": 44,
+              "expanded_url": "https://x.com/ErQiu8013/status/2032418985778851908/photo/1",
+              "media_key": "3_2032418885346226176",
+              "start": 21,
+              "url": "https://t.co/cF0yV0dDTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032418985778851908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1065,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大们，这样吃白兔ok吗\n84t是否可行 https://t.co/cF0yV0dDTk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14866,
+          "following_count": 747,
+          "like_count": 82032,
+          "listed_count": 13,
+          "media_count": 920,
+          "tweet_count": 17057
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "秋儿｜降临派×地雷系  \n低能量 + 薬changing + 二次元废人  \nLGBTQ+友好\n欢迎同类互fo～私信聊天💊🫀\n下面匿名提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu8013",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu8013",
+                "start": 0,
+                "url": "https://t.co/bhxSdtgAac"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "自我",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "2031761219196186831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 1664,
+          "like_count": 24657,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 5042
+        },
+        "url": "https://t.co/bhxSdtgAac",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

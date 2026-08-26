@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898931587619946496"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1898931593257103623",
+    "created_at": "2025-03-10T02:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T03:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898931593257103623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yTdm73JsMP",
+          "end": 42,
+          "expanded_url": "https://x.com/Suzushirochika/status/1898931593257103623/photo/1",
+          "media_key": "3_1898931587619946496",
+          "start": 19,
+          "url": "https://t.co/yTdm73JsMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898931593257103623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "負けたーーーーーーーーーーーーーーー https://t.co/yTdm73JsMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_1898931587619946496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlpcN8zbAAA5JY4.jpg",
+        "width": 1860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898931587619946496"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1898931593257103623",
+        "created_at": "2025-03-10T02:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T03:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898931593257103623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTdm73JsMP",
+              "end": 42,
+              "expanded_url": "https://x.com/Suzushirochika/status/1898931593257103623/photo/1",
+              "media_key": "3_1898931587619946496",
+              "start": 19,
+              "url": "https://t.co/yTdm73JsMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898931593257103623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "負けたーーーーーーーーーーーーーーー https://t.co/yTdm73JsMP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897465103072571392/CCh8vHTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13947,
+          "following_count": 854,
+          "like_count": 79363,
+          "listed_count": 22,
+          "media_count": 929,
+          "tweet_count": 16827
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

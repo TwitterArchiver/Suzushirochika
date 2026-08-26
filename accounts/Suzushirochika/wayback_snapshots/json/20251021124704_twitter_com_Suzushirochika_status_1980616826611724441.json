@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1980575996366713094",
+    "created_at": "2025-10-21T12:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980616826611724441"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980616826611724441",
+    "in_reply_to_user_id": "1253292430792839174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980575996366713094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "擅自要救赎别人的人都带着一种自以为是的高傲，这一次说要救赎我的已经把我弄成[三年后复发重度抑郁症、中度躁狂症、重度焦虑症、社交恐惧、躯体化（持续头痛、心动过速、胃抽疼、神经性呕吐、厌食）、急性消瘦、滥用成瘾品]了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1980575996366713094",
+        "created_at": "2025-10-21T12:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980616826611724441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980616826611724441",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980575996366713094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "擅自要救赎别人的人都带着一种自以为是的高傲，这一次说要救赎我的已经把我弄成[三年后复发重度抑郁症、中度躁狂症、重度焦虑症、社交恐惧、躯体化（持续头痛、心动过速、胃抽疼、神经性呕吐、厌食）、急性消瘦、滥用成瘾品]了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1980575996366713094",
+        "created_at": "2025-10-21T10:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980575996366713094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/1980093700366827689",
+              "start": 144,
+              "url": "https://t.co/8uIE8ZEYcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980575996366713094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 162,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980093700366827689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我18岁一口气吞了38颗舍曲林，貌似还有右美沙芬氟西汀什么的，被ex拉到医院以后拒绝在洗胃同意书上签字，趁所有人不备穿着拖鞋夺门而出，并晃过医院侧门左右保安用尽一切底力向北逃跑，到下一个公交站等车时还是被院方抓回去了。最后也没有洗胃，躺了三天病床出院。整件事毫无美感可言，只有滑稽可笑。 https://t.co/8uIE8ZEYcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "1980575996366713094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14684,
+          "following_count": 831,
+          "like_count": 78458,
+          "listed_count": 24,
+          "media_count": 895,
+          "tweet_count": 16744
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

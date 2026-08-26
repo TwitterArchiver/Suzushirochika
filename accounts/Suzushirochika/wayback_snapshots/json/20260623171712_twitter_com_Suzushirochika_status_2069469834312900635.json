@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2069439483012141546",
+    "created_at": "2026-06-23T17:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069469834312900635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1968368047988817923",
+          "start": 0,
+          "username": "ckyoa2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069469834312900635",
+    "in_reply_to_user_id": "1968368047988817923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069439483012141546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ckyoa2 贴贴萌萌推友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069439483012141546",
+        "created_at": "2026-06-23T17:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069469834312900635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1968368047988817923",
+              "start": 0,
+              "username": "ckyoa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069469834312900635",
+        "in_reply_to_user_id": "1968368047988817923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069439483012141546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ckyoa2 贴贴萌萌推友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2069439483012141546",
+        "created_at": "2026-06-23T15:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069439483012141546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069439483012141546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3663,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 85,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们是因为什么来玩推特的啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14976,
+          "following_count": 748,
+          "like_count": 85258,
+          "listed_count": 14,
+          "media_count": 944,
+          "tweet_count": 17697
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "当朋友圈发了",
+        "id": "1968368047988817923",
+        "location": "🚪199 可以验证",
+        "name": "ck",
+        "pinned_tweet_id": "2067271644532593001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17357,
+          "following_count": 9,
+          "like_count": 764,
+          "listed_count": 25,
+          "media_count": 124,
+          "tweet_count": 661
+        },
+        "url": "",
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

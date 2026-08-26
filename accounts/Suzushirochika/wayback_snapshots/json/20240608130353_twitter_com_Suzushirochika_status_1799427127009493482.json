@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1799379284777406464"
+      ],
+      "media_source_tweet_id": [
+        "1799379288204157070"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1799427127009493482",
+    "created_at": "2024-06-08T13:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T14:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799427127009493482"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "ミモザの告白5",
+          "probability": 0.389,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "951838474939727872",
+          "start": 3,
+          "username": "hatimokumei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/qf3lHWlQoR",
+          "end": 81,
+          "expanded_url": "https://twitter.com/hatimokumei/status/1799379288204157070/photo/1",
+          "media_key": "3_1799379284777406464",
+          "start": 58,
+          "url": "https://t.co/qf3lHWlQoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799427127009493482",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799379288204157070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hatimokumei: 「ミモザの告白5」見本が届きました！　まるで春風が吹き込んでくるような爽やかさ… https://t.co/qf3lHWlQoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1799379284777406464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPit7Q1akAAbs5j.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799379284777406464"
+          ],
+          "media_source_tweet_id": [
+            "1799379288204157070"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1799427127009493482",
+        "created_at": "2024-06-08T13:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T14:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799427127009493482"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "ミモザの告白5",
+              "probability": 0.389,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "951838474939727872",
+              "start": 3,
+              "username": "hatimokumei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qf3lHWlQoR",
+              "end": 81,
+              "expanded_url": "https://twitter.com/hatimokumei/status/1799379288204157070/photo/1",
+              "media_key": "3_1799379284777406464",
+              "start": 58,
+              "url": "https://t.co/qf3lHWlQoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799427127009493482",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799379288204157070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hatimokumei: 「ミモザの告白5」見本が届きました！　まるで春風が吹き込んでくるような爽やかさ… https://t.co/qf3lHWlQoR"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799379284777406464"
+          ]
+        },
+        "author_id": "951838474939727872",
+        "conversation_id": "1799379288204157070",
+        "created_at": "2024-06-08T09:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T10:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799379288204157070"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "ミモザの告白5",
+              "probability": 0.4803,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qf3lHWlQoR",
+              "end": 64,
+              "expanded_url": "https://twitter.com/hatimokumei/status/1799379288204157070/photo/1",
+              "media_key": "3_1799379284777406464",
+              "start": 41,
+              "url": "https://t.co/qf3lHWlQoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799379288204157070",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9365,
+          "like_count": 425,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "「ミモザの告白5」見本が届きました！　まるで春風が吹き込んでくるような爽やかさ… https://t.co/qf3lHWlQoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13204,
+          "following_count": 901,
+          "like_count": 77322,
+          "listed_count": 22,
+          "tweet_count": 16479
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T15:29:11.000Z",
+        "description": "作家。『小説 葬送のフリーレン前奏』発売中。他に『時と四季シリーズ』『ミモザの告白』など。映画『夏へのトンネル、さよならの出口』blu-ray発売中。",
+        "id": "951838474939727872",
+        "name": "八目迷",
+        "pinned_tweet_id": "1796859350189011275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079764661153673216/Xkq8z21P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18549,
+          "following_count": 264,
+          "like_count": 21368,
+          "listed_count": 81,
+          "tweet_count": 7533
+        },
+        "username": "hatimokumei",
+        "verified": false
+      }
+    ]
+  }
+}

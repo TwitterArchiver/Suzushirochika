@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013273319890362369"
+      ],
+      "media_source_tweet_id": [
+        "2013273336042684838"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2013636059431686160",
+    "created_at": "2026-01-20T15:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013636059431686160"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "唯律"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "けいおん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803423413677031424",
+          "start": 3,
+          "username": "chuann0402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/drTdWIKrIO",
+          "end": 62,
+          "expanded_url": "https://x.com/chuann0402/status/2013273336042684838/photo/1",
+          "media_key": "3_2013273319890362369",
+          "start": 39,
+          "url": "https://t.co/drTdWIKrIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013636059431686160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 939
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013273336042684838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuann0402: 不知道！我的律酱很闪耀\n#唯律\n #けいおん https://t.co/drTdWIKrIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2013273319890362369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CVauvWIAEKZqb.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013273319890362369"
+          ],
+          "media_source_tweet_id": [
+            "2013273336042684838"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2013636059431686160",
+        "created_at": "2026-01-20T15:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013636059431686160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "唯律"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "けいおん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803423413677031424",
+              "start": 3,
+              "username": "chuann0402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/drTdWIKrIO",
+              "end": 62,
+              "expanded_url": "https://x.com/chuann0402/status/2013273336042684838/photo/1",
+              "media_key": "3_2013273319890362369",
+              "start": 39,
+              "url": "https://t.co/drTdWIKrIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013636059431686160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 939
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013273336042684838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuann0402: 不知道！我的律酱很闪耀\n#唯律\n #けいおん https://t.co/drTdWIKrIO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013273319890362369"
+          ]
+        },
+        "author_id": "1803423413677031424",
+        "conversation_id": "2013273336042684838",
+        "created_at": "2026-01-19T15:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013273336042684838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "唯律"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "けいおん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/drTdWIKrIO",
+              "end": 46,
+              "expanded_url": "https://x.com/chuann0402/status/2013273336042684838/photo/1",
+              "media_key": "3_2013273319890362369",
+              "start": 23,
+              "url": "https://t.co/drTdWIKrIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013273336042684838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 58278,
+          "like_count": 6212,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 939
+        },
+        "reply_settings": "everyone",
+        "text": "不知道！我的律酱很闪耀\n#唯律\n #けいおん https://t.co/drTdWIKrIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14790,
+          "following_count": 823,
+          "like_count": 79620,
+          "listed_count": 13,
+          "media_count": 902,
+          "tweet_count": 16828
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T13:44:23.000Z",
+        "description": "ai学习禁止❌weibo：一般通过的无名勇者  xhs/lofter：一般勇者",
+        "id": "1803423413677031424",
+        "location": "棕毛笨狗的爱之巢❤️",
+        "name": "一般勇者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910744919788183553/UZ0nzxJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 45,
+          "like_count": 742,
+          "listed_count": 23,
+          "media_count": 328,
+          "tweet_count": 995
+        },
+        "username": "chuann0402",
+        "verified": false
+      }
+    ]
+  }
+}

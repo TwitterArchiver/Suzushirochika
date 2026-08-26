@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1966320289568174384",
+    "created_at": "2025-09-12T02:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T03:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966321845663314425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442362841193795593",
+          "start": 0,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966321845663314425",
+    "in_reply_to_user_id": "1442362841193795593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966320289568174384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusunoki_riko pvz和死亡细胞低了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_1966320274225377281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nF3xPaMAE-SHx.jpg",
+        "width": 850
+      },
+      {
+        "height": 890,
+        "media_key": "3_1966320274833551367",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nF3zgaMAcfS6q.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1966320289568174384",
+        "created_at": "2025-09-12T02:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966321845663314425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966321845663314425",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966320289568174384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko pvz和死亡细胞低了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966320274225377281",
+            "3_1966320274833551367"
+          ]
+        },
+        "author_id": "1442362841193795593",
+        "conversation_id": "1966320289568174384",
+        "created_at": "2025-09-12T01:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T02:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966320289568174384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/60TWEkHQGP",
+              "end": 157,
+              "expanded_url": "https://x.com/kusunoki_riko/status/1966320289568174384/photo/1",
+              "media_key": "3_1966320274225377281",
+              "start": 134,
+              "url": "https://t.co/60TWEkHQGP"
+            },
+            {
+              "display_url": "pic.x.com/60TWEkHQGP",
+              "end": 157,
+              "expanded_url": "https://x.com/kusunoki_riko/status/1966320289568174384/photo/1",
+              "media_key": "3_1966320274833551367",
+              "start": 134,
+              "url": "https://t.co/60TWEkHQGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966320289568174384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现自己简直是玩家之耻，我居然连一条线都连不上\n\n颜色评价：\n🟥：这简直就是神作啊朋友\n🟧：挺不错的游戏，我蛮喜欢的\n🟨：值得一试嘛，不亏的\n🟦：虽然我玩了，但是我觉得不能吸引我\n      ：没玩过\n\n*系列游戏评价参考我最喜欢的一作，比如Mafia我评的是2 https://t.co/60TWEkHQGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "pinned_tweet_id": "1593184193613553664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14590,
+          "following_count": 835,
+          "like_count": 79769,
+          "listed_count": 24,
+          "media_count": 893,
+          "tweet_count": 16734
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "为你明灯三千，为你花开满城： @Suzushirochika\n || \n一饭之恩，睚眦之怨，无不报复\n || \n在这里，你可能看到不限于以下内容：①暴论  ②情绪宣泄  ③意义不明  ④日常  ⑤凡尔赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "Suzushirochika"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "location": "此心安处是吾乡",
+        "name": "楠•理子",
+        "pinned_tweet_id": "1876131348265755004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961301179406979073/xZ61RWh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8281,
+          "following_count": 1531,
+          "like_count": 113504,
+          "listed_count": 31,
+          "media_count": 4266,
+          "tweet_count": 57908
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": false
+      }
+    ]
+  }
+}

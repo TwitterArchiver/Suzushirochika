@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2040006078205980809",
+    "created_at": "2026-04-03T09:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040006078205980809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1485158225167413248",
+          "start": 3,
+          "username": "chihorishizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040006078205980809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039950423667425635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chihorishizuku: 说异性恋是正常性取向的真的恶毒爆了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2040006078205980809",
+        "created_at": "2026-04-03T09:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040006078205980809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1485158225167413248",
+              "start": 3,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040006078205980809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039950423667425635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chihorishizuku: 说异性恋是正常性取向的真的恶毒爆了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485158225167413248",
+        "conversation_id": "2039950423667425635",
+        "created_at": "2026-04-03T06:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039950423667425635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039950423667425635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2467,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "说异性恋是正常性取向的真的恶毒爆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14893,
+          "following_count": 750,
+          "like_count": 83345,
+          "listed_count": 14,
+          "media_count": 919,
+          "tweet_count": 17216
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP｜LGBTQ+｜06｜ASD｜BPD｜ADHD｜sub⭕️已有主｜管人痴🥕｜直fo查成分回｜岁静日常推｜婉拒品客｜",
+        "id": "1485158225167413248",
+        "name": "游吟诗人Sirelia🎐",
+        "pinned_tweet_id": "2030694716870971477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022843815997116418/ebQkW6uv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4005,
+          "following_count": 635,
+          "like_count": 28698,
+          "listed_count": 9,
+          "media_count": 597,
+          "tweet_count": 5642
+        },
+        "username": "chihorishizuku",
+        "verified": false
+      }
+    ]
+  }
+}

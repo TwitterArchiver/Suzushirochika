@@ -1,0 +1,239 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1808073510818119762",
+    "created_at": "2024-07-03T04:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T05:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808356313384247429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1232629814223196160",
+          "start": 0,
+          "username": "qyl2772"
+        },
+        {
+          "end": 23,
+          "id": "1442362841193795593",
+          "start": 9,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808356313384247429",
+    "in_reply_to_user_id": "1232629814223196160",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808300447461265486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qyl2772 @kusunoki_riko 我也丑的人神共弃qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1808073510818119762",
+        "created_at": "2024-07-03T04:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T05:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808356313384247429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1232629814223196160",
+              "start": 0,
+              "username": "qyl2772"
+            },
+            {
+              "end": 23,
+              "id": "1442362841193795593",
+              "start": 9,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808356313384247429",
+        "in_reply_to_user_id": "1232629814223196160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808300447461265486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qyl2772 @kusunoki_riko 我也丑的人神共弃qwq"
+      },
+      {
+        "attachments": {},
+        "author_id": "1232629814223196160",
+        "conversation_id": "1808073510818119762",
+        "created_at": "2024-07-03T00:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T01:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808300447461265486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            },
+            {
+              "end": 30,
+              "id": "1253292430792839174",
+              "start": 15,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808300447461265486",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808073510818119762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko @Suzushirochika 有人质疑妳的眼光（x）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13310,
+          "following_count": 894,
+          "like_count": 77079,
+          "listed_count": 22,
+          "tweet_count": 16483
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-26T11:33:54.000Z",
+        "description": "探索技术与人文，热爱创造与思考。\n觉得有趣就会点赞，喜欢日常。\n尽人事，听天命。",
+        "id": "1232629814223196160",
+        "location": "The Milky Way.",
+        "name": "雨落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598465580255715329/CO-km9jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 422,
+          "like_count": 16609,
+          "listed_count": 2,
+          "tweet_count": 1514
+        },
+        "username": "qyl2772",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "为你明灯三千，为你花开满城： @Suzushirochika\n || \n旧墨已为陈迹，新章展卷待书\n || \n在这里，你可能看到不限于以下内容：①暴论  ②情绪宣泄  ③意义不明  ④日常  ⑤凡尔赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "Suzushirochika"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "location": "此心安处是吾乡",
+        "name": "楠•理子",
+        "pinned_tweet_id": "1669604468877565952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791833882444353536/SRl_9Z3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8078,
+          "following_count": 1543,
+          "like_count": 112858,
+          "listed_count": 31,
+          "tweet_count": 54544
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": false
+      }
+    ]
+  }
+}

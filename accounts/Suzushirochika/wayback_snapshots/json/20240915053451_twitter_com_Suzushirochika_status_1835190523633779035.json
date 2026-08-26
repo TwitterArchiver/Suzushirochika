@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834820552147845124"
+      ],
+      "media_source_tweet_id": [
+        "1834869695608242602"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Egg",
+          "id": "842476826526019586",
+          "name": "Egg recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Egg",
+          "id": "842476826526019586",
+          "name": "Egg recipes"
+        }
+      }
+    ],
+    "conversation_id": "1835190523633779035",
+    "created_at": "2024-09-15T05:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T06:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835190523633779035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368596931849555973",
+          "start": 3,
+          "username": "oimo_imoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jkx2vx2s73",
+          "end": 46,
+          "expanded_url": "https://twitter.com/oimo_imoo/status/1834869695608242602/photo/1",
+          "media_key": "3_1834820552147845124",
+          "start": 23,
+          "url": "https://t.co/jKX2vx2s73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835190523633779035",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4678
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834869695608242602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oimo_imoo: 卵焼きねこ🍳🐈 https://t.co/jKX2vx2s73"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2175,
+        "media_key": "3_1834820552147845124",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXaXkiVbwAQqr0d.jpg",
+        "width": 1915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834820552147845124"
+          ],
+          "media_source_tweet_id": [
+            "1834869695608242602"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          }
+        ],
+        "conversation_id": "1835190523633779035",
+        "created_at": "2024-09-15T05:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T06:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835190523633779035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368596931849555973",
+              "start": 3,
+              "username": "oimo_imoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jkx2vx2s73",
+              "end": 46,
+              "expanded_url": "https://twitter.com/oimo_imoo/status/1834869695608242602/photo/1",
+              "media_key": "3_1834820552147845124",
+              "start": 23,
+              "url": "https://t.co/jKX2vx2s73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835190523633779035",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4678
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834869695608242602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oimo_imoo: 卵焼きねこ🍳🐈 https://t.co/jKX2vx2s73"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834820552147845124"
+          ]
+        },
+        "author_id": "1368596931849555973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          }
+        ],
+        "conversation_id": "1834869695608242602",
+        "created_at": "2024-09-14T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834869695608242602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jkx2vx2s73",
+              "end": 31,
+              "expanded_url": "https://twitter.com/oimo_imoo/status/1834869695608242602/photo/1",
+              "media_key": "3_1834820552147845124",
+              "start": 8,
+              "url": "https://t.co/jKX2vx2s73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834869695608242602",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1084,
+          "impression_count": 485761,
+          "like_count": 29150,
+          "quote_count": 22,
+          "reply_count": 27,
+          "retweet_count": 4678
+        },
+        "reply_settings": "everyone",
+        "text": "卵焼きねこ🍳🐈 https://t.co/jKX2vx2s73"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13398,
+          "following_count": 886,
+          "like_count": 77465,
+          "listed_count": 22,
+          "tweet_count": 16533
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-07T16:19:09.000Z",
+        "description": "お絵描き🎨illustration\n猫と植物らぶ🐈🌼\npixiv➡︎https://t.co/9u1sSO7xmW\nねこグッズ🐈➡https://t.co/mrWjDRlXXo\n\n𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦⬇",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/69841549",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/69841549",
+                "start": 34,
+                "url": "https://t.co/9u1sSO7xmW"
+              },
+              {
+                "display_url": "oimoshop.booth.pm",
+                "end": 88,
+                "expanded_url": "http://oimoshop.booth.pm",
+                "start": 65,
+                "url": "https://t.co/mrWjDRlXXo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/oimo029?igsh=M…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/oimo029?igsh=MXdwYmZwZGR3dnRrNA==",
+                "start": 0,
+                "url": "https://t.co/uF6DyO0pCS"
+              }
+            ]
+          }
+        },
+        "id": "1368596931849555973",
+        "name": "おいも🍠",
+        "pinned_tweet_id": "1819670725135110150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1368872063230832640/1BTHTPa__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56042,
+          "following_count": 257,
+          "like_count": 15338,
+          "listed_count": 646,
+          "tweet_count": 10214
+        },
+        "url": "https://t.co/uF6DyO0pCS",
+        "username": "oimo_imoo",
+        "verified": false
+      }
+    ]
+  }
+}

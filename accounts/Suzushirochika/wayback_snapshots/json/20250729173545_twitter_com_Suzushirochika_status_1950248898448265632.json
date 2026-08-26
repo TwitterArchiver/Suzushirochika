@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950092657235300352"
+      ],
+      "media_source_tweet_id": [
+        "1950092694551679361"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      }
+    ],
+    "conversation_id": "1950248898448265632",
+    "created_at": "2025-07-29T17:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T18:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950248898448265632"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "月姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682220647966203904",
+          "start": 3,
+          "username": "satori_aiart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YbOzvQ6Vq9",
+          "end": 79,
+          "expanded_url": "https://x.com/satori_aiart/status/1950092694551679361/photo/1",
+          "media_key": "3_1950092657235300352",
+          "start": 56,
+          "url": "https://t.co/YbOzvQ6Vq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950248898448265632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950092694551679361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satori_aiart: Arcueid Brunestud\nアルクェイド・ブリュンスタッド\n#月姫 https://t.co/YbOzvQ6Vq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_1950092657235300352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxAe8JGbkAAt1nr.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950092657235300352"
+          ],
+          "media_source_tweet_id": [
+            "1950092694551679361"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          }
+        ],
+        "conversation_id": "1950248898448265632",
+        "created_at": "2025-07-29T17:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T18:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950248898448265632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "月姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682220647966203904",
+              "start": 3,
+              "username": "satori_aiart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbOzvQ6Vq9",
+              "end": 79,
+              "expanded_url": "https://x.com/satori_aiart/status/1950092694551679361/photo/1",
+              "media_key": "3_1950092657235300352",
+              "start": 56,
+              "url": "https://t.co/YbOzvQ6Vq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950248898448265632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950092694551679361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satori_aiart: Arcueid Brunestud\nアルクェイド・ブリュンスタッド\n#月姫 https://t.co/YbOzvQ6Vq9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950092657235300352"
+          ]
+        },
+        "author_id": "1682220647966203904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          }
+        ],
+        "conversation_id": "1950092694551679361",
+        "created_at": "2025-07-29T07:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T08:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950092694551679361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "月姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbOzvQ6Vq9",
+              "end": 61,
+              "expanded_url": "https://x.com/satori_aiart/status/1950092694551679361/photo/1",
+              "media_key": "3_1950092657235300352",
+              "start": 38,
+              "url": "https://t.co/YbOzvQ6Vq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950092694551679361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 81395,
+          "like_count": 2686,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "Arcueid Brunestud\nアルクェイド・ブリュンスタッド\n#月姫 https://t.co/YbOzvQ6Vq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14525,
+          "following_count": 838,
+          "like_count": 79858,
+          "listed_count": 24,
+          "media_count": 933,
+          "tweet_count": 16875
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T02:47:21.000Z",
+        "description": "StableDiffusion/nijijourney(AI)使用💫加筆(Photoshop)✒️二次創作専用垢😊投稿しているイラストのアイコン等への使用は商用利用でなければご自由にどうぞ😉お仕事依頼等はDMまで✉️",
+        "id": "1682220647966203904",
+        "location": "Japan",
+        "name": "satori",
+        "pinned_tweet_id": "1950092694551679361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777177198497320961/WYZEUteA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94003,
+          "following_count": 849,
+          "like_count": 8395,
+          "listed_count": 631,
+          "media_count": 1029,
+          "tweet_count": 2536
+        },
+        "username": "satori_aiart",
+        "verified": true
+      }
+    ]
+  }
+}

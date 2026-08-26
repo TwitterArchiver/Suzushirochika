@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1952783582629429248"
+      ],
+      "media_source_tweet_id": [
+        "1952783641840333080"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1953410008508510253",
+    "created_at": "2025-08-07T10:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T11:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953410008508510253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "745284828166299648",
+          "start": 3,
+          "username": "starsbit1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cOjFpGUQNz",
+          "end": 38,
+          "expanded_url": "https://x.com/starsbit1/status/1952783641840333080/video/1",
+          "media_key": "13_1952783582629429248",
+          "start": 15,
+          "url": "https://t.co/cOjFpGUQNz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953410008508510253",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952783641840333080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @starsbit1: https://t.co/cOjFpGUQNz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12966,
+        "height": 576,
+        "media_key": "13_1952783582629429248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952783582629429248/img/-ZNBuM1gR6uEnGuC.jpg",
+        "public_metrics": {
+          "view_count": 2930
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952783582629429248/vid/avc1/480x270/ZMo7EwkLlbSiLaTZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952783582629429248/vid/avc1/640x360/08-ERhes6npxgv4m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952783582629429248/vid/avc1/1024x576/j48ppMa0OFLqXJqE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952783582629429248/pl/DPPvORpoSHy4Etvs.m3u8?v=cfc"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952783582629429248"
+          ],
+          "media_source_tweet_id": [
+            "1952783641840333080"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1953410008508510253",
+        "created_at": "2025-08-07T10:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953410008508510253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "745284828166299648",
+              "start": 3,
+              "username": "starsbit1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOjFpGUQNz",
+              "end": 38,
+              "expanded_url": "https://x.com/starsbit1/status/1952783641840333080/video/1",
+              "media_key": "13_1952783582629429248",
+              "start": 15,
+              "url": "https://t.co/cOjFpGUQNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953410008508510253",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952783641840333080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @starsbit1: https://t.co/cOjFpGUQNz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952783582629429248"
+          ]
+        },
+        "author_id": "745284828166299648",
+        "conversation_id": "1952783641840333080",
+        "created_at": "2025-08-05T17:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952783641840333080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOjFpGUQNz",
+              "end": 23,
+              "expanded_url": "https://x.com/starsbit1/status/1952783641840333080/video/1",
+              "media_key": "13_1952783582629429248",
+              "start": 0,
+              "url": "https://t.co/cOjFpGUQNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952783641840333080",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 7833,
+          "like_count": 765,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cOjFpGUQNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14532,
+          "following_count": 837,
+          "like_count": 79882,
+          "listed_count": 24,
+          "media_count": 934,
+          "tweet_count": 16884
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-21T15:58:44.000Z",
+        "description": "anime ☆ manga ☆ visual novels ☆ alt @starsbit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "starsbit2"
+              }
+            ]
+          }
+        },
+        "id": "745284828166299648",
+        "name": "stars",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943716410103922688/1ily34Q4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 202,
+          "like_count": 21337,
+          "listed_count": 7,
+          "media_count": 1158,
+          "tweet_count": 3149
+        },
+        "username": "starsbit1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056270895321378816"
+      ],
+      "media_source_tweet_id": [
+        "2056297489112911961"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2056436854967394461",
+    "created_at": "2026-05-18T18:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056436854967394461"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "創作百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "18501587",
+          "start": 3,
+          "username": "yuduna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MIwyO48coz",
+          "end": 51,
+          "expanded_url": "https://x.com/yuduna/status/2056297489112911961/photo/1",
+          "media_key": "3_2056270895321378816",
+          "start": 28,
+          "url": "https://t.co/MIwyO48coz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056436854967394461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 390
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056297489112911961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuduna: 主従百合カップル❤\n#創作百合 https://t.co/MIwyO48coz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2056270895321378816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlXfBWa8AAqu91.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056270895321378816"
+          ],
+          "media_source_tweet_id": [
+            "2056297489112911961"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2056436854967394461",
+        "created_at": "2026-05-18T18:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056436854967394461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "創作百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "18501587",
+              "start": 3,
+              "username": "yuduna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIwyO48coz",
+              "end": 51,
+              "expanded_url": "https://x.com/yuduna/status/2056297489112911961/photo/1",
+              "media_key": "3_2056270895321378816",
+              "start": 28,
+              "url": "https://t.co/MIwyO48coz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056436854967394461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 390
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056297489112911961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuduna: 主従百合カップル❤\n#創作百合 https://t.co/MIwyO48coz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056270895321378816"
+          ]
+        },
+        "author_id": "18501587",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2056297489112911961",
+        "created_at": "2026-05-18T08:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056297489112911961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIwyO48coz",
+              "end": 39,
+              "expanded_url": "https://x.com/yuduna/status/2056297489112911961/photo/1",
+              "media_key": "3_2056270895321378816",
+              "start": 16,
+              "url": "https://t.co/MIwyO48coz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056297489112911961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 514,
+          "impression_count": 45330,
+          "like_count": 4588,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 390
+        },
+        "reply_settings": "everyone",
+        "text": "主従百合カップル❤\n#創作百合 https://t.co/MIwyO48coz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14984,
+          "following_count": 748,
+          "like_count": 84438,
+          "listed_count": 14,
+          "media_count": 935,
+          "tweet_count": 17529
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-31T07:09:50.000Z",
+        "description": "イラストレーター・漫画家🖋｜百合シリーズ「生徒会長と番犬」更新中 ◆お仕事のご依頼⇒ https://t.co/PPZHie5T57 (6月下旬着手～◎)\n｜BOOTH（本の通販）https://t.co/f4HHmVLi8O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yuduna2525.tumblr.com/works",
+                "end": 66,
+                "expanded_url": "https://yuduna2525.tumblr.com/works",
+                "start": 43,
+                "url": "https://t.co/PPZHie5T57"
+              },
+              {
+                "display_url": "yuduna.booth.pm",
+                "end": 113,
+                "expanded_url": "https://yuduna.booth.pm/",
+                "start": 90,
+                "url": "https://t.co/f4HHmVLi8O"
+              }
+            ]
+          }
+        },
+        "id": "18501587",
+        "name": "住咲ゆづな❤COMITIA156／そ42a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807679129556586496/FcIk2Zu6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87683,
+          "following_count": 511,
+          "like_count": 5090,
+          "listed_count": 1247,
+          "media_count": 203,
+          "tweet_count": 5625
+        },
+        "username": "yuduna",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069429696849469441"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069414534482428167",
+    "created_at": "2026-06-23T14:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069429725001593198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KeRQDxVGSC",
+          "end": 33,
+          "expanded_url": "https://x.com/Suzushirochika/status/2069429725001593198/photo/1",
+          "media_key": "3_2069429696849469441",
+          "start": 10,
+          "url": "https://t.co/KeRQDxVGSC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069429725001593198",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069414534482428167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow https://t.co/KeRQDxVGSC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2069429696849469441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgXWFBbYAErZHR.jpg",
+        "width": 384
+      },
+      {
+        "height": 840,
+        "media_key": "3_2069413839146569729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgI7Ceb0AE7k1V.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069429696849469441"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069414534482428167",
+        "created_at": "2026-06-23T14:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069429725001593198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeRQDxVGSC",
+              "end": 33,
+              "expanded_url": "https://x.com/Suzushirochika/status/2069429725001593198/photo/1",
+              "media_key": "3_2069429696849469441",
+              "start": 10,
+              "url": "https://t.co/KeRQDxVGSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069429725001593198",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069414534482428167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow https://t.co/KeRQDxVGSC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069413839146569729"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2069414534482428167",
+        "created_at": "2026-06-23T13:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:34:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069413852668924134",
+          "2069414534482428167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2wbU6nD5F",
+              "end": 33,
+              "expanded_url": "https://x.com/0xo_snow/status/2069414534482428167/photo/1",
+              "media_key": "3_2069413839146569729",
+              "start": 10,
+              "url": "https://t.co/p2wbU6nD5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069414534482428167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不会再让你孤身一人 https://t.co/p2wbU6nD5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14974,
+          "following_count": 748,
+          "like_count": 85236,
+          "listed_count": 14,
+          "media_count": 944,
+          "tweet_count": 17688
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 IP北京\n可爱是唯一追求 ！\n爱好是唱歌与美少女，想被大家在意\n投喂or入门请扫背景赞赏码感谢！⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18115,
+          "following_count": 421,
+          "like_count": 16935,
+          "listed_count": 33,
+          "media_count": 1379,
+          "tweet_count": 14470
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

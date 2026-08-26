@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2042194051487961369",
+    "created_at": "2026-04-09T12:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042218700917604598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1470262216028946435",
+          "start": 0,
+          "username": "MikaHuang8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042218700917604598",
+    "in_reply_to_user_id": "1470262216028946435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042194051487961369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikaHuang8964 抱抱小鹦鹉…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042194048229003264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdUqrcbUAARy8f.jpg",
+        "width": 1622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2042194051487961369",
+        "created_at": "2026-04-09T12:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042218700917604598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1470262216028946435",
+              "start": 0,
+              "username": "MikaHuang8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042218700917604598",
+        "in_reply_to_user_id": "1470262216028946435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042194051487961369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikaHuang8964 抱抱小鹦鹉…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042194048229003264"
+          ]
+        },
+        "author_id": "1470262216028946435",
+        "conversation_id": "2042194051487961369",
+        "created_at": "2026-04-09T10:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042194051487961369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eStVGhfbAa",
+              "end": 31,
+              "expanded_url": "https://x.com/MikaHuang8964/status/2042194051487961369/photo/1",
+              "media_key": "3_2042194048229003264",
+              "start": 8,
+              "url": "https://t.co/eStVGhfbAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042194051487961369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见了，小家伙 https://t.co/eStVGhfbAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14803,
+          "following_count": 747,
+          "like_count": 83770,
+          "listed_count": 14,
+          "media_count": 923,
+          "tweet_count": 17297
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T05:20:16.000Z",
+        "description": "拿出鋼鐵鬥志！睡醒以後再來…",
+        "id": "1470262216028946435",
+        "location": "Miskatonic University",
+        "name": "咪咔竹紙卷儿",
+        "pinned_tweet_id": "1816492368209874961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1479502208073072643/zzOy1JXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 505,
+          "like_count": 38680,
+          "listed_count": 4,
+          "media_count": 557,
+          "tweet_count": 12273
+        },
+        "username": "MikaHuang8964",
+        "verified": false
+      }
+    ]
+  }
+}

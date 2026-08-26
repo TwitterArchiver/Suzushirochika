@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2087219583417761963",
+    "created_at": "2026-08-11T23:31:41.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087321083586478423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087321083586478423",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087219583417761963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 半泽直树（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2087219548160491520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdLHthbgAAVOVM.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2087219583417761963",
+        "created_at": "2026-08-11T23:31:41.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087321083586478423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087321083586478423",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087219583417761963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 半泽直树（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087219548160491520"
+          ]
+        },
+        "author_id": "3012350599",
+        "conversation_id": "2087219583417761963",
+        "created_at": "2026-08-11T16:48:22.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087219583417761963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULcTYyv5GD",
+              "end": 23,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/2087219583417761963/photo/1",
+              "media_key": "3_2087219548160491520",
+              "start": 0,
+              "url": "https://t.co/ULcTYyv5GD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087219583417761963",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087219548160491520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ULcTYyv5GD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087321083586478423",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2086307758375354520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15053,
+          "following_count": 753,
+          "like_count": 87953,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18065
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し /可以叫我桔桔/我要出去玩了！！\n爱人玖玖@GiveProofToLove \n好诡秘@mukdengise\n小咩@jinpingslutflop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "mukdengise"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "is_identity_verified": false,
+        "location": "Daegu, Republic of Korea",
+        "most_recent_tweet_id": "2087248675399745929",
+        "name": "桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3012350599/1768482992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4488,
+          "following_count": 511,
+          "like_count": 44943,
+          "listed_count": 16,
+          "media_count": 3494,
+          "tweet_count": 48937
+        },
+        "url": "",
+        "username": "__Ju___Ju__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

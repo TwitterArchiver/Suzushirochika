@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040410872",
+          "name": "Sony - Xperia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      }
+    ],
+    "conversation_id": "1983058793979416921",
+    "created_at": "2025-10-28T06:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983058793979416921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xperia_japan/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/xperia_japan/status/1966328427264237841",
+          "start": 14,
+          "url": "https://t.co/K18t1m5lAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983058793979416921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966328427264237841",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？您和pixel喝多了吗 https://t.co/K18t1m5lAC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_1966328412861030400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nNRgBW4AALWoA.jpg",
+        "width": 540
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1966328415973240832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nNRrnXcAA9f8h.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1966328419823616000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nNR59XgAA44az.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1966328423472562176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nNSHjWAAAmd31.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040410872",
+              "name": "Sony - Xperia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "1983058793979416921",
+        "created_at": "2025-10-28T06:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983058793979416921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xperia_japan/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xperia_japan/status/1966328427264237841",
+              "start": 14,
+              "url": "https://t.co/K18t1m5lAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983058793979416921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966328427264237841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？您和pixel喝多了吗 https://t.co/K18t1m5lAC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966328412861030400",
+            "3_1966328415973240832",
+            "3_1966328419823616000",
+            "3_1966328423472562176"
+          ]
+        },
+        "author_id": "4913902519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040410872",
+              "name": "Sony - Xperia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "1966328427264237841",
+        "created_at": "2025-09-12T02:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966328427264237841"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 1,
+              "tag": "Xperia10VII"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "ソニー"
+            },
+            {
+              "end": 157,
+              "start": 150,
+              "tag": "Xperia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNk6ta2W0p",
+              "end": 181,
+              "expanded_url": "https://x.com/xperia_japan/status/1966328427264237841/photo/1",
+              "media_key": "3_1966328412861030400",
+              "start": 158,
+              "url": "https://t.co/tNk6ta2W0p"
+            },
+            {
+              "display_url": "pic.x.com/tNk6ta2W0p",
+              "end": 181,
+              "expanded_url": "https://x.com/xperia_japan/status/1966328427264237841/photo/1",
+              "media_key": "3_1966328415973240832",
+              "start": 158,
+              "url": "https://t.co/tNk6ta2W0p"
+            },
+            {
+              "display_url": "pic.x.com/tNk6ta2W0p",
+              "end": 181,
+              "expanded_url": "https://x.com/xperia_japan/status/1966328427264237841/photo/1",
+              "media_key": "3_1966328419823616000",
+              "start": 158,
+              "url": "https://t.co/tNk6ta2W0p"
+            },
+            {
+              "display_url": "pic.x.com/tNk6ta2W0p",
+              "end": 181,
+              "expanded_url": "https://x.com/xperia_japan/status/1966328427264237841/photo/1",
+              "media_key": "3_1966328423472562176",
+              "start": 158,
+              "url": "https://t.co/tNk6ta2W0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966328427264237841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 410681,
+          "like_count": 1794,
+          "quote_count": 392,
+          "reply_count": 52,
+          "retweet_count": 826
+        },
+        "reply_settings": "everyone",
+        "text": "＼#Xperia10VII 新登場！／\n“これが、新しいスタンダード。”\n\n・画面を見ずにカメラ起動！即撮りボタン搭載\n・上質なエンタメが楽しめる新構造スピーカー＆新ディスプレイ\n・軽量ボディ＆長持ち大容量バッテリー\n・充実のOSサポート\n\n詳細が気になる方はスレッドのリンクをチェック！\n#ソニー #Xperia https://t.co/tNk6ta2W0p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14708,
+          "following_count": 831,
+          "like_count": 78506,
+          "listed_count": 23,
+          "media_count": 896,
+          "tweet_count": 16766
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-16T02:37:37.000Z",
+        "description": "Xperiaに関する情報を発信するソニー公式アカウントです。※公式アカウントでのご意見に対する個別回答などは控えさせていただきます。何卒ご了承ください。\n■ソーシャルメディア利用規約：https://t.co/ovysBWN6PM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sony.jp/socialmedia/ag…",
+                "end": 115,
+                "expanded_url": "https://www.sony.jp/socialmedia/agreement/",
+                "start": 92,
+                "url": "https://t.co/ovysBWN6PM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sony.jp/xperia/",
+                "end": 23,
+                "expanded_url": "https://www.sony.jp/xperia/",
+                "start": 0,
+                "url": "https://t.co/x4rPhknDA7"
+              }
+            ]
+          }
+        },
+        "id": "4913902519",
+        "location": "日本 東京",
+        "name": "Sony | Xperia (Japan)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1101498662394327041/O5sWnAnF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82606,
+          "following_count": 38,
+          "like_count": 5085,
+          "listed_count": 411,
+          "media_count": 1256,
+          "tweet_count": 6363
+        },
+        "url": "https://t.co/x4rPhknDA7",
+        "username": "xperia_japan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090715258721808603",
+    "created_at": "2026-08-21T09:39:23.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090735506338537529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008120984549933056",
+          "start": 0,
+          "username": "yxynbkls666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090735506338537529",
+    "in_reply_to_user_id": "2008120984549933056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090715258721808603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxynbkls666 抱抱你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090715258721808603",
+        "created_at": "2026-08-21T09:39:23.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090735506338537529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008120984549933056",
+              "start": 0,
+              "username": "yxynbkls666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090735506338537529",
+        "in_reply_to_user_id": "2008120984549933056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090715258721808603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxynbkls666 抱抱你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008120984549933056",
+        "conversation_id": "2090715258721808603",
+        "created_at": "2026-08-21T08:18:55.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090715258721808603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Suzushirochika…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/Suzushirochika/status/2090464486276907166",
+              "start": 63,
+              "url": "https://t.co/Y49ttGpAFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090715258721808603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090464486276907166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我复学之后每天就在宿舍割手一直哭。。前半个学期是没有朋友的状态 还好我是初三休的高中换了个环境去读书 不然我真的会在学校吊死 https://t.co/Y49ttGpAFs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090735506338537529",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15060,
+          "following_count": 754,
+          "like_count": 88185,
+          "listed_count": 14,
+          "media_count": 958,
+          "tweet_count": 18128
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T10:20:11.000Z",
+        "description": "日记本",
+        "id": "2008120984549933056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090715258721808603",
+        "name": "薯条饭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008120984549933056/1781272904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068977148459941888/bCZH4U_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 178,
+          "like_count": 17388,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "yxynbkls666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

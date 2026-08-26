@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855604577019834368"
+      ],
+      "media_source_tweet_id": [
+        "1855604650201989184"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1856256621841895613",
+    "created_at": "2024-11-12T08:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T09:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856256621841895613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "181528536",
+          "start": 3,
+          "username": "f_ukkami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hVuTifYmA5",
+          "end": 46,
+          "expanded_url": "https://x.com/f_ukkami/status/1855604650201989184/photo/1",
+          "media_key": "3_1855604577019834368",
+          "start": 23,
+          "url": "https://t.co/hVuTifYmA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856256621841895613",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 450
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855604650201989184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @f_ukkami: 悪夢※雰囲気頼若 https://t.co/hVuTifYmA5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2520,
+        "media_key": "3_1855604577019834368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcBuiAjbMAA-cFM.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855604577019834368"
+          ],
+          "media_source_tweet_id": [
+            "1855604650201989184"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1856256621841895613",
+        "created_at": "2024-11-12T08:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T09:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856256621841895613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "181528536",
+              "start": 3,
+              "username": "f_ukkami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVuTifYmA5",
+              "end": 46,
+              "expanded_url": "https://x.com/f_ukkami/status/1855604650201989184/photo/1",
+              "media_key": "3_1855604577019834368",
+              "start": 23,
+              "url": "https://t.co/hVuTifYmA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856256621841895613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 450
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855604650201989184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @f_ukkami: 悪夢※雰囲気頼若 https://t.co/hVuTifYmA5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855604577019834368"
+          ]
+        },
+        "author_id": "181528536",
+        "conversation_id": "1855604650201989184",
+        "created_at": "2024-11-10T13:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T14:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855604650201989184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVuTifYmA5",
+              "end": 32,
+              "expanded_url": "https://x.com/f_ukkami/status/1855604650201989184/photo/1",
+              "media_key": "3_1855604577019834368",
+              "start": 9,
+              "url": "https://t.co/hVuTifYmA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855604650201989184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 75011,
+          "like_count": 5956,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "悪夢※雰囲気頼若 https://t.co/hVuTifYmA5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13461,
+          "following_count": 880,
+          "like_count": 77771,
+          "listed_count": 22,
+          "tweet_count": 16661
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-22T12:35:04.000Z",
+        "description": "※地雷も節操も配慮もない闇鍋鬼ツイ垢/成人済/BUMP/絵以外すぐ消す SUKIMA→ https://t.co/8N97wpoh61 skeb→https://t.co/Ex4sjz36Lp 支部→https://t.co/fEhODvGdDc 青空→ https://t.co/MhcELtf4aD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.sc/JbewNRa",
+                "end": 67,
+                "expanded_url": "http://onl.sc/JbewNRa",
+                "start": 44,
+                "url": "https://t.co/8N97wpoh61"
+              },
+              {
+                "display_url": "skeb.jp/@f_ukkami",
+                "end": 96,
+                "expanded_url": "http://skeb.jp/@f_ukkami",
+                "start": 73,
+                "url": "https://t.co/Ex4sjz36Lp"
+              },
+              {
+                "display_url": "x.gd/uVYr1",
+                "end": 123,
+                "expanded_url": "https://x.gd/uVYr1",
+                "start": 100,
+                "url": "https://t.co/fEhODvGdDc"
+              },
+              {
+                "display_url": "x.gd/CbP1l",
+                "end": 151,
+                "expanded_url": "https://x.gd/CbP1l",
+                "start": 128,
+                "url": "https://t.co/MhcELtf4aD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/f_ukkami",
+                "end": 23,
+                "expanded_url": "http://marshmallow-qa.com/f_ukkami",
+                "start": 0,
+                "url": "https://t.co/xTZkqOoBfk"
+              }
+            ]
+          }
+        },
+        "id": "181528536",
+        "location": "F/R/B遠慮なく",
+        "name": "ふじ",
+        "pinned_tweet_id": "1855943766135452121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610992944403877895/HAs7UX48_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7096,
+          "following_count": 319,
+          "like_count": 25380,
+          "listed_count": 69,
+          "tweet_count": 254722
+        },
+        "url": "https://t.co/xTZkqOoBfk",
+        "username": "f_ukkami",
+        "verified": false
+      }
+    ]
+  }
+}

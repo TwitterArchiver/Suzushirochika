@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2078480557978337538",
+    "created_at": "2026-07-18T17:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078529615946252319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1568748618760482816",
+          "start": 0,
+          "username": "tene1la"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078529615946252319",
+    "in_reply_to_user_id": "1568748618760482816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078480557978337538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tene1la 先360度转一圈来转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2078480557978337538",
+        "created_at": "2026-07-18T17:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078529615946252319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1568748618760482816",
+              "start": 0,
+              "username": "tene1la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078529615946252319",
+        "in_reply_to_user_id": "1568748618760482816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078480557978337538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tene1la 先360度转一圈来转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568748618760482816",
+        "conversation_id": "2078480557978337538",
+        "created_at": "2026-07-18T14:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078480557978337538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078480557978337538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2090,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道每天坚持看两个小时勇哥餐饮创业说会发生什么吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15061,
+          "following_count": 752,
+          "like_count": 86895,
+          "listed_count": 14,
+          "media_count": 952,
+          "tweet_count": 17917
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T23:50:00.000Z",
+        "description": "",
+        "id": "1568748618760482816",
+        "name": "离子芥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039935492612128768/d95c-3Hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 662,
+          "like_count": 86341,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 6369
+        },
+        "url": "",
+        "username": "tene1la",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1851343683637166135",
+    "created_at": "2024-10-31T19:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T20:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852073505082446107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1459189957168295944",
+          "start": 0,
+          "username": "NuclearThermal"
+        },
+        {
+          "end": 26,
+          "id": "1546036708923572226",
+          "start": 16,
+          "username": "Merci_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852073505082446107",
+    "in_reply_to_user_id": "1459189957168295944",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851996677982556574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NuclearThermal @Merci_awa 上面那两个医保定点医院都没有，奥沙西泮我下回去问问，万分感谢！（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1851343683637166135",
+        "created_at": "2024-10-31T19:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T20:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852073505082446107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1459189957168295944",
+              "start": 0,
+              "username": "NuclearThermal"
+            },
+            {
+              "end": 26,
+              "id": "1546036708923572226",
+              "start": 16,
+              "username": "Merci_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852073505082446107",
+        "in_reply_to_user_id": "1459189957168295944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851996677982556574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NuclearThermal @Merci_awa 上面那两个医保定点医院都没有，奥沙西泮我下回去问问，万分感谢！（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459189957168295944",
+        "conversation_id": "1851343683637166135",
+        "created_at": "2024-10-31T14:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T15:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851996677982556574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            },
+            {
+              "end": 26,
+              "id": "1546036708923572226",
+              "start": 16,
+              "username": "Merci_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851996677982556574",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851524411863552011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika @Merci_awa 思诺思耐药的话，别的Z药（佐匹克隆，扎来普隆）交叉耐药了吗？没有的话可以优先选其它Z药，如果Z药都是耐药的，可以考虑bzd(不过bzd和z药也有一定的交叉耐药性）\n然后主要用来睡觉的bzd，应该首选的是奥沙西泮？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13479,
+          "following_count": 880,
+          "like_count": 77672,
+          "listed_count": 22,
+          "tweet_count": 16650
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T16:03:20.000Z",
+        "description": "MtX(Autigender)/AS/ADHD",
+        "id": "1459189957168295944",
+        "name": "Nuclear Thermal Rocket🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1527155675377217537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459190082980638728/8WjeYDRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 2549,
+          "like_count": 14047,
+          "listed_count": 22,
+          "tweet_count": 2815
+        },
+        "username": "NuclearThermal",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T07:42:12.000Z",
+        "description": "请和我了解/Kig萌新/INFP/已有对象勿扰/对象@kirakira2024_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "kirakira2024_"
+              }
+            ]
+          }
+        },
+        "id": "1546036708923572226",
+        "location": "Tokyo-to, Japan",
+        "name": "Merci（英文版夏离",
+        "pinned_tweet_id": "1794515521523831049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792762359280484353/s7sJQbVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 918,
+          "like_count": 15913,
+          "listed_count": 4,
+          "tweet_count": 2534
+        },
+        "username": "Merci_awa",
+        "verified": false
+      }
+    ]
+  }
+}

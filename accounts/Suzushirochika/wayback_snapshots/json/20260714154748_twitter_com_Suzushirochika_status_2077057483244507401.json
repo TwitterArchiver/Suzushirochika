@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2076576317525635283",
+    "created_at": "2026-07-14T15:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077057483244507401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4230155178",
+          "start": 0,
+          "username": "real_huiliyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077057483244507401",
+    "in_reply_to_user_id": "4230155178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076576317525635283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_huiliyi 这个温度加湿度是在蒸东西吗（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076576310537953280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNF7JvqbIAAM56Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2076576317525635283",
+        "created_at": "2026-07-14T15:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077057483244507401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4230155178",
+              "start": 0,
+              "username": "real_huiliyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077057483244507401",
+        "in_reply_to_user_id": "4230155178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076576317525635283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_huiliyi 这个温度加湿度是在蒸东西吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076576310537953280"
+          ]
+        },
+        "author_id": "4230155178",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076576317525635283",
+        "created_at": "2026-07-13T07:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076576317525635283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XPgABuLZaD",
+              "end": 36,
+              "expanded_url": "https://x.com/real_huiliyi/status/2076576317525635283/photo/1",
+              "media_key": "3_2076576310537953280",
+              "start": 13,
+              "url": "https://t.co/XPgABuLZaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076576317525635283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 430,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重生之我生活在亚马逊雨林 https://t.co/XPgABuLZaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15051,
+          "following_count": 751,
+          "like_count": 86534,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17858
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T03:18:17.000Z",
+        "description": "Welcome to my world よろしく / ISFJ /一个过气不有趣的推主 / 我永远爱Pusheen cat！/LOVELIVE厨🌈/魔法小绘/咱家的萌宝❤️ @NagoyaMoeFace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "NagoyaMoeFace"
+              }
+            ]
+          }
+        },
+        "id": "4230155178",
+        "location": "日本/中国（Japan / China）",
+        "name": "樱雪沫",
+        "pinned_tweet_id": "2064146665888756091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957657319044706306/US8vyzxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2938,
+          "following_count": 1376,
+          "like_count": 143445,
+          "listed_count": 16,
+          "media_count": 2651,
+          "tweet_count": 20143
+        },
+        "url": "",
+        "username": "real_huiliyi",
+        "verified": true
+      }
+    ]
+  }
+}

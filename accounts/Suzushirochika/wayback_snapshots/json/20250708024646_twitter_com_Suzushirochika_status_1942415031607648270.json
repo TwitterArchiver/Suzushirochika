@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1942415031607648270",
+    "created_at": "2025-07-08T02:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T03:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942415031607648270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1549222683938009089",
+          "start": 3,
+          "username": "_LongBow_"
+        },
+        {
+          "end": 26,
+          "id": "1697197317810696192",
+          "start": 15,
+          "username": "Hongquekou"
+        },
+        {
+          "end": 42,
+          "id": "1260553941714186241",
+          "start": 27,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942415031607648270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942023288407879793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_LongBow_: @Hongquekou @whyyoutouzhele 看来要当一个合格的粉红，第一步就是要抛弃人性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1942415031607648270",
+        "created_at": "2025-07-08T02:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T03:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942415031607648270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1549222683938009089",
+              "start": 3,
+              "username": "_LongBow_"
+            },
+            {
+              "end": 26,
+              "id": "1697197317810696192",
+              "start": 15,
+              "username": "Hongquekou"
+            },
+            {
+              "end": 42,
+              "id": "1260553941714186241",
+              "start": 27,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942415031607648270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942023288407879793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_LongBow_: @Hongquekou @whyyoutouzhele 看来要当一个合格的粉红，第一步就是要抛弃人性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549222683938009089",
+        "conversation_id": "1941770844352762258",
+        "created_at": "2025-07-07T00:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T01:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942023288407879793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697197317810696192",
+              "start": 0,
+              "username": "Hongquekou"
+            },
+            {
+              "end": 27,
+              "id": "1260553941714186241",
+              "start": 12,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942023288407879793",
+        "in_reply_to_user_id": "1697197317810696192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1984,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941839650584514663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hongquekou @whyyoutouzhele 看来要当一个合格的粉红，第一步就是要抛弃人性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14457,
+          "following_count": 839,
+          "like_count": 79831,
+          "listed_count": 23,
+          "media_count": 933,
+          "tweet_count": 16876
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T02:41:02.000Z",
+        "description": "",
+        "id": "1549222683938009089",
+        "name": "LongBow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759054184115281920/WENumxHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 58,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 132
+        },
+        "username": "_LongBow_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T10:39:24.000Z",
+        "description": "A happy man",
+        "id": "1697197317810696192",
+        "name": "Hongque",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697197495246577664/Yj9cMZa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 79,
+          "like_count": 207,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 261
+        },
+        "username": "Hongquekou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1941476956916093300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028557,
+          "following_count": 975,
+          "like_count": 7408,
+          "listed_count": 8181,
+          "media_count": 31200,
+          "tweet_count": 37807
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

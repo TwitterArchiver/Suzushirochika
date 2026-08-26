@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985281196952342528"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1985281199481450900",
+    "created_at": "2025-11-03T09:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T10:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985281199481450900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYzmZkvWtU",
+          "end": 30,
+          "expanded_url": "https://x.com/Suzushirochika/status/1985281199481450900/photo/1",
+          "media_key": "3_1985281196952342528",
+          "start": 7,
+          "url": "https://t.co/fYzmZkvWtU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985281199481450900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "整个人灰掉了 https://t.co/fYzmZkvWtU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1985281196952342528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40iuuubUAArfLB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985281196952342528"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1985281199481450900",
+        "created_at": "2025-11-03T09:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985281199481450900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYzmZkvWtU",
+              "end": 30,
+              "expanded_url": "https://x.com/Suzushirochika/status/1985281199481450900/photo/1",
+              "media_key": "3_1985281196952342528",
+              "start": 7,
+              "url": "https://t.co/fYzmZkvWtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985281199481450900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整个人灰掉了 https://t.co/fYzmZkvWtU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14722,
+          "following_count": 833,
+          "like_count": 78611,
+          "listed_count": 23,
+          "media_count": 899,
+          "tweet_count": 16780
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

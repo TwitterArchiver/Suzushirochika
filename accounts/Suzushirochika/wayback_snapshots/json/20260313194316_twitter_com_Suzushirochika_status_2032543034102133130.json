@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2032328223569428793",
+    "created_at": "2026-03-13T19:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T20:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032543034102133130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1507704777999740929",
+          "start": 0,
+          "username": "Blueink85009372"
+        },
+        {
+          "end": 28,
+          "id": "1782751587821363200",
+          "start": 17,
+          "username": "MaybEuRshY"
+        },
+        {
+          "end": 38,
+          "id": "1731670068189114368",
+          "start": 29,
+          "username": "Oori_Tvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032543034102133130",
+    "in_reply_to_user_id": "1507704777999740929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032408836750139672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blueink85009372 @MaybEuRshY @Oori_Tvv 基督教因信称义（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2032328223569428793",
+        "created_at": "2026-03-13T19:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T20:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032543034102133130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1507704777999740929",
+              "start": 0,
+              "username": "Blueink85009372"
+            },
+            {
+              "end": 28,
+              "id": "1782751587821363200",
+              "start": 17,
+              "username": "MaybEuRshY"
+            },
+            {
+              "end": 38,
+              "id": "1731670068189114368",
+              "start": 29,
+              "username": "Oori_Tvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032543034102133130",
+        "in_reply_to_user_id": "1507704777999740929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032408836750139672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blueink85009372 @MaybEuRshY @Oori_Tvv 基督教因信称义（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507704777999740929",
+        "conversation_id": "2032328223569428793",
+        "created_at": "2026-03-13T10:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032408836750139672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1782751587821363200",
+              "start": 0,
+              "username": "MaybEuRshY"
+            },
+            {
+              "end": 21,
+              "id": "1731670068189114368",
+              "start": 12,
+              "username": "Oori_Tvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032408836750139672",
+        "in_reply_to_user_id": "1782751587821363200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20566,
+          "like_count": 143,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032328223569428793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaybEuRshY @Oori_Tvv 啊不是这个意思吗 而且基督教也是不允许自慰的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14865,
+          "following_count": 748,
+          "like_count": 82055,
+          "listed_count": 13,
+          "media_count": 920,
+          "tweet_count": 17060
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T13:03:42.000Z",
+        "description": "",
+        "id": "1507704777999740929",
+        "name": "Blueink",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939373925517131776/NPumfrPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 1688,
+          "like_count": 9311,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 487
+        },
+        "username": "Blueink85009372",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T12:41:22.000Z",
+        "description": "我绝不是你幻想中的电波系女主角。",
+        "id": "1782751587821363200",
+        "name": "怜心",
+        "pinned_tweet_id": "2012750154777137472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028810735451824128/XirbTrbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 27,
+          "like_count": 1772,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 461
+        },
+        "username": "MaybEuRshY",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "敏感多疑嘴賤",
+        "id": "1731670068189114368",
+        "location": "東京 新宿区",
+        "name": "オオリ_ディヴァ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000085096163151872/CXJSLoml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 577,
+          "like_count": 74661,
+          "listed_count": 2,
+          "media_count": 726,
+          "tweet_count": 9064
+        },
+        "username": "Oori_Tvv",
+        "verified": false
+      }
+    ]
+  }
+}

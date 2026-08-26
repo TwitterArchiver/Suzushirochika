@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1864992496692125991",
+    "created_at": "2024-12-07T17:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T18:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865448995340112337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1765806170382774272",
+          "start": 0,
+          "username": "cao_xia81245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865448995340112337",
+    "in_reply_to_user_id": "1765806170382774272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864992496692125991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cao_xia81245 治疗或者法师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1864992496692125991",
+        "created_at": "2024-12-07T17:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T18:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865448995340112337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1765806170382774272",
+              "start": 0,
+              "username": "cao_xia81245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865448995340112337",
+        "in_reply_to_user_id": "1765806170382774272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864992496692125991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cao_xia81245 治疗或者法师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864992494175551488"
+          ]
+        },
+        "author_id": "1765806170382774272",
+        "conversation_id": "1864992496692125991",
+        "created_at": "2024-12-06T11:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T12:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864992496692125991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYzX9XZpZl",
+              "end": 101,
+              "expanded_url": "https://x.com/cao_xia81245/status/1864992496692125991/photo/1",
+              "media_key": "3_1864992494175551488",
+              "start": 78,
+              "url": "https://t.co/EYzX9XZpZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864992496692125991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12787,
+          "like_count": 153,
+          "quote_count": 10,
+          "reply_count": 150,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家在玩游戏的时候，有没有什么习惯性的职业选择倾向呢？_(:D)∠)_\n我自己不知道从什么时候开始，会优先选择“法师”和“医生”这两个方向的职业或者角色。 https://t.co/EYzX9XZpZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13553,
+          "following_count": 873,
+          "like_count": 77903,
+          "listed_count": 22,
+          "media_count": 913,
+          "tweet_count": 16648
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T18:26:27.000Z",
+        "description": "Hello.\n很忙，在亚眠驾驶圣沙蒙，什么事？(ﾟωﾟ)— — — \n日更（大嘘）歌推desu。深夜随机掉落大脑溶解文案。\n观察人类，寻找同类。或许交一些朋友，或许留下些印记。(╬◣ω◢)",
+        "id": "1765806170382774272",
+        "location": "木卫二 提丰号潜艇",
+        "name": "草下芥",
+        "pinned_tweet_id": "1780304801458463080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765807313900965888/J_F-YjDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 2130,
+          "like_count": 11242,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2836
+        },
+        "username": "cao_xia81245",
+        "verified": false
+      }
+    ]
+  }
+}

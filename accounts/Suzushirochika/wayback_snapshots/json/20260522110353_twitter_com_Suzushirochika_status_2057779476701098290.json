@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057634369876213760"
+      ],
+      "media_source_tweet_id": [
+        "2057634528680980609"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2057779476701098290",
+    "created_at": "2026-05-22T11:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057779476701098290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974510040313958400",
+          "start": 3,
+          "username": "kisaragicoco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U3KpBSG094",
+          "end": 41,
+          "expanded_url": "https://x.com/kisaragicoco/status/2057634528680980609/photo/1",
+          "media_key": "3_2057634369876213760",
+          "start": 18,
+          "url": "https://t.co/U3KpBSG094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057779476701098290",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057634528680980609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @kisaragicoco: https://t.co/U3KpBSG094"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2057634369876213760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4vjr4bQAAZ98q.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057634369876213760"
+          ],
+          "media_source_tweet_id": [
+            "2057634528680980609"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2057779476701098290",
+        "created_at": "2026-05-22T11:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057779476701098290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974510040313958400",
+              "start": 3,
+              "username": "kisaragicoco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3KpBSG094",
+              "end": 41,
+              "expanded_url": "https://x.com/kisaragicoco/status/2057634528680980609/photo/1",
+              "media_key": "3_2057634369876213760",
+              "start": 18,
+              "url": "https://t.co/U3KpBSG094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057779476701098290",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057634528680980609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @kisaragicoco: https://t.co/U3KpBSG094"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057634369876213760"
+          ]
+        },
+        "author_id": "1974510040313958400",
+        "conversation_id": "2057634528680980609",
+        "created_at": "2026-05-22T01:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057634528680980609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3KpBSG094",
+              "end": 23,
+              "expanded_url": "https://x.com/kisaragicoco/status/2057634528680980609/photo/1",
+              "media_key": "3_2057634369876213760",
+              "start": 0,
+              "url": "https://t.co/U3KpBSG094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057634528680980609",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 12280,
+          "like_count": 1682,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/U3KpBSG094"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14972,
+          "following_count": 749,
+          "like_count": 84508,
+          "listed_count": 14,
+          "media_count": 935,
+          "tweet_count": 17539
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T16:21:15.000Z",
+        "description": "もう、ホワイトアルバムの季節じゃない。 \n\nWHITE ALBUM2を中心に、考察・感想・小説を書いています。\n非公式のWA2ファンアカウントです。 \n北原春希の名前をお借りしています。 \n\nNot an art account. Mainly for WA2 fans.\n\n@England46612772",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 138,
+                "username": "England46612772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/kitahara_haruki",
+                "end": 23,
+                "expanded_url": "https://note.com/kitahara_haruki",
+                "start": 0,
+                "url": "https://t.co/KNyZEID6MJ"
+              }
+            ]
+          }
+        },
+        "id": "1974510040313958400",
+        "location": "ウィーン",
+        "name": "きたはらはるき｜雪のあと",
+        "pinned_tweet_id": "2052364048625435000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057302552178524160/EwQUcXXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 26,
+          "like_count": 1033,
+          "listed_count": 10,
+          "media_count": 68,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/KNyZEID6MJ",
+        "username": "kisaragicoco",
+        "verified": false
+      }
+    ]
+  }
+}

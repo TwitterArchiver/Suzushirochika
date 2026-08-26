@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832626659541065728"
+      ],
+      "media_source_tweet_id": [
+        "1832626672535007342"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054080790",
+          "name": "ハッピーシュガーライフ"
+        }
+      }
+    ],
+    "conversation_id": "1832938414318239998",
+    "created_at": "2024-09-09T00:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T01:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832938414318239998"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "さとちゃん",
+          "probability": 0.8473,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 13,
+          "tag": "ハッピーシュガーライフ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1638125343927332864",
+          "start": 3,
+          "username": "G_MDN_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zidvlczlhl",
+          "end": 56,
+          "expanded_url": "https://twitter.com/G_MDN_1/status/1832626672535007342/photo/1",
+          "media_key": "3_1832626659541065728",
+          "start": 33,
+          "url": "https://t.co/ZiDvlcZlHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832938414318239998",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 441
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832626672535007342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @G_MDN_1: #ハッピーシュガーライフ\nさとちゃん！ https://t.co/ZiDvlcZlHL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1832626659541065728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW7MPLfbIAA0iOa.jpg",
+        "width": 1647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832626659541065728"
+          ],
+          "media_source_tweet_id": [
+            "1832626672535007342"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "1832938414318239998",
+        "created_at": "2024-09-09T00:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T01:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832938414318239998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "さとちゃん",
+              "probability": 0.8473,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "ハッピーシュガーライフ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1638125343927332864",
+              "start": 3,
+              "username": "G_MDN_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zidvlczlhl",
+              "end": 56,
+              "expanded_url": "https://twitter.com/G_MDN_1/status/1832626672535007342/photo/1",
+              "media_key": "3_1832626659541065728",
+              "start": 33,
+              "url": "https://t.co/ZiDvlcZlHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832938414318239998",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 441
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832626672535007342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @G_MDN_1: #ハッピーシュガーライフ\nさとちゃん！ https://t.co/ZiDvlcZlHL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832626659541065728"
+          ]
+        },
+        "author_id": "1638125343927332864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "1832626672535007342",
+        "created_at": "2024-09-08T03:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T04:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832626672535007342"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "さとちゃん",
+              "probability": 0.8399,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "ハッピーシュガーライフ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zidvlczlhl",
+              "end": 43,
+              "expanded_url": "https://twitter.com/G_MDN_1/status/1832626672535007342/photo/1",
+              "media_key": "3_1832626659541065728",
+              "start": 20,
+              "url": "https://t.co/ZiDvlcZlHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832626672535007342",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 64857,
+          "like_count": 5011,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "#ハッピーシュガーライフ\nさとちゃん！ https://t.co/ZiDvlcZlHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13362,
+          "following_count": 889,
+          "like_count": 77349,
+          "listed_count": 22,
+          "tweet_count": 16511
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T10:28:21.000Z",
+        "description": "描きたいものを描く！FAタグ！！ #ごまのえ skeb https://t.co/soD8bAlVr4",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "ごまのえ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@G_MDN_1",
+                "end": 51,
+                "expanded_url": "https://skeb.jp/@G_MDN_1",
+                "start": 28,
+                "url": "https://t.co/soD8bAlVr4"
+              }
+            ]
+          }
+        },
+        "id": "1638125343927332864",
+        "location": "転載・使用・模写・AIへの使用は禁止です",
+        "name": "ごまだん",
+        "pinned_tweet_id": "1745706393179746359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647201115979800577/MXn2B_tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5587,
+          "following_count": 319,
+          "like_count": 17204,
+          "listed_count": 45,
+          "tweet_count": 2333
+        },
+        "username": "G_MDN_1",
+        "verified": false
+      }
+    ]
+  }
+}

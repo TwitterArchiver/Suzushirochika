@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2091615528662323513",
+    "created_at": "2026-08-24T08:10:40.000Z",
+    "display_text_range": [
+      10,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T09:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091800346343690649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886560923518779396",
+          "start": 0,
+          "username": "Rippin_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091800346343690649",
+    "in_reply_to_user_id": "886560923518779396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091615528662323513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rippin_C 千万不要被人骗去玩和泉万业的×××× ××××"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2091615528662323513",
+        "created_at": "2026-08-24T08:10:40.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091800346343690649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886560923518779396",
+              "start": 0,
+              "username": "Rippin_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091800346343690649",
+        "in_reply_to_user_id": "886560923518779396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091615528662323513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rippin_C 千万不要被人骗去玩和泉万业的×××× ××××"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886560923518779396",
+        "conversation_id": "2091615528662323513",
+        "created_at": "2026-08-23T19:56:17.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091615528662323513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091615528662323513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实想去玩点猎奇的作品\n嗯大概就是比素晴日再电波一点吧\n但是也不要太那个什么r18g了\n就是不要纯粹的猎奇，但是比素晴日程度高一点的那种"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091800346343690649",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15095,
+          "following_count": 756,
+          "like_count": 88568,
+          "listed_count": 14,
+          "media_count": 960,
+          "tweet_count": 18179
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-16T12:19:30.000Z",
+        "description": "电波系&碎碎念&白日梦；喜欢可爱单纯的和病娇崩坏的事物；非键政非涩涩日常推；希望做一个少年感&包容&温柔&可爱&冷静的人。喜欢的游戏和番剧挂在我的个人网页上！主包没有雷点只有可能踩雷，包容性远超常人，又没有脾气，所以怎样和我互动都没关系啦。好朋友 @bin_x_13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "bin_x_13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "void-island.com",
+                "end": 23,
+                "expanded_url": "http://void-island.com",
+                "start": 0,
+                "url": "https://t.co/ikZ6E4LJ1K"
+              }
+            ]
+          }
+        },
+        "id": "886560923518779396",
+        "is_identity_verified": false,
+        "location": "拉格朗日点L3",
+        "most_recent_tweet_id": "2091615528662323513",
+        "name": "涟漪Rippin",
+        "pinned_tweet_id": "2084312158310150403",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886560923518779396/1702083200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066895100060545024/RTyHfyUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 1045,
+          "like_count": 25910,
+          "listed_count": 7,
+          "media_count": 780,
+          "tweet_count": 5382
+        },
+        "url": "https://t.co/ikZ6E4LJ1K",
+        "username": "Rippin_C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

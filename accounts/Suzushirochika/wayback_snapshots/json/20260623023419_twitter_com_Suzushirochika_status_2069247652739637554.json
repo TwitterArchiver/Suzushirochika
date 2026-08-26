@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2068908737776189503",
+    "created_at": "2026-06-23T02:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069247652739637554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910008101371273225",
+          "start": 0,
+          "username": "paopao152025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069247652739637554",
+    "in_reply_to_user_id": "1910008101371273225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068908737776189503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopao152025 是这样吗（…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2068908737776189503",
+        "created_at": "2026-06-23T02:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069247652739637554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910008101371273225",
+              "start": 0,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069247652739637554",
+        "in_reply_to_user_id": "1910008101371273225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068908737776189503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao152025 是这样吗（…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910008101371273225",
+        "conversation_id": "2068908737776189503",
+        "created_at": "2026-06-22T04:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068908737776189503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068908737776189503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13329,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是 二次元扩列圈这么能圈钱啊。。放个脸照加一个赞赏码好多人打钱。我的法克啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14972,
+          "following_count": 747,
+          "like_count": 85155,
+          "listed_count": 14,
+          "media_count": 943,
+          "tweet_count": 17676
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike 第二世@paonew26\n小号@haoxiangsiaaaa 大号随时都会被封 会自言自语抛出一些疑问和思考 我说的都是胡话瞎发的很多都是上句不接下句纯自己唠叨瞎逼逼🙏 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "paonew26"
+              },
+              {
+                "end": 45,
+                "start": 30,
+                "username": "haoxiangsiaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "互关可加v",
+        "name": "泡泡",
+        "pinned_tweet_id": "2069031236916613474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6013,
+          "following_count": 165,
+          "like_count": 6019,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 2956
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2069802992845680747",
+    "created_at": "2026-06-24T19:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069862468478976348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856050568843931649",
+          "start": 0,
+          "username": "_Nag1chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069862468478976348",
+    "in_reply_to_user_id": "1856050568843931649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069802992845680747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nag1chan ✝︎ 千葉の堕天聖黒猫 ✝︎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069802980728254464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlq2D1aMAA1FrW.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069802992845680747",
+        "created_at": "2026-06-24T19:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069862468478976348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856050568843931649",
+              "start": 0,
+              "username": "_Nag1chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069862468478976348",
+        "in_reply_to_user_id": "1856050568843931649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069802992845680747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nag1chan ✝︎ 千葉の堕天聖黒猫 ✝︎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069802980728254464"
+          ]
+        },
+        "author_id": "1856050568843931649",
+        "conversation_id": "2069802992845680747",
+        "created_at": "2026-06-24T15:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069802992845680747"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 16,
+              "tag": "俺の妹がこんなに可愛いわけがない"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "五更瑠璃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKkunJi30d",
+              "end": 63,
+              "expanded_url": "https://x.com/_Nag1chan/status/2069802992845680747/photo/1",
+              "media_key": "3_2069802980728254464",
+              "start": 40,
+              "url": "https://t.co/QKkunJi30d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069802992845680747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3752,
+          "like_count": 365,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "✝︎ 千葉の堕天聖黒猫 ✝︎\n\n#俺の妹がこんなに可愛いわけがない\n#五更瑠璃 https://t.co/QKkunJi30d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14979,
+          "following_count": 748,
+          "like_count": 85441,
+          "listed_count": 14,
+          "media_count": 946,
+          "tweet_count": 17722
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T19:05:23.000Z",
+        "description": "はじめまして、凪です💦 低浮上です🫧 Ig【https://t.co/gPQ3EFrbfw】patreon【https://t.co/6u5tWT5X9z】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nag1chan_",
+                "end": 45,
+                "expanded_url": "http://instagram.com/nag1chan_",
+                "start": 22,
+                "url": "https://t.co/gPQ3EFrbfw"
+              },
+              {
+                "display_url": "patreon.com/c/Nag1chan",
+                "end": 77,
+                "expanded_url": "https://www.patreon.com/c/Nag1chan",
+                "start": 54,
+                "url": "https://t.co/6u5tWT5X9z"
+              }
+            ]
+          }
+        },
+        "id": "1856050568843931649",
+        "location": "Fantia、Patreon 建設中！",
+        "name": "清水凪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059350742226587648/I23-wI___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59485,
+          "following_count": 51,
+          "like_count": 294,
+          "listed_count": 301,
+          "media_count": 65,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "_Nag1chan",
+        "verified": false
+      }
+    ]
+  }
+}

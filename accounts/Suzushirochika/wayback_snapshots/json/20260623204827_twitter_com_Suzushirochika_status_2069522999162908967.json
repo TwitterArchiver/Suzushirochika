@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2069515518705602868",
+    "created_at": "2026-06-23T20:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T21:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069522999162908967"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069522999162908967",
+    "in_reply_to_user_id": "1253292430792839174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069516220366553332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "垃圾桶里全是喝空的魔爪 希望人没事 撑过今天就可以休息了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069515518705602868",
+        "created_at": "2026-06-23T20:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069522999162908967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069522999162908967",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069516220366553332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "垃圾桶里全是喝空的魔爪 希望人没事 撑过今天就可以休息了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069515518705602868",
+        "created_at": "2026-06-23T20:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069516220366553332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069516220366553332",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069515518705602868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千夏老师你嘴唇发紫可能是心脏不好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14978,
+          "following_count": 748,
+          "like_count": 85282,
+          "listed_count": 14,
+          "media_count": 948,
+          "tweet_count": 17703
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

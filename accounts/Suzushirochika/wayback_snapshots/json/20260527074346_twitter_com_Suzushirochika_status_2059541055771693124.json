@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059541043641815042",
+        "3_2059541043918573568",
+        "3_2059541043948003328"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2059541055771693124",
+    "created_at": "2026-05-27T07:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059541055771693124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BdlGTq9Hw1",
+          "end": 27,
+          "expanded_url": "https://x.com/Suzushirochika/status/2059541055771693124/photo/1",
+          "media_key": "3_2059541043641815042",
+          "start": 4,
+          "url": "https://t.co/BdlGTq9Hw1"
+        },
+        {
+          "display_url": "pic.x.com/BdlGTq9Hw1",
+          "end": 27,
+          "expanded_url": "https://x.com/Suzushirochika/status/2059541055771693124/photo/1",
+          "media_key": "3_2059541043918573568",
+          "start": 4,
+          "url": "https://t.co/BdlGTq9Hw1"
+        },
+        {
+          "display_url": "pic.x.com/BdlGTq9Hw1",
+          "end": 27,
+          "expanded_url": "https://x.com/Suzushirochika/status/2059541055771693124/photo/1",
+          "media_key": "3_2059541043948003328",
+          "start": 4,
+          "url": "https://t.co/BdlGTq9Hw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059541055771693124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已绝版 https://t.co/BdlGTq9Hw1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059541043641815042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT1qtKbkAITx5c.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059541043918573568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT1quMakAAmx1z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059541043948003328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT1quTboAAjIgz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059541043641815042",
+            "3_2059541043918573568",
+            "3_2059541043948003328"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2059541055771693124",
+        "created_at": "2026-05-27T07:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059541055771693124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdlGTq9Hw1",
+              "end": 27,
+              "expanded_url": "https://x.com/Suzushirochika/status/2059541055771693124/photo/1",
+              "media_key": "3_2059541043641815042",
+              "start": 4,
+              "url": "https://t.co/BdlGTq9Hw1"
+            },
+            {
+              "display_url": "pic.x.com/BdlGTq9Hw1",
+              "end": 27,
+              "expanded_url": "https://x.com/Suzushirochika/status/2059541055771693124/photo/1",
+              "media_key": "3_2059541043918573568",
+              "start": 4,
+              "url": "https://t.co/BdlGTq9Hw1"
+            },
+            {
+              "display_url": "pic.x.com/BdlGTq9Hw1",
+              "end": 27,
+              "expanded_url": "https://x.com/Suzushirochika/status/2059541055771693124/photo/1",
+              "media_key": "3_2059541043948003328",
+              "start": 4,
+              "url": "https://t.co/BdlGTq9Hw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059541055771693124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已绝版 https://t.co/BdlGTq9Hw1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14989,
+          "following_count": 746,
+          "like_count": 84621,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 17552
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

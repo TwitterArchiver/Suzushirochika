@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1861356585013944751",
+    "created_at": "2024-11-27T03:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T04:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861605871664669038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754665643046281216",
+          "start": 0,
+          "username": "qiyigaoxia2635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861605871664669038",
+    "in_reply_to_user_id": "1754665643046281216",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861356585013944751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiyigaoxia2635 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1861356585013944751",
+        "created_at": "2024-11-27T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861605871664669038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754665643046281216",
+              "start": 0,
+              "username": "qiyigaoxia2635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861605871664669038",
+        "in_reply_to_user_id": "1754665643046281216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861356585013944751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiyigaoxia2635 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861356572724617216",
+            "3_1861356572716257280",
+            "3_1861356572774981632",
+            "3_1861356572720373760"
+          ]
+        },
+        "author_id": "1754665643046281216",
+        "conversation_id": "1861356585013944751",
+        "created_at": "2024-11-26T10:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T11:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861356585013944751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Z04o0jRGA",
+              "end": 55,
+              "expanded_url": "https://x.com/qiyigaoxia2635/status/1861356585013944751/photo/1",
+              "media_key": "3_1861356572724617216",
+              "start": 32,
+              "url": "https://t.co/9Z04o0jRGA"
+            },
+            {
+              "display_url": "pic.x.com/9Z04o0jRGA",
+              "end": 55,
+              "expanded_url": "https://x.com/qiyigaoxia2635/status/1861356585013944751/photo/1",
+              "media_key": "3_1861356572716257280",
+              "start": 32,
+              "url": "https://t.co/9Z04o0jRGA"
+            },
+            {
+              "display_url": "pic.x.com/9Z04o0jRGA",
+              "end": 55,
+              "expanded_url": "https://x.com/qiyigaoxia2635/status/1861356585013944751/photo/1",
+              "media_key": "3_1861356572774981632",
+              "start": 32,
+              "url": "https://t.co/9Z04o0jRGA"
+            },
+            {
+              "display_url": "pic.x.com/9Z04o0jRGA",
+              "end": 55,
+              "expanded_url": "https://x.com/qiyigaoxia2635/status/1861356585013944751/photo/1",
+              "media_key": "3_1861356572720373760",
+              "start": 32,
+              "url": "https://t.co/9Z04o0jRGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861356585013944751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5468,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我用哪個頭像好看點\n1 広東國\n2 IDF\n3 ？\n4 IAF https://t.co/9Z04o0jRGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13512,
+          "following_count": 877,
+          "like_count": 77810,
+          "listed_count": 22,
+          "tweet_count": 16643
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T00:37:53.000Z",
+        "description": "屬於遠東某海港的小市民",
+        "id": "1754665643046281216",
+        "location": "新市民舊土壤",
+        "name": "Friedrich",
+        "pinned_tweet_id": "1860248419430015376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861118238232621056/r0bCy1F7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 3257,
+          "like_count": 6455,
+          "listed_count": 6,
+          "tweet_count": 2357
+        },
+        "username": "qiyigaoxia2635",
+        "verified": false
+      }
+    ]
+  }
+}

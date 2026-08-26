@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2068522412459876582",
+    "created_at": "2026-06-21T16:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068740476782661901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1001218834253189126",
+          "start": 0,
+          "username": "Luna5ama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068740476782661901",
+    "in_reply_to_user_id": "1001218834253189126",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068731098289328526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luna5ama 第三集第四集真神回，第一集和后面太混乱文青意识流了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2068522412459876582",
+        "created_at": "2026-06-21T16:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068740476782661901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1001218834253189126",
+              "start": 0,
+              "username": "Luna5ama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068740476782661901",
+        "in_reply_to_user_id": "1001218834253189126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068731098289328526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luna5ama 第三集第四集真神回，第一集和后面太混乱文青意识流了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1001218834253189126",
+        "conversation_id": "2068522412459876582",
+        "created_at": "2026-06-21T16:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068731098289328526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068731098289328526",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068522771458723933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 看了一集何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14969,
+          "following_count": 745,
+          "like_count": 85059,
+          "listed_count": 14,
+          "media_count": 941,
+          "tweet_count": 17659
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-28T21:49:06.000Z",
+        "description": "日常废话推 | 全自动废物 | 老保退步人 | 低智小学生 | 国家一级废 | 究极乐子人 | 丑陋哥布林 | 抽象艺术家 | 胡言乱语集 | 精神状态美 | 退役熬夜员 | 电子吸尘器 | 互联网该溜\n\n如果你还想要更多类似的标签，我可以继续为你生成。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.luna5ama.dev",
+                "end": 23,
+                "expanded_url": "https://about.luna5ama.dev/",
+                "start": 0,
+                "url": "https://t.co/JbyCOvSj72"
+              }
+            ]
+          }
+        },
+        "id": "1001218834253189126",
+        "location": "New York State",
+        "name": "Luna今天用什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909447204500021248/9E0T0uAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48893,
+          "following_count": 386,
+          "like_count": 97460,
+          "listed_count": 48,
+          "media_count": 968,
+          "tweet_count": 10707
+        },
+        "url": "https://t.co/JbyCOvSj72",
+        "username": "Luna5ama",
+        "verified": false
+      }
+    ]
+  }
+}

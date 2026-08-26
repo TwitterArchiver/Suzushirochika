@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2047535984297042015",
+    "created_at": "2026-04-24T07:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047572519046287868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        },
+        {
+          "end": 31,
+          "id": "1817032939961745408",
+          "start": 18,
+          "username": "Zhanjiaming6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047572519046287868",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047535984297042015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 便民链接：@zhanjiaming6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2047535974520119296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpPHtoa4AAtNKq.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047535974511734784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpPHtma8AAmi1G.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2047535984297042015",
+        "created_at": "2026-04-24T07:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047572519046287868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            },
+            {
+              "end": 31,
+              "id": "1817032939961745408",
+              "start": 18,
+              "username": "Zhanjiaming6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047572519046287868",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047535984297042015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 便民链接：@zhanjiaming6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047535974520119296",
+            "3_2047535974511734784"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2047535984297042015",
+        "created_at": "2026-04-24T04:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047535984297042015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nK3QvngWmr",
+              "end": 60,
+              "expanded_url": "https://x.com/kitty068_ly/status/2047535984297042015/photo/1",
+              "media_key": "3_2047535974520119296",
+              "start": 37,
+              "url": "https://t.co/nK3QvngWmr"
+            },
+            {
+              "display_url": "pic.x.com/nK3QvngWmr",
+              "end": 60,
+              "expanded_url": "https://x.com/kitty068_ly/status/2047535984297042015/photo/1",
+              "media_key": "3_2047535974511734784",
+              "start": 37,
+              "url": "https://t.co/nK3QvngWmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047535984297042015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 26447,
+          "like_count": 214,
+          "quote_count": 4,
+          "reply_count": 115,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有人知道这个15厘米的郑州男大咋了吗对寿喜锅哈气的像全家被寿喜锅杀了一样 https://t.co/nK3QvngWmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14744,
+          "following_count": 753,
+          "like_count": 84473,
+          "listed_count": 14,
+          "media_count": 930,
+          "tweet_count": 17400
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/激酷 泛性恋\n任何求偶意愿的私信和评论@dngyng169770781都会看所以克制一点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 436,
+          "like_count": 4404,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 3133
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T03:03:18.000Z",
+        "description": "",
+        "id": "1817032939961745408",
+        "name": "基督教",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817033140604665856/91Y0qidh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Zhanjiaming6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979131628422111232"
+      ],
+      "media_source_tweet_id": [
+        "1979131645920972971"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1979732401011233061",
+    "created_at": "2025-10-19T02:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T03:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979732401011233061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1073101544",
+          "start": 3,
+          "username": "315nanairo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Am35q56AH",
+          "end": 41,
+          "expanded_url": "https://x.com/315nanairo/status/1979131645920972971/photo/1",
+          "media_key": "3_1979131628422111232",
+          "start": 18,
+          "url": "https://t.co/0Am35q56AH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979732401011233061",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979131645920972971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @315nanairo: 🌟 https://t.co/0Am35q56AH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979131628422111232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dJuuvXIAAh0T7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979131628422111232"
+          ],
+          "media_source_tweet_id": [
+            "1979131645920972971"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1979732401011233061",
+        "created_at": "2025-10-19T02:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T03:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979732401011233061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1073101544",
+              "start": 3,
+              "username": "315nanairo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Am35q56AH",
+              "end": 41,
+              "expanded_url": "https://x.com/315nanairo/status/1979131645920972971/photo/1",
+              "media_key": "3_1979131628422111232",
+              "start": 18,
+              "url": "https://t.co/0Am35q56AH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979732401011233061",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979131645920972971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @315nanairo: 🌟 https://t.co/0Am35q56AH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979131628422111232"
+          ]
+        },
+        "author_id": "1073101544",
+        "conversation_id": "1979131645920972971",
+        "created_at": "2025-10-17T10:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979131645920972971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Am35q56AH",
+              "end": 25,
+              "expanded_url": "https://x.com/315nanairo/status/1979131645920972971/photo/1",
+              "media_key": "3_1979131628422111232",
+              "start": 2,
+              "url": "https://t.co/0Am35q56AH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979131645920972971",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 787,
+          "impression_count": 106157,
+          "like_count": 9684,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 1140
+        },
+        "reply_settings": "everyone",
+        "text": "🌟 https://t.co/0Am35q56AH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "1593184193613553664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14694,
+          "following_count": 831,
+          "like_count": 78503,
+          "listed_count": 23,
+          "media_count": 895,
+          "tweet_count": 16741
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-09T07:41:04.000Z",
+        "description": "フリーのイラストレーター。香川出身、現在東京。心の平和をテーマに淡い色合いの女の子を描きます。ご依頼募集中🌟下記のHP内のメールまでお気軽にご連絡ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanme.link/@nana163i",
+                "end": 23,
+                "expanded_url": "https://fanme.link/@nana163i",
+                "start": 0,
+                "url": "https://t.co/WpPz7Nkecc"
+              }
+            ]
+          }
+        },
+        "id": "1073101544",
+        "location": "七転び八起き",
+        "name": "みいこ＊個展10/10〜20",
+        "pinned_tweet_id": "1952309402092155362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888524334312099840/zLjmcJmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37216,
+          "following_count": 531,
+          "like_count": 35599,
+          "listed_count": 393,
+          "media_count": 27516,
+          "tweet_count": 177389
+        },
+        "url": "https://t.co/WpPz7Nkecc",
+        "username": "315nanairo",
+        "verified": false
+      }
+    ]
+  }
+}

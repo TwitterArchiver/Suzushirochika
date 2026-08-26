@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2089993169828303121",
+    "created_at": "2026-08-20T12:55:40.000Z",
+    "display_text_range": [
+      17,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090422516414300347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1475902620867133441",
+          "start": 0,
+          "username": "paper_white0413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090422516414300347",
+    "in_reply_to_user_id": "1475902620867133441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090288983645569171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paper_white0413 理子天天拿着wd40和打火机燃料问我喝不喝√"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2089993169828303121",
+        "created_at": "2026-08-20T12:55:40.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090422516414300347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1475902620867133441",
+              "start": 0,
+              "username": "paper_white0413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090422516414300347",
+        "in_reply_to_user_id": "1475902620867133441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090288983645569171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paper_white0413 理子天天拿着wd40和打火机燃料问我喝不喝√"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475902620867133441",
+        "conversation_id": "2089993169828303121",
+        "created_at": "2026-08-20T04:05:04.000Z",
+        "display_text_range": [
+          9,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090288983645569171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1304953938320306176",
+              "start": 0,
+              "username": "hry_xsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090288983645569171",
+        "in_reply_to_user_id": "1304953938320306176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089993169828303121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hry_xsu 陌生人给的饮料别喝 ×\n陌生人主动给的饮料别喝 √\n\n可以主动抢陌生人的吃的喝的 √"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090422516414300347",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15051,
+          "following_count": 751,
+          "like_count": 88040,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18093
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-28T18:53:08.000Z",
+        "description": "每天不是饿饿就是困困|外表是大姐姐，内心是雌小鬼，一张嘴就是大叔丨女同DD丨聊天容易突然失踪丨北京丨不可爱",
+        "id": "1475902620867133441",
+        "is_identity_verified": false,
+        "location": "北京 昌平",
+        "most_recent_tweet_id": "2090288983645569171",
+        "name": "好困好困的白纸",
+        "pinned_tweet_id": "1768205120008003956",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1475902620867133441/1641231869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998428802448515072/6O4L8uBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 257,
+          "like_count": 11757,
+          "listed_count": 11,
+          "media_count": 592,
+          "tweet_count": 3265
+        },
+        "url": "",
+        "username": "paper_white0413",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry \nen&zh | 💻笔电爱好者 |  女装 | 地雷系 | 🏳️‍🌈LGBTQ+friendly | 大腿夹魔爪拍照开创者（x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.lunar.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/ZmiJZUOPgi"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "is_identity_verified": false,
+        "location": "Lunar,Galaxy,Universe",
+        "most_recent_tweet_id": "2090305246354673917",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1304953938320306176/1769611376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016521299070464000/DgHXMLJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 434,
+          "like_count": 61522,
+          "listed_count": 7,
+          "media_count": 316,
+          "tweet_count": 4319
+        },
+        "url": "https://t.co/ZmiJZUOPgi",
+        "username": "hry_xsu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

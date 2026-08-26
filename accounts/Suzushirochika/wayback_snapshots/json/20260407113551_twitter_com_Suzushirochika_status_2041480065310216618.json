@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2041478671945331162",
+    "created_at": "2026-04-07T11:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041480065310216618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041480065310216618",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041478671945331162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 真的好吃这个😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2041478667273175040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTKCBtbAAAyhMP.jpg",
+        "width": 1024
+      },
+      {
+        "height": 771,
+        "media_key": "3_2041478669475123200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTKCJ6aEAA_0sk.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2041478669307084800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTKCJSWAAAmCJ0.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2041478671945331162",
+        "created_at": "2026-04-07T11:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041480065310216618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041480065310216618",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041478671945331162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 真的好吃这个😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041478667273175040",
+            "3_2041478669475123200",
+            "3_2041478669307084800"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041478671945331162",
+        "created_at": "2026-04-07T11:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041478671945331162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZpiVIG2XM",
+              "end": 151,
+              "expanded_url": "https://x.com/mario_2333/status/2041478671945331162/photo/1",
+              "media_key": "3_2041478667273175040",
+              "start": 128,
+              "url": "https://t.co/HZpiVIG2XM"
+            },
+            {
+              "display_url": "pic.x.com/HZpiVIG2XM",
+              "end": 151,
+              "expanded_url": "https://x.com/mario_2333/status/2041478671945331162/photo/1",
+              "media_key": "3_2041478669475123200",
+              "start": 128,
+              "url": "https://t.co/HZpiVIG2XM"
+            },
+            {
+              "display_url": "pic.x.com/HZpiVIG2XM",
+              "end": 151,
+              "expanded_url": "https://x.com/mario_2333/status/2041478671945331162/photo/1",
+              "media_key": "3_2041478669307084800",
+              "start": 128,
+              "url": "https://t.co/HZpiVIG2XM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041478671945331162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天整点花里胡哨的烤口蘑～\n\n还是这个季节好，5~8cm的大个口蘑和普通口蘑差不多一样便宜，咱这盒是偏小的因为最大的一盒只有3个www\n\n轻轻塞进去点炒过的培根碎和蘑菇柄，撒点芝士再烤，不太实汁水就不会流出来，剩下的也还可以吃，这么大的蘑菇咬起来很爽诶！ https://t.co/HZpiVIG2XM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14852,
+          "following_count": 749,
+          "like_count": 83593,
+          "listed_count": 14,
+          "media_count": 921,
+          "tweet_count": 17250
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | Follow ≠ Endorsement⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3370,
+          "following_count": 265,
+          "like_count": 44128,
+          "listed_count": 15,
+          "media_count": 931,
+          "tweet_count": 14270
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

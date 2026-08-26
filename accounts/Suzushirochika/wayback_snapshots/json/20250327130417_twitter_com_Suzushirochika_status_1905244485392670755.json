@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1905244485392670755",
+    "created_at": "2025-03-27T13:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T14:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905244485392670755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2689170356",
+          "start": 3,
+          "username": "Hoshikawa_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905244485392670755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904815735438008774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoshikawa_ran: “五胡入华”是正确的，明明是司马氏自相残杀导致的天下大乱，还非要把“乱华”的屎盆子扣给五胡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1905244485392670755",
+        "created_at": "2025-03-27T13:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905244485392670755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2689170356",
+              "start": 3,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905244485392670755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904815735438008774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hoshikawa_ran: “五胡入华”是正确的，明明是司马氏自相残杀导致的天下大乱，还非要把“乱华”的屎盆子扣给五胡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2689170356",
+        "conversation_id": "1904815735438008774",
+        "created_at": "2025-03-26T08:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T09:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904815735438008774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jakobsonradica…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1904688426424971360",
+              "start": 46,
+              "url": "https://t.co/qx7bvnV3nu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904815735438008774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 33995,
+          "like_count": 336,
+          "quote_count": 7,
+          "reply_count": 45,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904688426424971360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“五胡入华”是正确的，明明是司马氏自相残杀导致的天下大乱，还非要把“乱华”的屎盆子扣给五胡 https://t.co/qx7bvnV3nu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14044,
+          "following_count": 856,
+          "like_count": 79536,
+          "listed_count": 23,
+          "media_count": 929,
+          "tweet_count": 16833
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇨🇦🇬🇱爱美TV义务宣传员 ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14757,
+          "following_count": 401,
+          "like_count": 144125,
+          "listed_count": 69,
+          "media_count": 2430,
+          "tweet_count": 24414
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

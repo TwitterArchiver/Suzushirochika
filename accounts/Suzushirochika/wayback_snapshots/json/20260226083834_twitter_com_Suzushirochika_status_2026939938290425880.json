@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2026859520203567456",
+    "created_at": "2026-02-26T08:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026939938290425880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1436967591910645767",
+          "start": 0,
+          "username": "asahikokura1"
+        },
+        {
+          "end": 28,
+          "id": "1611246341728120835",
+          "start": 14,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026939938290425880",
+    "in_reply_to_user_id": "1436967591910645767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026939720425680951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahikokura1 @Aureliax17QwQ 也可能是推送机制的问题（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2026859520203567456",
+        "created_at": "2026-02-26T08:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026939938290425880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436967591910645767",
+              "start": 0,
+              "username": "asahikokura1"
+            },
+            {
+              "end": 28,
+              "id": "1611246341728120835",
+              "start": 14,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026939938290425880",
+        "in_reply_to_user_id": "1436967591910645767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026939720425680951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahikokura1 @Aureliax17QwQ 也可能是推送机制的问题（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436967591910645767",
+        "conversation_id": "2026859520203567456",
+        "created_at": "2026-02-26T08:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026939720425680951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            },
+            {
+              "end": 30,
+              "id": "1611246341728120835",
+              "start": 16,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026939720425680951",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026939471418241236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika @Aureliax17QwQ 誒誒 不會吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14894,
+          "following_count": 776,
+          "like_count": 80945,
+          "listed_count": 13,
+          "media_count": 909,
+          "tweet_count": 16965
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T08:19:21.000Z",
+        "description": "碎碎念兼記錄生活 \n近月委員會/地球🌍貓貓教\n@L080_0 里賬戶啟用 認識的人會通過",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "L080_0"
+              }
+            ]
+          }
+        },
+        "id": "1436967591910645767",
+        "location": "George Town",
+        "name": "小倉朝日🇬🇧地球🌍貓貓教",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011095330675441667/C_YIrlvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 444,
+          "like_count": 83728,
+          "listed_count": 3,
+          "media_count": 810,
+          "tweet_count": 21771
+        },
+        "username": "asahikokura1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |还活着 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 72,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 49,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 118,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 95,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 200,
+          "like_count": 2918,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 392
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

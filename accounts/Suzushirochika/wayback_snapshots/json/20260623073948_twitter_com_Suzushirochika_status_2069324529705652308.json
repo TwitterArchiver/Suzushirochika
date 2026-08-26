@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2069316526088626215",
+    "created_at": "2026-06-23T07:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069324529705652308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "HiiroGekkaFlan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069324529705652308",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069316526088626215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiiroGekkaFlan 可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069316514902364160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLewaBaa0AAH4_R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069316526088626215",
+        "created_at": "2026-06-23T07:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069324529705652308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069324529705652308",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069316526088626215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069316514902364160"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069316526088626215",
+        "created_at": "2026-06-23T07:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069316526088626215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1f1tH7S4OI",
+              "end": 60,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2069316526088626215/photo/1",
+              "media_key": "3_2069316514902364160",
+              "start": 37,
+              "url": "https://t.co/1f1tH7S4OI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069316526088626215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享你入手的第一款手办！\n我的是《主播女孩重度依赖》的超绝最可爱天使酱！ https://t.co/1f1tH7S4OI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14971,
+          "following_count": 747,
+          "like_count": 85196,
+          "listed_count": 14,
+          "media_count": 943,
+          "tweet_count": 17681
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 868,
+          "like_count": 10656,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 3290
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

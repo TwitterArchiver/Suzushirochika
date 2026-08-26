@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090228418260738319",
+    "created_at": "2026-08-20T02:01:08.000Z",
+    "display_text_range": [
+      15,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090257795140780097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030123031490875396",
+          "start": 0,
+          "username": "Haruukawaiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090257795140780097",
+    "in_reply_to_user_id": "2030123031490875396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090228418260738319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruukawaiiii 当时没看到是不是限时的就想着以后还能吃到结果周末再去就没了（摊手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090228418260738319",
+        "created_at": "2026-08-20T02:01:08.000Z",
+        "display_text_range": [
+          15,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090257795140780097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030123031490875396",
+              "start": 0,
+              "username": "Haruukawaiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090257795140780097",
+        "in_reply_to_user_id": "2030123031490875396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090228418260738319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruukawaiiii 当时没看到是不是限时的就想着以后还能吃到结果周末再去就没了（摊手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030123031490875396",
+        "conversation_id": "2090228418260738319",
+        "created_at": "2026-08-20T00:04:24.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090228418260738319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090228418260738319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈好想念咖喱土豆泥原味鸡啊我他妈馋疯了啊快回归啊我想吃我想吃我想吃我想吃还给我还给我还给我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090257795140780097",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15052,
+          "following_count": 751,
+          "like_count": 87995,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18089
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-07T03:27:15.000Z",
+        "description": "心的距离是遥不可及\n掉关注不是双取是我大号坠机了😔@Miiharukawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Miiharukawa"
+              }
+            ]
+          }
+        },
+        "id": "2030123031490875396",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090231360225161517",
+        "name": "遥",
+        "pinned_tweet_id": "2045065282570592611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030123031490875396/1786662655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089413446882529280/IKbHnV6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 103,
+          "like_count": 1247,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "Haruukawaiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

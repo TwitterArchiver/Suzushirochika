@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2063969751697858943",
+    "created_at": "2026-06-08T13:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063970233480831292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2942764381",
+          "start": 0,
+          "username": "mcbd_kiritu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063970233480831292",
+    "in_reply_to_user_id": "2942764381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063969751697858943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mcbd_kiritu 可爱~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2063969749500145664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSxjUIbsAA7wjd.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2063969751697858943",
+        "created_at": "2026-06-08T13:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063970233480831292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2942764381",
+              "start": 0,
+              "username": "mcbd_kiritu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063970233480831292",
+        "in_reply_to_user_id": "2942764381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063969751697858943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mcbd_kiritu 可爱~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063969749500145664"
+          ]
+        },
+        "author_id": "2942764381",
+        "conversation_id": "2063969751697858943",
+        "created_at": "2026-06-08T13:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063969751697858943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRklOBXEY4",
+              "end": 61,
+              "expanded_url": "https://x.com/mcbd_kiritu/status/2063969751697858943/photo/1",
+              "media_key": "3_2063969749500145664",
+              "start": 38,
+              "url": "https://t.co/xRklOBXEY4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063969751697858943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然人类是防水的，但是经历风雨后，会凌乱qwq\n今天去了打mai，很开心~ https://t.co/xRklOBXEY4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14980,
+          "following_count": 745,
+          "like_count": 85036,
+          "listed_count": 14,
+          "media_count": 938,
+          "tweet_count": 17619
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-25T10:22:15.000Z",
+        "description": "混沌系缺爱(´ρ`) •拍扁滴蜡熊•美食推主（X 不会射影的摄嘤师•ACG都能聊得来•（绝赞老阿姨*❓•（自拍超级无敌高P ！🈚【图片仅供参考 请以实物为准】）））想要被狠狠调教•喜欢沙士的都是friend(*ﾟ∀ﾟ*) •ingress agent🍀•绳艺&捆绑喜欢 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "id": "2942764381",
+        "location": "香港",
+        "name": "呜喵不小心花光了~",
+        "pinned_tweet_id": "1991820219573317953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004747286895886337/MY0E1YWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10734,
+          "following_count": 1015,
+          "like_count": 34504,
+          "listed_count": 32,
+          "media_count": 2039,
+          "tweet_count": 12310
+        },
+        "username": "mcbd_kiritu",
+        "verified": false
+      }
+    ]
+  }
+}

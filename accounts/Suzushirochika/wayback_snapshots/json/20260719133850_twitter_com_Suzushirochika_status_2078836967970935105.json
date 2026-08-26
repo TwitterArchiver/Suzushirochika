@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2078507670064214390",
+    "created_at": "2026-07-19T13:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078836967970935105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2018715392710230016",
+          "start": 0,
+          "username": "imahauntu1115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078836967970935105",
+    "in_reply_to_user_id": "2018715392710230016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078507670064214390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imahauntu1115 色泽好棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_2078507654981513216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhXsyYacAAy1RH.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078507655145152512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhXsy_bYAA1eTh.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078507654973214721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhXsyWb0AESbkx.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078507654956339201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhXsySaUAEp4Xo.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2078507670064214390",
+        "created_at": "2026-07-19T13:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078836967970935105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018715392710230016",
+              "start": 0,
+              "username": "imahauntu1115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078836967970935105",
+        "in_reply_to_user_id": "2018715392710230016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078507670064214390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imahauntu1115 色泽好棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078507654981513216",
+            "3_2078507655145152512",
+            "3_2078507654973214721",
+            "3_2078507654956339201"
+          ]
+        },
+        "author_id": "2018715392710230016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078507670064214390",
+        "created_at": "2026-07-18T15:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078507670064214390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIiTYcWMmQ",
+              "end": 32,
+              "expanded_url": "https://x.com/imahauntu1115/status/2078507670064214390/photo/1",
+              "media_key": "3_2078507654981513216",
+              "start": 9,
+              "url": "https://t.co/FIiTYcWMmQ"
+            },
+            {
+              "display_url": "pic.x.com/FIiTYcWMmQ",
+              "end": 32,
+              "expanded_url": "https://x.com/imahauntu1115/status/2078507670064214390/photo/1",
+              "media_key": "3_2078507655145152512",
+              "start": 9,
+              "url": "https://t.co/FIiTYcWMmQ"
+            },
+            {
+              "display_url": "pic.x.com/FIiTYcWMmQ",
+              "end": 32,
+              "expanded_url": "https://x.com/imahauntu1115/status/2078507670064214390/photo/1",
+              "media_key": "3_2078507654973214721",
+              "start": 9,
+              "url": "https://t.co/FIiTYcWMmQ"
+            },
+            {
+              "display_url": "pic.x.com/FIiTYcWMmQ",
+              "end": 32,
+              "expanded_url": "https://x.com/imahauntu1115/status/2078507670064214390/photo/1",
+              "media_key": "3_2078507654956339201",
+              "start": 9,
+              "url": "https://t.co/FIiTYcWMmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078507670064214390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16216,
+          "like_count": 462,
+          "quote_count": 2,
+          "reply_count": 118,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是做饭天才 https://t.co/FIiTYcWMmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15063,
+          "following_count": 752,
+          "like_count": 86911,
+          "listed_count": 14,
+          "media_count": 952,
+          "tweet_count": 17921
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T15:57:19.000Z",
+        "description": "男同勿扰男同勿扰男同勿扰",
+        "id": "2018715392710230016",
+        "name": "hauntu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018715613779341312/KT8tNRID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7179,
+          "following_count": 51,
+          "like_count": 752,
+          "listed_count": 14,
+          "media_count": 49,
+          "tweet_count": 711
+        },
+        "url": "",
+        "username": "imahauntu1115",
+        "verified": false
+      }
+    ]
+  }
+}

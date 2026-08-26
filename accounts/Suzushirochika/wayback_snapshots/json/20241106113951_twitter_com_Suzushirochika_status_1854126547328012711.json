@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852421575599181825"
+      ],
+      "media_source_tweet_id": [
+        "1852421681123561817"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1854126547328012711",
+    "created_at": "2024-11-06T11:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T12:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854126547328012711"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "逃げ若"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1271298374",
+          "start": 3,
+          "username": "hag_015_melon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UuThm5pQoz",
+          "end": 54,
+          "expanded_url": "https://x.com/hag_015_melon/status/1852421681123561817/photo/1",
+          "media_key": "3_1852421575599181825",
+          "start": 31,
+          "url": "https://t.co/UuThm5pQoz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854126547328012711",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852421681123561817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hag_015_melon: #逃げ若　二期も楽しみ https://t.co/UuThm5pQoz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_1852421575599181825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbUfm8Pb0AE9gYz.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852421575599181825"
+          ],
+          "media_source_tweet_id": [
+            "1852421681123561817"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1854126547328012711",
+        "created_at": "2024-11-06T11:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T12:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854126547328012711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "逃げ若"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1271298374",
+              "start": 3,
+              "username": "hag_015_melon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UuThm5pQoz",
+              "end": 54,
+              "expanded_url": "https://x.com/hag_015_melon/status/1852421681123561817/photo/1",
+              "media_key": "3_1852421575599181825",
+              "start": 31,
+              "url": "https://t.co/UuThm5pQoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854126547328012711",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852421681123561817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hag_015_melon: #逃げ若　二期も楽しみ https://t.co/UuThm5pQoz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852421575599181825"
+          ]
+        },
+        "author_id": "1271298374",
+        "conversation_id": "1852421681123561817",
+        "created_at": "2024-11-01T18:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T19:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852421681123561817"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "逃げ若"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UuThm5pQoz",
+              "end": 35,
+              "expanded_url": "https://x.com/hag_015_melon/status/1852421681123561817/photo/1",
+              "media_key": "3_1852421575599181825",
+              "start": 12,
+              "url": "https://t.co/UuThm5pQoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852421681123561817",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 57372,
+          "like_count": 3565,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "#逃げ若　二期も楽しみ https://t.co/UuThm5pQoz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13501,
+          "following_count": 877,
+          "like_count": 77767,
+          "listed_count": 22,
+          "tweet_count": 16658
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-16T03:15:49.000Z",
+        "description": "イラストレーター／ご依頼はメールから hghr666@gmail.com／https://t.co/g31Vn7taKp 転載、使用、AI❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hag_015_melon",
+                "end": 60,
+                "expanded_url": "https://skeb.jp/@hag_015_melon",
+                "start": 37,
+                "url": "https://t.co/g31Vn7taKp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hag015melon",
+                "end": 23,
+                "expanded_url": "https://lit.link/hag015melon",
+                "start": 0,
+                "url": "https://t.co/9bzhYkO3Dt"
+              }
+            ]
+          }
+        },
+        "id": "1271298374",
+        "location": "フォンテーヌ→ナタ♨️",
+        "name": "HAG‎",
+        "pinned_tweet_id": "1764527413214826501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713165572069109760/Ur8l0Hpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17646,
+          "following_count": 168,
+          "like_count": 8460,
+          "listed_count": 90,
+          "tweet_count": 7351
+        },
+        "url": "https://t.co/9bzhYkO3Dt",
+        "username": "hag_015_melon",
+        "verified": false
+      }
+    ]
+  }
+}

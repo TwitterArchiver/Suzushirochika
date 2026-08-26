@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923386851685244928"
+      ],
+      "media_source_tweet_id": [
+        "1923386894789787894"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1923998454768103802",
+    "created_at": "2025-05-18T07:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T08:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923998454768103802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1563372219224707074",
+          "start": 3,
+          "username": "DonQuixoteHC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DNDHWSQL8p",
+          "end": 46,
+          "expanded_url": "https://x.com/DonQuixoteHC/status/1923386894789787894/photo/1",
+          "media_key": "3_1923386851685244928",
+          "start": 23,
+          "url": "https://t.co/DNDHWSQL8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923998454768103802",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923386894789787894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DonQuixoteHC: 💙💙💙🛐 https://t.co/DNDHWSQL8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1648,
+        "media_key": "3_1923386851685244928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrE-JqxbIAA_FZS.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923386851685244928"
+          ],
+          "media_source_tweet_id": [
+            "1923386894789787894"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1923998454768103802",
+        "created_at": "2025-05-18T07:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923998454768103802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563372219224707074",
+              "start": 3,
+              "username": "DonQuixoteHC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNDHWSQL8p",
+              "end": 46,
+              "expanded_url": "https://x.com/DonQuixoteHC/status/1923386894789787894/photo/1",
+              "media_key": "3_1923386851685244928",
+              "start": 23,
+              "url": "https://t.co/DNDHWSQL8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923998454768103802",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923386894789787894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DonQuixoteHC: 💙💙💙🛐 https://t.co/DNDHWSQL8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923386851685244928"
+          ]
+        },
+        "author_id": "1563372219224707074",
+        "conversation_id": "1923386894789787894",
+        "created_at": "2025-05-16T14:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T15:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923386894789787894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNDHWSQL8p",
+              "end": 28,
+              "expanded_url": "https://x.com/DonQuixoteHC/status/1923386894789787894/photo/1",
+              "media_key": "3_1923386851685244928",
+              "start": 5,
+              "url": "https://t.co/DNDHWSQL8p"
+            },
+            {
+              "display_url": "x.com/dziku_cc/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/dziku_cc/status/1923073435657175494",
+              "start": 29,
+              "url": "https://t.co/8Vr32vgUBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923386894789787894",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 26274,
+          "like_count": 1276,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923073435657175494",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💙💙💙🛐 https://t.co/DNDHWSQL8p https://t.co/8Vr32vgUBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14319,
+          "following_count": 850,
+          "like_count": 79850,
+          "listed_count": 23,
+          "media_count": 932,
+          "tweet_count": 16872
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T03:46:50.000Z",
+        "description": "Chinese high school student/ACGN文化愛好者/アニメ漫画小説の鑑賞と雑談/MushokuTensei/ROXY💙🛐/荒誕哲學/Sisyphus/騎士文學/Post-punk/FAS—Baroque|Rococo|Neoclassicism/中文/日本語/English/DMs open",
+        "id": "1563372219224707074",
+        "location": "Peking",
+        "name": "Kage",
+        "pinned_tweet_id": "1886435197350031781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919536408110497793/_5ED09JB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 569,
+          "like_count": 24774,
+          "listed_count": 3,
+          "media_count": 1507,
+          "tweet_count": 6704
+        },
+        "username": "DonQuixoteHC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2042915253042974819",
+    "created_at": "2026-04-11T10:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042918331410506070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1425948421870039041",
+          "start": 0,
+          "username": "SinonHug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042918331410506070",
+    "in_reply_to_user_id": "1425948421870039041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042915847648481516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SinonHug σ ﾟ∀ ﾟ) ﾟ∀ﾟ)σ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2042915253042974819",
+        "created_at": "2026-04-11T10:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042918331410506070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1425948421870039041",
+              "start": 0,
+              "username": "SinonHug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042918331410506070",
+        "in_reply_to_user_id": "1425948421870039041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042915847648481516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SinonHug σ ﾟ∀ ﾟ) ﾟ∀ﾟ)σ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425948421870039041",
+        "conversation_id": "2042915253042974819",
+        "created_at": "2026-04-11T10:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042915847648481516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042915847648481516",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042915253042974819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 可爱~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14738,
+          "following_count": 748,
+          "like_count": 83884,
+          "listed_count": 14,
+          "media_count": 924,
+          "tweet_count": 17310
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T22:33:08.000Z",
+        "description": "希望所有梦想都能够实现，希望所有幸福都会如约而至，希望有人找我玩，治愈我叭，这个世界~       偶尔会碎碎念就是~",
+        "id": "1425948421870039041",
+        "location": "附近~",
+        "name": "诗乃🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571008217135874049/QBpRkPoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3561,
+          "following_count": 415,
+          "like_count": 14062,
+          "listed_count": 16,
+          "media_count": 105,
+          "tweet_count": 927
+        },
+        "username": "SinonHug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2069174183150383536",
+    "created_at": "2026-06-24T00:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069576317822218693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592950427741552644",
+          "start": 0,
+          "username": "Anthony_CandyXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069576317822218693",
+    "in_reply_to_user_id": "1592950427741552644",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069563353089908916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anthony_CandyXD 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069174183150383536",
+        "created_at": "2026-06-24T00:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069576317822218693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592950427741552644",
+              "start": 0,
+              "username": "Anthony_CandyXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069576317822218693",
+        "in_reply_to_user_id": "1592950427741552644",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069563353089908916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anthony_CandyXD 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592950427741552644",
+        "conversation_id": "2069174183150383536",
+        "created_at": "2026-06-23T23:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069563353089908916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069563353089908916",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069464390668370329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika ME TOO Or that I'm embarrassed to show too much skin because I'm a saint JJAJAJAJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14980,
+          "following_count": 748,
+          "like_count": 85288,
+          "listed_count": 14,
+          "media_count": 946,
+          "tweet_count": 17706
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T18:41:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anthony23436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anthony23436",
+                "start": 0,
+                "url": "https://t.co/vOM7KN0a5I"
+              }
+            ]
+          }
+        },
+        "id": "1592950427741552644",
+        "location": "he/she",
+        "name": "¡★Anthony★!",
+        "pinned_tweet_id": "2014066749704913029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063776911029899264/j67yeS_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 417,
+          "like_count": 18860,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 5392
+        },
+        "url": "https://t.co/vOM7KN0a5I",
+        "username": "Anthony_CandyXD",
+        "verified": false
+      }
+    ]
+  }
+}

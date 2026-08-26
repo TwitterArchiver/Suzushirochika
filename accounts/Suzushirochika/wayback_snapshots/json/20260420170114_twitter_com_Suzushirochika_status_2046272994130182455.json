@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2046257316023206174",
+    "created_at": "2026-04-20T17:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046272994130182455"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046272994130182455",
+    "in_reply_to_user_id": "1253292430792839174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046257316023206174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "胆囊结石联胆囊癌，吃重油就进急诊\n没有人生规划，随波逐流\n极度社恐，社交中只用手势和手机，不敢说话\n长期交替使用氯硝西泮与唑吡坦\n长期滥用各类阿片、右美沙芬、普瑞巴林\n可能一天不出门并不吃饭\n自残到脂肪层，无法恢复，只能长袖出门\n外貌焦虑、体重焦虑\n绝食或者强化版本的16+8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2046257310239215616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXELp_a0AAu3bZ.jpg",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_2046257310671179776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXELrmaEAA_E2Q.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2046257316023206174",
+        "created_at": "2026-04-20T17:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046272994130182455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046272994130182455",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046257316023206174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "胆囊结石联胆囊癌，吃重油就进急诊\n没有人生规划，随波逐流\n极度社恐，社交中只用手势和手机，不敢说话\n长期交替使用氯硝西泮与唑吡坦\n长期滥用各类阿片、右美沙芬、普瑞巴林\n可能一天不出门并不吃饭\n自残到脂肪层，无法恢复，只能长袖出门\n外貌焦虑、体重焦虑\n绝食或者强化版本的16+8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046257310239215616",
+            "3_2046257310671179776"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2046257316023206174",
+        "created_at": "2026-04-20T15:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046257316023206174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlyhVCVueJ",
+              "end": 36,
+              "expanded_url": "https://x.com/Suzushirochika/status/2046257316023206174/photo/1",
+              "media_key": "3_2046257310239215616",
+              "start": 13,
+              "url": "https://t.co/HlyhVCVueJ"
+            },
+            {
+              "display_url": "pic.x.com/HlyhVCVueJ",
+              "end": 36,
+              "expanded_url": "https://x.com/Suzushirochika/status/2046257316023206174/photo/1",
+              "media_key": "3_2046257310671179776",
+              "start": 13,
+              "url": "https://t.co/HlyhVCVueJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046257316023206174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凑不出五个怎么办…（摊手 https://t.co/HlyhVCVueJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14741,
+          "following_count": 752,
+          "like_count": 84339,
+          "listed_count": 14,
+          "media_count": 928,
+          "tweet_count": 17376
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

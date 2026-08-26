@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2068730811264925751",
+    "created_at": "2026-06-21T17:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068742829325890031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2689170356",
+          "start": 0,
+          "username": "Hoshikawa_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068742829325890031",
+    "in_reply_to_user_id": "2689170356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068730811264925751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshikawa_ran 生日快乐🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 757,
+        "media_key": "3_2068730801580335104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWbtBQa4AAPPQs.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2068730811264925751",
+        "created_at": "2026-06-21T17:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068742829325890031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2689170356",
+              "start": 0,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068742829325890031",
+        "in_reply_to_user_id": "2689170356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068730811264925751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshikawa_ran 生日快乐🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068730801580335104"
+          ]
+        },
+        "author_id": "2689170356",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068730811264925751",
+        "created_at": "2026-06-21T16:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068730811264925751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mHsmNnrKvn",
+              "end": 23,
+              "expanded_url": "https://x.com/Hoshikawa_ran/status/2068730811264925751/photo/1",
+              "media_key": "3_2068730801580335104",
+              "start": 0,
+              "url": "https://t.co/mHsmNnrKvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068730811264925751",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mHsmNnrKvn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14969,
+          "following_count": 746,
+          "like_count": 85063,
+          "listed_count": 14,
+          "media_count": 941,
+          "tweet_count": 17661
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇬🇱🇮🇷（🚫☫）Fereydun ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15209,
+          "following_count": 383,
+          "like_count": 161707,
+          "listed_count": 79,
+          "media_count": 2791,
+          "tweet_count": 27217
+        },
+        "url": "",
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

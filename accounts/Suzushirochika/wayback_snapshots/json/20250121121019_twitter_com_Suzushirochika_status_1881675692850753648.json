@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881519147055542272"
+      ],
+      "media_source_tweet_id": [
+        "1881519149928866110"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1881675692850753648",
+    "created_at": "2025-01-21T12:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T13:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881675692850753648"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 19,
+          "tag": "KanaArima"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1663422120146157568",
+          "start": 3,
+          "username": "KanaArimaPics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hcg0mBOngG",
+          "end": 53,
+          "expanded_url": "https://x.com/KanaArimaPics/status/1881519149928866110/photo/1",
+          "media_key": "3_1881519147055542272",
+          "start": 30,
+          "url": "https://t.co/hcg0mBOngG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881675692850753648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881519149928866110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KanaArimaPics: #KanaArima https://t.co/hcg0mBOngG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_1881519147055542272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghx_sg5XcAALbBr.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881519147055542272"
+          ],
+          "media_source_tweet_id": [
+            "1881519149928866110"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1881675692850753648",
+        "created_at": "2025-01-21T12:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T13:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881675692850753648"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "KanaArima"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1663422120146157568",
+              "start": 3,
+              "username": "KanaArimaPics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcg0mBOngG",
+              "end": 53,
+              "expanded_url": "https://x.com/KanaArimaPics/status/1881519149928866110/photo/1",
+              "media_key": "3_1881519147055542272",
+              "start": 30,
+              "url": "https://t.co/hcg0mBOngG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881675692850753648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881519149928866110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KanaArimaPics: #KanaArima https://t.co/hcg0mBOngG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881519147055542272"
+          ]
+        },
+        "author_id": "1663422120146157568",
+        "conversation_id": "1881519149928866110",
+        "created_at": "2025-01-21T01:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881519149928866110"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "KanaArima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcg0mBOngG",
+              "end": 34,
+              "expanded_url": "https://x.com/KanaArimaPics/status/1881519149928866110/photo/1",
+              "media_key": "3_1881519147055542272",
+              "start": 11,
+              "url": "https://t.co/hcg0mBOngG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881519149928866110",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 1497,
+          "like_count": 278,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "#KanaArima https://t.co/hcg0mBOngG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13757,
+          "following_count": 858,
+          "like_count": 78359,
+          "listed_count": 22,
+          "media_count": 920,
+          "tweet_count": 16727
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T05:49:34.000Z",
+        "description": "Imagenes diarias de Kana Arima ❤️",
+        "id": "1663422120146157568",
+        "name": "Kana Arima Pics",
+        "pinned_tweet_id": "1873271986174214165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809703804650287105/YvVIXWT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6974,
+          "following_count": 3,
+          "like_count": 43,
+          "listed_count": 8,
+          "media_count": 1896,
+          "tweet_count": 1914
+        },
+        "username": "KanaArimaPics",
+        "verified": false
+      }
+    ]
+  }
+}

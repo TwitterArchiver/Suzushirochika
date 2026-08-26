@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879821020930113536",
+        "3_1879821020858896384"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1879530377548911088",
+    "created_at": "2025-01-16T09:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T10:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879821024285655509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303061521",
+          "start": 0,
+          "username": "animecorner_ac"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ykq9SjV4il",
+          "end": 39,
+          "expanded_url": "https://x.com/Suzushirochika/status/1879821024285655509/photo/1",
+          "media_key": "3_1879821020930113536",
+          "start": 16,
+          "url": "https://t.co/ykq9SjV4il"
+        },
+        {
+          "display_url": "pic.x.com/ykq9SjV4il",
+          "end": 39,
+          "expanded_url": "https://x.com/Suzushirochika/status/1879821024285655509/photo/1",
+          "media_key": "3_1879821020858896384",
+          "start": 16,
+          "url": "https://t.co/ykq9SjV4il"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "58a4c3a0d54e1400"
+    },
+    "id": "1879821024285655509",
+    "in_reply_to_user_id": "1303061521",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879530377548911088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@animecorner_ac https://t.co/ykq9SjV4il"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1879821020930113536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhZ3QkHaAAAtnTa.jpg",
+        "width": 878
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1879821020858896384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhZ3Qj2bUAA3O4D.jpg",
+        "width": 878
+      }
+    ],
+    "places": [
+      {
+        "country": "Singapore",
+        "country_code": "SG",
+        "full_name": "Central Region, Singapore",
+        "geo": {
+          "bbox": [
+            103.749959507073,
+            1.2123138339349,
+            103.918426999964,
+            1.36874499902569
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "58a4c3a0d54e1400",
+        "name": "Central Region",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879821020930113536",
+            "3_1879821020858896384"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1879530377548911088",
+        "created_at": "2025-01-16T09:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T10:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879821024285655509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303061521",
+              "start": 0,
+              "username": "animecorner_ac"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykq9SjV4il",
+              "end": 39,
+              "expanded_url": "https://x.com/Suzushirochika/status/1879821024285655509/photo/1",
+              "media_key": "3_1879821020930113536",
+              "start": 16,
+              "url": "https://t.co/ykq9SjV4il"
+            },
+            {
+              "display_url": "pic.x.com/ykq9SjV4il",
+              "end": 39,
+              "expanded_url": "https://x.com/Suzushirochika/status/1879821024285655509/photo/1",
+              "media_key": "3_1879821020858896384",
+              "start": 16,
+              "url": "https://t.co/ykq9SjV4il"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "58a4c3a0d54e1400"
+        },
+        "id": "1879821024285655509",
+        "in_reply_to_user_id": "1303061521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879530377548911088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@animecorner_ac https://t.co/ykq9SjV4il"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879530017799000064"
+          ]
+        },
+        "author_id": "1303061521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1879530377548911088",
+        "created_at": "2025-01-15T14:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T15:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879530377548911088"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "Anime Awards",
+              "probability": 0.8177,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Welcome to our 2024 Anime of the Year Awards! Vote for your favorite anime in the categories below:",
+              "display_url": "acani.me/aoty24-bgirl",
+              "end": 88,
+              "expanded_url": "http://acani.me/aoty24-bgirl",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1879514274533609473/aWWvgD2t?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1879514274533609473/aWWvgD2t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "Anime of the Year Awards (2024)",
+              "unwound_url": "https://polls.animecorner.me/group/vote/aoty-2024",
+              "url": "https://t.co/2ZIo9vcYdP"
+            },
+            {
+              "display_url": "pic.x.com/HrhVLdXcU2",
+              "end": 112,
+              "expanded_url": "https://x.com/animecorner_ac/status/1879530377548911088/photo/1",
+              "media_key": "3_1879530017799000064",
+              "start": 89,
+              "url": "https://t.co/HrhVLdXcU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879530377548911088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 472,
+          "impression_count": 186864,
+          "like_count": 2887,
+          "quote_count": 133,
+          "reply_count": 234,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "Who was your best girl of 2024? 👀\n\nVote in our 5th Anime Awards: https://t.co/2ZIo9vcYdP https://t.co/HrhVLdXcU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13732,
+          "following_count": 858,
+          "like_count": 78265,
+          "listed_count": 22,
+          "media_count": 920,
+          "tweet_count": 16720
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-26T08:20:36.000Z",
+        "description": "The official Twitter account for Anime Corner. Follow for the latest anime news, features and rankings! 🌸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "animecorner.me",
+                "end": 23,
+                "expanded_url": "https://animecorner.me",
+                "start": 0,
+                "url": "https://t.co/y5W1hIx5yA"
+              }
+            ]
+          }
+        },
+        "id": "1303061521",
+        "name": "Anime Corner",
+        "pinned_tweet_id": "1875912885840605255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694003047209504768/u7UPsk_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173858,
+          "following_count": 92,
+          "like_count": 5004,
+          "listed_count": 484,
+          "media_count": 10225,
+          "tweet_count": 16862
+        },
+        "url": "https://t.co/y5W1hIx5yA",
+        "username": "animecorner_ac",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1985619442538344463",
+    "created_at": "2025-11-04T08:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T09:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985619442538344463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liaojieta1/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/liaojieta1/status/1984978581035094468",
+          "start": 34,
+          "url": "https://t.co/QiDjC8QjIy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985619442538344463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984978581035094468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "戒戒你好，因为女朋友爱吃汤达人，我于是开启了网贷超前消费的道路…… https://t.co/QiDjC8QjIy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1985619442538344463",
+        "created_at": "2025-11-04T08:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985619442538344463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liaojieta1/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/liaojieta1/status/1984978581035094468",
+              "start": 34,
+              "url": "https://t.co/QiDjC8QjIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985619442538344463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984978581035094468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "戒戒你好，因为女朋友爱吃汤达人，我于是开启了网贷超前消费的道路…… https://t.co/QiDjC8QjIy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980992351930863616",
+        "conversation_id": "1984978581035094468",
+        "created_at": "2025-11-02T13:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984978581035094468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984978581035094468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我想让我老婆明白，我们都是普通人，过着普通的日子，一个月赚几千块固定工资，要供房子，供孩子，要吃饭。\n我并不吝啬你换季买衣服，过节买食物，人情来往买礼物。但是你隔三差五的买135一斤的车厘子，50一斤的草莓，90多一份的酱牛肉我不能接受。你嫁我之前你就知道我是个普通人，但婚后你却要过不普通的日子。你要去电影院看电影，你要去海洋馆买门票，你都当妈了你还要买机器猫的公仔，一个公仔是我们家好几天的生活费，你一点没有过日子的诚意和态度，赚一分花两分，不为明天着想。早知道结婚后这样，你长得多漂亮我都不会娶你。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 472032,
+          "like_count": 683,
+          "quote_count": 27,
+          "reply_count": 336,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我想让我老婆明白，我们都是普通人，过着普通的日子，一个月赚几千块固定工资，要供房子，供孩子，要吃饭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14725,
+          "following_count": 832,
+          "like_count": 78634,
+          "listed_count": 23,
+          "media_count": 899,
+          "tweet_count": 16779
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:39:26.000Z",
+        "description": "“禁止共情”",
+        "id": "1980992351930863616",
+        "name": "我也不太了解她",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980992553794035712/p0W79iJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5155,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "username": "liaojieta1",
+        "verified": true
+      }
+    ]
+  }
+}

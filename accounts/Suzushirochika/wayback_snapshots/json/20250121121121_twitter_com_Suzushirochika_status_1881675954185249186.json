@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881607103036772352"
+      ],
+      "media_source_tweet_id": [
+        "1881607273153531983"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1881675954185249186",
+    "created_at": "2025-01-21T12:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T13:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881675954185249186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735466471344807936",
+          "start": 3,
+          "username": "Garnet546223147"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtCc2MTiES",
+          "end": 78,
+          "expanded_url": "https://x.com/Garnet546223147/status/1881607273153531983/photo/1",
+          "media_key": "3_1881607103036772352",
+          "start": 55,
+          "url": "https://t.co/wtCc2MTiES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881675954185249186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881607273153531983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Garnet546223147: 猫侍さん　没寸前で発掘\n\n本当はポストし忘れたものです　にんまり。 https://t.co/wtCc2MTiES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2624,
+        "media_key": "3_1881607103036772352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhzPsOdb0AA0C5x.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881607103036772352"
+          ],
+          "media_source_tweet_id": [
+            "1881607273153531983"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1881675954185249186",
+        "created_at": "2025-01-21T12:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T13:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881675954185249186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1735466471344807936",
+              "start": 3,
+              "username": "Garnet546223147"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtCc2MTiES",
+              "end": 78,
+              "expanded_url": "https://x.com/Garnet546223147/status/1881607273153531983/photo/1",
+              "media_key": "3_1881607103036772352",
+              "start": 55,
+              "url": "https://t.co/wtCc2MTiES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881675954185249186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881607273153531983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Garnet546223147: 猫侍さん　没寸前で発掘\n\n本当はポストし忘れたものです　にんまり。 https://t.co/wtCc2MTiES"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881607103036772352"
+          ]
+        },
+        "author_id": "1735466471344807936",
+        "conversation_id": "1881607273153531983",
+        "created_at": "2025-01-21T07:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T08:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881607273153531983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtCc2MTiES",
+              "end": 57,
+              "expanded_url": "https://x.com/Garnet546223147/status/1881607273153531983/photo/1",
+              "media_key": "3_1881607103036772352",
+              "start": 34,
+              "url": "https://t.co/wtCc2MTiES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881607273153531983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 755,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "猫侍さん　没寸前で発掘\n\n本当はポストし忘れたものです　にんまり。 https://t.co/wtCc2MTiES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13757,
+          "following_count": 858,
+          "like_count": 78361,
+          "listed_count": 22,
+          "media_count": 920,
+          "tweet_count": 16728
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T01:07:29.000Z",
+        "description": "AIイラストクリエイター |  AI情報を発信中  |  ゆるいイラスト \n生成ツール｜nijiジャーニー｜TensorArtなど\n試行錯誤して自分でイイと思ったものをポストしています。人物特に猫侍が多めで空気感やゆるさを大切にしています。\nアイコン作成・イラスト作成などのご依頼は、DMにてご相談下さいませ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profu.link/u/garnet",
+                "end": 23,
+                "expanded_url": "https://profu.link/u/garnet",
+                "start": 0,
+                "url": "https://t.co/S4GL9TeU7C"
+              }
+            ]
+          }
+        },
+        "id": "1735466471344807936",
+        "location": "Tottori",
+        "name": "Garnet",
+        "pinned_tweet_id": "1876984103532163538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835010242545086464/kDLn0bxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16735,
+          "following_count": 1811,
+          "like_count": 34007,
+          "listed_count": 115,
+          "media_count": 3924,
+          "tweet_count": 13289
+        },
+        "url": "https://t.co/S4GL9TeU7C",
+        "username": "Garnet546223147",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1839180045656666542",
+    "created_at": "2024-09-26T07:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T08:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839212326198849639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236683720733511680",
+          "start": 0,
+          "username": "Hosimiya_Sio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839212326198849639",
+    "in_reply_to_user_id": "1236683720733511680",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839180045656666542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hosimiya_Sio 恐ろしい熱帯地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1839180045656666542",
+        "created_at": "2024-09-26T07:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T08:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839212326198849639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236683720733511680",
+              "start": 0,
+              "username": "Hosimiya_Sio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839212326198849639",
+        "in_reply_to_user_id": "1236683720733511680",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839180045656666542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hosimiya_Sio 恐ろしい熱帯地方"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839180034449215488"
+          ]
+        },
+        "author_id": "1236683720733511680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1316807632011718656",
+              "name": "Instant food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1316807632011718656",
+              "name": "Instant food"
+            }
+          }
+        ],
+        "conversation_id": "1839180045656666542",
+        "created_at": "2024-09-26T05:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T06:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839180045656666542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyrzacymrx",
+              "end": 131,
+              "expanded_url": "https://twitter.com/Hosimiya_Sio/status/1839180045656666542/photo/1",
+              "media_key": "3_1839180034449215488",
+              "start": 108,
+              "url": "https://t.co/jyRzACYmrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839180045656666542",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1126,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "洪水で全てのお店が閉まってる…！\nでも小さいカップ麺10個と水はあるからしばらくはいけるかな？\n車は水没してし故障してしまった🥲\n道路近くのお家が水で半分くらい沈んでてめっちゃびっくりした😦家が浸水しませんように… https://t.co/jyRzACYmrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13433,
+          "following_count": 886,
+          "like_count": 77336,
+          "listed_count": 22,
+          "tweet_count": 16552
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-08T16:02:59.000Z",
+        "description": "🌟ビリビリで活動中！ 完全個人V、会社:starmoonllc CEO🏳️‍🌈登録者数517,000人 🌈LGBT(L) 🐧#汐画 🦭お仕事→DM/HPメール ❤彼女と同棲中⇒@hosimiyamei ﾏﾏ（@muryou_tada） ﾓﾃﾞﾘﾝｸﾞ（@_AYAMUYA）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "汐画"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 100,
+                "start": 88,
+                "username": "hosimiyamei"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "muryou_tada"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "_AYAMUYA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosimiyasio-official.com",
+                "end": 23,
+                "expanded_url": "http://hosimiyasio-official.com",
+                "start": 0,
+                "url": "https://t.co/HUtgP0lfMV"
+              }
+            ]
+          }
+        },
+        "id": "1236683720733511680",
+        "location": "STARMOONLLC CEO",
+        "name": "星宮汐",
+        "pinned_tweet_id": "1723745124436627484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756353751923957760/cxnVFDov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35179,
+          "following_count": 537,
+          "like_count": 632,
+          "listed_count": 195,
+          "tweet_count": 5533
+        },
+        "url": "https://t.co/HUtgP0lfMV",
+        "username": "Hosimiya_Sio",
+        "verified": false
+      }
+    ]
+  }
+}

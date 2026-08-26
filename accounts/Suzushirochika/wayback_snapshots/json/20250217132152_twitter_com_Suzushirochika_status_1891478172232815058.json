@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891108465604763648"
+      ],
+      "media_source_tweet_id": [
+        "1891140478923415889"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1891478172232815058",
+    "created_at": "2025-02-17T13:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T14:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891478172232815058"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "両儀式"
+        },
+        {
+          "end": 33,
+          "start": 22,
+          "tag": "両儀式誕生祭2025"
+        },
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "空の境界"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763374831603785728",
+          "start": 3,
+          "username": "kooridesuyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BXj9ZQcnAk",
+          "end": 63,
+          "expanded_url": "https://x.com/kooridesuyo/status/1891140478923415889/photo/1",
+          "media_key": "3_1891108465604763648",
+          "start": 40,
+          "url": "https://t.co/BXj9ZQcnAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891478172232815058",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891140478923415889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kooridesuyo: #両儀式\n#両儀式誕生祭2025\n#空の境界 https://t.co/BXj9ZQcnAk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1891108465604763648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj6RIUQbIAAX3eB.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891108465604763648"
+          ],
+          "media_source_tweet_id": [
+            "1891140478923415889"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1891478172232815058",
+        "created_at": "2025-02-17T13:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T14:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891478172232815058"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "両儀式"
+            },
+            {
+              "end": 33,
+              "start": 22,
+              "tag": "両儀式誕生祭2025"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "空の境界"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763374831603785728",
+              "start": 3,
+              "username": "kooridesuyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXj9ZQcnAk",
+              "end": 63,
+              "expanded_url": "https://x.com/kooridesuyo/status/1891140478923415889/photo/1",
+              "media_key": "3_1891108465604763648",
+              "start": 40,
+              "url": "https://t.co/BXj9ZQcnAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891478172232815058",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891140478923415889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kooridesuyo: #両儀式\n#両儀式誕生祭2025\n#空の境界 https://t.co/BXj9ZQcnAk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891108465604763648"
+          ]
+        },
+        "author_id": "1763374831603785728",
+        "conversation_id": "1891140478923415889",
+        "created_at": "2025-02-16T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891140478923415889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "両儀式"
+            },
+            {
+              "end": 16,
+              "start": 5,
+              "tag": "両儀式誕生祭2025"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "空の境界"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXj9ZQcnAk",
+              "end": 46,
+              "expanded_url": "https://x.com/kooridesuyo/status/1891140478923415889/photo/1",
+              "media_key": "3_1891108465604763648",
+              "start": 23,
+              "url": "https://t.co/BXj9ZQcnAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891140478923415889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 7807,
+          "like_count": 587,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "#両儀式\n#両儀式誕生祭2025\n#空の境界 https://t.co/BXj9ZQcnAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13873,
+          "following_count": 852,
+          "like_count": 78895,
+          "listed_count": 22,
+          "media_count": 922,
+          "tweet_count": 16760
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:26:04.000Z",
+        "description": "イラストはAI加筆です.\n気軽にフォローしてください.",
+        "id": "1763374831603785728",
+        "name": "コオリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783447332081774593/w1Ej_G6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5916,
+          "following_count": 760,
+          "like_count": 376,
+          "listed_count": 53,
+          "media_count": 1659,
+          "tweet_count": 1677
+        },
+        "username": "kooridesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

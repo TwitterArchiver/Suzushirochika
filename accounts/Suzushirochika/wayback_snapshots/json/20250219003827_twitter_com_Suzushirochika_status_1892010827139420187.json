@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891936923268370432"
+      ],
+      "media_source_tweet_id": [
+        "1891936934039048200"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1892010827139420187",
+    "created_at": "2025-02-19T00:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T01:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892010827139420187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1855977145958567936",
+          "start": 3,
+          "username": "cho_nekura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OG9bkWuhtc",
+          "end": 43,
+          "expanded_url": "https://x.com/cho_nekura/status/1891936934039048200/photo/1",
+          "media_key": "3_1891936923268370432",
+          "start": 20,
+          "url": "https://t.co/OG9bkWuhtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892010827139420187",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891936934039048200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cho_nekura: 🍑🦔🍫 https://t.co/OG9bkWuhtc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1849,
+        "media_key": "3_1891936923268370432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkGCm5jbUAALlEF.jpg",
+        "width": 1896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891936923268370432"
+          ],
+          "media_source_tweet_id": [
+            "1891936934039048200"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1892010827139420187",
+        "created_at": "2025-02-19T00:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T01:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892010827139420187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1855977145958567936",
+              "start": 3,
+              "username": "cho_nekura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OG9bkWuhtc",
+              "end": 43,
+              "expanded_url": "https://x.com/cho_nekura/status/1891936934039048200/photo/1",
+              "media_key": "3_1891936923268370432",
+              "start": 20,
+              "url": "https://t.co/OG9bkWuhtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892010827139420187",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891936934039048200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cho_nekura: 🍑🦔🍫 https://t.co/OG9bkWuhtc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891936923268370432"
+          ]
+        },
+        "author_id": "1855977145958567936",
+        "conversation_id": "1891936934039048200",
+        "created_at": "2025-02-18T19:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T20:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891936934039048200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OG9bkWuhtc",
+              "end": 27,
+              "expanded_url": "https://x.com/cho_nekura/status/1891936934039048200/photo/1",
+              "media_key": "3_1891936923268370432",
+              "start": 4,
+              "url": "https://t.co/OG9bkWuhtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891936934039048200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 12105,
+          "like_count": 1363,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "🍑🦔🍫 https://t.co/OG9bkWuhtc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13869,
+          "following_count": 852,
+          "like_count": 78946,
+          "listed_count": 22,
+          "media_count": 922,
+          "tweet_count": 16764
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T14:13:41.000Z",
+        "description": "20↑河原木ギャ／✒️：🍑✖️🦔",
+        "id": "1855977145958567936",
+        "name": "丼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889529708993454085/ZkBtlnxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 30,
+          "like_count": 528,
+          "listed_count": 17,
+          "media_count": 73,
+          "tweet_count": 1356
+        },
+        "username": "cho_nekura",
+        "verified": false
+      }
+    ]
+  }
+}

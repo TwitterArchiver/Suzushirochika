@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937884222796320768"
+      ],
+      "media_source_tweet_id": [
+        "1937884447472501149"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1938193828122661054",
+    "created_at": "2025-06-26T11:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T12:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938193828122661054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1270043018528092166",
+          "start": 3,
+          "username": "onigiri_gyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WyzBpONa64",
+          "end": 43,
+          "expanded_url": "https://x.com/onigiri_gyu/status/1937884447472501149/photo/1",
+          "media_key": "3_1937884222796320768",
+          "start": 20,
+          "url": "https://t.co/WyzBpONa64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938193828122661054",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2511
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937884447472501149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onigiri_gyu: 🦁🧡 https://t.co/WyzBpONa64"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_1937884222796320768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuS_buub0AAC8pU.jpg",
+        "width": 1565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937884222796320768"
+          ],
+          "media_source_tweet_id": [
+            "1937884447472501149"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1938193828122661054",
+        "created_at": "2025-06-26T11:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T12:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938193828122661054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1270043018528092166",
+              "start": 3,
+              "username": "onigiri_gyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyzBpONa64",
+              "end": 43,
+              "expanded_url": "https://x.com/onigiri_gyu/status/1937884447472501149/photo/1",
+              "media_key": "3_1937884222796320768",
+              "start": 20,
+              "url": "https://t.co/WyzBpONa64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938193828122661054",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2511
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937884447472501149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onigiri_gyu: 🦁🧡 https://t.co/WyzBpONa64"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937884222796320768"
+          ]
+        },
+        "author_id": "1270043018528092166",
+        "conversation_id": "1937884447472501149",
+        "created_at": "2025-06-25T14:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T15:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937884447472501149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyzBpONa64",
+              "end": 26,
+              "expanded_url": "https://x.com/onigiri_gyu/status/1937884447472501149/photo/1",
+              "media_key": "3_1937884222796320768",
+              "start": 3,
+              "url": "https://t.co/WyzBpONa64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937884447472501149",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1535,
+          "impression_count": 182778,
+          "like_count": 16918,
+          "quote_count": 16,
+          "reply_count": 20,
+          "retweet_count": 2511
+        },
+        "reply_settings": "everyone",
+        "text": "🦁🧡 https://t.co/WyzBpONa64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14422,
+          "following_count": 843,
+          "like_count": 79872,
+          "listed_count": 23,
+          "media_count": 933,
+          "tweet_count": 16875
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-08T17:20:43.000Z",
+        "description": "˗ˏˋ ｾｲﾊﾞｰ!!!ˎˊ˗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/7kt6n2ub7…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/7kt6n2ub752zt38k/",
+                "start": 0,
+                "url": "https://t.co/XDlKZ090EA"
+              }
+            ]
+          }
+        },
+        "id": "1270043018528092166",
+        "location": "Repost is prohibited",
+        "name": "𝗻𝗶𝗴𝗶",
+        "pinned_tweet_id": "1875914162469298393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830281009600094208/ykFOChhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44155,
+          "following_count": 29,
+          "like_count": 6029,
+          "listed_count": 279,
+          "media_count": 118,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/XDlKZ090EA",
+        "username": "onigiri_gyu",
+        "verified": false
+      }
+    ]
+  }
+}

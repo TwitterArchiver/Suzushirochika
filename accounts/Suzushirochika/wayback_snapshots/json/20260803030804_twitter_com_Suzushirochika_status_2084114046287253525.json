@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2083920527102751011",
+    "created_at": "2026-08-03T03:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084114046287253525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724356825980768256",
+          "start": 0,
+          "username": "Anzhai_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084114046287253525",
+    "in_reply_to_user_id": "1724356825980768256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083920527102751011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anzhai_Official 可溶于水的卷纸一般是没问题的 那种湿厕纸会堵 马桶太老旧的话也可能会堵……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2083920527102751011",
+        "created_at": "2026-08-03T03:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084114046287253525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724356825980768256",
+              "start": 0,
+              "username": "Anzhai_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084114046287253525",
+        "in_reply_to_user_id": "1724356825980768256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083920527102751011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anzhai_Official 可溶于水的卷纸一般是没问题的 那种湿厕纸会堵 马桶太老旧的话也可能会堵……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724356825980768256",
+        "conversation_id": "2083920527102751011",
+        "created_at": "2026-08-02T14:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083920527102751011"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2083920527102751011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1090,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "擦屁股的卫生纸到底能不能直接扔马桶里面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15058,
+          "following_count": 756,
+          "like_count": 87860,
+          "listed_count": 14,
+          "media_count": 956,
+          "tweet_count": 18010
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T09:21:30.000Z",
+        "description": "我真的想以后好好生活",
+        "id": "1724356825980768256",
+        "location": "武汉",
+        "name": "安斋",
+        "pinned_tweet_id": "2013890841824370909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866406608009617408/Z2xL7vmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4690,
+          "following_count": 1061,
+          "like_count": 13877,
+          "listed_count": 13,
+          "media_count": 196,
+          "tweet_count": 1935
+        },
+        "url": "",
+        "username": "Anzhai_Official",
+        "verified": false
+      }
+    ]
+  }
+}

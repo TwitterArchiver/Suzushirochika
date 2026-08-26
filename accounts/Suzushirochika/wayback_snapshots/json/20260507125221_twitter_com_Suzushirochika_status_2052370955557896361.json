@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2052369515774926922",
+    "created_at": "2026-05-07T12:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052370955557896361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2030123031490875396",
+          "start": 0,
+          "username": "Cooliyawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052370955557896361",
+    "in_reply_to_user_id": "2030123031490875396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052369515774926922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Cooliyawa 萌啊萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2052369471743152128",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHt7KR8bUAA-8FO.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHt7KR8bUAA-8FO.mp4"
+          }
+        ],
+        "width": 258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2052369515774926922",
+        "created_at": "2026-05-07T12:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052370955557896361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2030123031490875396",
+              "start": 0,
+              "username": "Cooliyawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052370955557896361",
+        "in_reply_to_user_id": "2030123031490875396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052369515774926922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Cooliyawa 萌啊萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2052369471743152128"
+          ]
+        },
+        "author_id": "2030123031490875396",
+        "conversation_id": "2052369515774926922",
+        "created_at": "2026-05-07T12:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052369515774926922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lizL2yaXMx",
+              "end": 23,
+              "expanded_url": "https://x.com/Cooliyawa/status/2052369515774926922/photo/1",
+              "media_key": "16_2052369471743152128",
+              "start": 0,
+              "url": "https://t.co/lizL2yaXMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052369515774926922",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/lizL2yaXMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14981,
+          "following_count": 751,
+          "like_count": 84170,
+          "listed_count": 14,
+          "media_count": 930,
+          "tweet_count": 17461
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T03:27:15.000Z",
+        "description": "只是屍體而已。不要對屍體抱有任何期望。",
+        "id": "2030123031490875396",
+        "name": "愛",
+        "pinned_tweet_id": "2045065282570592611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050772439001665536/CqARr1gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 95,
+          "like_count": 850,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 147
+        },
+        "username": "Cooliyawa",
+        "verified": false
+      }
+    ]
+  }
+}

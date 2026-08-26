@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2063763233337663787",
+    "created_at": "2026-06-08T05:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063849069764907022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397245389963546624",
+          "start": 0,
+          "username": "PTP_K_MySUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063849069764907022",
+    "in_reply_to_user_id": "1397245389963546624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063769831766393195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PTP_K_MySUN 🥰好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2063763233337663787",
+        "created_at": "2026-06-08T05:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063849069764907022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397245389963546624",
+              "start": 0,
+              "username": "PTP_K_MySUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063849069764907022",
+        "in_reply_to_user_id": "1397245389963546624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063769831766393195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PTP_K_MySUN 🥰好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397245389963546624",
+        "conversation_id": "2063763233337663787",
+        "created_at": "2026-06-07T23:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063769831766393195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063769831766393195",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063763233337663787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 我在看汪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14982,
+          "following_count": 745,
+          "like_count": 85019,
+          "listed_count": 14,
+          "media_count": 938,
+          "tweet_count": 17615
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T17:37:30.000Z",
+        "description": "THIS LIFE.\n感谢来访/关注❤️这里是澜羽，一个焦虑不安，已经无所谓的人。性取P【泛恋】，超·足控，独身主义。爱好是垂钓🎣、露营⛺️、骑行🚴🏻🏍、特摄🎥，Space💫，以及下厨房🥘另外，是Pay money To my Pain🎶的babyZ",
+        "id": "1397245389963546624",
+        "location": "Outer Heaven",
+        "name": "尾刃 澜羽PTPbabyz",
+        "pinned_tweet_id": "2049928640499171452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960050425463234560/-LEev4em_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 2402,
+          "like_count": 123790,
+          "listed_count": 0,
+          "media_count": 912,
+          "tweet_count": 18796
+        },
+        "username": "PTP_K_MySUN",
+        "verified": false
+      }
+    ]
+  }
+}

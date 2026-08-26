@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2035023433642516822",
+    "created_at": "2026-03-20T16:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035031754998956416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884836968561074176",
+          "start": 0,
+          "username": "Rikko_Li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035031754998956416",
+    "in_reply_to_user_id": "1884836968561074176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035023433642516822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikko_Li 好可爱w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2035023428009566211",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3bBpgboAMGm3-.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2035023428332527621",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3bBqtboAU6Z9V.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2035023428902936576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3bBs1bYAAPiLL.jpg",
+        "width": 2731
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2035023429456547840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3bBu5a0AADwUW.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2035023433642516822",
+        "created_at": "2026-03-20T16:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035031754998956416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884836968561074176",
+              "start": 0,
+              "username": "Rikko_Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035031754998956416",
+        "in_reply_to_user_id": "1884836968561074176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035023433642516822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikko_Li 好可爱w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035023428009566211",
+            "3_2035023428332527621",
+            "3_2035023428902936576",
+            "3_2035023429456547840"
+          ]
+        },
+        "author_id": "1884836968561074176",
+        "conversation_id": "2035023433642516822",
+        "created_at": "2026-03-20T15:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035023433642516822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hc3esunDG",
+              "end": 173,
+              "expanded_url": "https://x.com/Rikko_Li/status/2035023433642516822/photo/1",
+              "media_key": "3_2035023428009566211",
+              "start": 150,
+              "url": "https://t.co/3hc3esunDG"
+            },
+            {
+              "display_url": "pic.x.com/3hc3esunDG",
+              "end": 173,
+              "expanded_url": "https://x.com/Rikko_Li/status/2035023433642516822/photo/1",
+              "media_key": "3_2035023428332527621",
+              "start": 150,
+              "url": "https://t.co/3hc3esunDG"
+            },
+            {
+              "display_url": "pic.x.com/3hc3esunDG",
+              "end": 173,
+              "expanded_url": "https://x.com/Rikko_Li/status/2035023433642516822/photo/1",
+              "media_key": "3_2035023428902936576",
+              "start": 150,
+              "url": "https://t.co/3hc3esunDG"
+            },
+            {
+              "display_url": "pic.x.com/3hc3esunDG",
+              "end": 173,
+              "expanded_url": "https://x.com/Rikko_Li/status/2035023433642516822/photo/1",
+              "media_key": "3_2035023429456547840",
+              "start": 150,
+              "url": "https://t.co/3hc3esunDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035023433642516822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯……试了一下氛元家的星芒，\n感觉还挺好看的 ww (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧，第一次试这种风格的衣服有点紧张……平常基本是卫衣或者T恤，宅宅党……\n房间太乱了呃呃……w，其实很少穿白的，但是一身黑感觉好怪，白的拍出来也不赖好像(⁠⇀⁠‸⁠↼⁠‶⁠)⁠\n可惜X只能发四张，剩下的在阿B……\n可恶！ https://t.co/3hc3esunDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14899,
+          "following_count": 751,
+          "like_count": 82613,
+          "listed_count": 13,
+          "media_count": 911,
+          "tweet_count": 17104
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T05:32:21.000Z",
+        "description": "梨子的梨，梨可的可，凤梨也是梨 :p",
+        "id": "1884836968561074176",
+        "location": "NoTE8 - 3区 - CS",
+        "name": "梨可",
+        "pinned_tweet_id": "1914778080566239412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030289434340704257/3IJR6TBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 92,
+          "like_count": 1200,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 306
+        },
+        "username": "Rikko_Li",
+        "verified": false
+      }
+    ]
+  }
+}

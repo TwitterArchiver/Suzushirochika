@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090464486276907166",
+    "created_at": "2026-08-21T09:33:44.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090734084133990684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1876605733078466560",
+          "start": 0,
+          "username": "kate331177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090734084133990684",
+    "in_reply_to_user_id": "1876605733078466560",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090731480506925204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kate331177 (｡•ㅅ•｡)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090464486276907166",
+        "created_at": "2026-08-21T09:33:44.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090734084133990684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1876605733078466560",
+              "start": 0,
+              "username": "kate331177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090734084133990684",
+        "in_reply_to_user_id": "1876605733078466560",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090731480506925204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kate331177 (｡•ㅅ•｡)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876605733078466560",
+        "conversation_id": "2090464486276907166",
+        "created_at": "2026-08-21T09:23:23.000Z",
+        "display_text_range": [
+          16,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090731480506925204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090731480506925204",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090464486276907166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 是可以的，只要你在学校能认识玩得来的朋友，我o完了她们还照顾我来着（x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090734084133990684",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15060,
+          "following_count": 754,
+          "like_count": 88182,
+          "listed_count": 14,
+          "media_count": 958,
+          "tweet_count": 18125
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:24:18.000Z",
+        "description": "女 ♓️ENFP Sub brat 情侣主奴/心理状态极度堪忧/想发啥发啥\n好爱我主人o(^_^)o",
+        "id": "1876605733078466560",
+        "is_identity_verified": false,
+        "location": "Heaven🪽✝️",
+        "most_recent_tweet_id": "2090731480506925204",
+        "name": "Kk是inu ૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "pinned_tweet_id": "2065047692594786695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876605733078466560/1762497556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016912258925023237/82Ew5Nu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 579,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 678,
+          "tweet_count": 3317
+        },
+        "url": "",
+        "username": "kate331177",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

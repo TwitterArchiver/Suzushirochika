@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2059541055771693124",
+    "created_at": "2026-05-27T14:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059647348826136584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Kitsunetenchou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059647348826136584",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059572593544646802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitsunetenchou 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2059541055771693124",
+        "created_at": "2026-05-27T14:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059647348826136584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Kitsunetenchou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059647348826136584",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059572593544646802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitsunetenchou 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383940842239381510",
+        "conversation_id": "2059541055771693124",
+        "created_at": "2026-05-27T09:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059572593544646802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059572593544646802",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059541055771693124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 一号线原来的老家伙？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14986,
+          "following_count": 745,
+          "like_count": 84644,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 17560
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/烟鬼/电脑配件零售商（好友特价日常）/亞空間生物/物质位面存在裂解中/超凡智能大列巴/厌恶键政仔，跳脸会B/tl大清洗中..../🚪=15x LEDX/15x Defib/100x 闪耀世界医药/受狐喜爱的兔叽 @0xo_snow (垂涎\n/人活着就是得打游戏啊_(¦3_ヽ)ュ赛博极乐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1383940842239381510",
+        "location": "亚空间",
+        "name": "狐店長🦴「赛博极乐之狐」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053473144837677056/RPoVkMo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 908,
+          "like_count": 119701,
+          "listed_count": 20,
+          "media_count": 13165,
+          "tweet_count": 101463
+        },
+        "username": "Kitsunetenchou",
+        "verified": false
+      }
+    ]
+  }
+}

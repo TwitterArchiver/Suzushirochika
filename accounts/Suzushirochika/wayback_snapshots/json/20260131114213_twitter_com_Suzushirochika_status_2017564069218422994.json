@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992430503346249728"
+      ],
+      "media_source_tweet_id": [
+        "1992430527329317375"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2017564069218422994",
+    "created_at": "2026-01-31T11:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T12:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017564069218422994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962213060044869632",
+          "start": 3,
+          "username": "uki_blove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N64JDlXlaJ",
+          "end": 49,
+          "expanded_url": "https://x.com/uki_blove/status/1992430527329317375/photo/1",
+          "media_key": "3_1992430503346249728",
+          "start": 26,
+          "url": "https://t.co/N64JDlXlaJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017564069218422994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 518
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992430527329317375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uki_blove: 小悪魔のおさげちゃん https://t.co/N64JDlXlaJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1992430503346249728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aI_IebIAApN0n.png",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992430503346249728"
+          ],
+          "media_source_tweet_id": [
+            "1992430527329317375"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2017564069218422994",
+        "created_at": "2026-01-31T11:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017564069218422994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962213060044869632",
+              "start": 3,
+              "username": "uki_blove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N64JDlXlaJ",
+              "end": 49,
+              "expanded_url": "https://x.com/uki_blove/status/1992430527329317375/photo/1",
+              "media_key": "3_1992430503346249728",
+              "start": 26,
+              "url": "https://t.co/N64JDlXlaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017564069218422994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 518
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992430527329317375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uki_blove: 小悪魔のおさげちゃん https://t.co/N64JDlXlaJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992430503346249728"
+          ]
+        },
+        "author_id": "1962213060044869632",
+        "conversation_id": "1992430527329317375",
+        "created_at": "2025-11-23T03:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992430527329317375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N64JDlXlaJ",
+              "end": 34,
+              "expanded_url": "https://x.com/uki_blove/status/1992430527329317375/photo/1",
+              "media_key": "3_1992430503346249728",
+              "start": 11,
+              "url": "https://t.co/N64JDlXlaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992430527329317375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 57495,
+          "like_count": 5041,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 518
+        },
+        "reply_settings": "everyone",
+        "text": "小悪魔のおさげちゃん https://t.co/N64JDlXlaJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14813,
+          "following_count": 823,
+          "like_count": 79804,
+          "listed_count": 13,
+          "media_count": 904,
+          "tweet_count": 16854
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T17:57:13.000Z",
+        "description": "お絵描きと音楽とおさげちゃんが好き",
+        "id": "1962213060044869632",
+        "location": "No AI",
+        "name": "いお",
+        "pinned_tweet_id": "1992430527329317375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017120644903948289/gBq6TzfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7949,
+          "following_count": 29,
+          "like_count": 1136,
+          "listed_count": 32,
+          "media_count": 64,
+          "tweet_count": 480
+        },
+        "username": "uki_blove",
+        "verified": false
+      }
+    ]
+  }
+}

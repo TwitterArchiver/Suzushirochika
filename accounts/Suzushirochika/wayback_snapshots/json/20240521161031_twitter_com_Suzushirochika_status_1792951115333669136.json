@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1792949131784433810",
+    "created_at": "2024-05-21T16:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T17:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792951115333669136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "887575245921558529",
+          "start": 0,
+          "username": "NekoExpress09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792951115333669136",
+    "in_reply_to_user_id": "887575245921558529",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792949131784433810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoExpress09 早 教 必 备 儿 童 金 曲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1792949131784433810",
+        "created_at": "2024-05-21T16:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T17:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792951115333669136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "887575245921558529",
+              "start": 0,
+              "username": "NekoExpress09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792951115333669136",
+        "in_reply_to_user_id": "887575245921558529",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792949131784433810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoExpress09 早 教 必 备 儿 童 金 曲"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792949120958947328"
+          ]
+        },
+        "author_id": "887575245921558529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1792949131784433810",
+        "created_at": "2024-05-21T16:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T17:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792949131784433810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/WOyrvhtxvl",
+              "end": 37,
+              "expanded_url": "https://twitter.com/NekoExpress09/status/1792949131784433810/photo/1",
+              "media_key": "3_1792949120958947328",
+              "start": 14,
+              "url": "https://t.co/WOyrvhtxvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792949131784433810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总能给我来点眼前一黑的回顾 https://t.co/WOyrvhtxvl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13252,
+          "following_count": 904,
+          "like_count": 76999,
+          "listed_count": 22,
+          "tweet_count": 16417
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-19T07:30:03.000Z",
+        "description": "猫娘です/maimaiでらっくす好き/中文EnglishOK！日本語はまあまあですが、まだ勉強しています！/友達が欲しい！",
+        "id": "887575245921558529",
+        "location": "「無音の調和」に満ちた世界",
+        "name": "小星Nek0",
+        "pinned_tweet_id": "1772983632518414675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642087011686436865/NYRpkNke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35829,
+          "following_count": 88,
+          "like_count": 11,
+          "listed_count": 65,
+          "tweet_count": 8174
+        },
+        "username": "NekoExpress09",
+        "verified": false
+      }
+    ]
+  }
+}

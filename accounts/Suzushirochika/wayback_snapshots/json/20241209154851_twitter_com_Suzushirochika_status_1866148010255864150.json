@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866136359523532800"
+      ],
+      "media_source_tweet_id": [
+        "1866136389823148125"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1866148010255864150",
+    "created_at": "2024-12-09T15:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T16:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866148010255864150"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "推しの子"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "有馬かな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1448170286784811008",
+          "start": 3,
+          "username": "kcNnxTh2oc1gyDb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxiArnlcDh",
+          "end": 57,
+          "expanded_url": "https://x.com/kcNnxTh2oc1gyDb/status/1866136389823148125/photo/1",
+          "media_key": "3_1866136359523532800",
+          "start": 34,
+          "url": "https://t.co/NxiArnlcDh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866148010255864150",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866136389823148125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kcNnxTh2oc1gyDb: #推しの子  #有馬かな https://t.co/NxiArnlcDh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1866136359523532800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeXZIbvXQAAIzxd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866136359523532800"
+          ],
+          "media_source_tweet_id": [
+            "1866136389823148125"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1866148010255864150",
+        "created_at": "2024-12-09T15:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T16:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866148010255864150"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "推しの子"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "有馬かな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1448170286784811008",
+              "start": 3,
+              "username": "kcNnxTh2oc1gyDb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxiArnlcDh",
+              "end": 57,
+              "expanded_url": "https://x.com/kcNnxTh2oc1gyDb/status/1866136389823148125/photo/1",
+              "media_key": "3_1866136359523532800",
+              "start": 34,
+              "url": "https://t.co/NxiArnlcDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866148010255864150",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866136389823148125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kcNnxTh2oc1gyDb: #推しの子  #有馬かな https://t.co/NxiArnlcDh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866136359523532800"
+          ]
+        },
+        "author_id": "1448170286784811008",
+        "conversation_id": "1866136389823148125",
+        "created_at": "2024-12-09T15:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T16:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866136389823148125"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "推しの子"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "有馬かな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxiArnlcDh",
+              "end": 36,
+              "expanded_url": "https://x.com/kcNnxTh2oc1gyDb/status/1866136389823148125/photo/1",
+              "media_key": "3_1866136359523532800",
+              "start": 13,
+              "url": "https://t.co/NxiArnlcDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866136389823148125",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 1387,
+          "like_count": 213,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "#推しの子  #有馬かな https://t.co/NxiArnlcDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13555,
+          "following_count": 873,
+          "like_count": 77906,
+          "listed_count": 22,
+          "media_count": 913,
+          "tweet_count": 16650
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T06:14:49.000Z",
+        "description": "🇨🇳",
+        "id": "1448170286784811008",
+        "name": "香芋派",
+        "pinned_tweet_id": "1738777887329976755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851802852726870016/PDYb-sob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 28,
+          "like_count": 384,
+          "listed_count": 12,
+          "media_count": 253,
+          "tweet_count": 1065
+        },
+        "username": "kcNnxTh2oc1gyDb",
+        "verified": false
+      }
+    ]
+  }
+}

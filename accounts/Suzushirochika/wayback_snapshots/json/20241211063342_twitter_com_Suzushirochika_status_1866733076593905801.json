@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1866695550281847204",
+    "created_at": "2024-12-11T06:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T07:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866733076593905801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866733076593905801",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866695550281847204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 我记得之前还有“魂类游戏”的标签×"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1866695550281847204",
+        "created_at": "2024-12-11T06:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T07:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866733076593905801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866733076593905801",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866695550281847204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 我记得之前还有“魂类游戏”的标签×"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866695524050747392"
+          ]
+        },
+        "author_id": "3012350599",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866695550281847204",
+        "created_at": "2024-12-11T04:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T05:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866695550281847204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZT573DT4T",
+              "end": 33,
+              "expanded_url": "https://x.com/__Ju___Ju__/status/1866695550281847204/photo/1",
+              "media_key": "3_1866695524050747392",
+              "start": 10,
+              "url": "https://t.co/OZT573DT4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866695550281847204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁打的标签。。。。 https://t.co/OZT573DT4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13558,
+          "following_count": 873,
+          "like_count": 77979,
+          "listed_count": 22,
+          "media_count": 913,
+          "tweet_count": 16654
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "半岛求生中_(:з」∠)_｜夸张兔熊推广大使💕｜妻@IshimiyaChiharu 璐璐@mukdengise",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "IshimiyaChiharu"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "세븐일레븐",
+        "name": "小学桔🍩",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834028251259510784/jWjfKMxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4048,
+          "following_count": 447,
+          "like_count": 32947,
+          "listed_count": 17,
+          "media_count": 2112,
+          "tweet_count": 30117
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

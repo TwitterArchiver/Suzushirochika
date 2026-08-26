@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2079149269152592167",
+    "created_at": "2026-07-20T10:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079157179278557674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079157179278557674",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079149269152592167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 戴帽子感觉帅一点，不戴的话会萌一点（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8653,
+        "height": 1734,
+        "media_key": "13_2079149191260258304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079149191260258304/img/_LWI38r7eQL-EHHN.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079149191260258304/vid/avc1/480x858/gztYvjt7potlA-F6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079149191260258304/vid/avc1/970x1734/GGeewQj8uiD23tXU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079149191260258304/vid/avc1/720x1286/2Xgh96KUuB9fMAna.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079149191260258304/pl/hemOSkcsTeeEDgZ_.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079149191260258304/vid/avc1/320x572/Zi7Aam7XoLMxH44G.mp4"
+          }
+        ],
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2079149269152592167",
+        "created_at": "2026-07-20T10:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079157179278557674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079157179278557674",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079149269152592167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 戴帽子感觉帅一点，不戴的话会萌一点（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079149191260258304"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2079149269152592167",
+        "created_at": "2026-07-20T10:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079149269152592167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRCGKpMhOi",
+              "end": 35,
+              "expanded_url": "https://x.com/0xo_snow/status/2079149269152592167/video/1",
+              "media_key": "13_2079149191260258304",
+              "start": 12,
+              "url": "https://t.co/BRCGKpMhOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079149269152592167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "投票！！要不要戴帽子呢 https://t.co/BRCGKpMhOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15064,
+          "following_count": 755,
+          "like_count": 87014,
+          "listed_count": 14,
+          "media_count": 952,
+          "tweet_count": 17935
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 ip北京 我在接线下请来找我玩\n可爱是唯一追求 ！爱好是唱歌与美少女\n为什么不喜欢我，难道就因为我们不认识吗;ㅅ;",
+        "id": "1522094329954652161",
+        "location": "🚪私信口令88回讯息/解锁线下",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2078827982949679123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18133,
+          "following_count": 423,
+          "like_count": 17446,
+          "listed_count": 35,
+          "media_count": 1439,
+          "tweet_count": 14889
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

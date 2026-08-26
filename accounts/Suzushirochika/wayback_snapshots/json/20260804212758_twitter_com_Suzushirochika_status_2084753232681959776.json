@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2084661875615367452",
+    "created_at": "2026-08-04T21:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T22:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084753232681959776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        },
+        {
+          "end": 24,
+          "id": "2045902725871992832",
+          "start": 16,
+          "username": "Yxybi5v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084753232681959776",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084661875615367452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 便民链接：@yxybi5v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_2084661868552171521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO407KfasAE7ote.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2084661875615367452",
+        "created_at": "2026-08-04T21:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084753232681959776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            },
+            {
+              "end": 24,
+              "id": "2045902725871992832",
+              "start": 16,
+              "username": "Yxybi5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084753232681959776",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084661875615367452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 便民链接：@yxybi5v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084661868552171521"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2084661875615367452",
+        "created_at": "2026-08-04T15:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084661875615367452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGjDkTEDTf",
+              "end": 26,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2084661875615367452/photo/1",
+              "media_key": "3_2084661868552171521",
+              "start": 3,
+              "url": "https://t.co/PGjDkTEDTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084661875615367452",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10616,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？。 https://t.co/PGjDkTEDTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15061,
+          "following_count": 755,
+          "like_count": 87688,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18023
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "miovo",
+        "pinned_tweet_id": "2082239946614784158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 241,
+          "like_count": 20403,
+          "listed_count": 8,
+          "media_count": 238,
+          "tweet_count": 3631
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T16:31:52.000Z",
+        "description": "",
+        "id": "2045902725871992832",
+        "name": "妍妍酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084656993042579456/A5ALwuvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 30,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Yxybi5v",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2016507630056034579",
+    "created_at": "2026-01-29T10:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T11:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016819333398483037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1667768701381378049",
+          "start": 0,
+          "username": "juz1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016819333398483037",
+    "in_reply_to_user_id": "1667768701381378049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016507630056034579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juz1127 小能萌萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3801,
+        "media_key": "3_2016507375344123905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wSxiJXgAEgs5v.jpg",
+        "width": 2305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2016507630056034579",
+        "created_at": "2026-01-29T10:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T11:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016819333398483037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1667768701381378049",
+              "start": 0,
+              "username": "juz1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016819333398483037",
+        "in_reply_to_user_id": "1667768701381378049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016507630056034579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juz1127 小能萌萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016507375344123905"
+          ]
+        },
+        "author_id": "1667768701381378049",
+        "conversation_id": "2016507630056034579",
+        "created_at": "2026-01-28T13:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016507630056034579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJtg6Ip8f3",
+              "end": 29,
+              "expanded_url": "https://x.com/juz1127/status/2016507630056034579/photo/1",
+              "media_key": "3_2016507375344123905",
+              "start": 6,
+              "url": "https://t.co/ZJtg6Ip8f3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016507630056034579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 4765,
+          "like_count": 304,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "厚黑是对的 https://t.co/ZJtg6Ip8f3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14807,
+          "following_count": 823,
+          "like_count": 79766,
+          "listed_count": 13,
+          "media_count": 904,
+          "tweet_count": 16849
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T05:40:37.000Z",
+        "description": "无墙内账号小窗欢迎",
+        "id": "1667768701381378049",
+        "location": "罗德岛",
+        "name": "pupuColete",
+        "pinned_tweet_id": "2015753552443121699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880556534532571136/kUJBLhXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12012,
+          "following_count": 182,
+          "like_count": 1724,
+          "listed_count": 32,
+          "media_count": 61,
+          "tweet_count": 678
+        },
+        "username": "juz1127",
+        "verified": false
+      }
+    ]
+  }
+}

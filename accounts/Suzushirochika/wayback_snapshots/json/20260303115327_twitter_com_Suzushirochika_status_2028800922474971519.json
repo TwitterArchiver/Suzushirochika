@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2028797206187196572",
+    "created_at": "2026-03-03T11:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028800922474971519"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "恭喜",
+          "probability": 0.68,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028800922474971519",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028797206187196572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 恭喜考完！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2028797203494666240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCe8TrubAAArOMR.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1195,
+        "media_key": "3_2028797203657953280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCe8TsVWkAAFmdq.jpg",
+        "width": 1341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2028797206187196572",
+        "created_at": "2026-03-03T11:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028800922474971519"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "恭喜",
+              "probability": 0.68,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028800922474971519",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028797206187196572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 恭喜考完！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028797203494666240",
+            "3_2028797203657953280"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028797206187196572",
+        "created_at": "2026-03-03T11:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028797206187196572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmFlNTqfCw",
+              "end": 167,
+              "expanded_url": "https://x.com/mario_2333/status/2028797206187196572/photo/1",
+              "media_key": "3_2028797203494666240",
+              "start": 144,
+              "url": "https://t.co/FmFlNTqfCw"
+            },
+            {
+              "display_url": "pic.x.com/FmFlNTqfCw",
+              "end": 167,
+              "expanded_url": "https://x.com/mario_2333/status/2028797206187196572/photo/1",
+              "media_key": "3_2028797203657953280",
+              "start": 144,
+              "url": "https://t.co/FmFlNTqfCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028797206187196572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天依然吃食堂…诶但是现在明明是不上课的假期正中间为什么食堂也开呀，甚至还能坐挺满的人，大家都不放假吗？哦原来我也没放假呀那没事了（×\n\n呜呜呜我的土耳其烤肉涨价了，这顿已经要5.8€了，坏！\n\n说起来最后的考试也顺利通过啦，1.7分还不错呢，比想象的好一些！那以后真的不用上课考试啦！ https://t.co/FmFlNTqfCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14893,
+          "following_count": 775,
+          "like_count": 81121,
+          "listed_count": 13,
+          "media_count": 912,
+          "tweet_count": 16987
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | CC BY-NC 4.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+1",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3216,
+          "following_count": 255,
+          "like_count": 39643,
+          "listed_count": 16,
+          "media_count": 853,
+          "tweet_count": 12656
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": false
+      }
+    ]
+  }
+}

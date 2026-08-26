@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991402248623333377"
+      ],
+      "media_source_tweet_id": [
+        "1991402256294715525"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10036996935",
+          "name": "Fate/stay night"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10040098875",
+          "name": "Fate/Zero"
+        }
+      }
+    ],
+    "conversation_id": "1991729168040771941",
+    "created_at": "2025-11-21T04:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T05:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991729168040771941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675148691995492352",
+          "start": 3,
+          "username": "nina_IDOLY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/46zK9Eg32i",
+          "end": 55,
+          "expanded_url": "https://x.com/nina_IDOLY/status/1991402256294715525/photo/1",
+          "media_key": "3_1991402248623333377",
+          "start": 32,
+          "url": "https://t.co/46zK9Eg32i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991729168040771941",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6327
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991402256294715525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nina_IDOLY: 109に潜む遠坂凛とセイバーだ https://t.co/46zK9Eg32i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991402248623333377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Lhy1IboAE6VJp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991402248623333377"
+          ],
+          "media_source_tweet_id": [
+            "1991402256294715525"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036996935",
+              "name": "Fate/stay night"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040098875",
+              "name": "Fate/Zero"
+            }
+          }
+        ],
+        "conversation_id": "1991729168040771941",
+        "created_at": "2025-11-21T04:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991729168040771941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675148691995492352",
+              "start": 3,
+              "username": "nina_IDOLY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/46zK9Eg32i",
+              "end": 55,
+              "expanded_url": "https://x.com/nina_IDOLY/status/1991402256294715525/photo/1",
+              "media_key": "3_1991402248623333377",
+              "start": 32,
+              "url": "https://t.co/46zK9Eg32i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991729168040771941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6327
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991402256294715525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nina_IDOLY: 109に潜む遠坂凛とセイバーだ https://t.co/46zK9Eg32i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991402248623333377"
+          ]
+        },
+        "author_id": "1675148691995492352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036996935",
+              "name": "Fate/stay night"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040098875",
+              "name": "Fate/Zero"
+            }
+          }
+        ],
+        "conversation_id": "1991402256294715525",
+        "created_at": "2025-11-20T07:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T08:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991402256294715525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46zK9Eg32i",
+              "end": 39,
+              "expanded_url": "https://x.com/nina_IDOLY/status/1991402256294715525/photo/1",
+              "media_key": "3_1991402248623333377",
+              "start": 16,
+              "url": "https://t.co/46zK9Eg32i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991402256294715525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3054,
+          "impression_count": 1253974,
+          "like_count": 53880,
+          "quote_count": 172,
+          "reply_count": 27,
+          "retweet_count": 6327
+        },
+        "reply_settings": "everyone",
+        "text": "109に潜む遠坂凛とセイバーだ https://t.co/46zK9Eg32i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14765,
+          "following_count": 832,
+          "like_count": 78824,
+          "listed_count": 23,
+          "media_count": 899,
+          "tweet_count": 16787
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T14:29:27.000Z",
+        "description": "@IDOLY_cafe  たまに@neusick_cafe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "IDOLY_cafe"
+              },
+              {
+                "end": 29,
+                "start": 16,
+                "username": "neusick_cafe"
+              }
+            ]
+          }
+        },
+        "id": "1675148691995492352",
+        "name": "ニナ",
+        "pinned_tweet_id": "1990031674755911732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802674706677682176/Hx61ulSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 119,
+          "like_count": 3541,
+          "listed_count": 34,
+          "media_count": 1426,
+          "tweet_count": 6689
+        },
+        "username": "nina_IDOLY",
+        "verified": false
+      }
+    ]
+  }
+}

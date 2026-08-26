@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2042551204132299092",
+    "created_at": "2026-04-10T14:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042612627051024435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733139095352918016",
+          "start": 0,
+          "username": "aoi4uto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042612627051024435",
+    "in_reply_to_user_id": "1733139095352918016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042551204132299092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi4uto 这个安妮好吃！😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2042551188584103936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiZe-8bgAA0q5T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2042551204132299092",
+        "created_at": "2026-04-10T14:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042612627051024435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733139095352918016",
+              "start": 0,
+              "username": "aoi4uto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042612627051024435",
+        "in_reply_to_user_id": "1733139095352918016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042551204132299092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi4uto 这个安妮好吃！😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042551188584103936"
+          ]
+        },
+        "author_id": "1733139095352918016",
+        "conversation_id": "2042551204132299092",
+        "created_at": "2026-04-10T10:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042551204132299092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBtnzCOENd",
+              "end": 66,
+              "expanded_url": "https://x.com/aoi4uto/status/2042551204132299092/photo/1",
+              "media_key": "3_2042551188584103936",
+              "start": 43,
+              "url": "https://t.co/bBtnzCOENd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042551204132299092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1051,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五道口地铁站出来这块是觅食胜地\n价格亲民，非常多学生在这里聚集，偷听隔壁桌聊天有意思 https://t.co/bBtnzCOENd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14769,
+          "following_count": 748,
+          "like_count": 83852,
+          "listed_count": 14,
+          "media_count": 923,
+          "tweet_count": 17303
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T14:59:03.000Z",
+        "description": "一个阴郁、孤僻，正四处逛的陌生角色\n回关各类大学生中学生小学生。提问箱https://t.co/zxD3Q7VZNM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aoi4uto",
+                "end": 58,
+                "expanded_url": "https://ngl.link/aoi4uto",
+                "start": 35,
+                "url": "https://t.co/zxD3Q7VZNM"
+              }
+            ]
+          }
+        },
+        "id": "1733139095352918016",
+        "location": "午夜沙发电视",
+        "name": "噪点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025944445372313600/3EQTUkjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 569,
+          "like_count": 53845,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 8424
+        },
+        "username": "aoi4uto",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379260",
+          "name": "Love, Chunibyo and Other Delusions"
+        }
+      }
+    ],
+    "conversation_id": "2059297713758654866",
+    "created_at": "2026-05-27T08:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059555454569828469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1469665357908824064",
+          "start": 0,
+          "username": "Takagi_0620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059555454569828469",
+    "in_reply_to_user_id": "1469665357908824064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059297713758654866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takagi_0620 猜你想找：《辉告》《春物》《中二恋》（\n抱抱你quq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379260",
+              "name": "Love, Chunibyo and Other Delusions"
+            }
+          }
+        ],
+        "conversation_id": "2059297713758654866",
+        "created_at": "2026-05-27T08:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059555454569828469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1469665357908824064",
+              "start": 0,
+              "username": "Takagi_0620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059555454569828469",
+        "in_reply_to_user_id": "1469665357908824064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059297713758654866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takagi_0620 猜你想找：《辉告》《春物》《中二恋》（\n抱抱你quq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469665357908824064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2059297713758654866",
+        "created_at": "2026-05-26T15:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059297713758654866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059297713758654866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1579,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想每天穿着制服和好朋友一起去上学\n有动漫社也有文学社\n即使是中二病也可以谈恋爱每天都和善良的朋友们度过被称为青春的日子\n我也想在社团里交朋友，给文学社长那个会吃书的普通文学少女写故事\n我也想和大家一起学习一起中二一起校园祭和运动会\n我也好想要青春的记忆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14989,
+          "following_count": 746,
+          "like_count": 84640,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 17559
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T13:48:41.000Z",
+        "description": "是一只文学少女",
+        "id": "1469665357908824064",
+        "location": "Union of Britain ",
+        "name": "KaedeRen",
+        "pinned_tweet_id": "2058207553402888533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058120950688907264/YQRDzsNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18616,
+          "following_count": 374,
+          "like_count": 11855,
+          "listed_count": 20,
+          "media_count": 58,
+          "tweet_count": 1052
+        },
+        "username": "Takagi_0620",
+        "verified": false
+      }
+    ]
+  }
+}

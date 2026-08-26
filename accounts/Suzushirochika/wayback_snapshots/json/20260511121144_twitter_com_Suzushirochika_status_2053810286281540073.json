@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2053480550120522064",
+    "created_at": "2026-05-11T12:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053810286281540073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955218488185982980",
+          "start": 0,
+          "username": "bbbkamen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053810286281540073",
+    "in_reply_to_user_id": "1955218488185982980",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053480550120522064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbkamen ，！ 。！？，？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2053480550120522064",
+        "created_at": "2026-05-11T12:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053810286281540073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955218488185982980",
+              "start": 0,
+              "username": "bbbkamen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053810286281540073",
+        "in_reply_to_user_id": "1955218488185982980",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053480550120522064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbkamen ，！ 。！？，？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955218488185982980",
+        "conversation_id": "2053480550120522064",
+        "created_at": "2026-05-10T14:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053480550120522064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053480550120522064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8522,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中推圈里\n\n晚安的三种含义\n\n你知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14986,
+          "following_count": 750,
+          "like_count": 84256,
+          "listed_count": 14,
+          "media_count": 932,
+          "tweet_count": 17480
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "传奇耐电王/MTX/出厂日09.7.11/友跨/高二物化生/不政/🍥凝胶💊OD/正在关注圈子情况/前世@aaakamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "aaakamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "location": "中国河北",
+        "name": "一颗地雷/柒酱",
+        "pinned_tweet_id": "2040935095008407933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 327,
+          "like_count": 441,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 182
+        },
+        "username": "bbbkamen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056330041395716096"
+      ],
+      "media_source_tweet_id": [
+        "2056330063831019620"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2056454177560363413",
+    "created_at": "2026-05-18T19:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056454177560363413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1914258868156366848",
+          "start": 3,
+          "username": "caffeine6262"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lY1vC5v8ya",
+          "end": 46,
+          "expanded_url": "https://x.com/caffeine6262/status/2056330063831019620/photo/1",
+          "media_key": "3_2056330041395716096",
+          "start": 23,
+          "url": "https://t.co/lY1vC5v8ya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056454177560363413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056330063831019620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caffeine6262: 芸術作品 https://t.co/lY1vC5v8ya"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2056330041395716096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImNRxpbIAAXfKn.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056330041395716096"
+          ],
+          "media_source_tweet_id": [
+            "2056330063831019620"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2056454177560363413",
+        "created_at": "2026-05-18T19:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056454177560363413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1914258868156366848",
+              "start": 3,
+              "username": "caffeine6262"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lY1vC5v8ya",
+              "end": 46,
+              "expanded_url": "https://x.com/caffeine6262/status/2056330063831019620/photo/1",
+              "media_key": "3_2056330041395716096",
+              "start": 23,
+              "url": "https://t.co/lY1vC5v8ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056454177560363413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056330063831019620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caffeine6262: 芸術作品 https://t.co/lY1vC5v8ya"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056330041395716096"
+          ]
+        },
+        "author_id": "1914258868156366848",
+        "conversation_id": "2056330063831019620",
+        "created_at": "2026-05-18T11:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056330063831019620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lY1vC5v8ya",
+              "end": 28,
+              "expanded_url": "https://x.com/caffeine6262/status/2056330063831019620/photo/1",
+              "media_key": "3_2056330041395716096",
+              "start": 5,
+              "url": "https://t.co/lY1vC5v8ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056330063831019620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 10625,
+          "like_count": 723,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "芸術作品 https://t.co/lY1vC5v8ya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14986,
+          "following_count": 748,
+          "like_count": 84443,
+          "listed_count": 14,
+          "media_count": 935,
+          "tweet_count": 17530
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T10:04:29.000Z",
+        "description": "在原七海、谷風天音、新海天|工口ゲ初心者\nサブ【@caffeine626_sub】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "caffeine626_sub"
+              }
+            ]
+          }
+        },
+        "id": "1914258868156366848",
+        "name": "カフェイン",
+        "pinned_tweet_id": "2054920144590458892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056061493905678336/U9slrttA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 791,
+          "like_count": 2763,
+          "listed_count": 8,
+          "media_count": 2420,
+          "tweet_count": 4840
+        },
+        "username": "caffeine6262",
+        "verified": false
+      }
+    ]
+  }
+}

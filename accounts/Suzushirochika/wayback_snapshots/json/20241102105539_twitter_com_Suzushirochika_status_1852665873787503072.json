@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852665827130277888",
+        "3_1852665828023640064",
+        "3_1852665835179130880",
+        "3_1852665827167969281"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1852665873787503072",
+    "created_at": "2024-11-02T10:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T11:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852665873787503072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YNSt3VgLwh",
+          "end": 23,
+          "expanded_url": "https://x.com/Suzushirochika/status/1852665873787503072/photo/1",
+          "media_key": "3_1852665827130277888",
+          "start": 0,
+          "url": "https://t.co/YNSt3VgLwh"
+        },
+        {
+          "display_url": "pic.x.com/YNSt3VgLwh",
+          "end": 23,
+          "expanded_url": "https://x.com/Suzushirochika/status/1852665873787503072/photo/1",
+          "media_key": "3_1852665828023640064",
+          "start": 0,
+          "url": "https://t.co/YNSt3VgLwh"
+        },
+        {
+          "display_url": "pic.x.com/YNSt3VgLwh",
+          "end": 23,
+          "expanded_url": "https://x.com/Suzushirochika/status/1852665873787503072/photo/1",
+          "media_key": "3_1852665835179130880",
+          "start": 0,
+          "url": "https://t.co/YNSt3VgLwh"
+        },
+        {
+          "display_url": "pic.x.com/YNSt3VgLwh",
+          "end": 23,
+          "expanded_url": "https://x.com/Suzushirochika/status/1852665873787503072/photo/1",
+          "media_key": "3_1852665827167969281",
+          "start": 0,
+          "url": "https://t.co/YNSt3VgLwh"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "01cb3bd54f92388e"
+    },
+    "id": "1852665873787503072",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/YNSt3VgLwh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1852665827130277888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbX9wQGbAAAzI8E.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1852665828023640064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbX9wTbaoAArUw9.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1852665835179130880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbX9wuFawAA9hoL.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1852665827167969281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbX9wQPaIAE-Pe2.jpg",
+        "width": 1024
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Wan Chai District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.163389,
+            22.252055,
+            114.2069673,
+            22.2912933
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "01cb3bd54f92388e",
+        "name": "Wan Chai District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852665827130277888",
+            "3_1852665828023640064",
+            "3_1852665835179130880",
+            "3_1852665827167969281"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1852665873787503072",
+        "created_at": "2024-11-02T10:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T11:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852665873787503072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNSt3VgLwh",
+              "end": 23,
+              "expanded_url": "https://x.com/Suzushirochika/status/1852665873787503072/photo/1",
+              "media_key": "3_1852665827130277888",
+              "start": 0,
+              "url": "https://t.co/YNSt3VgLwh"
+            },
+            {
+              "display_url": "pic.x.com/YNSt3VgLwh",
+              "end": 23,
+              "expanded_url": "https://x.com/Suzushirochika/status/1852665873787503072/photo/1",
+              "media_key": "3_1852665828023640064",
+              "start": 0,
+              "url": "https://t.co/YNSt3VgLwh"
+            },
+            {
+              "display_url": "pic.x.com/YNSt3VgLwh",
+              "end": 23,
+              "expanded_url": "https://x.com/Suzushirochika/status/1852665873787503072/photo/1",
+              "media_key": "3_1852665835179130880",
+              "start": 0,
+              "url": "https://t.co/YNSt3VgLwh"
+            },
+            {
+              "display_url": "pic.x.com/YNSt3VgLwh",
+              "end": 23,
+              "expanded_url": "https://x.com/Suzushirochika/status/1852665873787503072/photo/1",
+              "media_key": "3_1852665827167969281",
+              "start": 0,
+              "url": "https://t.co/YNSt3VgLwh"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01cb3bd54f92388e"
+        },
+        "id": "1852665873787503072",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YNSt3VgLwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13465,
+          "following_count": 879,
+          "like_count": 77717,
+          "listed_count": 22,
+          "tweet_count": 16654
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

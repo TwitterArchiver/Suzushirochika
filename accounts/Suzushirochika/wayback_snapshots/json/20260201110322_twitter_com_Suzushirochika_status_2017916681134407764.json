@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017778537533739011"
+      ],
+      "media_source_tweet_id": [
+        "2017778543632257196"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2017916681134407764",
+    "created_at": "2026-02-01T11:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T12:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017916681134407764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980796089373712384",
+          "start": 3,
+          "username": "slpsm_aiart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nU24lYMOOV",
+          "end": 82,
+          "expanded_url": "https://x.com/slpsm_aiart/status/2017778543632257196/photo/1",
+          "media_key": "3_2017778537533739011",
+          "start": 59,
+          "url": "https://t.co/nU24lYMOOV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017916681134407764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017778543632257196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @slpsm_aiart: 最近気に入ってるsrefの組み合わせ\nもうちょっと、こう、なんとかしたい（語彙力） https://t.co/nU24lYMOOV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2912,
+        "media_key": "3_2017778537533739011",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HACW46UbEAMBgVb.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017778537533739011"
+          ],
+          "media_source_tweet_id": [
+            "2017778543632257196"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2017916681134407764",
+        "created_at": "2026-02-01T11:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017916681134407764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980796089373712384",
+              "start": 3,
+              "username": "slpsm_aiart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nU24lYMOOV",
+              "end": 82,
+              "expanded_url": "https://x.com/slpsm_aiart/status/2017778543632257196/photo/1",
+              "media_key": "3_2017778537533739011",
+              "start": 59,
+              "url": "https://t.co/nU24lYMOOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017916681134407764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017778543632257196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @slpsm_aiart: 最近気に入ってるsrefの組み合わせ\nもうちょっと、こう、なんとかしたい（語彙力） https://t.co/nU24lYMOOV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017778537533739011"
+          ]
+        },
+        "author_id": "1980796089373712384",
+        "conversation_id": "2017778543632257196",
+        "created_at": "2026-02-01T01:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017778543632257196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nU24lYMOOV",
+              "end": 65,
+              "expanded_url": "https://x.com/slpsm_aiart/status/2017778543632257196/photo/1",
+              "media_key": "3_2017778537533739011",
+              "start": 42,
+              "url": "https://t.co/nU24lYMOOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017778543632257196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2919,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "最近気に入ってるsrefの組み合わせ\nもうちょっと、こう、なんとかしたい（語彙力） https://t.co/nU24lYMOOV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14813,
+          "following_count": 823,
+          "like_count": 79844,
+          "listed_count": 13,
+          "media_count": 905,
+          "tweet_count": 16864
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T00:39:38.000Z",
+        "description": "生成AIでイラスト作ってます。mid journey・にじジャーニーで作ったシンプル可愛いイラストメインでポスト予定です。/無言フォローしがちです/本垢。可愛い女の子はこちら。👉＠slpsmxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "slpsmxxx"
+              }
+            ]
+          }
+        },
+        "id": "1980796089373712384",
+        "name": "錫-suzu- aiart.",
+        "pinned_tweet_id": "2014018566572405220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980798075355410432/CdR6AWdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 179,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 485
+        },
+        "username": "slpsm_aiart",
+        "verified": false
+      }
+    ]
+  }
+}

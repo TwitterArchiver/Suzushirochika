@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2069174183150383536",
+    "created_at": "2026-06-23T16:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069464390668370329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592950427741552644",
+          "start": 0,
+          "username": "Anthony_CandyXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069464390668370329",
+    "in_reply_to_user_id": "1592950427741552644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069174183150383536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anthony_CandyXD 这就是长裤和裤袜的好处了🥺别人问我我就说怕被蚊子咬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1985,
+        "media_key": "3_2069174178851516416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcu8-Ta8AAI3W2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1726,
+        "media_key": "3_2069174177538437120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcu85aW8AAh510.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069174183150383536",
+        "created_at": "2026-06-23T16:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069464390668370329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592950427741552644",
+              "start": 0,
+              "username": "Anthony_CandyXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069464390668370329",
+        "in_reply_to_user_id": "1592950427741552644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069174183150383536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anthony_CandyXD 这就是长裤和裤袜的好处了🥺别人问我我就说怕被蚊子咬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069174178851516416",
+            "3_2069174177538437120"
+          ]
+        },
+        "author_id": "1592950427741552644",
+        "conversation_id": "2069174183150383536",
+        "created_at": "2026-06-22T21:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069174183150383536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBA1sQNxjv",
+              "end": 177,
+              "expanded_url": "https://x.com/Anthony_CandyXD/status/2069174183150383536/photo/1",
+              "media_key": "3_2069174178851516416",
+              "start": 154,
+              "url": "https://t.co/FBA1sQNxjv"
+            },
+            {
+              "display_url": "pic.x.com/FBA1sQNxjv",
+              "end": 177,
+              "expanded_url": "https://x.com/Anthony_CandyXD/status/2069174183150383536/photo/1",
+              "media_key": "3_2069174177538437120",
+              "start": 154,
+              "url": "https://t.co/FBA1sQNxjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069174183150383536",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 28414,
+          "like_count": 2346,
+          "quote_count": 11,
+          "reply_count": 24,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "Recuerdo que me preguntaron cómo salgo a la calle con mis cicatrices, pues si voy a usar algo corto (shorts) me pongo esas cosas y problema solucionado 🥺 https://t.co/FBA1sQNxjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14976,
+          "following_count": 748,
+          "like_count": 85258,
+          "listed_count": 14,
+          "media_count": 944,
+          "tweet_count": 17695
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T18:41:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anthony23436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anthony23436",
+                "start": 0,
+                "url": "https://t.co/vOM7KN0a5I"
+              }
+            ]
+          }
+        },
+        "id": "1592950427741552644",
+        "location": "he/she",
+        "name": "¡★Anthony★!",
+        "pinned_tweet_id": "2014066749704913029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063776911029899264/j67yeS_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 411,
+          "like_count": 18825,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 5360
+        },
+        "url": "https://t.co/vOM7KN0a5I",
+        "username": "Anthony_CandyXD",
+        "verified": false
+      }
+    ]
+  }
+}

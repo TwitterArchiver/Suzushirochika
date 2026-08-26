@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059650842769358848"
+      ],
+      "media_source_tweet_id": [
+        "2059650844388397502"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059918638925398256",
+    "created_at": "2026-05-28T08:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059918638925398256"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "WA2"
+        },
+        {
+          "end": 96,
+          "start": 84,
+          "tag": "WHITEALBUM2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "99216952",
+          "start": 3,
+          "username": "AQUAPLUS_JP"
+        }
+      ],
+      "urls": [
+        {
+          "description": "PlayStation®Vita「WHITE ALBUM2 幸せの向こう側 」2013.11.28",
+          "display_url": "aquaplus.jp/wa2vita/charac…",
+          "end": 78,
+          "expanded_url": "https://aquaplus.jp/wa2vita/character/touma.html",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2059650893814124546/PZ8FyuNK?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2059650893814124546/PZ8FyuNK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 55,
+          "status": 200,
+          "title": "WHITE ALBUM2 幸せの向こう側 PS Vita",
+          "unwound_url": "https://aquaplus.jp/wa2vita/character/touma.html",
+          "url": "https://t.co/68pFr1QNM1"
+        },
+        {
+          "display_url": "pic.x.com/KpUwlmKt11",
+          "end": 120,
+          "expanded_url": "https://x.com/AQUAPLUS_JP/status/2059650844388397502/photo/1",
+          "media_key": "3_2059650842769358848",
+          "start": 97,
+          "url": "https://t.co/KpUwlmKt11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059918638925398256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1314
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059650844388397502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AQUAPLUS_JP: 🎂今日(5/28)は、冬馬かずさ（WHITE ALBUM2）の誕生日です！\nhttps://t.co/68pFr1QNM1\n#WA2 #WHITEALBUM2 https://t.co/KpUwlmKt11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2059650842769358848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVZh2yaAAAlEJ8.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059650842769358848"
+          ],
+          "media_source_tweet_id": [
+            "2059650844388397502"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059918638925398256",
+        "created_at": "2026-05-28T08:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059918638925398256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "WA2"
+            },
+            {
+              "end": 96,
+              "start": 84,
+              "tag": "WHITEALBUM2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "99216952",
+              "start": 3,
+              "username": "AQUAPLUS_JP"
+            }
+          ],
+          "urls": [
+            {
+              "description": "PlayStation®Vita「WHITE ALBUM2 幸せの向こう側 」2013.11.28",
+              "display_url": "aquaplus.jp/wa2vita/charac…",
+              "end": 78,
+              "expanded_url": "https://aquaplus.jp/wa2vita/character/touma.html",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2059650893814124546/PZ8FyuNK?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059650893814124546/PZ8FyuNK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "WHITE ALBUM2 幸せの向こう側 PS Vita",
+              "unwound_url": "https://aquaplus.jp/wa2vita/character/touma.html",
+              "url": "https://t.co/68pFr1QNM1"
+            },
+            {
+              "display_url": "pic.x.com/KpUwlmKt11",
+              "end": 120,
+              "expanded_url": "https://x.com/AQUAPLUS_JP/status/2059650844388397502/photo/1",
+              "media_key": "3_2059650842769358848",
+              "start": 97,
+              "url": "https://t.co/KpUwlmKt11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059918638925398256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1314
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059650844388397502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AQUAPLUS_JP: 🎂今日(5/28)は、冬馬かずさ（WHITE ALBUM2）の誕生日です！\nhttps://t.co/68pFr1QNM1\n#WA2 #WHITEALBUM2 https://t.co/KpUwlmKt11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059650842769358848"
+          ]
+        },
+        "author_id": "99216952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059650844388397502",
+        "created_at": "2026-05-27T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059650844388397502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "WA2"
+            },
+            {
+              "end": 79,
+              "start": 67,
+              "tag": "WHITEALBUM2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "PlayStation®Vita「WHITE ALBUM2 幸せの向こう側 」2013.11.28",
+              "display_url": "aquaplus.jp/wa2vita/charac…",
+              "end": 61,
+              "expanded_url": "https://aquaplus.jp/wa2vita/character/touma.html",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2059650893814124546/PZ8FyuNK?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059650893814124546/PZ8FyuNK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "WHITE ALBUM2 幸せの向こう側 PS Vita",
+              "unwound_url": "https://aquaplus.jp/wa2vita/character/touma.html",
+              "url": "https://t.co/68pFr1QNM1"
+            },
+            {
+              "display_url": "pic.x.com/KpUwlmKt11",
+              "end": 103,
+              "expanded_url": "https://x.com/AQUAPLUS_JP/status/2059650844388397502/photo/1",
+              "media_key": "3_2059650842769358848",
+              "start": 80,
+              "url": "https://t.co/KpUwlmKt11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059650844388397502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 117709,
+          "like_count": 3240,
+          "quote_count": 113,
+          "reply_count": 47,
+          "retweet_count": 1314
+        },
+        "reply_settings": "everyone",
+        "text": "🎂今日(5/28)は、冬馬かずさ（WHITE ALBUM2）の誕生日です！\nhttps://t.co/68pFr1QNM1\n#WA2 #WHITEALBUM2 https://t.co/KpUwlmKt11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14984,
+          "following_count": 744,
+          "like_count": 84686,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 17565
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-25T04:14:18.000Z",
+        "description": "ゲームメーカー「アクアプラス」の 情報を発信します。\n\nお問合せ🔸https://t.co/5hgkdY4J3L\nうたわれるもの ロストフラグ 公式🔸https://t.co/Fh8yL9wBZ6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aquaplus.jp/contact/",
+                "end": 56,
+                "expanded_url": "https://aquaplus.jp/contact/",
+                "start": 33,
+                "url": "https://t.co/5hgkdY4J3L"
+              },
+              {
+                "display_url": "x.com/Utaware_LF",
+                "end": 98,
+                "expanded_url": "https://x.com/Utaware_LF",
+                "start": 75,
+                "url": "https://t.co/Fh8yL9wBZ6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aquaplus.jp",
+                "end": 23,
+                "expanded_url": "https://aquaplus.jp/",
+                "start": 0,
+                "url": "https://t.co/a9agE7AR9W"
+              }
+            ]
+          }
+        },
+        "id": "99216952",
+        "location": "日本",
+        "name": "アクアプラス",
+        "pinned_tweet_id": "2059560261577793980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121601870790656/gL80Z4ab_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110195,
+          "following_count": 566,
+          "like_count": 362,
+          "listed_count": 1397,
+          "media_count": 1880,
+          "tweet_count": 31803
+        },
+        "url": "https://t.co/a9agE7AR9W",
+        "username": "AQUAPLUS_JP",
+        "verified": true
+      }
+    ]
+  }
+}

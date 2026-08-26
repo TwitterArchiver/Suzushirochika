@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2061662000363737230",
+    "created_at": "2026-06-03T05:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062044212947013674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Kitsunetenchou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062044212947013674",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061662000363737230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitsunetenchou 咬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061661968378028032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJx-oxga4AAGs1D.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061661968738787329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJx-oy2boAETgvq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2061662000363737230",
+        "created_at": "2026-06-03T05:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062044212947013674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Kitsunetenchou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062044212947013674",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061662000363737230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitsunetenchou 咬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061661968378028032",
+            "3_2061661968738787329"
+          ]
+        },
+        "author_id": "1383940842239381510",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061662000363737230",
+        "created_at": "2026-06-02T04:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061662000363737230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpZed04Ayt",
+              "end": 37,
+              "expanded_url": "https://x.com/Kitsunetenchou/status/2061662000363737230/photo/1",
+              "media_key": "3_2061661968378028032",
+              "start": 14,
+              "url": "https://t.co/YpZed04Ayt"
+            },
+            {
+              "display_url": "pic.x.com/YpZed04Ayt",
+              "end": 37,
+              "expanded_url": "https://x.com/Kitsunetenchou/status/2061662000363737230/photo/1",
+              "media_key": "3_2061661968738787329",
+              "start": 14,
+              "url": "https://t.co/YpZed04Ayt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061662000363737230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "_(¦3_ヽ)ュ这个好吃✓ https://t.co/YpZed04Ayt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14971,
+          "following_count": 745,
+          "like_count": 84882,
+          "listed_count": 14,
+          "media_count": 938,
+          "tweet_count": 17585
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/烟鬼/电脑配件零售商（好友特价日常）/亞空間生物/物质位面存在裂解中/超凡智能大列巴/厌恶键政仔，跳脸会B/tl大清洗中..../🚪=15x LEDX/15x Defib/100x 闪耀世界医药/受狐喜爱的兔叽 @0xo_snow (垂涎\n/人活着就是得打游戏啊_(¦3_ヽ)ュ赛博极乐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1383940842239381510",
+        "location": "亚空间",
+        "name": "狐店長🦴「狐雷斯特·屑尔曼」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053473144837677056/RPoVkMo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 907,
+          "like_count": 120074,
+          "listed_count": 20,
+          "media_count": 13201,
+          "tweet_count": 101779
+        },
+        "username": "Kitsunetenchou",
+        "verified": false
+      }
+    ]
+  }
+}

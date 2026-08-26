@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2083485122230382954",
+    "created_at": "2026-08-01T16:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083586444837458392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796471454839816192",
+          "start": 0,
+          "username": "yuanyilingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083586444837458392",
+    "in_reply_to_user_id": "1796471454839816192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083485122230382954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyilingyi 喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2083485122230382954",
+        "created_at": "2026-08-01T16:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083586444837458392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796471454839816192",
+              "start": 0,
+              "username": "yuanyilingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083586444837458392",
+        "in_reply_to_user_id": "1796471454839816192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083485122230382954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyilingyi 喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796471454839816192",
+        "conversation_id": "2083485122230382954",
+        "created_at": "2026-08-01T09:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083485122230382954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083485122230382954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1024,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吾辈为什么不想敞开心扉，因为吾辈不敢，吾辈害怕出什么问题，吾辈就会变得非常伤心，所以只要吾辈不去想那些东西，吾辈就不会受伤了，大家也不会有不愉快了。但是吾辈心里总感觉很奇怪，从来没有过这种感觉。吾辈一直想到底是什么原因，想半天发现原来是吾辈又喜欢又害怕，这样的吾辈真的值得被喜欢么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15058,
+          "following_count": 756,
+          "like_count": 87798,
+          "listed_count": 14,
+          "media_count": 955,
+          "tweet_count": 18001
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T09:19:29.000Z",
+        "description": "✨朝雾绫澜✨｜本人已成年，无不良引导｜含糖🍥｜清水日常推✨｜互fo私信喵，fo会查成分回关｜转生版｜喜欢一切可爱的事物🎉",
+        "id": "1796471454839816192",
+        "location": "距离你1米",
+        "name": "纟夌🍀",
+        "pinned_tweet_id": "2076886094776574354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265125528231936/GdFIqysV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3263,
+          "following_count": 611,
+          "like_count": 3666,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1529
+        },
+        "url": "",
+        "username": "yuanyilingyi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995782777443418119"
+      ],
+      "media_source_tweet_id": [
+        "1995782785496482285"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1995866696956170587",
+    "created_at": "2025-12-02T14:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995866696956170587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "405353604",
+          "start": 3,
+          "username": "azusa_banjo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gYT1CY92wS",
+          "end": 59,
+          "expanded_url": "https://x.com/azusa_banjo/status/1995782785496482285/photo/1",
+          "media_key": "3_1995782777443418119",
+          "start": 36,
+          "url": "https://t.co/gYT1CY92wS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995866696956170587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 325
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995782785496482285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azusa_banjo: ン゛ァーッッかわいい\n誰これ描いたの https://t.co/gYT1CY92wS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995782777443418119",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Jx3KpbgAcpqSV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995782777443418119"
+          ],
+          "media_source_tweet_id": [
+            "1995782785496482285"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1995866696956170587",
+        "created_at": "2025-12-02T14:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995866696956170587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "405353604",
+              "start": 3,
+              "username": "azusa_banjo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYT1CY92wS",
+              "end": 59,
+              "expanded_url": "https://x.com/azusa_banjo/status/1995782785496482285/photo/1",
+              "media_key": "3_1995782777443418119",
+              "start": 36,
+              "url": "https://t.co/gYT1CY92wS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995866696956170587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 325
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995782785496482285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azusa_banjo: ン゛ァーッッかわいい\n誰これ描いたの https://t.co/gYT1CY92wS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995782777443418119"
+          ]
+        },
+        "author_id": "405353604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1995782785496482285",
+        "created_at": "2025-12-02T09:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T10:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995782785496482285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYT1CY92wS",
+              "end": 42,
+              "expanded_url": "https://x.com/azusa_banjo/status/1995782785496482285/photo/1",
+              "media_key": "3_1995782777443418119",
+              "start": 19,
+              "url": "https://t.co/gYT1CY92wS"
+            },
+            {
+              "display_url": "x.com/azusa_banjo/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/azusa_banjo/status/1993157287847117244",
+              "start": 43,
+              "url": "https://t.co/b06FsIpF3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995782785496482285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 58797,
+          "like_count": 2801,
+          "quote_count": 7,
+          "reply_count": 22,
+          "retweet_count": 325
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993157287847117244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ン゛ァーッッかわいい\n誰これ描いたの https://t.co/gYT1CY92wS https://t.co/b06FsIpF3Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14784,
+          "following_count": 831,
+          "like_count": 78975,
+          "listed_count": 23,
+          "media_count": 901,
+          "tweet_count": 16790
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-05T06:04:30.000Z",
+        "description": "漫画家◆主人公(♂)のことが好きすぎる男の娘(おとこのこ)の漫画を描いてます◆comicPOOL『恋する（おとめ）の作り方』隔週金曜▶https://t.co/KI74JdgIC1 ◆既刊紹介・お問い合わせ・その他すべてのリンクはこちら▶https://t.co/27yaP4hmHz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic.pixiv.net/works/6403",
+                "end": 90,
+                "expanded_url": "http://comic.pixiv.net/works/6403",
+                "start": 67,
+                "url": "https://t.co/KI74JdgIC1"
+              },
+              {
+                "display_url": "lit.link/azusabanjo",
+                "end": 142,
+                "expanded_url": "https://lit.link/azusabanjo",
+                "start": 119,
+                "url": "https://t.co/27yaP4hmHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=5279612",
+                "start": 0,
+                "url": "https://t.co/68EbQiqVxd"
+              }
+            ]
+          }
+        },
+        "id": "405353604",
+        "location": "リプライ全て見てます、いつもありがとうございます！",
+        "name": "万丈梓",
+        "pinned_tweet_id": "1993157287847117244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520691095159541762/0x5eAcvI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264698,
+          "following_count": 432,
+          "like_count": 29837,
+          "listed_count": 1484,
+          "media_count": 2266,
+          "tweet_count": 15448
+        },
+        "url": "https://t.co/68EbQiqVxd",
+        "username": "azusa_banjo",
+        "verified": true
+      }
+    ]
+  }
+}

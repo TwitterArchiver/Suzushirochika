@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1832971097664565248"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1832971098797044090",
+    "created_at": "2024-09-09T02:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T03:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832971098797044090"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1832971098797044090",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你最喜欢？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2024-09-11T02:35:39.000Z",
+        "id": "1832971097664565248",
+        "options": [
+          {
+            "label": "鲁菜系",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "淮扬菜系",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "粤菜系",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "川菜系",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1832971097664565248"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1832971098797044090",
+        "created_at": "2024-09-09T02:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T03:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832971098797044090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1832971098797044090",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你最喜欢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13360,
+          "following_count": 889,
+          "like_count": 77351,
+          "listed_count": 22,
+          "tweet_count": 16514
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

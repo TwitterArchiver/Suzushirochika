@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982771136422166528"
+      ],
+      "media_source_tweet_id": [
+        "1982771144467091691"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1982992073860235387",
+    "created_at": "2025-10-28T02:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T03:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982992073860235387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "708721273312927744",
+          "start": 3,
+          "username": "shiomi00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l4yd3Kg99M",
+          "end": 50,
+          "expanded_url": "https://x.com/shiomi00/status/1982771144467091691/photo/1",
+          "media_key": "3_1982771136422166528",
+          "start": 27,
+          "url": "https://t.co/l4yd3Kg99M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982992073860235387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982771144467091691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiomi00: あるよ。奇跡も、魔法も。 https://t.co/l4yd3Kg99M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1982771136422166528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Q31-lXQAA7pQq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982771136422166528"
+          ],
+          "media_source_tweet_id": [
+            "1982771144467091691"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1982992073860235387",
+        "created_at": "2025-10-28T02:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982992073860235387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "708721273312927744",
+              "start": 3,
+              "username": "shiomi00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4yd3Kg99M",
+              "end": 50,
+              "expanded_url": "https://x.com/shiomi00/status/1982771144467091691/photo/1",
+              "media_key": "3_1982771136422166528",
+              "start": 27,
+              "url": "https://t.co/l4yd3Kg99M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982992073860235387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982771144467091691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiomi00: あるよ。奇跡も、魔法も。 https://t.co/l4yd3Kg99M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982771136422166528"
+          ]
+        },
+        "author_id": "708721273312927744",
+        "conversation_id": "1982771144467091691",
+        "created_at": "2025-10-27T11:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982771144467091691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4yd3Kg99M",
+              "end": 36,
+              "expanded_url": "https://x.com/shiomi00/status/1982771144467091691/photo/1",
+              "media_key": "3_1982771136422166528",
+              "start": 13,
+              "url": "https://t.co/l4yd3Kg99M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982771144467091691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 6093,
+          "like_count": 441,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "あるよ。奇跡も、魔法も。 https://t.co/l4yd3Kg99M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14708,
+          "following_count": 831,
+          "like_count": 78499,
+          "listed_count": 23,
+          "media_count": 896,
+          "tweet_count": 16764
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-12T18:28:13.000Z",
+        "description": "魔法少女と戦う女の子が大好き！Cosplay🩵 ご依頼など連絡はDMへ！水中撮影🐳無断転載や保存·利用NG⚠︎︎ひぐらしまどマギ艦これNieR超電磁砲NIKKE🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "saltymark.booth.pm",
+                "end": 23,
+                "expanded_url": "https://saltymark.booth.pm",
+                "start": 0,
+                "url": "https://t.co/zxJ3F250uv"
+              }
+            ]
+          }
+        },
+        "id": "708721273312927744",
+        "location": "写真集▶",
+        "name": "塩味🐳🐾",
+        "pinned_tweet_id": "1982771144467091691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881677370316443649/DcF3uo_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12226,
+          "following_count": 355,
+          "like_count": 27552,
+          "listed_count": 87,
+          "media_count": 472,
+          "tweet_count": 22033
+        },
+        "url": "https://t.co/zxJ3F250uv",
+        "username": "shiomi00",
+        "verified": false
+      }
+    ]
+  }
+}

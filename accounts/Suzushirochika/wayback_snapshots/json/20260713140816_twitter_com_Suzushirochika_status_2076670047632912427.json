@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2076604577886224843",
+    "created_at": "2026-07-13T14:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076670047632912427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679858508467159041",
+          "start": 0,
+          "username": "Amiartisan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076670047632912427",
+    "in_reply_to_user_id": "1679858508467159041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076604577886224843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amiartisan 大変に気分がいい0 〜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076604567798857728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGU2iKawAAtxKE.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2076604577886224843",
+        "created_at": "2026-07-13T14:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076670047632912427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679858508467159041",
+              "start": 0,
+              "username": "Amiartisan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076670047632912427",
+        "in_reply_to_user_id": "1679858508467159041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076604577886224843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amiartisan 大変に気分がいい0 〜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076604567798857728"
+          ]
+        },
+        "author_id": "1679858508467159041",
+        "conversation_id": "2076604577886224843",
+        "created_at": "2026-07-13T09:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076604577886224843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPT77LcFYr",
+              "end": 41,
+              "expanded_url": "https://x.com/Amiartisan/status/2076604577886224843/photo/1",
+              "media_key": "3_2076604567798857728",
+              "start": 18,
+              "url": "https://t.co/zPT77LcFYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076604577886224843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1899,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来和我一起玩《近月少女的礼仪》吧～ https://t.co/zPT77LcFYr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15048,
+          "following_count": 750,
+          "like_count": 86419,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17836
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T14:20:59.000Z",
+        "description": "🏳️‍⚧️｜She/Her｜烤｜mai｜mzk推｜计算机｜Mac｜Linux｜Smartisan大好き｜试着去成为这个世界美好的那部分吧",
+        "id": "1679858508467159041",
+        "name": "夕子",
+        "pinned_tweet_id": "1980666621510451487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017219721939357696/Ioed0US1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 138,
+          "like_count": 3114,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 896
+        },
+        "url": "",
+        "username": "Amiartisan",
+        "verified": false
+      }
+    ]
+  }
+}

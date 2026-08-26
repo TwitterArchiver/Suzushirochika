@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1978366243678663062",
+    "created_at": "2025-10-15T09:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T10:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978387368936714445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1457264775440728070",
+          "start": 0,
+          "username": "yagi_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978387368936714445",
+    "in_reply_to_user_id": "1457264775440728070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978387012676686120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yagi_riko 为什么呆）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1978387012676686120].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1978387012676686120",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1978387012676686120"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1978366243678663062",
+        "created_at": "2025-10-15T09:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T10:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978387368936714445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1457264775440728070",
+              "start": 0,
+              "username": "yagi_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978387368936714445",
+        "in_reply_to_user_id": "1457264775440728070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978387012676686120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yagi_riko 为什么呆）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "1593184193613553664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14683,
+          "following_count": 833,
+          "like_count": 78522,
+          "listed_count": 23,
+          "media_count": 894,
+          "tweet_count": 16738
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T08:33:04.000Z",
+        "description": "一个徘徊在时空与间隙之间的幽灵，是需要神奇的汤药才能维系住自己魔法的，不称职的水魔法师呢。也并不擅长治疗魔法，所以不要太接近我哦",
+        "id": "1457264775440728070",
+        "name": "クスノキ•リコ",
+        "pinned_tweet_id": "1960720311638270432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817836494125690880/kFWvf5kd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 59,
+          "like_count": 1624,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1389
+        },
+        "username": "yagi_riko",
+        "verified": false
+      }
+    ]
+  }
+}

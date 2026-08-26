@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1980575996366713094",
+    "created_at": "2025-10-23T14:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T15:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981362812263002342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1873728709808795648",
+          "start": 0,
+          "username": "karkisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981362812263002342",
+    "in_reply_to_user_id": "1873728709808795648",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981320851938300330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karkisuki hug…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1980575996366713094",
+        "created_at": "2025-10-23T14:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T15:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981362812263002342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1873728709808795648",
+              "start": 0,
+              "username": "karkisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981362812263002342",
+        "in_reply_to_user_id": "1873728709808795648",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981320851938300330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karkisuki hug…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873728709808795648",
+        "conversation_id": "1980575996366713094",
+        "created_at": "2025-10-23T11:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981320851938300330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981320851938300330",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980575996366713094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 有十分类似的经历，但是我正常洗胃了，只是自杀了四次每次都无意识进医院了，在后面的生活想起来这件事确实只觉得荒谬（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "1980575996366713094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14704,
+          "following_count": 831,
+          "like_count": 78440,
+          "listed_count": 23,
+          "media_count": 895,
+          "tweet_count": 16755
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T13:51:57.000Z",
+        "description": "🏳️‍⚧️🍥含糖 2022.11-21丨185cm 56kg｜可互fo（请私信）｜🇨🇳 20Y/O｜Content Creator on bilibili ｜Realms Mapmaker @Minecraft | BuiltByBit: Karkisuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "Minecraft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "behance.net/karkisuki",
+                "end": 23,
+                "expanded_url": "https://www.behance.net/karkisuki",
+                "start": 0,
+                "url": "https://t.co/Wf9GmdUTne"
+              }
+            ]
+          }
+        },
+        "id": "1873728709808795648",
+        "location": "🚪25.5",
+        "name": "凌.",
+        "pinned_tweet_id": "1963942506707423359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930952433922097152/ViH2pNiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 212,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/Wf9GmdUTne",
+        "username": "karkisuki",
+        "verified": false
+      }
+    ]
+  }
+}

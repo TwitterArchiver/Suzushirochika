@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985035020017516544",
+        "3_1985035020747337728"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1985035023867867572",
+    "created_at": "2025-11-02T17:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985035023867867572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5e9aHLF68z",
+          "end": 62,
+          "expanded_url": "https://x.com/Suzushirochika/status/1985035023867867572/photo/1",
+          "media_key": "3_1985035020017516544",
+          "start": 39,
+          "url": "https://t.co/5e9aHLF68z"
+        },
+        {
+          "display_url": "pic.x.com/5e9aHLF68z",
+          "end": 62,
+          "expanded_url": "https://x.com/Suzushirochika/status/1985035023867867572/photo/1",
+          "media_key": "3_1985035020747337728",
+          "start": 39,
+          "url": "https://t.co/5e9aHLF68z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985035023867867572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上推总是能学到一些奇怪的知识比如昨天是裤袜之日？（只是随便拍拍不要在意镜子… https://t.co/5e9aHLF68z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985035020017516544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4xC1WLawAA5ETb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985035020747337728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4xC1Y5a8AANlO7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985035020017516544",
+            "3_1985035020747337728"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1985035023867867572",
+        "created_at": "2025-11-02T17:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985035023867867572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5e9aHLF68z",
+              "end": 62,
+              "expanded_url": "https://x.com/Suzushirochika/status/1985035023867867572/photo/1",
+              "media_key": "3_1985035020017516544",
+              "start": 39,
+              "url": "https://t.co/5e9aHLF68z"
+            },
+            {
+              "display_url": "pic.x.com/5e9aHLF68z",
+              "end": 62,
+              "expanded_url": "https://x.com/Suzushirochika/status/1985035023867867572/photo/1",
+              "media_key": "3_1985035020747337728",
+              "start": 39,
+              "url": "https://t.co/5e9aHLF68z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985035023867867572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上推总是能学到一些奇怪的知识比如昨天是裤袜之日？（只是随便拍拍不要在意镜子… https://t.co/5e9aHLF68z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14733,
+          "following_count": 833,
+          "like_count": 78601,
+          "listed_count": 23,
+          "media_count": 898,
+          "tweet_count": 16778
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 01 04:04:58 +0000 2022",
+  "display_text_range": [
+    26,
+    34
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 745846644558729216,
+        "id_str": "745846644558729216",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "SZK \"𝕃𝕖𝕟𝕒\" 梓月🏳️‍⚧️",
+        "screen_name": "shizuki_lena"
+      },
+      {
+        "id": 1148070145564086273,
+        "id_str": "1148070145564086273",
+        "indices": [
+          14,
+          25
+        ],
+        "name": "东亚普信男丨随便骂人会被鄙人无情b掉丨忙着学习",
+        "screen_name": "__Linsen__"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1576060579764400129,
+  "id_str": "1576060579764400129",
+  "in_reply_to_screen_name": "shizuki_lena",
+  "in_reply_to_status_id": 1576032680466341888,
+  "in_reply_to_status_id_str": "1576032680466341888",
+  "in_reply_to_user_id": 745846644558729216,
+  "in_reply_to_user_id_str": "745846644558729216",
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "@shizuki_lena @__Linsen__ 刷牙齿！扎头发！",
+  "timestamp_ms": "1664597098662",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Apr 23 12:00:18 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "晚安，做個好夢，夢見想見到的人，然後緊緊抱在一起喔",
+    "favourites_count": 73697,
+    "follow_request_sent": null,
+    "followers_count": 10009,
+    "following": null,
+    "friends_count": 1046,
+    "geo_enabled": true,
+    "id": 1253292430792839174,
+    "id_str": "1253292430792839174",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 21,
+    "location": "東京 新宿区",
+    "name": "鈴白千夏",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1664133132",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1574285188422856704/aVWQM4GA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1574285188422856704/aVWQM4GA_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Suzushirochika",
+    "statuses_count": 13688,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

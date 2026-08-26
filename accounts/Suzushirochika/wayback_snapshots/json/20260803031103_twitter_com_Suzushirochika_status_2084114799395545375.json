@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084114793259241472"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2084114799395545375",
+    "created_at": "2026-08-03T03:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084114799395545375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OCcfNZOC58",
+          "end": 52,
+          "expanded_url": "https://x.com/Suzushirochika/status/2084114799395545375/photo/1",
+          "media_key": "3_2084114793259241472",
+          "start": 29,
+          "url": "https://t.co/OCcfNZOC58"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084114799395545375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推特最新版好难用……设计师你们真的在每天用这个软件吗 👎 https://t.co/OCcfNZOC58"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2084114793259241472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxDXMNakAArZzo.jpg",
+        "width": 3262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084114793259241472"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2084114799395545375",
+        "created_at": "2026-08-03T03:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084114799395545375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCcfNZOC58",
+              "end": 52,
+              "expanded_url": "https://x.com/Suzushirochika/status/2084114799395545375/photo/1",
+              "media_key": "3_2084114793259241472",
+              "start": 29,
+              "url": "https://t.co/OCcfNZOC58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084114799395545375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特最新版好难用……设计师你们真的在每天用这个软件吗 👎 https://t.co/OCcfNZOC58"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15058,
+          "following_count": 756,
+          "like_count": 87860,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18011
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

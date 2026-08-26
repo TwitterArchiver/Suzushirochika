@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907642119399038976"
+      ],
+      "media_source_tweet_id": [
+        "1907642228069249464"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1907989604768362816",
+    "created_at": "2025-04-04T02:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T03:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907989604768362816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "958562247831367680",
+          "start": 3,
+          "username": "Bitturing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jsNjp6j6cW",
+          "end": 129,
+          "expanded_url": "https://x.com/Bitturing/status/1907642228069249464/photo/1",
+          "media_key": "3_1907642119399038976",
+          "start": 106,
+          "url": "https://t.co/jsNjp6j6cW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907989604768362816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907642228069249464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitturing: 成年人中有 71% 是口呼吸者。\n他们根本不知道自己在做什么。\n\n最糟糕的是？这破坏了他们的：\n•睡眠\n•能量\n•脑功能\n\n这是有关口呼吸的一切内容（及如何停止口呼吸）的一切知识： https://t.co/jsNjp6j6cW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1907642119399038976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnlOZoVaYAAkGvg.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907642119399038976"
+          ],
+          "media_source_tweet_id": [
+            "1907642228069249464"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1907989604768362816",
+        "created_at": "2025-04-04T02:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T03:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907989604768362816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "958562247831367680",
+              "start": 3,
+              "username": "Bitturing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsNjp6j6cW",
+              "end": 129,
+              "expanded_url": "https://x.com/Bitturing/status/1907642228069249464/photo/1",
+              "media_key": "3_1907642119399038976",
+              "start": 106,
+              "url": "https://t.co/jsNjp6j6cW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907989604768362816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907642228069249464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitturing: 成年人中有 71% 是口呼吸者。\n他们根本不知道自己在做什么。\n\n最糟糕的是？这破坏了他们的：\n•睡眠\n•能量\n•脑功能\n\n这是有关口呼吸的一切内容（及如何停止口呼吸）的一切知识： https://t.co/jsNjp6j6cW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907642119399038976"
+          ]
+        },
+        "author_id": "958562247831367680",
+        "conversation_id": "1907642228069249464",
+        "created_at": "2025-04-03T03:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T04:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907642228069249464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsNjp6j6cW",
+              "end": 114,
+              "expanded_url": "https://x.com/Bitturing/status/1907642228069249464/photo/1",
+              "media_key": "3_1907642119399038976",
+              "start": 91,
+              "url": "https://t.co/jsNjp6j6cW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907642228069249464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 627,
+          "impression_count": 192414,
+          "like_count": 641,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "成年人中有 71% 是口呼吸者。\n他们根本不知道自己在做什么。\n\n最糟糕的是？这破坏了他们的：\n•睡眠\n•能量\n•脑功能\n\n这是有关口呼吸的一切内容（及如何停止口呼吸）的一切知识： https://t.co/jsNjp6j6cW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14103,
+          "following_count": 854,
+          "like_count": 79666,
+          "listed_count": 23,
+          "media_count": 930,
+          "tweet_count": 16850
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T04:47:03.000Z",
+        "description": "🗺️大自然的搬运工 \n\n🕸️泛互联网 \n🔭科技 \n🤖AI \n📖学习 \n🪙Crypto #BTC \n💎投资 \n🪐Web3 \n\n🌍看都看了，点点关注",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "958562247831367680",
+        "name": "Bitturing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640782991457931264/NiQ4O-sX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80624,
+          "following_count": 185,
+          "like_count": 6894,
+          "listed_count": 737,
+          "media_count": 2149,
+          "tweet_count": 3324
+        },
+        "username": "Bitturing",
+        "verified": false
+      }
+    ]
+  }
+}

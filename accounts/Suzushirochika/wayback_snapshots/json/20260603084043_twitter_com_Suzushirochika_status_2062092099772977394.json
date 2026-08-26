@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2061841010377068811",
+    "created_at": "2026-06-03T08:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062092099772977394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1858727254345281536",
+          "start": 0,
+          "username": "NNNullptr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062092099772977394",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061841010377068811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NNNullptr 再整点一块钱批发泡面和刚出锅的热腾腾大油条这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2061841010377068811",
+        "created_at": "2026-06-03T08:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062092099772977394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062092099772977394",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061841010377068811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 再整点一块钱批发泡面和刚出锅的热腾腾大油条这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2061841010377068811",
+        "created_at": "2026-06-02T16:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061841010377068811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061841010377068811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好吃点大饼卷肉，焖子这一块，板面（吸溜吸溜吸溜），再整点饺子包子大锅菜这一块，就爱吃这个，真的，他喵的真的，那北方人蒸的大馒头，我还想吃啥，有些人说，良子，南方东西你不想吃吗，错误想吃哒，我想吃南方的（哼哼哼哼哼）饭！猪脚饭！我特别想吃啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14975,
+          "following_count": 746,
+          "like_count": 84893,
+          "listed_count": 15,
+          "media_count": 938,
+          "tweet_count": 17603
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 173,
+          "like_count": 6425,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

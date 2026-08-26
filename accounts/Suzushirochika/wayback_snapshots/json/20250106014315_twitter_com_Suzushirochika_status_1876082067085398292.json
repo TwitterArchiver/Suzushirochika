@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875770248399310848"
+      ],
+      "media_source_tweet_id": [
+        "1875770251318841687"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1876082067085398292",
+    "created_at": "2025-01-06T01:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T02:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876082067085398292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1414709391681523712",
+          "start": 3,
+          "username": "Daily_Kazumin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lemibiq5q4",
+          "end": 59,
+          "expanded_url": "https://x.com/Daily_Kazumin/status/1875770251318841687/photo/1",
+          "media_key": "3_1875770248399310848",
+          "start": 36,
+          "url": "https://t.co/Lemibiq5q4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876082067085398292",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875770251318841687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Daily_Kazumin: Fanart del día 😙 https://t.co/Lemibiq5q4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1875770248399310848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GggTGkgWUAABl5_.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875770248399310848"
+          ],
+          "media_source_tweet_id": [
+            "1875770251318841687"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1876082067085398292",
+        "created_at": "2025-01-06T01:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T02:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876082067085398292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1414709391681523712",
+              "start": 3,
+              "username": "Daily_Kazumin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lemibiq5q4",
+              "end": 59,
+              "expanded_url": "https://x.com/Daily_Kazumin/status/1875770251318841687/photo/1",
+              "media_key": "3_1875770248399310848",
+              "start": 36,
+              "url": "https://t.co/Lemibiq5q4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876082067085398292",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875770251318841687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Daily_Kazumin: Fanart del día 😙 https://t.co/Lemibiq5q4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875770248399310848"
+          ]
+        },
+        "author_id": "1414709391681523712",
+        "conversation_id": "1875770251318841687",
+        "created_at": "2025-01-05T05:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T06:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875770251318841687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lemibiq5q4",
+              "end": 40,
+              "expanded_url": "https://x.com/Daily_Kazumin/status/1875770251318841687/photo/1",
+              "media_key": "3_1875770248399310848",
+              "start": 17,
+              "url": "https://t.co/Lemibiq5q4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875770251318841687",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 8519,
+          "like_count": 1327,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Fanart del día 😙 https://t.co/Lemibiq5q4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13678,
+          "following_count": 874,
+          "like_count": 78200,
+          "listed_count": 0,
+          "media_count": 919,
+          "tweet_count": 16703
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T22:13:03.000Z",
+        "description": "Cuenta dedicada a subir contenido diario de la mejor pareja de los Isekais, el Kazumin ❤ // Admin: @DanielVillegas5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "DanielVillegas5"
+              }
+            ]
+          }
+        },
+        "id": "1414709391681523712",
+        "location": "Mansión de Axel",
+        "name": "Daily Kazumin カズめぐ",
+        "pinned_tweet_id": "1789164258288144531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1479415063064707073/c56VhXut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 212,
+          "like_count": 3302,
+          "listed_count": 4,
+          "media_count": 1227,
+          "tweet_count": 1388
+        },
+        "username": "Daily_Kazumin",
+        "verified": false
+      }
+    ]
+  }
+}

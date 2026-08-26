@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2078067026829181272",
+    "created_at": "2026-07-18T00:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T01:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078270333094912309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078270333094912309",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078067026829181272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai 嗑大了也不会昏过去我觉得…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2078067026829181272",
+        "created_at": "2026-07-18T00:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078270333094912309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078270333094912309",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078067026829181272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai 嗑大了也不会昏过去我觉得…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702221879434436608",
+        "conversation_id": "2078067026829181272",
+        "created_at": "2026-07-17T10:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078067026829181272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078067026829181272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2747,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加巴喷丁会腹泻吗…如果在床上嗑大了晕过去了正好赶上肚子疼那后果我不敢想。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15059,
+          "following_count": 752,
+          "like_count": 86839,
+          "listed_count": 14,
+          "media_count": 952,
+          "tweet_count": 17906
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "=小鸠/鸡排                                                             集日记朋友圈碎碎念垃圾桶裸照自残嗑药一体的神秘账号 || 互fo大欢迎=ω=                     我是钱性恋🚪188/288/520/1314",
+        "id": "1702221879434436608",
+        "name": "像素",
+        "pinned_tweet_id": "2074621267400077792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 86,
+          "like_count": 359,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

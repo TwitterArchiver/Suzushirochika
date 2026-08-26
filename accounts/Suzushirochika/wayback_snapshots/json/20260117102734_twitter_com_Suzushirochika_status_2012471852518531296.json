@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2012471852518531296",
+    "created_at": "2026-01-17T10:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012471852518531296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "735087459231358976",
+          "start": 3,
+          "username": "CitronaTeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012471852518531296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012164706824524171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CitronaTeo: 麦门！做了一个自动领麦当劳中国优惠券的 Telegram Bot，再也不会错过任何麦麦优惠券🤩\n\n支持多账号每天自动领取（但请不要太过分），如果担心隐私也可以自己部署，文档和源码都在这里（ButaiKirin/MaiMaiBot）\n\n欢迎使用！…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2012471852518531296",
+        "created_at": "2026-01-17T10:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012471852518531296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "735087459231358976",
+              "start": 3,
+              "username": "CitronaTeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012471852518531296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012164706824524171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CitronaTeo: 麦门！做了一个自动领麦当劳中国优惠券的 Telegram Bot，再也不会错过任何麦麦优惠券🤩\n\n支持多账号每天自动领取（但请不要太过分），如果担心隐私也可以自己部署，文档和源码都在这里（ButaiKirin/MaiMaiBot）\n\n欢迎使用！…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "735087459231358976",
+        "conversation_id": "2012164706824524171",
+        "created_at": "2026-01-16T14:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012164706824524171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "我要吃麦麦！MaiMaiBot 麦麦省 | 全自动自动领优惠券机器人已上线，不错过任何优惠！ Bug 反馈请联系 @MaaMiMin",
+              "display_url": "t.me/MaiMaiMCPBot",
+              "end": 146,
+              "expanded_url": "https://t.me/MaiMaiMCPBot",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2012164163284635648/7vxJLv71?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012164163284635648/7vxJLv71?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 123,
+              "status": 200,
+              "title": "MaiMaiBot",
+              "unwound_url": "https://t.me/MaiMaiMCPBot",
+              "url": "https://t.co/OrWeSrY6r7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012164706824524171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 17334,
+          "like_count": 62,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "麦门！做了一个自动领麦当劳中国优惠券的 Telegram Bot，再也不会错过任何麦麦优惠券🤩\n\n支持多账号每天自动领取（但请不要太过分），如果担心隐私也可以自己部署，文档和源码都在这里（ButaiKirin/MaiMaiBot）\n\n欢迎使用！ https://t.co/OrWeSrY6r7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14777,
+          "following_count": 823,
+          "like_count": 79475,
+          "listed_count": 13,
+          "media_count": 902,
+          "tweet_count": 16821
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-24T12:38:02.000Z",
+        "description": "百合中毒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hee.ink",
+                "end": 23,
+                "expanded_url": "http://hee.ink",
+                "start": 0,
+                "url": "https://t.co/CUQWfxAmuN"
+              }
+            ]
+          }
+        },
+        "id": "735087459231358976",
+        "location": "澳門",
+        "name": "⁣凍檸茶走冰走檸走茶走甜唔該",
+        "pinned_tweet_id": "1919783155479019689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816950309064704/k3DhGroa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10587,
+          "following_count": 802,
+          "like_count": 79708,
+          "listed_count": 48,
+          "media_count": 2962,
+          "tweet_count": 18926
+        },
+        "url": "https://t.co/CUQWfxAmuN",
+        "username": "CitronaTeo",
+        "verified": true
+      }
+    ]
+  }
+}

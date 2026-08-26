@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013276452041461761"
+      ],
+      "media_source_tweet_id": [
+        "2013438833992573028"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2013482262118178913",
+    "created_at": "2026-01-20T05:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T06:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013482262118178913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1742842175757623296",
+          "start": 3,
+          "username": "KwgSubmadohomu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5SKkegD0fJ",
+          "end": 43,
+          "expanded_url": "https://x.com/KwgSubmadohomu/status/2013438833992573028/photo/1",
+          "media_key": "3_2013276452041461761",
+          "start": 20,
+          "url": "https://t.co/5SKkegD0fJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013482262118178913",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013438833992573028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KwgSubmadohomu: https://t.co/5SKkegD0fJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2013276452041461761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CYRC6XEAE8Ycy.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013276452041461761"
+          ],
+          "media_source_tweet_id": [
+            "2013438833992573028"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2013482262118178913",
+        "created_at": "2026-01-20T05:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T06:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013482262118178913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1742842175757623296",
+              "start": 3,
+              "username": "KwgSubmadohomu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5SKkegD0fJ",
+              "end": 43,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/2013438833992573028/photo/1",
+              "media_key": "3_2013276452041461761",
+              "start": 20,
+              "url": "https://t.co/5SKkegD0fJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013482262118178913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013438833992573028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KwgSubmadohomu: https://t.co/5SKkegD0fJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013276452041461761"
+          ]
+        },
+        "author_id": "1742842175757623296",
+        "conversation_id": "2013438833992573028",
+        "created_at": "2026-01-20T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013438833992573028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5SKkegD0fJ",
+              "end": 23,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/2013438833992573028/photo/1",
+              "media_key": "3_2013276452041461761",
+              "start": 0,
+              "url": "https://t.co/5SKkegD0fJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013438833992573028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 10932,
+          "like_count": 1438,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5SKkegD0fJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14788,
+          "following_count": 822,
+          "like_count": 79611,
+          "listed_count": 13,
+          "media_count": 902,
+          "tweet_count": 16825
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-04T09:35:56.000Z",
+        "description": "まどほむ好きのまどマギファン",
+        "id": "1742842175757623296",
+        "location": "11時30分に予約投稿",
+        "name": "kwg2(仮)",
+        "pinned_tweet_id": "2002929584929395198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903813656972017665/_0R1GdWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68007,
+          "following_count": 74,
+          "like_count": 13742,
+          "listed_count": 364,
+          "media_count": 848,
+          "tweet_count": 3742
+        },
+        "username": "KwgSubmadohomu",
+        "verified": false
+      }
+    ]
+  }
+}

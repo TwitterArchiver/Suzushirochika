@@ -1,0 +1,100 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 14 06:56:22 +0000 2022",
+  "display_text_range": [
+    30,
+    32
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1484868537961181185,
+        "id_str": "1484868537961181185",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Florence",
+        "screen_name": "Florenc85721111"
+      },
+      {
+        "id": 1359161118300766219,
+        "id_str": "1359161118300766219",
+        "indices": [
+          17,
+          29
+        ],
+        "name": "星海芋圆烧仙草🍧",
+        "screen_name": "hoshiumi763"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1558709096425164803,
+  "id_str": "1558709096425164803",
+  "in_reply_to_screen_name": "Florenc85721111",
+  "in_reply_to_status_id": 1558688477994455040,
+  "in_reply_to_status_id_str": "1558688477994455040",
+  "in_reply_to_user_id": 1484868537961181185,
+  "in_reply_to_user_id_str": "1484868537961181185",
+  "is_quote_status": false,
+  "lang": "ja",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "@Florenc85721111 @hoshiumi763 算左",
+  "timestamp_ms": "1660460182659",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Apr 23 12:00:18 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "🌸@MoritaniMisuzu/世界で一番大切な家族💖@kusunoki_riko @CautreDeaux @Tamaki_Mashiro @yuedingdelezic1/美少女単推し🌙@Luna5ama/親友🚩🏴@49addict/バカ妹🍥@YunLine_nya",
+    "favourites_count": 68146,
+    "follow_request_sent": null,
+    "followers_count": 8467,
+    "following": null,
+    "friends_count": 1030,
+    "geo_enabled": true,
+    "id": 1253292430792839174,
+    "id_str": "1253292430792839174",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 18,
+    "location": "東京 新宿区",
+    "name": "铃白千夏困乎乎",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1657838904",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1553821313554190341/yNIsfenV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1553821313554190341/yNIsfenV_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Suzushirochika",
+    "statuses_count": 12306,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

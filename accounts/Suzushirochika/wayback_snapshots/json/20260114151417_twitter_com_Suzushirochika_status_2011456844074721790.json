@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011402196437618689"
+      ],
+      "media_source_tweet_id": [
+        "2011402199151292788"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2011456844074721790",
+    "created_at": "2026-01-14T15:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T16:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011456844074721790"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "矛盾螺旋",
+          "probability": 0.4091,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 38,
+          "normalized_text": "荒耶宗蓮",
+          "probability": 0.3934,
+          "start": 35,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "575333698",
+          "start": 3,
+          "username": "LAFIfirst"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kqm9eWVHaT",
+          "end": 70,
+          "expanded_url": "https://x.com/LAFIfirst/status/2011402199151292788/photo/1",
+          "media_key": "3_2011402196437618689",
+          "start": 47,
+          "url": "https://t.co/Kqm9eWVHaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011456844074721790",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 403
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011402199151292788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LAFIfirst: 空の境界　『矛盾螺旋』\n\n彼女は、ただ、荒耶宗蓮の姿を直死した https://t.co/Kqm9eWVHaT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_2011402196437618689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-nvpAsa0AEOGcx.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011402196437618689"
+          ],
+          "media_source_tweet_id": [
+            "2011402199151292788"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2011456844074721790",
+        "created_at": "2026-01-14T15:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T16:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011456844074721790"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "矛盾螺旋",
+              "probability": 0.4091,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "荒耶宗蓮",
+              "probability": 0.3934,
+              "start": 35,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "575333698",
+              "start": 3,
+              "username": "LAFIfirst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kqm9eWVHaT",
+              "end": 70,
+              "expanded_url": "https://x.com/LAFIfirst/status/2011402199151292788/photo/1",
+              "media_key": "3_2011402196437618689",
+              "start": 47,
+              "url": "https://t.co/Kqm9eWVHaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011456844074721790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 403
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011402199151292788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LAFIfirst: 空の境界　『矛盾螺旋』\n\n彼女は、ただ、荒耶宗蓮の姿を直死した https://t.co/Kqm9eWVHaT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011402196437618689"
+          ]
+        },
+        "author_id": "575333698",
+        "conversation_id": "2011402199151292788",
+        "created_at": "2026-01-14T11:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011402199151292788"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "矛盾螺旋",
+              "probability": 0.5675,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 23,
+              "normalized_text": "荒耶宗蓮",
+              "probability": 0.4426,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kqm9eWVHaT",
+              "end": 55,
+              "expanded_url": "https://x.com/LAFIfirst/status/2011402199151292788/photo/1",
+              "media_key": "3_2011402196437618689",
+              "start": 32,
+              "url": "https://t.co/Kqm9eWVHaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011402199151292788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 48472,
+          "like_count": 2511,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 403
+        },
+        "reply_settings": "everyone",
+        "text": "空の境界　『矛盾螺旋』\n\n彼女は、ただ、荒耶宗蓮の姿を直死した https://t.co/Kqm9eWVHaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14779,
+          "following_count": 824,
+          "like_count": 79304,
+          "listed_count": 24,
+          "media_count": 902,
+          "tweet_count": 16801
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-09T12:57:21.000Z",
+        "description": "サークル「荒耶織物店」。絵を描いたりコスプレをします。9S〈ナインエス〉、キノの旅、空の境界の蒐集、着物や刀、武術についていろいろ。\n避難垢:https://t.co/3hlfS1UZLb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hulkeide.bsky.social",
+                "end": 94,
+                "expanded_url": "http://hulkeide.bsky.social",
+                "start": 71,
+                "url": "https://t.co/3hlfS1UZLb"
+              }
+            ]
+          }
+        },
+        "id": "575333698",
+        "location": "富士山山頂",
+        "name": "ハルクェイド@1日目　西ま17a",
+        "pinned_tweet_id": "935148432674627584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/821368210792411136/YNRLLFeM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 1305,
+          "like_count": 48050,
+          "listed_count": 39,
+          "media_count": 4265,
+          "tweet_count": 54659
+        },
+        "username": "LAFIfirst",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924002752562147328"
+      ],
+      "media_source_tweet_id": [
+        "1924002757494833499"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1924074642060533943",
+    "created_at": "2025-05-18T12:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T13:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924074642060533943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462403736890920963",
+          "start": 3,
+          "username": "oekaki_bibbi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/72Rh7qAr0z",
+          "end": 48,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1924002757494833499/photo/1",
+          "media_key": "3_1924002752562147328",
+          "start": 25,
+          "url": "https://t.co/72Rh7qAr0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924074642060533943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1249
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924002757494833499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oekaki_bibbi: 結束バンド💫 https://t.co/72Rh7qAr0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3844,
+        "media_key": "3_1924002752562147328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrNuT0VXMAAKqlL.jpg",
+        "width": 2733
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924002752562147328"
+          ],
+          "media_source_tweet_id": [
+            "1924002757494833499"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1924074642060533943",
+        "created_at": "2025-05-18T12:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T13:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924074642060533943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462403736890920963",
+              "start": 3,
+              "username": "oekaki_bibbi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72Rh7qAr0z",
+              "end": 48,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1924002757494833499/photo/1",
+              "media_key": "3_1924002752562147328",
+              "start": 25,
+              "url": "https://t.co/72Rh7qAr0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924074642060533943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1249
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924002757494833499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oekaki_bibbi: 結束バンド💫 https://t.co/72Rh7qAr0z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924002752562147328"
+          ]
+        },
+        "author_id": "1462403736890920963",
+        "conversation_id": "1924002757494833499",
+        "created_at": "2025-05-18T07:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924002757494833499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72Rh7qAr0z",
+              "end": 30,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1924002757494833499/photo/1",
+              "media_key": "3_1924002752562147328",
+              "start": 7,
+              "url": "https://t.co/72Rh7qAr0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924002757494833499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 578,
+          "impression_count": 113207,
+          "like_count": 9506,
+          "quote_count": 12,
+          "reply_count": 17,
+          "retweet_count": 1249
+        },
+        "reply_settings": "everyone",
+        "text": "結束バンド💫 https://t.co/72Rh7qAr0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14320,
+          "following_count": 850,
+          "like_count": 79853,
+          "listed_count": 23,
+          "media_count": 932,
+          "tweet_count": 16874
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T12:53:24.000Z",
+        "description": "お絵描き/ぼっちざろっく愛/恩師:ななすけ🌰\n     \n       ※イラストの商用利用は禁止",
+        "id": "1462403736890920963",
+        "name": "まよ/Mayo",
+        "pinned_tweet_id": "1669238935007141888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893993268624478208/saa_9fza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100327,
+          "following_count": 232,
+          "like_count": 17914,
+          "listed_count": 509,
+          "media_count": 472,
+          "tweet_count": 11503
+        },
+        "username": "oekaki_bibbi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2074321859362062777",
+    "created_at": "2026-07-07T04:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074346713255657841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778989851226071040",
+          "start": 0,
+          "username": "HXD3C0679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074346713255657841",
+    "in_reply_to_user_id": "1778989851226071040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074321859362062777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HXD3C0679 可爱可爱!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2356,
+        "media_key": "3_2074321809932177408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl4sibaUAAsx6A.jpg",
+        "width": 2311
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2074321859362062777",
+        "created_at": "2026-07-07T04:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074346713255657841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778989851226071040",
+              "start": 0,
+              "username": "HXD3C0679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074346713255657841",
+        "in_reply_to_user_id": "1778989851226071040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074321859362062777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HXD3C0679 可爱可爱!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074321809932177408"
+          ]
+        },
+        "author_id": "1778989851226071040",
+        "conversation_id": "2074321859362062777",
+        "created_at": "2026-07-07T02:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074321859362062777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OLiskv6sK8",
+              "end": 36,
+              "expanded_url": "https://x.com/HXD3C0679/status/2074321859362062777/photo/1",
+              "media_key": "3_2074321809932177408",
+              "start": 13,
+              "url": "https://t.co/OLiskv6sK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074321859362062777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次尝试灰色小裙子🥺🥺 https://t.co/OLiskv6sK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15046,
+          "following_count": 748,
+          "like_count": 86243,
+          "listed_count": 14,
+          "media_count": 950,
+          "tweet_count": 17789
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:33:42.000Z",
+        "description": "SUBARU Crosstrek 25、 Lexus ES200饲养员&VOLVO S90临时支配使用🤑\n啥也不是，怕被查水表，搞个小圈子和小伙伴们继续吹牛逼😇👀\n本号只是个发图的，有奇奇怪怪想法的请出门左拐，看黄、揩油、下头男、抽象逼一律格杀勿论😶‍🌫️🥱",
+        "id": "1778989851226071040",
+        "name": "小Megumichan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778993407043756032/xUP3bs3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 288,
+          "like_count": 8880,
+          "listed_count": 2,
+          "media_count": 2443,
+          "tweet_count": 6486
+        },
+        "url": "",
+        "username": "HXD3C0679",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2078086554204217471",
+    "created_at": "2026-07-17T19:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078199061988233340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2075131696488525824",
+          "start": 0,
+          "username": "a321908"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20770…",
+          "end": 32,
+          "expanded_url": "https://x.com/i/status/2077071858260922835",
+          "start": 9,
+          "url": "https://t.co/DQoBq8wagR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078199061988233340",
+    "in_reply_to_user_id": "2075131696488525824",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077071858260922835",
+        "type": "quoted"
+      },
+      {
+        "id": "2078086554204217471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a321908 https://t.co/DQoBq8wagR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2078086554204217471",
+        "created_at": "2026-07-17T19:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078199061988233340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2075131696488525824",
+              "start": 0,
+              "username": "a321908"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20770…",
+              "end": 32,
+              "expanded_url": "https://x.com/i/status/2077071858260922835",
+              "start": 9,
+              "url": "https://t.co/DQoBq8wagR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078199061988233340",
+        "in_reply_to_user_id": "2075131696488525824",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077071858260922835",
+            "type": "quoted"
+          },
+          {
+            "id": "2078086554204217471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a321908 https://t.co/DQoBq8wagR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2076652172692111403",
+        "created_at": "2026-07-14T16:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077071858260922835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077071858260922835",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076652172692111403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 我第二次吃美金刚吃了12t就进入了濒死体验……连续36小时都无法入睡，时间感知错乱，认为5分钟有5小时一样长；强烈的共济失调，稍微弱的解离和强烈的眩晕，脑海中不断冒出各种人神共愤罄竹难书的r18-g画面，无法终止意识奔向性与暴力，无法入睡，不断地被自己冒出的意识吓出全身冷汗，严重的心动过速…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075131696488525824",
+        "conversation_id": "2078086554204217471",
+        "created_at": "2026-07-17T11:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078086554204217471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078086554204217471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 659,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想问问oder们美金刚到底是什么效果？很难受吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15059,
+          "following_count": 752,
+          "like_count": 86836,
+          "listed_count": 14,
+          "media_count": 952,
+          "tweet_count": 17905
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T08:17:41.000Z",
+        "description": "含丹吞药解旧愁，\n芙肌进展女儿柔。\n纵使他人千般语，\n心向清娥死不休。\nMTF 🏳️‍⚧ | HRT 🧬2026 4.25无证含糖 出厂日期2009 1.18 |家长反对党||od|紫残|精神状态堪忧|重焦焦虑ing|正在想着续糖😳欢迎互fo呀 同类有看见必回fo\n永远会怀念和记住与他点点滴滴人:于杰",
+        "id": "2075131696488525824",
+        "location": "jilin",
+        "name": "321908🍥🏳️‍️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075135379255214081/Xav5vJPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 215,
+          "like_count": 405,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "a321908",
+        "verified": false
+      }
+    ]
+  }
+}

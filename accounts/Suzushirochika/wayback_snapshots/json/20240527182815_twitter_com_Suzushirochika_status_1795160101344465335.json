@@ -1,0 +1,215 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1795160101344465335",
+    "created_at": "2024-05-27T18:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T19:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1795160101344465335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xdw5710/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/xdw5710/status/1794927245368476021",
+          "start": 17,
+          "url": "https://t.co/uSyveYLPBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795160101344465335",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794927245368476021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我记得4叫小鸡炖蘑菇面（？ https://t.co/uSyveYLPBp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1795160101344465335",
+        "created_at": "2024-05-27T18:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T19:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795160101344465335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xdw5710/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/xdw5710/status/1794927245368476021",
+              "start": 17,
+              "url": "https://t.co/uSyveYLPBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795160101344465335",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794927245368476021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我记得4叫小鸡炖蘑菇面（？ https://t.co/uSyveYLPBp"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794927242440736768"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1794927245368476021",
+        "created_at": "2024-05-27T03:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T04:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794927245368476021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MRP38D1lh3",
+              "end": 23,
+              "expanded_url": "https://twitter.com/xdw5710/status/1794927245368476021/photo/1",
+              "media_key": "3_1794927242440736768",
+              "start": 0,
+              "url": "https://t.co/MRP38D1lh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794927245368476021",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5813,
+          "like_count": 117,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MRP38D1lh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13262,
+          "following_count": 902,
+          "like_count": 77037,
+          "listed_count": 22,
+          "tweet_count": 16427
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "if u can~\n\n横幅是 @tabo127238 整的，快去关注他（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "tabo127238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mastodon.world/@xdw_2887",
+                "end": 23,
+                "expanded_url": "https://mastodon.world/@xdw_2887",
+                "start": 0,
+                "url": "https://t.co/cmUTtRtmx0"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "对立变飞龙炫飞光光苦茶子",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739444189040123904/WWvzoUts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 3931,
+          "like_count": 36219,
+          "listed_count": 6,
+          "tweet_count": 5406
+        },
+        "url": "https://t.co/cmUTtRtmx0",
+        "username": "xdw5710",
+        "verified": false
+      }
+    ]
+  }
+}

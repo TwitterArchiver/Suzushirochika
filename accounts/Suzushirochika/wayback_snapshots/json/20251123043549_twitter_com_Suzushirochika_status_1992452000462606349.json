@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992088607184855040"
+      ],
+      "media_source_tweet_id": [
+        "1992088613396652245"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1992452000462606349",
+    "created_at": "2025-11-23T04:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992452000462606349"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "いいツインテールの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "972821108452831233",
+          "start": 3,
+          "username": "inumax1109"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YeeQptibzl",
+          "end": 51,
+          "expanded_url": "https://x.com/inumax1109/status/1992088613396652245/photo/1",
+          "media_key": "3_1992088607184855040",
+          "start": 28,
+          "url": "https://t.co/YeeQptibzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992452000462606349",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992088613396652245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inumax1109: #いいツインテールの日 https://t.co/YeeQptibzl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2328,
+        "media_key": "3_1992088607184855040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VSCKBbIAAvvEn.jpg",
+        "width": 1557
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992088607184855040"
+          ],
+          "media_source_tweet_id": [
+            "1992088613396652245"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1992452000462606349",
+        "created_at": "2025-11-23T04:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992452000462606349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "いいツインテールの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "972821108452831233",
+              "start": 3,
+              "username": "inumax1109"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeeQptibzl",
+              "end": 51,
+              "expanded_url": "https://x.com/inumax1109/status/1992088613396652245/photo/1",
+              "media_key": "3_1992088607184855040",
+              "start": 28,
+              "url": "https://t.co/YeeQptibzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992452000462606349",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2319
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992088613396652245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inumax1109: #いいツインテールの日 https://t.co/YeeQptibzl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992088607184855040"
+          ]
+        },
+        "author_id": "972821108452831233",
+        "conversation_id": "1992088613396652245",
+        "created_at": "2025-11-22T04:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992088613396652245"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "いいツインテールの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeeQptibzl",
+              "end": 35,
+              "expanded_url": "https://x.com/inumax1109/status/1992088613396652245/photo/1",
+              "media_key": "3_1992088607184855040",
+              "start": 12,
+              "url": "https://t.co/YeeQptibzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992088613396652245",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1749,
+          "impression_count": 278526,
+          "like_count": 34770,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 2319
+        },
+        "reply_settings": "everyone",
+        "text": "#いいツインテールの日 https://t.co/YeeQptibzl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14764,
+          "following_count": 830,
+          "like_count": 78840,
+          "listed_count": 23,
+          "media_count": 899,
+          "tweet_count": 16788
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-11T13:06:41.000Z",
+        "description": "初音ミク、鏡音リン、原神、学マスメインにしたい 依頼は現在受け付けておりません。無断転載禁止、自作発言禁止、アイコンやヘッダーへの利用禁止 お題箱→ https://t.co/E7IP2nYKx2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/settings/notif…",
+                "end": 98,
+                "expanded_url": "https://odaibako.net/settings/notifications",
+                "start": 75,
+                "url": "https://t.co/E7IP2nYKx2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/inumax1109/sta…",
+                "end": 23,
+                "expanded_url": "https://x.com/inumax1109/status/1808093941985951980?s=46&t=c4qy0-K4EVDTGnXr6kN4ig",
+                "start": 0,
+                "url": "https://t.co/TYmqyT7gM8"
+              }
+            ]
+          }
+        },
+        "id": "972821108452831233",
+        "location": "絵の中",
+        "name": "いぬやま",
+        "pinned_tweet_id": "1987397943994065368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894671692171268096/XTE-dhaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19480,
+          "following_count": 1350,
+          "like_count": 86590,
+          "listed_count": 145,
+          "media_count": 503,
+          "tweet_count": 23854
+        },
+        "url": "https://t.co/TYmqyT7gM8",
+        "username": "inumax1109",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 12 14:46:08 +0000 2022",
+  "display_text_range": [
+    49,
+    65
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1475902620867133441,
+        "id_str": "1475902620867133441",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "白纸",
+        "screen_name": "paper_white0413"
+      },
+      {
+        "id": 1504676358475157504,
+        "id_str": "1504676358475157504",
+        "indices": [
+          17,
+          33
+        ],
+        "name": "玄武🏳️‍⚧️",
+        "screen_name": "BlackTortoise23"
+      },
+      {
+        "id": 1442362841193795593,
+        "id_str": "1442362841193795593",
+        "indices": [
+          34,
+          48
+        ],
+        "name": "楠·S·理子【千年血战限定版】",
+        "screen_name": "kusunoki_riko"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1580208201173454848,
+  "id_str": "1580208201173454848",
+  "in_reply_to_screen_name": "paper_white0413",
+  "in_reply_to_status_id": 1580206039307522049,
+  "in_reply_to_status_id_str": "1580206039307522049",
+  "in_reply_to_user_id": 1475902620867133441,
+  "in_reply_to_user_id_str": "1475902620867133441",
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "@paper_white0413 @BlackTortoise23 @kusunoki_riko 白~纸~姐~姐~帮~帮~千~夏~",
+  "timestamp_ms": "1665585968665",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Apr 23 12:00:18 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "快說我聰明又可愛",
+    "favourites_count": 75609,
+    "follow_request_sent": null,
+    "followers_count": 10473,
+    "following": null,
+    "friends_count": 1050,
+    "geo_enabled": true,
+    "id": 1253292430792839174,
+    "id_str": "1253292430792839174",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 23,
+    "location": "北千住薬店",
+    "name": "鈴白千夏",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1664904819",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1574285188422856704/aVWQM4GA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1574285188422856704/aVWQM4GA_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Suzushirochika",
+    "statuses_count": 14109,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1847937093739368512",
+    "created_at": "2024-10-20T12:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T13:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847985244684833231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1435855867866345474",
+          "start": 0,
+          "username": "Aoyama_Naoha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847985244684833231",
+    "in_reply_to_user_id": "1435855867866345474",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847973161234841895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aoyama_Naoha 🥳🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1847937093739368512",
+        "created_at": "2024-10-20T12:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T13:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847985244684833231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1435855867866345474",
+              "start": 0,
+              "username": "Aoyama_Naoha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847985244684833231",
+        "in_reply_to_user_id": "1435855867866345474",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847973161234841895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoyama_Naoha 🥳🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435855867866345474",
+        "conversation_id": "1847937093739368512",
+        "created_at": "2024-10-20T12:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T13:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847973161234841895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847973161234841895",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847937093739368512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika 哇呜！好久不见了哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13477,
+          "following_count": 883,
+          "like_count": 77594,
+          "listed_count": 22,
+          "tweet_count": 16612
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T06:42:14.000Z",
+        "description": "大部分时间是被动生物，只有戳戳脸才会看着你",
+        "id": "1435855867866345474",
+        "location": "A147登机门",
+        "name": "青山直羽（灰烬版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809559804236689408/VyJ45da3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 393,
+          "like_count": 8114,
+          "listed_count": 2,
+          "tweet_count": 5496
+        },
+        "username": "Aoyama_Naoha",
+        "verified": false
+      }
+    ]
+  }
+}

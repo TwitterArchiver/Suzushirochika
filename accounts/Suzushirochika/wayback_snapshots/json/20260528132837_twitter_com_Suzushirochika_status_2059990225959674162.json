@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059921078961459203"
+      ],
+      "media_source_tweet_id": [
+        "2059921083260649623"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2059990225959674162",
+    "created_at": "2026-05-28T13:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059990225959674162"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 20,
+          "tag": "冬馬かずさ生誕祭2026"
+        },
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "冬馬かずさ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "844549115493068801",
+          "start": 3,
+          "username": "MrKing31989234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CVICtbON3H",
+          "end": 64,
+          "expanded_url": "https://x.com/MrKing31989234/status/2059921083260649623/photo/1",
+          "media_key": "3_2059921078961459203",
+          "start": 41,
+          "url": "https://t.co/CVICtbON3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059990225959674162",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059921083260649623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MrKing31989234: #冬馬かずさ生誕祭2026\n#冬馬かずさ https://t.co/CVICtbON3H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2059921078961459203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZPTrDWUAMhHh_.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059921078961459203"
+          ],
+          "media_source_tweet_id": [
+            "2059921083260649623"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2059990225959674162",
+        "created_at": "2026-05-28T13:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059990225959674162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 20,
+              "tag": "冬馬かずさ生誕祭2026"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "冬馬かずさ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "844549115493068801",
+              "start": 3,
+              "username": "MrKing31989234"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVICtbON3H",
+              "end": 64,
+              "expanded_url": "https://x.com/MrKing31989234/status/2059921083260649623/photo/1",
+              "media_key": "3_2059921078961459203",
+              "start": 41,
+              "url": "https://t.co/CVICtbON3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059990225959674162",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059921083260649623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MrKing31989234: #冬馬かずさ生誕祭2026\n#冬馬かずさ https://t.co/CVICtbON3H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059921078961459203"
+          ]
+        },
+        "author_id": "844549115493068801",
+        "conversation_id": "2059921083260649623",
+        "created_at": "2026-05-28T08:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059921083260649623"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "冬馬かずさ生誕祭2026"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "冬馬かずさ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVICtbON3H",
+              "end": 44,
+              "expanded_url": "https://x.com/MrKing31989234/status/2059921083260649623/photo/1",
+              "media_key": "3_2059921078961459203",
+              "start": 21,
+              "url": "https://t.co/CVICtbON3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059921083260649623",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1093,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "#冬馬かずさ生誕祭2026\n#冬馬かずさ https://t.co/CVICtbON3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14984,
+          "following_count": 744,
+          "like_count": 84691,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 17566
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-22T13:59:34.000Z",
+        "description": "",
+        "id": "844549115493068801",
+        "location": "Yunnan",
+        "name": "短笛魔王喵帕斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021523587321004032/s3Q4wthk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 196,
+          "like_count": 10801,
+          "listed_count": 14,
+          "media_count": 1220,
+          "tweet_count": 2553
+        },
+        "username": "MrKing31989234",
+        "verified": true
+      }
+    ]
+  }
+}

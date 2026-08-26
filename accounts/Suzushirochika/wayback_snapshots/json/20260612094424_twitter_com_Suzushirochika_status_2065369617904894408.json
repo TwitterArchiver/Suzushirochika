@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2065266291317862400"
+      ],
+      "media_source_tweet_id": [
+        "2065266296988541278"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2065369617904894408",
+    "created_at": "2026-06-12T09:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065369617904894408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1603149813612257284",
+          "start": 3,
+          "username": "alllove977"
+        },
+        {
+          "end": 27,
+          "id": "882416720320884737",
+          "start": 16,
+          "username": "uchuushelf"
+        },
+        {
+          "end": 37,
+          "id": "876233364977704961",
+          "start": 28,
+          "username": "rj_hooks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fyQu5an7J5",
+          "end": 82,
+          "expanded_url": "https://x.com/alllove977/status/2065266296988541278/photo/1",
+          "media_key": "16_2065266291317862400",
+          "start": 59,
+          "url": "https://t.co/fyQu5an7J5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065369617904894408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065266296988541278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alllove977: @uchuushelf @rj_hooks he was always right. https://t.co/fyQu5an7J5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2065266291317862400",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKlMv-yW8AA3FIy.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKlMv-yW8AA3FIy.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065266291317862400"
+          ],
+          "media_source_tweet_id": [
+            "2065266296988541278"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2065369617904894408",
+        "created_at": "2026-06-12T09:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065369617904894408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1603149813612257284",
+              "start": 3,
+              "username": "alllove977"
+            },
+            {
+              "end": 27,
+              "id": "882416720320884737",
+              "start": 16,
+              "username": "uchuushelf"
+            },
+            {
+              "end": 37,
+              "id": "876233364977704961",
+              "start": 28,
+              "username": "rj_hooks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyQu5an7J5",
+              "end": 82,
+              "expanded_url": "https://x.com/alllove977/status/2065266296988541278/photo/1",
+              "media_key": "16_2065266291317862400",
+              "start": 59,
+              "url": "https://t.co/fyQu5an7J5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065369617904894408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065266296988541278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alllove977: @uchuushelf @rj_hooks he was always right. https://t.co/fyQu5an7J5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065266291317862400"
+          ]
+        },
+        "author_id": "1603149813612257284",
+        "conversation_id": "2065151140379959357",
+        "created_at": "2026-06-12T02:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065266296988541278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "882416720320884737",
+              "start": 0,
+              "username": "uchuushelf"
+            },
+            {
+              "end": 21,
+              "id": "876233364977704961",
+              "start": 12,
+              "username": "rj_hooks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyQu5an7J5",
+              "end": 66,
+              "expanded_url": "https://x.com/alllove977/status/2065266296988541278/photo/1",
+              "media_key": "16_2065266291317862400",
+              "start": 43,
+              "url": "https://t.co/fyQu5an7J5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065266296988541278",
+        "in_reply_to_user_id": "882416720320884737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10141,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065151140379959357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uchuushelf @rj_hooks he was always right. https://t.co/fyQu5an7J5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14983,
+          "following_count": 745,
+          "like_count": 84807,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 17627
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T22:08:13.000Z",
+        "description": "I just don’t care.",
+        "id": "1603149813612257284",
+        "name": "allove_",
+        "pinned_tweet_id": "1805236988079186341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064602689019723776/YD2qmUO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 1608,
+          "like_count": 145981,
+          "listed_count": 3,
+          "media_count": 717,
+          "tweet_count": 13695
+        },
+        "username": "alllove977",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-05T01:51:55.000Z",
+        "description": "Bald manga guy ੧(‘ﾍ´○)┓UK’s badass underground manga otaku 🇬🇧🇨🇦",
+        "id": "882416720320884737",
+        "location": "he/him",
+        "name": "Zach from Uchuu Shelf",
+        "pinned_tweet_id": "2007872728997703858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776587059198599168/p1GZ_n19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 588,
+          "like_count": 110107,
+          "listed_count": 14,
+          "media_count": 3467,
+          "tweet_count": 15738
+        },
+        "username": "uchuushelf",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-18T00:21:28.000Z",
+        "description": "33. Tiktok/Ig/YouTube: @rj_hooks\nFor cosplay breakdowns, BTS, pose references, and JJK S3 reaction vids: https://t.co/Kmk0DUcCGo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "rj_hooks"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/cw/rj_hooks",
+                "end": 128,
+                "expanded_url": "http://patreon.com/cw/rj_hooks",
+                "start": 105,
+                "url": "https://t.co/Kmk0DUcCGo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/rj_hooks",
+                "end": 23,
+                "expanded_url": "http://beacons.ai/rj_hooks",
+                "start": 0,
+                "url": "https://t.co/073clx7sc6"
+              }
+            ]
+          }
+        },
+        "id": "876233364977704961",
+        "name": "Nanami Kento 🔜 Dokomi",
+        "pinned_tweet_id": "2034369978288533949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055384696658579456/idj1Pb8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12466,
+          "following_count": 299,
+          "like_count": 84604,
+          "listed_count": 31,
+          "media_count": 8629,
+          "tweet_count": 43002
+        },
+        "url": "https://t.co/073clx7sc6",
+        "username": "rj_hooks",
+        "verified": true
+      }
+    ]
+  }
+}

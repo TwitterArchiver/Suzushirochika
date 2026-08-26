@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2026635023856832594",
+    "created_at": "2026-02-25T14:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T15:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026668244703285571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026668244703285571",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026635023856832594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 小猫看起来一脸茫然（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2026635010225434624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCANzeHbcAANcKM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2026635023856832594",
+        "created_at": "2026-02-25T14:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026668244703285571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026668244703285571",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026635023856832594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 小猫看起来一脸茫然（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026635010225434624"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2026635023856832594",
+        "created_at": "2026-02-25T12:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026635023856832594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nt9VNmnK6a",
+              "end": 33,
+              "expanded_url": "https://x.com/0xo_snow/status/2026635023856832594/photo/1",
+              "media_key": "3_2026635010225434624",
+              "start": 10,
+              "url": "https://t.co/nt9VNmnK6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026635023856832594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扣1加入我们的被窝 https://t.co/nt9VNmnK6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14892,
+          "following_count": 775,
+          "like_count": 80836,
+          "listed_count": 13,
+          "media_count": 909,
+          "tweet_count": 16953
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 来寻找真实的我吧！美少女全肯定‼️｜点击亮点查看我的日常～喜欢唱歌中日英都会学📍ip#北京 欢迎来找我玩哦~投喂入门可以扫背景赞赏谢谢你;ㅅ;",
+        "id": "1522094329954652161",
+        "location": "🚪88会陪你聊天解锁线下( 𓏼˙ ᴥ ˙𓏼 )",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2025485886276911449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18519,
+          "following_count": 413,
+          "like_count": 14871,
+          "listed_count": 33,
+          "media_count": 1169,
+          "tweet_count": 12470
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

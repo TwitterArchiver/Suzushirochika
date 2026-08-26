@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2043230472277475687",
+    "created_at": "2026-04-12T08:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043238636393758753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1489688049680515072",
+          "start": 0,
+          "username": "maho_0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043238636393758753",
+    "in_reply_to_user_id": "1489688049680515072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043230472277475687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maho_0x 修女大人请治疗我!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043230463767228416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsDSAMaMAAHsQQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2043230472277475687",
+        "created_at": "2026-04-12T08:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043238636393758753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1489688049680515072",
+              "start": 0,
+              "username": "maho_0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043238636393758753",
+        "in_reply_to_user_id": "1489688049680515072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043230472277475687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maho_0x 修女大人请治疗我!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043230463767228416"
+          ]
+        },
+        "author_id": "1489688049680515072",
+        "conversation_id": "2043230472277475687",
+        "created_at": "2026-04-12T07:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043230472277475687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSKSVyTcIh",
+              "end": 26,
+              "expanded_url": "https://x.com/maho_0x/status/2043230472277475687/photo/1",
+              "media_key": "3_2043230463767228416",
+              "start": 3,
+              "url": "https://t.co/WSKSVyTcIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043230472277475687",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✝️ https://t.co/WSKSVyTcIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14712,
+          "following_count": 748,
+          "like_count": 83965,
+          "listed_count": 14,
+          "media_count": 925,
+          "tweet_count": 17323
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T19:51:32.000Z",
+        "description": "Maho｜✡@mana_ikuta｜陰キャギャル丨提问→https://t.co/pmgnnQXmmH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "mana_ikuta"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maho_0x",
+                "end": 51,
+                "expanded_url": "https://ngl.link/maho_0x",
+                "start": 28,
+                "url": "https://t.co/pmgnnQXmmH"
+              }
+            ]
+          }
+        },
+        "id": "1489688049680515072",
+        "location": "Ciudad de México",
+        "name": "まほ",
+        "pinned_tweet_id": "1935044461639385508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029855820427710468/A_v_YE0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20913,
+          "following_count": 744,
+          "like_count": 15504,
+          "listed_count": 60,
+          "media_count": 34,
+          "tweet_count": 1674
+        },
+        "username": "maho_0x",
+        "verified": false
+      }
+    ]
+  }
+}

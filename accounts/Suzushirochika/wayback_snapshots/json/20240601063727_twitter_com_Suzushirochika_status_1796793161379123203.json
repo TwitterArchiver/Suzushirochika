@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1796792294768845153",
+    "created_at": "2024-06-01T06:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T07:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796793161379123203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "951838474939727872",
+          "start": 0,
+          "username": "hatimokumei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796793161379123203",
+    "in_reply_to_user_id": "951838474939727872",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796792294768845153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatimokumei 🥳🥳🥳🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1796792294768845153",
+        "created_at": "2024-06-01T06:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T07:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796793161379123203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "951838474939727872",
+              "start": 0,
+              "username": "hatimokumei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796793161379123203",
+        "in_reply_to_user_id": "951838474939727872",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796792294768845153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatimokumei 🥳🥳🥳🥳"
+      },
+      {
+        "attachments": {},
+        "author_id": "951838474939727872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1796792294768845153",
+        "created_at": "2024-06-01T06:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T07:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796792294768845153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796792294768845153",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今夜20時、ミモザの告白5巻のカバーイラスト上げ〼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13229,
+          "following_count": 901,
+          "like_count": 77185,
+          "listed_count": 22,
+          "tweet_count": 16462
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T15:29:11.000Z",
+        "description": "作家。『小説 葬送のフリーレン前奏』発売中。他に『時と四季シリーズ』『ミモザの告白』など。映画『夏へのトンネル、さよならの出口』blu-ray発売中。",
+        "id": "951838474939727872",
+        "name": "八目迷",
+        "pinned_tweet_id": "1780350956930003315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079764661153673216/Xkq8z21P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17609,
+          "following_count": 264,
+          "like_count": 21345,
+          "listed_count": 79,
+          "tweet_count": 7523
+        },
+        "username": "hatimokumei",
+        "verified": false
+      }
+    ]
+  }
+}

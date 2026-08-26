@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838118488315215872",
+        "3_1838118490823380992"
+      ],
+      "media_source_tweet_id": [
+        "1838118548742553817",
+        "1838118548742553817"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1838637689559748830",
+    "created_at": "2024-09-24T17:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T18:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838637689559748830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1527183836932878336",
+          "start": 3,
+          "username": "yamada_nijika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pihwrxgy0z",
+          "end": 48,
+          "expanded_url": "https://twitter.com/yamada_nijika/status/1838118548742553817/photo/1",
+          "media_key": "3_1838118488315215872",
+          "start": 25,
+          "url": "https://t.co/pihwRxgY0Z"
+        },
+        {
+          "display_url": "pic.x.com/pihwrxgy0z",
+          "end": 48,
+          "expanded_url": "https://twitter.com/yamada_nijika/status/1838118548742553817/photo/1",
+          "media_key": "3_1838118490823380992",
+          "start": 25,
+          "url": "https://t.co/pihwRxgY0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838637689559748830",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2956
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838118548742553817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yamada_nijika: ぼっち…… https://t.co/pihwRxgY0Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1838118488315215872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYJPBr8bQAALk2S.jpg",
+        "width": 1916
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1838118490823380992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYJPB1Sa0AAawUJ.jpg",
+        "width": 1858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838118488315215872",
+            "3_1838118490823380992"
+          ],
+          "media_source_tweet_id": [
+            "1838118548742553817",
+            "1838118548742553817"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1838637689559748830",
+        "created_at": "2024-09-24T17:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T18:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838637689559748830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1527183836932878336",
+              "start": 3,
+              "username": "yamada_nijika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pihwrxgy0z",
+              "end": 48,
+              "expanded_url": "https://twitter.com/yamada_nijika/status/1838118548742553817/photo/1",
+              "media_key": "3_1838118488315215872",
+              "start": 25,
+              "url": "https://t.co/pihwRxgY0Z"
+            },
+            {
+              "display_url": "pic.x.com/pihwrxgy0z",
+              "end": 48,
+              "expanded_url": "https://twitter.com/yamada_nijika/status/1838118548742553817/photo/1",
+              "media_key": "3_1838118490823380992",
+              "start": 25,
+              "url": "https://t.co/pihwRxgY0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838637689559748830",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2956
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838118548742553817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yamada_nijika: ぼっち…… https://t.co/pihwRxgY0Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838118488315215872",
+            "3_1838118490823380992"
+          ]
+        },
+        "author_id": "1527183836932878336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1838118548742553817",
+        "created_at": "2024-09-23T07:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T08:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838118548742553817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pihwrxgy0z",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yamada_nijika/status/1838118548742553817/photo/1",
+              "media_key": "3_1838118488315215872",
+              "start": 6,
+              "url": "https://t.co/pihwRxgY0Z"
+            },
+            {
+              "display_url": "pic.x.com/pihwrxgy0z",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yamada_nijika/status/1838118548742553817/photo/1",
+              "media_key": "3_1838118490823380992",
+              "start": 6,
+              "url": "https://t.co/pihwRxgY0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838118548742553817",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1584,
+          "impression_count": 1407638,
+          "like_count": 46495,
+          "quote_count": 111,
+          "reply_count": 96,
+          "retweet_count": 2956
+        },
+        "reply_settings": "everyone",
+        "text": "ぼっち…… https://t.co/pihwRxgY0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13436,
+          "following_count": 887,
+          "like_count": 77308,
+          "listed_count": 22,
+          "tweet_count": 16544
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T07:06:32.000Z",
+        "description": "きららアニメと映画と山田リョウが好き。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "filmarks.com/users/korurunn…",
+                "end": 23,
+                "expanded_url": "https://filmarks.com/users/korurunn913",
+                "start": 0,
+                "url": "https://t.co/6XbhTJpGR3"
+              }
+            ]
+          }
+        },
+        "id": "1527183836932878336",
+        "location": "静岡（サイレントヒル）（ゆるキャンと星テレの聖地）",
+        "name": "シン・こるるん🌿🍀",
+        "pinned_tweet_id": "1838118548742553817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834253736916779012/960Vy0ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 1947,
+          "like_count": 31917,
+          "listed_count": 16,
+          "tweet_count": 13382
+        },
+        "url": "https://t.co/6XbhTJpGR3",
+        "username": "yamada_nijika",
+        "verified": false
+      }
+    ]
+  }
+}

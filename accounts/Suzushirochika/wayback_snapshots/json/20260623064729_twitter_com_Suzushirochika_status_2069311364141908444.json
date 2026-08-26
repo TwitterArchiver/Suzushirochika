@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2069089605178057161",
+    "created_at": "2026-06-23T06:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069311364141908444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1671938049331146753",
+          "start": 0,
+          "username": "senshi_real"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069311364141908444",
+    "in_reply_to_user_id": "1671938049331146753",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069089605178057161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senshi_real tousaka rin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2069089598605541376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbiBwVWwAAPs6y.jpg",
+        "width": 543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069089605178057161",
+        "created_at": "2026-06-23T06:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069311364141908444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1671938049331146753",
+              "start": 0,
+              "username": "senshi_real"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069311364141908444",
+        "in_reply_to_user_id": "1671938049331146753",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069089605178057161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senshi_real tousaka rin"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069089598605541376"
+          ]
+        },
+        "author_id": "1671938049331146753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2069089605178057161",
+        "created_at": "2026-06-22T16:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069089605178057161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Rj6DTVEnI",
+              "end": 55,
+              "expanded_url": "https://x.com/senshi_real/status/2069089605178057161/photo/1",
+              "media_key": "3_2069089598605541376",
+              "start": 32,
+              "url": "https://t.co/0Rj6DTVEnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069089605178057161",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 156464,
+          "like_count": 2910,
+          "quote_count": 185,
+          "reply_count": 814,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "qual anime lembra esse cenário? https://t.co/0Rj6DTVEnI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14972,
+          "following_count": 747,
+          "like_count": 85184,
+          "listed_count": 14,
+          "media_count": 943,
+          "tweet_count": 17679
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T17:48:02.000Z",
+        "description": "olá sou amigável, sigam-me os bons!!  || memes todos os dias || conta secundária 👉 \n@zSenshi_sama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "zSenshi_sama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lucas.senshi",
+                "end": 23,
+                "expanded_url": "http://instagram.com/lucas.senshi",
+                "start": 0,
+                "url": "https://t.co/gqBwZ2K5Zf"
+              }
+            ]
+          }
+        },
+        "id": "1671938049331146753",
+        "location": "atrás de você",
+        "name": "senshi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844879160637825028/OUyl9SO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132807,
+          "following_count": 26531,
+          "like_count": 236139,
+          "listed_count": 95,
+          "media_count": 9435,
+          "tweet_count": 106647
+        },
+        "url": "https://t.co/gqBwZ2K5Zf",
+        "username": "senshi_real",
+        "verified": true
+      }
+    ]
+  }
+}

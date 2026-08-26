@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057348947082121217"
+      ],
+      "media_source_tweet_id": [
+        "2057348956888469872"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2057536607734153280",
+    "created_at": "2026-05-21T18:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057536607734153280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996595457251049472",
+          "start": 3,
+          "username": "sakizome"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Naw3CN23Ey",
+          "end": 42,
+          "expanded_url": "https://x.com/sakizome/status/2057348956888469872/photo/1",
+          "media_key": "3_2057348947082121217",
+          "start": 19,
+          "url": "https://t.co/Naw3CN23Ey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057536607734153280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057348956888469872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sakizome: レトスズ https://t.co/Naw3CN23Ey"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1863,
+        "media_key": "3_2057348947082121217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0r95HakAEuw1_.jpg",
+        "width": 1770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057348947082121217"
+          ],
+          "media_source_tweet_id": [
+            "2057348956888469872"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2057536607734153280",
+        "created_at": "2026-05-21T18:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057536607734153280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996595457251049472",
+              "start": 3,
+              "username": "sakizome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Naw3CN23Ey",
+              "end": 42,
+              "expanded_url": "https://x.com/sakizome/status/2057348956888469872/photo/1",
+              "media_key": "3_2057348947082121217",
+              "start": 19,
+              "url": "https://t.co/Naw3CN23Ey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057536607734153280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057348956888469872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sakizome: レトスズ https://t.co/Naw3CN23Ey"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057348947082121217"
+          ]
+        },
+        "author_id": "1996595457251049472",
+        "conversation_id": "2057348956888469872",
+        "created_at": "2026-05-21T06:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057348956888469872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Naw3CN23Ey",
+              "end": 28,
+              "expanded_url": "https://x.com/sakizome/status/2057348956888469872/photo/1",
+              "media_key": "3_2057348947082121217",
+              "start": 5,
+              "url": "https://t.co/Naw3CN23Ey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057348956888469872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 22253,
+          "like_count": 3112,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "reply_settings": "following",
+        "text": "レトスズ https://t.co/Naw3CN23Ey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14971,
+          "following_count": 749,
+          "like_count": 84486,
+          "listed_count": 14,
+          "media_count": 935,
+          "tweet_count": 17537
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T15:00:43.000Z",
+        "description": "aqod思想",
+        "id": "1996595457251049472",
+        "location": "CP表記なしはnot CP",
+        "name": "。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046573612325609472/lKA9sgB2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 8,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 143
+        },
+        "username": "sakizome",
+        "verified": false
+      }
+    ]
+  }
+}

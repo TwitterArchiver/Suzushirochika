@@ -1,0 +1,681 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891744750501494787",
+        "3_1891744750518362112",
+        "3_1891744752250638336",
+        "3_1891744753513078784"
+      ],
+      "media_source_tweet_id": [
+        "1891744756272603530",
+        "1891744756272603530",
+        "1891744756272603530",
+        "1891744756272603530"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1892036365715399114",
+    "created_at": "2025-02-19T02:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T03:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892036365715399114"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462403736890920963",
+          "start": 3,
+          "username": "oekaki_bibbi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/isAx7XHTXl",
+          "end": 66,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+          "media_key": "3_1891744750501494787",
+          "start": 43,
+          "url": "https://t.co/isAx7XHTXl"
+        },
+        {
+          "display_url": "pic.x.com/isAx7XHTXl",
+          "end": 66,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+          "media_key": "3_1891744750518362112",
+          "start": 43,
+          "url": "https://t.co/isAx7XHTXl"
+        },
+        {
+          "display_url": "pic.x.com/isAx7XHTXl",
+          "end": 66,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+          "media_key": "3_1891744752250638336",
+          "start": 43,
+          "url": "https://t.co/isAx7XHTXl"
+        },
+        {
+          "display_url": "pic.x.com/isAx7XHTXl",
+          "end": 66,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+          "media_key": "3_1891744753513078784",
+          "start": 43,
+          "url": "https://t.co/isAx7XHTXl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892036365715399114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2499
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891744756272603530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oekaki_bibbi: #ぼっち・ざ・ろっく\n運動部な世界線の結束バンド https://t.co/isAx7XHTXl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_1891744750501494787",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkDT0-NaAAM84Wh.jpg",
+        "width": 2100
+      },
+      {
+        "height": 2800,
+        "media_key": "3_1891744750518362112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkDT0-RbYAAL2SW.jpg",
+        "width": 2100
+      },
+      {
+        "height": 2800,
+        "media_key": "3_1891744752250638336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkDT1Eub0AA0m5S.jpg",
+        "width": 2100
+      },
+      {
+        "height": 2800,
+        "media_key": "3_1891744753513078784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkDT1JbbIAA6vFO.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891744750501494787",
+            "3_1891744750518362112",
+            "3_1891744752250638336",
+            "3_1891744753513078784"
+          ],
+          "media_source_tweet_id": [
+            "1891744756272603530",
+            "1891744756272603530",
+            "1891744756272603530",
+            "1891744756272603530"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1892036365715399114",
+        "created_at": "2025-02-19T02:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T03:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892036365715399114"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462403736890920963",
+              "start": 3,
+              "username": "oekaki_bibbi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/isAx7XHTXl",
+              "end": 66,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+              "media_key": "3_1891744750501494787",
+              "start": 43,
+              "url": "https://t.co/isAx7XHTXl"
+            },
+            {
+              "display_url": "pic.x.com/isAx7XHTXl",
+              "end": 66,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+              "media_key": "3_1891744750518362112",
+              "start": 43,
+              "url": "https://t.co/isAx7XHTXl"
+            },
+            {
+              "display_url": "pic.x.com/isAx7XHTXl",
+              "end": 66,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+              "media_key": "3_1891744752250638336",
+              "start": 43,
+              "url": "https://t.co/isAx7XHTXl"
+            },
+            {
+              "display_url": "pic.x.com/isAx7XHTXl",
+              "end": 66,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+              "media_key": "3_1891744753513078784",
+              "start": 43,
+              "url": "https://t.co/isAx7XHTXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892036365715399114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2499
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891744756272603530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oekaki_bibbi: #ぼっち・ざ・ろっく\n運動部な世界線の結束バンド https://t.co/isAx7XHTXl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891744750501494787",
+            "3_1891744750518362112",
+            "3_1891744752250638336",
+            "3_1891744753513078784"
+          ]
+        },
+        "author_id": "1462403736890920963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1891744756272603530",
+        "created_at": "2025-02-18T07:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T08:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891744756272603530"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/isAx7XHTXl",
+              "end": 48,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+              "media_key": "3_1891744750501494787",
+              "start": 25,
+              "url": "https://t.co/isAx7XHTXl"
+            },
+            {
+              "display_url": "pic.x.com/isAx7XHTXl",
+              "end": 48,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+              "media_key": "3_1891744750518362112",
+              "start": 25,
+              "url": "https://t.co/isAx7XHTXl"
+            },
+            {
+              "display_url": "pic.x.com/isAx7XHTXl",
+              "end": 48,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+              "media_key": "3_1891744752250638336",
+              "start": 25,
+              "url": "https://t.co/isAx7XHTXl"
+            },
+            {
+              "display_url": "pic.x.com/isAx7XHTXl",
+              "end": 48,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1891744756272603530/photo/1",
+              "media_key": "3_1891744753513078784",
+              "start": 25,
+              "url": "https://t.co/isAx7XHTXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891744756272603530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2349,
+          "impression_count": 425640,
+          "like_count": 24145,
+          "quote_count": 95,
+          "reply_count": 47,
+          "retweet_count": 2499
+        },
+        "reply_settings": "everyone",
+        "text": "#ぼっち・ざ・ろっく\n運動部な世界線の結束バンド https://t.co/isAx7XHTXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13867,
+          "following_count": 852,
+          "like_count": 78947,
+          "listed_count": 22,
+          "media_count": 922,
+          "tweet_count": 16765
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T12:53:24.000Z",
+        "description": "お絵描き/ぼっちざろっく愛/恩師:ななすけ🌰",
+        "id": "1462403736890920963",
+        "name": "まよ/Mayo",
+        "pinned_tweet_id": "1881235772579455065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778523802806448128/-mPtsNzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87863,
+          "following_count": 211,
+          "like_count": 16690,
+          "listed_count": 458,
+          "media_count": 423,
+          "tweet_count": 9155
+        },
+        "username": "oekaki_bibbi",
+        "verified": true
+      }
+    ]
+  }
+}

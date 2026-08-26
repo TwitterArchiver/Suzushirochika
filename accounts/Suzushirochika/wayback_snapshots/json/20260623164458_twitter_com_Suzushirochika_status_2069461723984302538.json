@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2069356351906828756",
+    "created_at": "2026-06-23T16:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069461723984302538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "HiiroGekkaFlan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069461723984302538",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069356351906828756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiiroGekkaFlan 抱抱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2069356351906828756",
+        "created_at": "2026-06-23T16:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069461723984302538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "HiiroGekkaFlan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069461723984302538",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069356351906828756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiiroGekkaFlan 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069356351906828756",
+        "created_at": "2026-06-23T09:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069356351906828756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2067877090058526866",
+              "start": 25,
+              "url": "https://t.co/sL3denvpZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069356351906828756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067877090058526866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父母离异并不是你的错，是父亲的问题，不要责怪自己 https://t.co/sL3denvpZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14975,
+          "following_count": 748,
+          "like_count": 85255,
+          "listed_count": 14,
+          "media_count": 944,
+          "tweet_count": 17690
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 868,
+          "like_count": 10785,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3321
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

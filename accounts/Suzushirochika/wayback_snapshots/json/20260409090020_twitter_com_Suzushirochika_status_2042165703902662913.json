@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2041821159310946639",
+    "created_at": "2026-04-09T09:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042165703902662913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        },
+        {
+          "end": 33,
+          "id": "2010117749578838016",
+          "start": 17,
+          "username": "PiaoYingju76004"
+        },
+        {
+          "end": 47,
+          "id": "2021888064982069251",
+          "start": 34,
+          "username": "Sobriety0114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042165703902662913",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041821159310946639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 便民链接：@piaoyingju76004 @sobriety0114"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Sobriety0114].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Sobriety0114",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Sobriety0114"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041821151408877570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYBhOia8AIWSIi.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041821151606009865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYBhPRa8AkwflK.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2041821159310946639",
+        "created_at": "2026-04-09T09:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042165703902662913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 33,
+              "id": "2010117749578838016",
+              "start": 17,
+              "username": "PiaoYingju76004"
+            },
+            {
+              "end": 47,
+              "id": "2021888064982069251",
+              "start": 34,
+              "username": "Sobriety0114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042165703902662913",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041821159310946639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 便民链接：@piaoyingju76004 @sobriety0114"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041821151408877570",
+            "3_2041821151606009865"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "conversation_id": "2041821159310946639",
+        "created_at": "2026-04-08T10:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041821159310946639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmi1sAwLM3",
+              "end": 33,
+              "expanded_url": "https://x.com/chuan_0123/status/2041821159310946639/photo/1",
+              "media_key": "3_2041821151408877570",
+              "start": 10,
+              "url": "https://t.co/wmi1sAwLM3"
+            },
+            {
+              "display_url": "pic.x.com/wmi1sAwLM3",
+              "end": 33,
+              "expanded_url": "https://x.com/chuan_0123/status/2041821159310946639/photo/1",
+              "media_key": "3_2041821151606009865",
+              "start": 10,
+              "url": "https://t.co/wmi1sAwLM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041821159310946639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1516,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他咋了啊 笑死我了 https://t.co/wmi1sAwLM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14802,
+          "following_count": 747,
+          "like_count": 83737,
+          "listed_count": 14,
+          "media_count": 922,
+          "tweet_count": 17288
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "20↑/我是川川/祝你以后都开心/回fo请私信/🚪888互关免费/有女友🥺我们很相爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 354,
+          "like_count": 11732,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 6202
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T22:33:33.000Z",
+        "description": "弱智死远点，骂完你一遍我就不会回复了",
+        "id": "2010117749578838016",
+        "name": "ml",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010117842172329984/CgC_6j-H_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 482
+        },
+        "username": "PiaoYingju76004",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956249915430199299",
+        "3_1956249915073683456",
+        "3_1956249916038373377",
+        "3_1956249915543404544"
+      ],
+      "media_source_tweet_id": [
+        "1956249919507063280",
+        "1956249919507063280",
+        "1956249919507063280",
+        "1956249919507063280"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1956452661806633379",
+    "created_at": "2025-08-15T20:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T21:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956452661806633379"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "喜多ちゃん",
+          "probability": 0.8224,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462403736890920963",
+          "start": 3,
+          "username": "oekaki_bibbi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O3Z8mBuJGb",
+          "end": 56,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+          "media_key": "3_1956249915430199299",
+          "start": 33,
+          "url": "https://t.co/O3Z8mBuJGb"
+        },
+        {
+          "display_url": "pic.x.com/O3Z8mBuJGb",
+          "end": 56,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+          "media_key": "3_1956249915073683456",
+          "start": 33,
+          "url": "https://t.co/O3Z8mBuJGb"
+        },
+        {
+          "display_url": "pic.x.com/O3Z8mBuJGb",
+          "end": 56,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+          "media_key": "3_1956249916038373377",
+          "start": 33,
+          "url": "https://t.co/O3Z8mBuJGb"
+        },
+        {
+          "display_url": "pic.x.com/O3Z8mBuJGb",
+          "end": 56,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+          "media_key": "3_1956249915543404544",
+          "start": 33,
+          "url": "https://t.co/O3Z8mBuJGb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956452661806633379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 499
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956249919507063280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oekaki_bibbi: 特に気に入ってる喜多ちゃん絵 https://t.co/O3Z8mBuJGb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1956249915430199299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX-7vUa4AM4OQC.jpg",
+        "width": 2250
+      },
+      {
+        "height": 2800,
+        "media_key": "3_1956249915073683456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX-7t_a4AAt4xf.jpg",
+        "width": 2100
+      },
+      {
+        "height": 2800,
+        "media_key": "3_1956249916038373377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX-7xla4AEwEkw.jpg",
+        "width": 2100
+      },
+      {
+        "height": 2700,
+        "media_key": "3_1956249915543404544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX-7vvaQAAHmsn.jpg",
+        "width": 2700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956249915430199299",
+            "3_1956249915073683456",
+            "3_1956249916038373377",
+            "3_1956249915543404544"
+          ],
+          "media_source_tweet_id": [
+            "1956249919507063280",
+            "1956249919507063280",
+            "1956249919507063280",
+            "1956249919507063280"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1956452661806633379",
+        "created_at": "2025-08-15T20:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T21:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956452661806633379"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "喜多ちゃん",
+              "probability": 0.8224,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462403736890920963",
+              "start": 3,
+              "username": "oekaki_bibbi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3Z8mBuJGb",
+              "end": 56,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+              "media_key": "3_1956249915430199299",
+              "start": 33,
+              "url": "https://t.co/O3Z8mBuJGb"
+            },
+            {
+              "display_url": "pic.x.com/O3Z8mBuJGb",
+              "end": 56,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+              "media_key": "3_1956249915073683456",
+              "start": 33,
+              "url": "https://t.co/O3Z8mBuJGb"
+            },
+            {
+              "display_url": "pic.x.com/O3Z8mBuJGb",
+              "end": 56,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+              "media_key": "3_1956249916038373377",
+              "start": 33,
+              "url": "https://t.co/O3Z8mBuJGb"
+            },
+            {
+              "display_url": "pic.x.com/O3Z8mBuJGb",
+              "end": 56,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+              "media_key": "3_1956249915543404544",
+              "start": 33,
+              "url": "https://t.co/O3Z8mBuJGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956452661806633379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 499
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956249919507063280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oekaki_bibbi: 特に気に入ってる喜多ちゃん絵 https://t.co/O3Z8mBuJGb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956249915430199299",
+            "3_1956249915073683456",
+            "3_1956249916038373377",
+            "3_1956249915543404544"
+          ]
+        },
+        "author_id": "1462403736890920963",
+        "conversation_id": "1956249919507063280",
+        "created_at": "2025-08-15T07:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956249919507063280"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "喜多ちゃん",
+              "probability": 0.8357,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3Z8mBuJGb",
+              "end": 38,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+              "media_key": "3_1956249915430199299",
+              "start": 15,
+              "url": "https://t.co/O3Z8mBuJGb"
+            },
+            {
+              "display_url": "pic.x.com/O3Z8mBuJGb",
+              "end": 38,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+              "media_key": "3_1956249915073683456",
+              "start": 15,
+              "url": "https://t.co/O3Z8mBuJGb"
+            },
+            {
+              "display_url": "pic.x.com/O3Z8mBuJGb",
+              "end": 38,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+              "media_key": "3_1956249916038373377",
+              "start": 15,
+              "url": "https://t.co/O3Z8mBuJGb"
+            },
+            {
+              "display_url": "pic.x.com/O3Z8mBuJGb",
+              "end": 38,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1956249919507063280/photo/1",
+              "media_key": "3_1956249915543404544",
+              "start": 15,
+              "url": "https://t.co/O3Z8mBuJGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956249919507063280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 75687,
+          "like_count": 5098,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 499
+        },
+        "reply_settings": "everyone",
+        "text": "特に気に入ってる喜多ちゃん絵 https://t.co/O3Z8mBuJGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14570,
+          "following_count": 836,
+          "like_count": 79785,
+          "listed_count": 24,
+          "media_count": 934,
+          "tweet_count": 16889
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T12:53:24.000Z",
+        "description": "お絵描き/ぼっちざろっく愛/恩師:ななすけ🌰\n     \n       ※イラストの商用利用は禁止",
+        "id": "1462403736890920963",
+        "name": "まよ/Mayo",
+        "pinned_tweet_id": "1669238935007141888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893993268624478208/saa_9fza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106283,
+          "following_count": 237,
+          "like_count": 18930,
+          "listed_count": 513,
+          "media_count": 510,
+          "tweet_count": 12836
+        },
+        "username": "oekaki_bibbi",
+        "verified": true
+      }
+    ]
+  }
+}

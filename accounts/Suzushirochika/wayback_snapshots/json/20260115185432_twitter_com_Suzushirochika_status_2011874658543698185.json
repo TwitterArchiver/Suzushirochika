@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011874649160957952"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2011874658543698185",
+    "created_at": "2026-01-15T18:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T19:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011874658543698185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+          "display_url": "infinitetweet.me/secret-stalker…",
+          "end": 47,
+          "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2010219646490947584/md6-VPjp?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2010219646490947584/md6-VPjp?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "Secret Stalkers • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "url": "https://t.co/xobylooGXd"
+        },
+        {
+          "display_url": "pic.x.com/rAwBdjxX07",
+          "end": 71,
+          "expanded_url": "https://x.com/Suzushirochika/status/2011874658543698185/photo/1",
+          "media_key": "3_2011874649160957952",
+          "start": 48,
+          "url": "https://t.co/rAwBdjxX07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011874658543698185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/xobylooGXd https://t.co/rAwBdjxX07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2011874649160957952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-udVYPaQAACHUV.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011874649160957952"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2011874658543698185",
+        "created_at": "2026-01-15T18:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T19:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011874658543698185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infinitetweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2010219646490947584/md6-VPjp?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010219646490947584/md6-VPjp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/xobylooGXd"
+            },
+            {
+              "display_url": "pic.x.com/rAwBdjxX07",
+              "end": 71,
+              "expanded_url": "https://x.com/Suzushirochika/status/2011874658543698185/photo/1",
+              "media_key": "3_2011874649160957952",
+              "start": 48,
+              "url": "https://t.co/rAwBdjxX07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011874658543698185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/xobylooGXd https://t.co/rAwBdjxX07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14770,
+          "following_count": 828,
+          "like_count": 79371,
+          "listed_count": 13,
+          "media_count": 903,
+          "tweet_count": 16811
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

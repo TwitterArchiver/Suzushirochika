@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2011829615313248256"
+      ],
+      "media_source_tweet_id": [
+        "2011829646187512104"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "2012064556999459229",
+    "created_at": "2026-01-16T07:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T08:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012064556999459229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1410890985538678784",
+          "start": 3,
+          "username": "ThePetsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6h0FKeiSsv",
+          "end": 37,
+          "expanded_url": "https://x.com/ThePetsX/status/2011829646187512104/video/1",
+          "media_key": "7_2011829615313248256",
+          "start": 14,
+          "url": "https://t.co/6h0FKeiSsv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012064556999459229",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 703
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011829646187512104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThePetsX: https://t.co/6h0FKeiSsv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10261,
+        "height": 1280,
+        "media_key": "7_2011829615313248256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2011829615313248256/pu/img/OJ80cWmpnntftP93.jpg",
+        "public_metrics": {
+          "view_count": 42973
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2011829615313248256/pu/vid/avc1/320x580/_Q8Gi8zt0U6D18PG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2011829615313248256/pu/vid/avc1/480x872/e-Krwh4mll5rCa8b.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2011829615313248256/pu/vid/avc1/704x1280/dLbs3P_maLQMYAuX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2011829615313248256/pu/pl/qEt5o5n5BU1s61Xq.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2011829615313248256"
+          ],
+          "media_source_tweet_id": [
+            "2011829646187512104"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2012064556999459229",
+        "created_at": "2026-01-16T07:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T08:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012064556999459229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1410890985538678784",
+              "start": 3,
+              "username": "ThePetsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6h0FKeiSsv",
+              "end": 37,
+              "expanded_url": "https://x.com/ThePetsX/status/2011829646187512104/video/1",
+              "media_key": "7_2011829615313248256",
+              "start": 14,
+              "url": "https://t.co/6h0FKeiSsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012064556999459229",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 703
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011829646187512104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThePetsX: https://t.co/6h0FKeiSsv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2011829615313248256"
+          ]
+        },
+        "author_id": "1410890985538678784",
+        "conversation_id": "2011829646187512104",
+        "created_at": "2026-01-15T15:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T16:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011829646187512104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6h0FKeiSsv",
+              "end": 23,
+              "expanded_url": "https://x.com/ThePetsX/status/2011829646187512104/video/1",
+              "media_key": "7_2011829615313248256",
+              "start": 0,
+              "url": "https://t.co/6h0FKeiSsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011829646187512104",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 153070,
+          "like_count": 5428,
+          "quote_count": 73,
+          "reply_count": 64,
+          "retweet_count": 703
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6h0FKeiSsv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14781,
+          "following_count": 827,
+          "like_count": 79404,
+          "listed_count": 13,
+          "media_count": 902,
+          "tweet_count": 16812
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T09:20:30.000Z",
+        "description": "Welcome to the positive side of 𝕏. Posting the most beautiful & Adorable pictures,videos of pets. 🦁🐯🐱🐶🐺🐻🐻‍❄️🐨🐼🦝🦊",
+        "id": "1410890985538678784",
+        "location": "DM FOR CREDIT OR REMOVEL ✉️",
+        "name": "The Pets 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876704343052734464/N6IQSW7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45341,
+          "following_count": 3796,
+          "like_count": 155,
+          "listed_count": 167,
+          "media_count": 5617,
+          "tweet_count": 5640
+        },
+        "username": "ThePetsX",
+        "verified": true
+      }
+    ]
+  }
+}

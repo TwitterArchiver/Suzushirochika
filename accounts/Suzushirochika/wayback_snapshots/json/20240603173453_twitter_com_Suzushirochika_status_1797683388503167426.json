@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1797592301835083802",
+    "created_at": "2024-06-03T17:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T18:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797683388503167426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1489688049680515072",
+          "start": 0,
+          "username": "wakaba_yuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797683388503167426",
+    "in_reply_to_user_id": "1489688049680515072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797592301835083802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakaba_yuu 美若天仙😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1797592301835083802",
+        "created_at": "2024-06-03T17:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T18:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797683388503167426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1489688049680515072",
+              "start": 0,
+              "username": "wakaba_yuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797683388503167426",
+        "in_reply_to_user_id": "1489688049680515072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797592301835083802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakaba_yuu 美若天仙😭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797592299066761216"
+          ]
+        },
+        "author_id": "1489688049680515072",
+        "conversation_id": "1797592301835083802",
+        "created_at": "2024-06-03T11:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T12:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797592301835083802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/u06Y86EnzH",
+              "end": 31,
+              "expanded_url": "https://twitter.com/wakaba_yuu/status/1797592301835083802/photo/1",
+              "media_key": "3_1797592299066761216",
+              "start": 8,
+              "url": "https://t.co/u06Y86EnzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797592301835083802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6923,
+          "like_count": 176,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "蕾蕾证件照（） https://t.co/u06Y86EnzH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13247,
+          "following_count": 900,
+          "like_count": 77206,
+          "listed_count": 22,
+          "tweet_count": 16465
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T19:51:32.000Z",
+        "description": "中推最后的双马尾战士┊︎@karameru_idol所属偶像┊︎粉丝标记🎐┊︎黑色地雷系🖤┊︎恋人@mana_ikuta💝┊︎性别____",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "karameru_idol"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "mana_ikuta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "karameruidol.com",
+                "end": 23,
+                "expanded_url": "http://karameruidol.com",
+                "start": 0,
+                "url": "https://t.co/bWQ0SuzYCA"
+              }
+            ]
+          }
+        },
+        "id": "1489688049680515072",
+        "location": "Hong Kong",
+        "name": "涼風若葉🎐",
+        "pinned_tweet_id": "1793150947360977165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783793068719886336/HctYbAJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6642,
+          "following_count": 857,
+          "like_count": 7534,
+          "listed_count": 22,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/bWQ0SuzYCA",
+        "username": "wakaba_yuu",
+        "verified": false
+      }
+    ]
+  }
+}

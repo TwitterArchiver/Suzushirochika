@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938977199782072320"
+      ],
+      "media_source_tweet_id": [
+        "1953044378819379373"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1953224714190766225",
+    "created_at": "2025-08-06T22:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T23:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953224714190766225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1287038924733390848",
+          "start": 3,
+          "username": "rurumagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5tFo184RGm",
+          "end": 50,
+          "expanded_url": "https://x.com/rurumagi/status/1953044378819379373/photo/1",
+          "media_key": "3_1938977199782072320",
+          "start": 27,
+          "url": "https://t.co/5tFo184RGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953224714190766225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 298
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953044378819379373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurumagi: グッズ衣装の傾向(偏見) https://t.co/5tFo184RGm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_1938977199782072320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuihfXSXkAAPUuR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938977199782072320"
+          ],
+          "media_source_tweet_id": [
+            "1953044378819379373"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953224714190766225",
+        "created_at": "2025-08-06T22:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T23:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953224714190766225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1287038924733390848",
+              "start": 3,
+              "username": "rurumagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tFo184RGm",
+              "end": 50,
+              "expanded_url": "https://x.com/rurumagi/status/1953044378819379373/photo/1",
+              "media_key": "3_1938977199782072320",
+              "start": 27,
+              "url": "https://t.co/5tFo184RGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953224714190766225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 298
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953044378819379373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurumagi: グッズ衣装の傾向(偏見) https://t.co/5tFo184RGm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938977199782072320"
+          ]
+        },
+        "author_id": "1287038924733390848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953044378819379373",
+        "created_at": "2025-08-06T10:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953044378819379373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tFo184RGm",
+              "end": 36,
+              "expanded_url": "https://x.com/rurumagi/status/1953044378819379373/photo/1",
+              "media_key": "3_1938977199782072320",
+              "start": 13,
+              "url": "https://t.co/5tFo184RGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953044378819379373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 25848,
+          "like_count": 1672,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 298
+        },
+        "reply_settings": "everyone",
+        "text": "グッズ衣装の傾向(偏見) https://t.co/5tFo184RGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14540,
+          "following_count": 837,
+          "like_count": 79872,
+          "listed_count": 24,
+          "media_count": 934,
+          "tweet_count": 16883
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-25T14:56:12.000Z",
+        "description": "マシュマロhttps://t.co/QJUoJ5S1Ux pixivなどの各リンクhttps://t.co/58adLVRfOQ スケブhttps://t.co/P5hr39kawi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rurumagi?t=Met…",
+                "end": 28,
+                "expanded_url": "https://marshmallow-qa.com/rurumagi?t=MetU4Y&utm_medium=url_text&utm_source=promotion",
+                "start": 5,
+                "url": "https://t.co/QJUoJ5S1Ux"
+              },
+              {
+                "display_url": "lit.link/rurumagi",
+                "end": 64,
+                "expanded_url": "https://lit.link/rurumagi",
+                "start": 41,
+                "url": "https://t.co/58adLVRfOQ"
+              },
+              {
+                "display_url": "skeb.jp/@rurumagi",
+                "end": 91,
+                "expanded_url": "http://skeb.jp/@rurumagi",
+                "start": 68,
+                "url": "https://t.co/P5hr39kawi"
+              }
+            ]
+          }
+        },
+        "id": "1287038924733390848",
+        "name": "ルル",
+        "pinned_tweet_id": "1898316011465830418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925007130698121217/NjsYEe1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20963,
+          "following_count": 202,
+          "like_count": 7503,
+          "listed_count": 160,
+          "media_count": 905,
+          "tweet_count": 9535
+        },
+        "username": "rurumagi",
+        "verified": false
+      }
+    ]
+  }
+}

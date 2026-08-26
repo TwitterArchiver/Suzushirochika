@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2029164309826421231",
+    "created_at": "2026-03-04T15:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T16:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029213622958997778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014098182184009728",
+          "start": 0,
+          "username": "HuffmanAlm86735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029213622958997778",
+    "in_reply_to_user_id": "2014098182184009728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029164309826421231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuffmanAlm86735 这个感冒药不能吃会急性肝衰竭🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_2029164286845792256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkKKvxaMAAqUme.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2029164309826421231",
+        "created_at": "2026-03-04T15:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029213622958997778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014098182184009728",
+              "start": 0,
+              "username": "HuffmanAlm86735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029213622958997778",
+        "in_reply_to_user_id": "2014098182184009728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029164309826421231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuffmanAlm86735 这个感冒药不能吃会急性肝衰竭🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029164286845792256"
+          ]
+        },
+        "author_id": "2014098182184009728",
+        "conversation_id": "2029164309826421231",
+        "created_at": "2026-03-04T11:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029164309826421231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xAyyVVN9v3",
+              "end": 32,
+              "expanded_url": "https://x.com/HuffmanAlm86735/status/2029164309826421231/photo/1",
+              "media_key": "3_2029164286845792256",
+              "start": 9,
+              "url": "https://t.co/xAyyVVN9v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029164309826421231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个一起吃啥感觉 https://t.co/xAyyVVN9v3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14895,
+          "following_count": 776,
+          "like_count": 81243,
+          "listed_count": 13,
+          "media_count": 912,
+          "tweet_count": 16991
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:10:25.000Z",
+        "description": "💞小愿\n互fo私信",
+        "id": "2014098182184009728",
+        "name": "愿不会再痛苦中死去",
+        "pinned_tweet_id": "2028761419186139253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027326042306969600/SffiSi7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 17,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "username": "HuffmanAlm86735",
+        "verified": false
+      }
+    ]
+  }
+}

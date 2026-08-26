@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1983045919819117027",
+    "created_at": "2025-10-29T05:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T06:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983401906350502091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1373304659587211270",
+          "start": 0,
+          "username": "Francis55520619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983401906350502091",
+    "in_reply_to_user_id": "1373304659587211270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983045919819117027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Francis55520619 吃了安非他酮也会有明显变快的现象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1983045919819117027",
+        "created_at": "2025-10-29T05:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T06:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983401906350502091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1373304659587211270",
+              "start": 0,
+              "username": "Francis55520619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983401906350502091",
+        "in_reply_to_user_id": "1373304659587211270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983045919819117027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Francis55520619 吃了安非他酮也会有明显变快的现象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373304659587211270",
+        "conversation_id": "1983045919819117027",
+        "created_at": "2025-10-28T05:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983045919819117027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hzyj772/status…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/hzyj772/status/1982012074944540954",
+              "start": 139,
+              "url": "https://t.co/UNk4lA8Z52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983045919819117027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2529,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982012074944540954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不妨做个小实验，如果有确诊adhd的朋友，并且正好要服用专注达。\n你们可以先做一个简单的对比试验。\n在你未服用药物前，测试一遍进行计时，看看你需要多久能够让图片褪色。\n服用药物后，根据药物说明书静待作用时间。再进行一次计时。\n我的数据是\nT1=21.93s\nT2=13.62s https://t.co/UNk4lA8Z52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14714,
+          "following_count": 831,
+          "like_count": 78527,
+          "listed_count": 23,
+          "media_count": 896,
+          "tweet_count": 16769
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-20T16:05:36.000Z",
+        "description": "A sandwich with cheese, avocado, and hams🥪🥑🧀️\nUESTC Bachelors Major in CS | English/Chinese/Hakka/Cantonese | MAKE MY MINDS BACK! | Welcome",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "StarSeaCommunity.store",
+                "end": 23,
+                "expanded_url": "http://StarSeaCommunity.store",
+                "start": 0,
+                "url": "https://t.co/kDj1vnQouB"
+              }
+            ]
+          }
+        },
+        "id": "1373304659587211270",
+        "location": "Chengdu | Shenzhen | Hongkong",
+        "name": "Francis Gray",
+        "pinned_tweet_id": "1954768648666812652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977249640891441152/bHs-rY7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 1378,
+          "like_count": 3993,
+          "listed_count": 6,
+          "media_count": 341,
+          "tweet_count": 1525
+        },
+        "url": "https://t.co/kDj1vnQouB",
+        "username": "Francis55520619",
+        "verified": false
+      }
+    ]
+  }
+}

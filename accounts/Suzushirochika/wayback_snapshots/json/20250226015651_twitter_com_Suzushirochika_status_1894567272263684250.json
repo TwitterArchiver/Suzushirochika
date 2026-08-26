@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894281346140573699",
+        "3_1894281346794885122",
+        "3_1894281347554054151",
+        "3_1894281351567683584"
+      ],
+      "media_source_tweet_id": [
+        "1894281355078361126",
+        "1894281355078361126",
+        "1894281355078361126",
+        "1894281355078361126"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1894567272263684250",
+    "created_at": "2025-02-26T01:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T02:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894567272263684250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462403736890920963",
+          "start": 3,
+          "username": "oekaki_bibbi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jEJA9lXALo",
+          "end": 53,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+          "media_key": "3_1894281346140573699",
+          "start": 30,
+          "url": "https://t.co/jEJA9lXALo"
+        },
+        {
+          "display_url": "pic.x.com/jEJA9lXALo",
+          "end": 53,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+          "media_key": "3_1894281346794885122",
+          "start": 30,
+          "url": "https://t.co/jEJA9lXALo"
+        },
+        {
+          "display_url": "pic.x.com/jEJA9lXALo",
+          "end": 53,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+          "media_key": "3_1894281347554054151",
+          "start": 30,
+          "url": "https://t.co/jEJA9lXALo"
+        },
+        {
+          "display_url": "pic.x.com/jEJA9lXALo",
+          "end": 53,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+          "media_key": "3_1894281351567683584",
+          "start": 30,
+          "url": "https://t.co/jEJA9lXALo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894567272263684250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2029
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894281355078361126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oekaki_bibbi: 挫折することもあるよね https://t.co/jEJA9lXALo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2759,
+        "media_key": "3_1894281346140573699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GknW2RVbkAMMlhi.jpg",
+        "width": 2070
+      },
+      {
+        "height": 2759,
+        "media_key": "3_1894281346794885122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GknW2TxbkAI1ccm.jpg",
+        "width": 2070
+      },
+      {
+        "height": 2760,
+        "media_key": "3_1894281347554054151",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GknW2WmbkAcc9-0.jpg",
+        "width": 2070
+      },
+      {
+        "height": 2760,
+        "media_key": "3_1894281351567683584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GknW2ljWsAAJ6Zg.jpg",
+        "width": 2070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894281346140573699",
+            "3_1894281346794885122",
+            "3_1894281347554054151",
+            "3_1894281351567683584"
+          ],
+          "media_source_tweet_id": [
+            "1894281355078361126",
+            "1894281355078361126",
+            "1894281355078361126",
+            "1894281355078361126"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1894567272263684250",
+        "created_at": "2025-02-26T01:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T02:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894567272263684250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462403736890920963",
+              "start": 3,
+              "username": "oekaki_bibbi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEJA9lXALo",
+              "end": 53,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+              "media_key": "3_1894281346140573699",
+              "start": 30,
+              "url": "https://t.co/jEJA9lXALo"
+            },
+            {
+              "display_url": "pic.x.com/jEJA9lXALo",
+              "end": 53,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+              "media_key": "3_1894281346794885122",
+              "start": 30,
+              "url": "https://t.co/jEJA9lXALo"
+            },
+            {
+              "display_url": "pic.x.com/jEJA9lXALo",
+              "end": 53,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+              "media_key": "3_1894281347554054151",
+              "start": 30,
+              "url": "https://t.co/jEJA9lXALo"
+            },
+            {
+              "display_url": "pic.x.com/jEJA9lXALo",
+              "end": 53,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+              "media_key": "3_1894281351567683584",
+              "start": 30,
+              "url": "https://t.co/jEJA9lXALo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894567272263684250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2029
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894281355078361126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oekaki_bibbi: 挫折することもあるよね https://t.co/jEJA9lXALo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894281346140573699",
+            "3_1894281346794885122",
+            "3_1894281347554054151",
+            "3_1894281351567683584"
+          ]
+        },
+        "author_id": "1462403736890920963",
+        "conversation_id": "1894281355078361126",
+        "created_at": "2025-02-25T07:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T08:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894281355078361126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEJA9lXALo",
+              "end": 35,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+              "media_key": "3_1894281346140573699",
+              "start": 12,
+              "url": "https://t.co/jEJA9lXALo"
+            },
+            {
+              "display_url": "pic.x.com/jEJA9lXALo",
+              "end": 35,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+              "media_key": "3_1894281346794885122",
+              "start": 12,
+              "url": "https://t.co/jEJA9lXALo"
+            },
+            {
+              "display_url": "pic.x.com/jEJA9lXALo",
+              "end": 35,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+              "media_key": "3_1894281347554054151",
+              "start": 12,
+              "url": "https://t.co/jEJA9lXALo"
+            },
+            {
+              "display_url": "pic.x.com/jEJA9lXALo",
+              "end": 35,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1894281355078361126/photo/1",
+              "media_key": "3_1894281351567683584",
+              "start": 12,
+              "url": "https://t.co/jEJA9lXALo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894281355078361126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1859,
+          "impression_count": 287517,
+          "like_count": 18562,
+          "quote_count": 39,
+          "reply_count": 41,
+          "retweet_count": 2029
+        },
+        "reply_settings": "everyone",
+        "text": "挫折することもあるよね https://t.co/jEJA9lXALo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13906,
+          "following_count": 852,
+          "like_count": 79100,
+          "listed_count": 22,
+          "media_count": 925,
+          "tweet_count": 16779
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T12:53:24.000Z",
+        "description": "お絵描き/ぼっちざろっく愛/恩師:ななすけ🌰",
+        "id": "1462403736890920963",
+        "name": "まよ/Mayo",
+        "pinned_tweet_id": "1881235772579455065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893993268624478208/saa_9fza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89179,
+          "following_count": 215,
+          "like_count": 16800,
+          "listed_count": 457,
+          "media_count": 427,
+          "tweet_count": 9347
+        },
+        "username": "oekaki_bibbi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907381649094201344"
+      ],
+      "media_source_tweet_id": [
+        "1907381725069812030"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1245092440039510017",
+          "name": "Sakura Wars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1245092440039510017",
+          "name": "Sakura Wars"
+        }
+      }
+    ],
+    "conversation_id": "1907799192233509189",
+    "created_at": "2025-04-03T14:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T15:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907799192233509189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1061192468530511872",
+          "start": 3,
+          "username": "kazanori901"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eWfvOIFtze",
+          "end": 59,
+          "expanded_url": "https://x.com/kazanori901/status/1907381725069812030/photo/1",
+          "media_key": "3_1907381649094201344",
+          "start": 36,
+          "url": "https://t.co/eWfvOIFtze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907799192233509189",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 746
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907381725069812030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kazanori901: 女剣士フリーレン\n\n※サクラ大戦風味 https://t.co/eWfvOIFtze"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1907381649094201344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhhgQ1b0AAnjdB.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907381649094201344"
+          ],
+          "media_source_tweet_id": [
+            "1907381725069812030"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1245092440039510017",
+              "name": "Sakura Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1245092440039510017",
+              "name": "Sakura Wars"
+            }
+          }
+        ],
+        "conversation_id": "1907799192233509189",
+        "created_at": "2025-04-03T14:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907799192233509189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1061192468530511872",
+              "start": 3,
+              "username": "kazanori901"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWfvOIFtze",
+              "end": 59,
+              "expanded_url": "https://x.com/kazanori901/status/1907381725069812030/photo/1",
+              "media_key": "3_1907381649094201344",
+              "start": 36,
+              "url": "https://t.co/eWfvOIFtze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907799192233509189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 746
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907381725069812030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kazanori901: 女剣士フリーレン\n\n※サクラ大戦風味 https://t.co/eWfvOIFtze"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907381649094201344"
+          ]
+        },
+        "author_id": "1061192468530511872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1245092440039510017",
+              "name": "Sakura Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1245092440039510017",
+              "name": "Sakura Wars"
+            }
+          }
+        ],
+        "conversation_id": "1907381725069812030",
+        "created_at": "2025-04-02T10:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907381725069812030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWfvOIFtze",
+              "end": 42,
+              "expanded_url": "https://x.com/kazanori901/status/1907381725069812030/photo/1",
+              "media_key": "3_1907381649094201344",
+              "start": 19,
+              "url": "https://t.co/eWfvOIFtze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907381725069812030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 414,
+          "impression_count": 52831,
+          "like_count": 6505,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 746
+        },
+        "reply_settings": "everyone",
+        "text": "女剣士フリーレン\n\n※サクラ大戦風味 https://t.co/eWfvOIFtze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14100,
+          "following_count": 854,
+          "like_count": 79659,
+          "listed_count": 23,
+          "media_count": 930,
+          "tweet_count": 16849
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-10T09:42:55.000Z",
+        "description": "フリーレンFAや宣伝。(カドカワ)後宮の花詠み仙女コミカライズ担。勇者辞めます漫画版(全8巻) pixiv https://t.co/lqkar8va0n 無断転載 × AI学習×引用リプ等での悪戯×",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11067037",
+                "end": 77,
+                "expanded_url": "https://www.pixiv.net/users/11067037",
+                "start": 54,
+                "url": "https://t.co/lqkar8va0n"
+              }
+            ]
+          }
+        },
+        "id": "1061192468530511872",
+        "location": "味噌",
+        "name": "風都ノリ",
+        "pinned_tweet_id": "1904860270453022852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826909251002077184/3aHEURJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18081,
+          "following_count": 74,
+          "like_count": 12284,
+          "listed_count": 80,
+          "media_count": 231,
+          "tweet_count": 7358
+        },
+        "username": "kazanori901",
+        "verified": false
+      }
+    ]
+  }
+}

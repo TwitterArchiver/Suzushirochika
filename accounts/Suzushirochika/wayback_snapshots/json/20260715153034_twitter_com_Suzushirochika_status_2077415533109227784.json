@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2077337885754499305",
+    "created_at": "2026-07-15T15:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077415533109227784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818546901899509760",
+          "start": 0,
+          "username": "XiaoQi_077s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077415533109227784",
+    "in_reply_to_user_id": "1818546901899509760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077337885754499305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoQi_077s 能被回复不是被无视已经很好了k）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2077337880679362560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQvy9hbMAAJ4dw.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2077337885754499305",
+        "created_at": "2026-07-15T15:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077415533109227784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818546901899509760",
+              "start": 0,
+              "username": "XiaoQi_077s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077415533109227784",
+        "in_reply_to_user_id": "1818546901899509760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077337885754499305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQi_077s 能被回复不是被无视已经很好了k）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077337880679362560"
+          ]
+        },
+        "author_id": "1818546901899509760",
+        "conversation_id": "2077337885754499305",
+        "created_at": "2026-07-15T10:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077337885754499305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nViPMZA1LE",
+              "end": 23,
+              "expanded_url": "https://x.com/XiaoQi_077s/status/2077337885754499305/photo/1",
+              "media_key": "3_2077337880679362560",
+              "start": 0,
+              "url": "https://t.co/nViPMZA1LE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077337885754499305",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1959,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nViPMZA1LE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15054,
+          "following_count": 752,
+          "like_count": 86639,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17873
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T07:19:14.000Z",
+        "description": "一个xyn丨无证含糖丨HRT丨自残丨家暴党丨PTSD创伤后应激障碍丨VRChat丨会刷机丨会Python丨喜欢折腾各种Android设备丨同类互fo丨爱你喵",
+        "id": "1818546901899509760",
+        "name": "小柒🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071562109117444428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 411,
+          "like_count": 1681,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "XiaoQi_077s",
+        "verified": true
+      }
+    ]
+  }
+}

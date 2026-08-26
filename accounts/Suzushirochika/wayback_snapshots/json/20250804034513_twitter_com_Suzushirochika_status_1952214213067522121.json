@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951912663853985792"
+      ],
+      "media_source_tweet_id": [
+        "1951912671869333862"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      }
+    ],
+    "conversation_id": "1952214213067522121",
+    "created_at": "2025-08-04T03:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T04:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952214213067522121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609501149748690944",
+          "start": 3,
+          "username": "sentakusound"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2LnjLbX1Fs",
+          "end": 50,
+          "expanded_url": "https://x.com/sentakusound/status/1951912671869333862/photo/1",
+          "media_key": "3_1951912663853985792",
+          "start": 27,
+          "url": "https://t.co/2LnjLbX1Fs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952214213067522121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 579
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951912671869333862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sentakusound: ギターと少女の像 https://t.co/2LnjLbX1Fs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1951912663853985792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxaWOeGacAALxLh.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951912663853985792"
+          ],
+          "media_source_tweet_id": [
+            "1951912671869333862"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          }
+        ],
+        "conversation_id": "1952214213067522121",
+        "created_at": "2025-08-04T03:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T04:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952214213067522121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609501149748690944",
+              "start": 3,
+              "username": "sentakusound"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2LnjLbX1Fs",
+              "end": 50,
+              "expanded_url": "https://x.com/sentakusound/status/1951912671869333862/photo/1",
+              "media_key": "3_1951912663853985792",
+              "start": 27,
+              "url": "https://t.co/2LnjLbX1Fs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952214213067522121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 579
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951912671869333862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sentakusound: ギターと少女の像 https://t.co/2LnjLbX1Fs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951912663853985792"
+          ]
+        },
+        "author_id": "1609501149748690944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          }
+        ],
+        "conversation_id": "1951912671869333862",
+        "created_at": "2025-08-03T07:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T08:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951912671869333862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2LnjLbX1Fs",
+              "end": 32,
+              "expanded_url": "https://x.com/sentakusound/status/1951912671869333862/photo/1",
+              "media_key": "3_1951912663853985792",
+              "start": 9,
+              "url": "https://t.co/2LnjLbX1Fs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951912671869333862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 141823,
+          "like_count": 7779,
+          "quote_count": 14,
+          "reply_count": 12,
+          "retweet_count": 579
+        },
+        "reply_settings": "everyone",
+        "text": "ギターと少女の像 https://t.co/2LnjLbX1Fs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14537,
+          "following_count": 837,
+          "like_count": 79872,
+          "listed_count": 24,
+          "media_count": 933,
+          "tweet_count": 16878
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T10:46:14.000Z",
+        "description": "AIイラストを投稿 | nijijourney術師 | 2023.01～ | AIイラスト展示「なんかいい展」主催 |  画像生成AIメイキングテクニックガイド 寄稿 | プロ契約AIクリエイター | \n音響効果 | サウンドデザイナー | ご依頼はDM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiart.hp.peraichi.com",
+                "end": 23,
+                "expanded_url": "https://aiart.hp.peraichi.com/",
+                "start": 0,
+                "url": "https://t.co/0sR4DGiP4h"
+              }
+            ]
+          }
+        },
+        "id": "1609501149748690944",
+        "name": "Sentaku(せんたく)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741983202229751808/SodbbJX-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64750,
+          "following_count": 1465,
+          "like_count": 43844,
+          "listed_count": 432,
+          "media_count": 3231,
+          "tweet_count": 16347
+        },
+        "url": "https://t.co/0sR4DGiP4h",
+        "username": "sentakusound",
+        "verified": true
+      }
+    ]
+  }
+}

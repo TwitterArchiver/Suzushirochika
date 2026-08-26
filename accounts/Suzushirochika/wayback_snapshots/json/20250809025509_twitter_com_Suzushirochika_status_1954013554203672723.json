@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953795950713221123"
+      ],
+      "media_source_tweet_id": [
+        "1953833581572501693"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1954013554203672723",
+    "created_at": "2025-08-09T02:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T03:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954013554203672723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1742842175757623296",
+          "start": 3,
+          "username": "KwgSubmadohomu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tfw4LAMa99",
+          "end": 53,
+          "expanded_url": "https://x.com/KwgSubmadohomu/status/1953833581572501693/photo/1",
+          "media_key": "3_1953795950713221123",
+          "start": 30,
+          "url": "https://t.co/Tfw4LAMa99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954013554203672723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 335
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953833581572501693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KwgSubmadohomu: 8月9日はハグの日 https://t.co/Tfw4LAMa99"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_1953795950713221123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1HEMXbsAMnf11.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953795950713221123"
+          ],
+          "media_source_tweet_id": [
+            "1953833581572501693"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1954013554203672723",
+        "created_at": "2025-08-09T02:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T03:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954013554203672723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1742842175757623296",
+              "start": 3,
+              "username": "KwgSubmadohomu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tfw4LAMa99",
+              "end": 53,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/1953833581572501693/photo/1",
+              "media_key": "3_1953795950713221123",
+              "start": 30,
+              "url": "https://t.co/Tfw4LAMa99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954013554203672723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 335
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953833581572501693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KwgSubmadohomu: 8月9日はハグの日 https://t.co/Tfw4LAMa99"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953795950713221123"
+          ]
+        },
+        "author_id": "1742842175757623296",
+        "conversation_id": "1953833581572501693",
+        "created_at": "2025-08-08T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953833581572501693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tfw4LAMa99",
+              "end": 33,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/1953833581572501693/photo/1",
+              "media_key": "3_1953795950713221123",
+              "start": 10,
+              "url": "https://t.co/Tfw4LAMa99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953833581572501693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 25487,
+          "like_count": 2253,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "8月9日はハグの日 https://t.co/Tfw4LAMa99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14544,
+          "following_count": 837,
+          "like_count": 79889,
+          "listed_count": 24,
+          "media_count": 934,
+          "tweet_count": 16886
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-04T09:35:56.000Z",
+        "description": "まどほむ好きのまどマギファン",
+        "id": "1742842175757623296",
+        "name": "kwg2(仮)",
+        "pinned_tweet_id": "1927915296876351966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903813656972017665/_0R1GdWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57317,
+          "following_count": 79,
+          "like_count": 11795,
+          "listed_count": 296,
+          "media_count": 728,
+          "tweet_count": 3355
+        },
+        "username": "KwgSubmadohomu",
+        "verified": false
+      }
+    ]
+  }
+}

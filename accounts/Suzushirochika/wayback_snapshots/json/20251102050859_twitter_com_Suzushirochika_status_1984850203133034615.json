@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1984850203133034615",
+    "created_at": "2025-11-02T05:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T06:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984850203133034615"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984850203133034615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咖喱饭 服用测试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1984850203133034615",
+        "created_at": "2025-11-02T05:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984850203133034615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984850203133034615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咖喱饭 服用测试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14723,
+          "following_count": 832,
+          "like_count": 78593,
+          "listed_count": 23,
+          "media_count": 897,
+          "tweet_count": 16776
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

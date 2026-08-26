@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2059934906957135950",
+    "created_at": "2026-05-29T05:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060231831484772537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033094355972726788",
+          "start": 0,
+          "username": "dongmugen0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060231831484772537",
+    "in_reply_to_user_id": "2033094355972726788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059934906957135950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongmugen0508 学长你好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059934904335630336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZb4alagAAtoI8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2059934906957135950",
+        "created_at": "2026-05-29T05:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060231831484772537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033094355972726788",
+              "start": 0,
+              "username": "dongmugen0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060231831484772537",
+        "in_reply_to_user_id": "2033094355972726788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059934906957135950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongmugen0508 学长你好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059934904335630336"
+          ]
+        },
+        "author_id": "2033094355972726788",
+        "conversation_id": "2059934906957135950",
+        "created_at": "2026-05-28T09:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059934906957135950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhIjjY1Twb",
+              "end": 49,
+              "expanded_url": "https://x.com/dongmugen0508/status/2059934906957135950/photo/1",
+              "media_key": "3_2059934904335630336",
+              "start": 26,
+              "url": "https://t.co/fhIjjY1Twb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059934906957135950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了我出校门前听见一个高二的学弟说学长你好帅。 https://t.co/fhIjjY1Twb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14979,
+          "following_count": 744,
+          "like_count": 84698,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 17568
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T08:14:16.000Z",
+        "description": "幸福的活下去吧\n前世@dongmugen08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "dongmugen08"
+              }
+            ]
+          }
+        },
+        "id": "2033094355972726788",
+        "name": "东木艮（推油巡回中）",
+        "pinned_tweet_id": "2033095957039194381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033095147467190276/aYDkP8w8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 250,
+          "like_count": 2222,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 371
+        },
+        "username": "dongmugen0508",
+        "verified": false
+      }
+    ]
+  }
+}

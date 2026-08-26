@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2089521292294926787",
+    "created_at": "2026-08-18T15:06:32.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089730673628291173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1647232207596179456",
+          "start": 0,
+          "username": "xiexietouwei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089730673628291173",
+    "in_reply_to_user_id": "1647232207596179456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089521292294926787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiexietouwei 好强好强!!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_2089521283562381312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP94iWFaoAAvG10.jpg",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2089521292294926787",
+        "created_at": "2026-08-18T15:06:32.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089730673628291173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647232207596179456",
+              "start": 0,
+              "username": "xiexietouwei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089730673628291173",
+        "in_reply_to_user_id": "1647232207596179456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089521292294926787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiexietouwei 好强好强!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089521283562381312"
+          ]
+        },
+        "author_id": "1647232207596179456",
+        "conversation_id": "2089521292294926787",
+        "created_at": "2026-08-18T01:14:32.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089521292294926787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZPvfb9rr7",
+              "end": 42,
+              "expanded_url": "https://x.com/xiexietouwei/status/2089521292294926787/photo/1",
+              "media_key": "3_2089521283562381312",
+              "start": 19,
+              "url": "https://t.co/uZPvfb9rr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089521292294926787",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089521283562381312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2534,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂古法ps手搓了多久碎镜特效... https://t.co/uZPvfb9rr7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089730673628291173",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15053,
+          "following_count": 751,
+          "like_count": 88011,
+          "listed_count": 14,
+          "media_count": 958,
+          "tweet_count": 18075
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T13:35:47.000Z",
+        "description": "Coser/清水/唱见/女高/心理咨询/图修的超厉害     \n                     🚪门槛52/120/280/520/1314",
+        "id": "1647232207596179456",
+        "is_identity_verified": false,
+        "location": "请给我一个陪伴你的机会",
+        "most_recent_tweet_id": "2089720463991992335",
+        "name": "雨宫恋铃",
+        "pinned_tweet_id": "2057706790213837175",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647232207596179456/1782048125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080021120733073409/jaOB_XE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11623,
+          "following_count": 1019,
+          "like_count": 9905,
+          "listed_count": 25,
+          "media_count": 39,
+          "tweet_count": 17120
+        },
+        "url": "",
+        "username": "xiexietouwei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

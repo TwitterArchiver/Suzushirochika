@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2037888433419358693",
+    "created_at": "2026-03-28T16:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037934527235182818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        },
+        {
+          "end": 29,
+          "id": "1537009225716576257",
+          "start": 13,
+          "username": "JINPINGslutflop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037934527235182818",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037934048396583002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ @JINPINGslutflop 我刚试了一下见效特别快×"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2037888433419358693",
+        "created_at": "2026-03-28T16:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037934527235182818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            },
+            {
+              "end": 29,
+              "id": "1537009225716576257",
+              "start": 13,
+              "username": "JINPINGslutflop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037934527235182818",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037934048396583002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ @JINPINGslutflop 我刚试了一下见效特别快×"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3012350599",
+        "conversation_id": "2037888433419358693",
+        "created_at": "2026-03-28T16:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037934048396583002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            },
+            {
+              "end": 32,
+              "id": "1537009225716576257",
+              "start": 16,
+              "username": "JINPINGslutflop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037934048396583002",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037933413160870159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika @JINPINGslutflop 苦死了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14901,
+          "following_count": 749,
+          "like_count": 82833,
+          "listed_count": 13,
+          "media_count": 916,
+          "tweet_count": 17142
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "毛绒娃娃回家计划🐰🍊/#すこ部 推し /💕@GiveProofToLove 🫎@mukdengise 可以叫我桔桔/最近在闭关备考",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Octopus‘s Garden",
+        "name": "小学桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4231,
+          "following_count": 491,
+          "like_count": 41628,
+          "listed_count": 16,
+          "media_count": 3133,
+          "tweet_count": 43851
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-15T09:49:00.000Z",
+        "description": "╭(°ㅂ°`)╮",
+        "id": "1537009225716576257",
+        "name": "咩记营养快餐",
+        "pinned_tweet_id": "2036118695387480065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 2370,
+          "like_count": 98609,
+          "listed_count": 3,
+          "media_count": 1401,
+          "tweet_count": 10834
+        },
+        "username": "JINPINGslutflop",
+        "verified": false
+      }
+    ]
+  }
+}

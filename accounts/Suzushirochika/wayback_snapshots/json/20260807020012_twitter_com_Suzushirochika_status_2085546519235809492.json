@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2085256489669980537",
+    "created_at": "2026-08-07T02:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T03:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085546519235809492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857345168258805760",
+          "start": 0,
+          "username": "GL_macaroni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085546519235809492",
+    "in_reply_to_user_id": "1857345168258805760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085256489669980537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GL_macaroni 看到入间人间释怀了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1419,
+        "media_key": "3_2085256472901091328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBRtsTagAA0JCG.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2085256481054867456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBRuKrbQAA5M7m.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2085256489669980537",
+        "created_at": "2026-08-07T02:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085546519235809492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857345168258805760",
+              "start": 0,
+              "username": "GL_macaroni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085546519235809492",
+        "in_reply_to_user_id": "1857345168258805760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085256489669980537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GL_macaroni 看到入间人间释怀了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085256472901091328",
+            "3_2085256481054867456"
+          ]
+        },
+        "author_id": "1857345168258805760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085256489669980537",
+        "created_at": "2026-08-06T06:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085256489669980537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QJdVgrFOB",
+              "end": 98,
+              "expanded_url": "https://x.com/GL_macaroni/status/2085256489669980537/photo/1",
+              "media_key": "3_2085256472901091328",
+              "start": 75,
+              "url": "https://t.co/9QJdVgrFOB"
+            },
+            {
+              "display_url": "pic.x.com/9QJdVgrFOB",
+              "end": 98,
+              "expanded_url": "https://x.com/GL_macaroni/status/2085256489669980537/photo/1",
+              "media_key": "3_2085256481054867456",
+              "start": 75,
+              "url": "https://t.co/9QJdVgrFOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085256489669980537",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 448,
+          "impression_count": 75696,
+          "like_count": 1613,
+          "quote_count": 193,
+          "reply_count": 11,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "유부여고는 10살 차이나는데 이번 신작은 중학생 딸이 있는데 딸의 친구와 사랑에 빠진 거라 최소 20살 차이는 난다는 거임... ㅁㅊ https://t.co/9QJdVgrFOB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15061,
+          "following_count": 755,
+          "like_count": 87787,
+          "listed_count": 14,
+          "media_count": 956,
+          "tweet_count": 18031
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:49:52.000Z",
+        "description": "백합과 여자에 대한 얘기를 합시다",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/GL_macaroni",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/GL_macaroni",
+                "start": 0,
+                "url": "https://t.co/kkwgrovU88"
+              }
+            ]
+          }
+        },
+        "id": "1857345168258805760",
+        "name": "마카로니",
+        "pinned_tweet_id": "1947526684024180857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083652113306185729/wAo-TQa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4643,
+          "following_count": 176,
+          "like_count": 8618,
+          "listed_count": 8,
+          "media_count": 585,
+          "tweet_count": 2080
+        },
+        "url": "https://t.co/kkwgrovU88",
+        "username": "GL_macaroni",
+        "verified": false
+      }
+    ]
+  }
+}

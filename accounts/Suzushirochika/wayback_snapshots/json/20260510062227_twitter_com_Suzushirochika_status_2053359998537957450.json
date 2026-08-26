@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2052971827094560845",
+    "created_at": "2026-05-10T06:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053359998537957450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "790496033604243457",
+          "start": 0,
+          "username": "YakultMaffia"
+        },
+        {
+          "end": 22,
+          "id": "1693450364341948416",
+          "start": 14,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053359998537957450",
+    "in_reply_to_user_id": "790496033604243457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053190185362260213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YakultMaffia @igeekbb 哔哩哔哩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2052971827094560845",
+        "created_at": "2026-05-10T06:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053359998537957450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "790496033604243457",
+              "start": 0,
+              "username": "YakultMaffia"
+            },
+            {
+              "end": 22,
+              "id": "1693450364341948416",
+              "start": 14,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053359998537957450",
+        "in_reply_to_user_id": "790496033604243457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053190185362260213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YakultMaffia @igeekbb 哔哩哔哩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "790496033604243457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2052971827094560845",
+        "created_at": "2026-05-09T19:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053190185362260213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            },
+            {
+              "end": 24,
+              "id": "1693450364341948416",
+              "start": 16,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053190185362260213",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053178160100106395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika @igeekbb 抖音号？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14988,
+          "following_count": 751,
+          "like_count": 84212,
+          "listed_count": 14,
+          "media_count": 932,
+          "tweet_count": 17475
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-24T10:11:56.000Z",
+        "description": "Starve the ego. Feed the soul.\n\nShitposting about geopolitics, financial market, tech and esoteric knowledge.",
+        "id": "790496033604243457",
+        "location": "Antarctica",
+        "name": "Philip Zheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011797671716048896/OS-7BMFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 2015,
+          "like_count": 38967,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 12958
+        },
+        "username": "YakultMaffia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76014,
+          "following_count": 1,
+          "like_count": 14782,
+          "listed_count": 328,
+          "media_count": 7696,
+          "tweet_count": 12123
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

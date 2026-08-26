@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2083231102563737744",
+    "created_at": "2026-07-31T16:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083232212418535930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "894568945230815235",
+          "start": 0,
+          "username": "AokiiChiharu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083232212418535930",
+    "in_reply_to_user_id": "894568945230815235",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083231102563737744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AokiiChiharu ruarua"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083231073195220994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkfn6bbYAI3_39.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2083231102563737744",
+        "created_at": "2026-07-31T16:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083232212418535930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "894568945230815235",
+              "start": 0,
+              "username": "AokiiChiharu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083232212418535930",
+        "in_reply_to_user_id": "894568945230815235",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083231102563737744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AokiiChiharu ruarua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083231073195220994"
+          ]
+        },
+        "author_id": "894568945230815235",
+        "conversation_id": "2083231102563737744",
+        "created_at": "2026-07-31T16:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083231102563737744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3Uk5QF18N",
+              "end": 28,
+              "expanded_url": "https://x.com/AokiiChiharu/status/2083231102563737744/photo/1",
+              "media_key": "3_2083231073195220994",
+              "start": 5,
+              "url": "https://t.co/F3Uk5QF18N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083231102563737744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "好无聊… https://t.co/F3Uk5QF18N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15054,
+          "following_count": 756,
+          "like_count": 87725,
+          "listed_count": 14,
+          "media_count": 954,
+          "tweet_count": 17987
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-07T14:40:31.000Z",
+        "description": "一只喜欢吃西瓜的柚子狸，是个巨大的毛绒玩具，会一个把朋友们变圆的魔法 。（正躺在花坛里晒太阳 ）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huguaxi.com",
+                "end": 23,
+                "expanded_url": "https://huguaxi.com/",
+                "start": 0,
+                "url": "https://t.co/AUPstkw0fj"
+              }
+            ]
+          }
+        },
+        "id": "894568945230815235",
+        "location": "幽冥",
+        "name": "狐瓜西🍉",
+        "pinned_tweet_id": "2050328338733138012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037460510992674816/7U3wuL_c_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 620,
+          "like_count": 43798,
+          "listed_count": 19,
+          "media_count": 3687,
+          "tweet_count": 11024
+        },
+        "url": "https://t.co/AUPstkw0fj",
+        "username": "AokiiChiharu",
+        "verified": false
+      }
+    ]
+  }
+}

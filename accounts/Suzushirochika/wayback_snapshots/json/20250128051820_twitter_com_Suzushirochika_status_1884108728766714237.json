@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883624499284762624"
+      ],
+      "media_source_tweet_id": [
+        "1883624544315023775"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1884108728766714237",
+    "created_at": "2025-01-28T05:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T06:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884108728766714237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1612613444770926593",
+          "start": 3,
+          "username": "gygood1511"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aXBf0j3SYF",
+          "end": 41,
+          "expanded_url": "https://x.com/gygood1511/status/1883624544315023775/photo/1",
+          "media_key": "3_1883624499284762624",
+          "start": 18,
+          "url": "https://t.co/aXBf0j3SYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884108728766714237",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5372
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883624544315023775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gygood1511: 😠 https://t.co/aXBf0j3SYF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_1883624499284762624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiP6gJIXYAAaNdp.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883624499284762624"
+          ],
+          "media_source_tweet_id": [
+            "1883624544315023775"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1884108728766714237",
+        "created_at": "2025-01-28T05:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T06:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884108728766714237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1612613444770926593",
+              "start": 3,
+              "username": "gygood1511"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXBf0j3SYF",
+              "end": 41,
+              "expanded_url": "https://x.com/gygood1511/status/1883624544315023775/photo/1",
+              "media_key": "3_1883624499284762624",
+              "start": 18,
+              "url": "https://t.co/aXBf0j3SYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884108728766714237",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5372
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883624544315023775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gygood1511: 😠 https://t.co/aXBf0j3SYF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883624499284762624"
+          ]
+        },
+        "author_id": "1612613444770926593",
+        "conversation_id": "1883624544315023775",
+        "created_at": "2025-01-26T21:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T22:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883624544315023775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXBf0j3SYF",
+              "end": 25,
+              "expanded_url": "https://x.com/gygood1511/status/1883624544315023775/photo/1",
+              "media_key": "3_1883624499284762624",
+              "start": 2,
+              "url": "https://t.co/aXBf0j3SYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883624544315023775",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5895,
+          "impression_count": 860994,
+          "like_count": 85285,
+          "quote_count": 38,
+          "reply_count": 82,
+          "retweet_count": 5372
+        },
+        "reply_settings": "everyone",
+        "text": "😠 https://t.co/aXBf0j3SYF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13775,
+          "following_count": 858,
+          "like_count": 78475,
+          "listed_count": 22,
+          "media_count": 921,
+          "tweet_count": 16743
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T00:53:16.000Z",
+        "description": "fanático empedernido de cs2, genshin, @ClubSCristal y @realmadrid\nSonnista de corazón \nCR7=GOAT\nbocchi y hu tao las mejores\nlean juan 3:16",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "ClubSCristal"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "realmadrid"
+              }
+            ]
+          }
+        },
+        "id": "1612613444770926593",
+        "name": "Gygood15",
+        "pinned_tweet_id": "1880251420840194422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874318498345746432/FRSpvZGM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 398,
+          "like_count": 290090,
+          "listed_count": 1,
+          "media_count": 2362,
+          "tweet_count": 9184
+        },
+        "username": "gygood1511",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090700945785319803",
+    "created_at": "2026-08-21T09:07:37.000Z",
+    "display_text_range": [
+      10,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090727512930447822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090727512930447822",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090700945785319803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 这个是和ssri完全不同的体验，算是一种弱效的、可以带来活力的、兴奋剂（药效因人而异，一定不能超过300mg/d，不然会有很高癫痫风险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090700945785319803",
+        "created_at": "2026-08-21T09:07:37.000Z",
+        "display_text_range": [
+          10,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090727512930447822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090727512930447822",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090700945785319803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 这个是和ssri完全不同的体验，算是一种弱效的、可以带来活力的、兴奋剂（药效因人而异，一定不能超过300mg/d，不然会有很高癫痫风险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070544483977232389",
+        "conversation_id": "2090700945785319803",
+        "created_at": "2026-08-21T07:22:03.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090700945785319803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkanoQWQ/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/AkanoQWQ/status/2090653752629842394",
+              "start": 34,
+              "url": "https://t.co/qzP8VdAMID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090700945785319803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090653752629842394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以有没有推油知道安非他酮是什么神奇小药片，第一次就被开了这个…… https://t.co/qzP8VdAMID"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090727512930447822",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15059,
+          "following_count": 754,
+          "like_count": 88178,
+          "listed_count": 14,
+          "media_count": 958,
+          "tweet_count": 18122
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2090700945785319803",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070544483977232389/1784525401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 372,
+          "like_count": 2235,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 827
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

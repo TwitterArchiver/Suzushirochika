@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2039188457566900368",
+    "created_at": "2026-04-01T05:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039211157882552574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039211157882552574",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039188457566900368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 好狗好人都可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039188447899127808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEynFtsbkAABQ9q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2039188447945216001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEynFt3a0AEc-x5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2039188457566900368",
+        "created_at": "2026-04-01T05:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039211157882552574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039211157882552574",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039188457566900368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 好狗好人都可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039188447899127808",
+            "3_2039188447945216001"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2039188457566900368",
+        "created_at": "2026-04-01T03:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039188457566900368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtCSO4bxay",
+              "end": 27,
+              "expanded_url": "https://x.com/0xo_snow/status/2039188457566900368/photo/1",
+              "media_key": "3_2039188447899127808",
+              "start": 4,
+              "url": "https://t.co/mtCSO4bxay"
+            },
+            {
+              "display_url": "pic.x.com/mtCSO4bxay",
+              "end": 27,
+              "expanded_url": "https://x.com/0xo_snow/status/2039188457566900368/photo/1",
+              "media_key": "3_2039188447945216001",
+              "start": 4,
+              "url": "https://t.co/mtCSO4bxay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039188457566900368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉手手 https://t.co/mtCSO4bxay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14896,
+          "following_count": 750,
+          "like_count": 83167,
+          "listed_count": 13,
+          "media_count": 919,
+          "tweet_count": 17194
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 变得可爱是唯一追求 ！ip北京｜一般路过美少女厨｜亮点是我的日常｜持续接线下中ingᗜ ‸ ᗜ",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下•⩊•背景有赞赏码喵",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2036399408166871114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18151,
+          "following_count": 413,
+          "like_count": 15380,
+          "listed_count": 34,
+          "media_count": 1217,
+          "tweet_count": 13120
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

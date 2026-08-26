@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832636118283776001",
+        "3_1832636118321483776",
+        "3_1832636118296358918"
+      ],
+      "media_source_tweet_id": [
+        "1832636128136196293",
+        "1832636128136196293",
+        "1832636128136196293"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1832640541651063195",
+    "created_at": "2024-09-08T04:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T05:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832640541651063195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1540310486679334912",
+          "start": 3,
+          "username": "iling0202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vkwdnq8dvt",
+          "end": 134,
+          "expanded_url": "https://twitter.com/iling0202/status/1832636128136196293/photo/1",
+          "media_key": "3_1832636118283776001",
+          "start": 111,
+          "url": "https://t.co/VkWdnq8DVt"
+        },
+        {
+          "display_url": "pic.x.com/vkwdnq8dvt",
+          "end": 134,
+          "expanded_url": "https://twitter.com/iling0202/status/1832636128136196293/photo/1",
+          "media_key": "3_1832636118321483776",
+          "start": 111,
+          "url": "https://t.co/VkWdnq8DVt"
+        },
+        {
+          "display_url": "pic.x.com/vkwdnq8dvt",
+          "end": 134,
+          "expanded_url": "https://twitter.com/iling0202/status/1832636128136196293/photo/1",
+          "media_key": "3_1832636118296358918",
+          "start": 111,
+          "url": "https://t.co/VkWdnq8DVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832640541651063195",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832636128136196293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iling0202: 这里是淩ovo\n双相情感障碍/未成年/INTP\n🚪60 欢迎女宝宝互fo\n生病 吃饭 凑钱 苟延残喘中\n支付方式口令红包和赞赏码\n谢谢你的钱让我多活下去一份希望\n\n请麻烦各位大人帮忙转转＞＜ https://t.co/VkWdnq8DVt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832640541651063195].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832640541651063195",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832640541651063195"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1832636118283776001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW7U1wDa8AEtkuR.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1832636118321483776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW7U1wMaUAAMIa7.jpg",
+        "width": 600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1832636118296358918",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW7U1wGa8AYgokk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832636118283776001",
+            "3_1832636118321483776",
+            "3_1832636118296358918"
+          ]
+        },
+        "author_id": "1540310486679334912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1832636128136196293",
+        "created_at": "2024-09-08T04:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T05:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832636128136196293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkwdnq8dvt",
+              "end": 119,
+              "expanded_url": "https://twitter.com/iling0202/status/1832636128136196293/photo/1",
+              "media_key": "3_1832636118283776001",
+              "start": 96,
+              "url": "https://t.co/VkWdnq8DVt"
+            },
+            {
+              "display_url": "pic.x.com/vkwdnq8dvt",
+              "end": 119,
+              "expanded_url": "https://twitter.com/iling0202/status/1832636128136196293/photo/1",
+              "media_key": "3_1832636118321483776",
+              "start": 96,
+              "url": "https://t.co/VkWdnq8DVt"
+            },
+            {
+              "display_url": "pic.x.com/vkwdnq8dvt",
+              "end": 119,
+              "expanded_url": "https://twitter.com/iling0202/status/1832636128136196293/photo/1",
+              "media_key": "3_1832636118296358918",
+              "start": 96,
+              "url": "https://t.co/VkWdnq8DVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832636128136196293",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是淩ovo\n双相情感障碍/未成年/INTP\n🚪60 欢迎女宝宝互fo\n生病 吃饭 凑钱 苟延残喘中\n支付方式口令红包和赞赏码\n谢谢你的钱让我多活下去一份希望\n\n请麻烦各位大人帮忙转转＞＜ https://t.co/VkWdnq8DVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13369,
+          "following_count": 889,
+          "like_count": 77353,
+          "listed_count": 22,
+          "tweet_count": 16507
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T12:27:36.000Z",
+        "description": "自伤｜过量服药｜INTP- T｜仅存的希望｜私信功能已开放",
+        "id": "1540310486679334912",
+        "location": "距离0.8km",
+        "name": "凌ちゃん",
+        "pinned_tweet_id": "1832636128136196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829757444442009601/9bV8JNy9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 222,
+          "like_count": 2638,
+          "listed_count": 4,
+          "tweet_count": 609
+        },
+        "username": "iling0202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2040292198978343041",
+    "created_at": "2026-04-04T04:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T05:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040292198978343041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/willa_citrus/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/willa_citrus/status/2039751856344432704",
+          "start": 16,
+          "url": "https://t.co/KhEiT6krPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040292198978343041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039751856344432704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我从22年就没涨过fo了（摊手 https://t.co/KhEiT6krPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_2039751848278843393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6nf7qbYAEH9Sh.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2040292198978343041",
+        "created_at": "2026-04-04T04:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040292198978343041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2039751856344432704",
+              "start": 16,
+              "url": "https://t.co/KhEiT6krPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040292198978343041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039751856344432704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从22年就没涨过fo了（摊手 https://t.co/KhEiT6krPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039751848278843393"
+          ]
+        },
+        "author_id": "1767161673566359552",
+        "conversation_id": "2039751856344432704",
+        "created_at": "2026-04-02T17:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039751856344432704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDsXU4j7hi",
+              "end": 103,
+              "expanded_url": "https://x.com/willa_citrus/status/2039751856344432704/photo/1",
+              "media_key": "3_2039751848278843393",
+              "start": 80,
+              "url": "https://t.co/DDsXU4j7hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039751856344432704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10914,
+          "like_count": 122,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我半年不涨粉是因为我老老实实发照片分享生活不炒作\n你看我骂人是因为你的茧房都是那些东西\n你能在这造谣是因为实在没活了\n我能看到这东西是因为有朋友觉得你实在低级 https://t.co/DDsXU4j7hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14900,
+          "following_count": 750,
+          "like_count": 83373,
+          "listed_count": 14,
+          "media_count": 919,
+          "tweet_count": 17219
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 家人们动动发财的小手点个赞/ 如果空下来一定要做个播客 / 甜甜同居快六年 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11983,
+          "following_count": 210,
+          "like_count": 6980,
+          "listed_count": 35,
+          "media_count": 323,
+          "tweet_count": 8025
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

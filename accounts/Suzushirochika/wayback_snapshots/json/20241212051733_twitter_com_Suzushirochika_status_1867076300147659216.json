@@ -1,0 +1,580 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866773284442025984",
+        "3_1866773284450340864",
+        "3_1866773284463038464"
+      ],
+      "media_source_tweet_id": [
+        "1866773311021256944",
+        "1866773311021256944",
+        "1866773311021256944"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1343851677837770754",
+          "name": "無職転生 ～異世界行ったら本気だす～"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1370089486512615426",
+          "name": "Mushoku Tensei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370089486512615426",
+          "name": "Mushoku Tensei"
+        }
+      }
+    ],
+    "conversation_id": "1867076300147659216",
+    "created_at": "2024-12-12T05:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T06:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867076300147659216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582607916024049664",
+          "start": 3,
+          "username": "A_erukun"
+        },
+        {
+          "end": 53,
+          "id": "989524447622148097",
+          "start": 42,
+          "username": "LIB_Kasane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ecXzuSIqnp",
+          "end": 77,
+          "expanded_url": "https://x.com/A_erukun/status/1866773311021256944/photo/1",
+          "media_key": "3_1866773284442025984",
+          "start": 54,
+          "url": "https://t.co/ecXzuSIqnp"
+        },
+        {
+          "display_url": "pic.x.com/ecXzuSIqnp",
+          "end": 77,
+          "expanded_url": "https://x.com/A_erukun/status/1866773311021256944/photo/1",
+          "media_key": "3_1866773284450340864",
+          "start": 54,
+          "url": "https://t.co/ecXzuSIqnp"
+        },
+        {
+          "display_url": "pic.x.com/ecXzuSIqnp",
+          "end": 77,
+          "expanded_url": "https://x.com/A_erukun/status/1866773311021256944/photo/1",
+          "media_key": "3_1866773284463038464",
+          "start": 54,
+          "url": "https://t.co/ecXzuSIqnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867076300147659216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 429
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866773311021256944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A_erukun: ⚠︎コスプレ\n無職転生 / ロキシー・ミグルディア\n\n📷@LIB_Kasane https://t.co/ecXzuSIqnp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1866773284442025984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GegcaV9bMAAnfwR.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2304,
+        "media_key": "3_1866773284450340864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GegcaV_aEAA1qc7.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_1866773284463038464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GegcaWCb0AA7NXx.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866773284442025984",
+            "3_1866773284450340864",
+            "3_1866773284463038464"
+          ],
+          "media_source_tweet_id": [
+            "1866773311021256944",
+            "1866773311021256944",
+            "1866773311021256944"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1343851677837770754",
+              "name": "無職転生 ～異世界行ったら本気だす～"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1370089486512615426",
+              "name": "Mushoku Tensei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370089486512615426",
+              "name": "Mushoku Tensei"
+            }
+          }
+        ],
+        "conversation_id": "1867076300147659216",
+        "created_at": "2024-12-12T05:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T06:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867076300147659216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582607916024049664",
+              "start": 3,
+              "username": "A_erukun"
+            },
+            {
+              "end": 53,
+              "id": "989524447622148097",
+              "start": 42,
+              "username": "LIB_Kasane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecXzuSIqnp",
+              "end": 77,
+              "expanded_url": "https://x.com/A_erukun/status/1866773311021256944/photo/1",
+              "media_key": "3_1866773284442025984",
+              "start": 54,
+              "url": "https://t.co/ecXzuSIqnp"
+            },
+            {
+              "display_url": "pic.x.com/ecXzuSIqnp",
+              "end": 77,
+              "expanded_url": "https://x.com/A_erukun/status/1866773311021256944/photo/1",
+              "media_key": "3_1866773284450340864",
+              "start": 54,
+              "url": "https://t.co/ecXzuSIqnp"
+            },
+            {
+              "display_url": "pic.x.com/ecXzuSIqnp",
+              "end": 77,
+              "expanded_url": "https://x.com/A_erukun/status/1866773311021256944/photo/1",
+              "media_key": "3_1866773284463038464",
+              "start": 54,
+              "url": "https://t.co/ecXzuSIqnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867076300147659216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 429
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866773311021256944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A_erukun: ⚠︎コスプレ\n無職転生 / ロキシー・ミグルディア\n\n📷@LIB_Kasane https://t.co/ecXzuSIqnp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866773284442025984",
+            "3_1866773284450340864",
+            "3_1866773284463038464"
+          ]
+        },
+        "author_id": "1582607916024049664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1343851677837770754",
+              "name": "無職転生 ～異世界行ったら本気だす～"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1370089486512615426",
+              "name": "Mushoku Tensei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370089486512615426",
+              "name": "Mushoku Tensei"
+            }
+          }
+        ],
+        "conversation_id": "1866773311021256944",
+        "created_at": "2024-12-11T09:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T10:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866773311021256944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "989524447622148097",
+              "start": 28,
+              "username": "LIB_Kasane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecXzuSIqnp",
+              "end": 63,
+              "expanded_url": "https://x.com/A_erukun/status/1866773311021256944/photo/1",
+              "media_key": "3_1866773284442025984",
+              "start": 40,
+              "url": "https://t.co/ecXzuSIqnp"
+            },
+            {
+              "display_url": "pic.x.com/ecXzuSIqnp",
+              "end": 63,
+              "expanded_url": "https://x.com/A_erukun/status/1866773311021256944/photo/1",
+              "media_key": "3_1866773284450340864",
+              "start": 40,
+              "url": "https://t.co/ecXzuSIqnp"
+            },
+            {
+              "display_url": "pic.x.com/ecXzuSIqnp",
+              "end": 63,
+              "expanded_url": "https://x.com/A_erukun/status/1866773311021256944/photo/1",
+              "media_key": "3_1866773284463038464",
+              "start": 40,
+              "url": "https://t.co/ecXzuSIqnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866773311021256944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 414,
+          "impression_count": 65546,
+          "like_count": 4050,
+          "quote_count": 18,
+          "reply_count": 27,
+          "retweet_count": 429
+        },
+        "reply_settings": "everyone",
+        "text": "⚠︎コスプレ\n無職転生 / ロキシー・ミグルディア\n\n📷@LIB_Kasane https://t.co/ecXzuSIqnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13562,
+          "following_count": 873,
+          "like_count": 77994,
+          "listed_count": 22,
+          "media_count": 913,
+          "tweet_count": 16656
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T05:41:56.000Z",
+        "description": "20↑/関東/重加工/ 無断掲載× / wt垢【@eruk_wt】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "eruk_wt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@a_erukun",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@a_erukun",
+                "start": 0,
+                "url": "https://t.co/1HL9rBbsrU"
+              }
+            ]
+          }
+        },
+        "id": "1582607916024049664",
+        "name": "eruk(エルク)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757000904950349824/nXTecs6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21006,
+          "following_count": 441,
+          "like_count": 26666,
+          "listed_count": 159,
+          "media_count": 530,
+          "tweet_count": 13572
+        },
+        "url": "https://t.co/1HL9rBbsrU",
+        "username": "A_erukun",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-26T15:19:47.000Z",
+        "description": "コスプレ、ポトレ等の撮影してます。\n稼働は基本土日祝ですが、平日でも動けます。\nphotographer/cosplay\n\n東方/FGO/ブルアカ/ホロ/にじ/ニーディ/無職転生/NIKKE/チェ/原神/ゼンゼロ/prsk 等",
+        "id": "989524447622148097",
+        "location": "東京",
+        "name": "ユキヒト",
+        "pinned_tweet_id": "1836402969161728484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1254019069759512581/yQ4JfWrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1099,
+          "like_count": 18913,
+          "listed_count": 16,
+          "media_count": 266,
+          "tweet_count": 3333
+        },
+        "username": "LIB_Kasane",
+        "verified": true
+      }
+    ]
+  }
+}

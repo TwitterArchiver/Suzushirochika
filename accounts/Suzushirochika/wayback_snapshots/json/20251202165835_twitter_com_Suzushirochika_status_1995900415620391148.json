@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995862894358265858"
+      ],
+      "media_source_tweet_id": [
+        "1995862899882164404"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1995900415620391148",
+    "created_at": "2025-12-02T16:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T17:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995900415620391148"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "巫女さん",
+          "probability": 0.6824,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1680828764308250624",
+          "start": 3,
+          "username": "3l1WHiRmmH93385"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uf0nDEr00V",
+          "end": 49,
+          "expanded_url": "https://x.com/3l1WHiRmmH93385/status/1995862899882164404/photo/1",
+          "media_key": "3_1995862894358265858",
+          "start": 26,
+          "url": "https://t.co/uf0nDEr00V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995900415620391148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995862899882164404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3l1WHiRmmH93385: 巫女さん https://t.co/uf0nDEr00V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995862894358265858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7K6ulabgAIKLGN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995862894358265858"
+          ],
+          "media_source_tweet_id": [
+            "1995862899882164404"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1995900415620391148",
+        "created_at": "2025-12-02T16:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T17:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995900415620391148"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "巫女さん",
+              "probability": 0.6824,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1680828764308250624",
+              "start": 3,
+              "username": "3l1WHiRmmH93385"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uf0nDEr00V",
+              "end": 49,
+              "expanded_url": "https://x.com/3l1WHiRmmH93385/status/1995862899882164404/photo/1",
+              "media_key": "3_1995862894358265858",
+              "start": 26,
+              "url": "https://t.co/uf0nDEr00V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995900415620391148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995862899882164404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3l1WHiRmmH93385: 巫女さん https://t.co/uf0nDEr00V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995862894358265858"
+          ]
+        },
+        "author_id": "1680828764308250624",
+        "conversation_id": "1995862899882164404",
+        "created_at": "2025-12-02T14:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995862899882164404"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "巫女さん",
+              "probability": 0.6184,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uf0nDEr00V",
+              "end": 28,
+              "expanded_url": "https://x.com/3l1WHiRmmH93385/status/1995862899882164404/photo/1",
+              "media_key": "3_1995862894358265858",
+              "start": 5,
+              "url": "https://t.co/uf0nDEr00V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995862899882164404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 2684,
+          "like_count": 340,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "巫女さん https://t.co/uf0nDEr00V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14783,
+          "following_count": 831,
+          "like_count": 78982,
+          "listed_count": 23,
+          "media_count": 901,
+          "tweet_count": 16791
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:36:33.000Z",
+        "description": "しごとやめたい",
+        "id": "1680828764308250624",
+        "name": "ぶしゃまる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991497578232573956/HUEwuv0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 34,
+          "like_count": 829,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 231
+        },
+        "username": "3l1WHiRmmH93385",
+        "verified": false
+      }
+    ]
+  }
+}

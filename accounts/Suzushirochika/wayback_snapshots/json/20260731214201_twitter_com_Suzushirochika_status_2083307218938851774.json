@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2083113757547663856",
+    "created_at": "2026-07-31T21:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083307218938851774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1550843376718659584",
+          "start": 0,
+          "username": "water_times_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083307218938851774",
+    "in_reply_to_user_id": "1550843376718659584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083113757547663856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@water_times_3 是的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2083113757547663856",
+        "created_at": "2026-07-31T21:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083307218938851774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1550843376718659584",
+              "start": 0,
+              "username": "water_times_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083307218938851774",
+        "in_reply_to_user_id": "1550843376718659584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083113757547663856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@water_times_3 是的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550843376718659584",
+        "conversation_id": "2083113757547663856",
+        "created_at": "2026-07-31T08:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083113757547663856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083113757547663856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1748,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一直觉得打语音是个很暧昧的事情 两个人虽然不在一起 但是在做什么都能知道 无论是一起打游戏还是各做各的都特别喜欢 好想打电话TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15054,
+          "following_count": 756,
+          "like_count": 87757,
+          "listed_count": 14,
+          "media_count": 955,
+          "tweet_count": 17994
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T14:00:56.000Z",
+        "description": "",
+        "id": "1550843376718659584",
+        "name": "_.xia.qin._",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025614169714876416/urIpACH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 229,
+          "like_count": 4591,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 1837
+        },
+        "url": "",
+        "username": "water_times_3",
+        "verified": false
+      }
+    ]
+  }
+}

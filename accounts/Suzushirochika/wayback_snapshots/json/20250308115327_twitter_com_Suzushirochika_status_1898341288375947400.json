@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1897883424607608833",
+    "created_at": "2025-03-08T11:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T12:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898341288375947400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1286677970266988545",
+          "start": 0,
+          "username": "hayashibithome1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898341288375947400",
+    "in_reply_to_user_id": "1286677970266988545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897883424607608833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hayashibithome1 让她左转去难波那家杨国福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1897883424607608833",
+        "created_at": "2025-03-08T11:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898341288375947400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1286677970266988545",
+              "start": 0,
+              "username": "hayashibithome1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898341288375947400",
+        "in_reply_to_user_id": "1286677970266988545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897883424607608833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hayashibithome1 让她左转去难波那家杨国福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286677970266988545",
+        "conversation_id": "1897883424607608833",
+        "created_at": "2025-03-07T05:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T06:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897883424607608833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897883424607608833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 530700,
+          "like_count": 1560,
+          "quote_count": 19,
+          "reply_count": 910,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "老婆同学来日本玩\n\n安排今晚吃饭\n\n我约了海鲜料理\n\n她同学说“我家孩子吃不了海鲜”\n\n“为啥？因为过敏吗。”\n\n“不是，我们吃不了有辐射的东西，换神户牛吧。”\n\n我该怎么回？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897465103072571392/CCh8vHTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13936,
+          "following_count": 853,
+          "like_count": 79330,
+          "listed_count": 22,
+          "media_count": 928,
+          "tweet_count": 16825
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-24T15:02:00.000Z",
+        "description": "润日21年，日本房产13年。归化8年。全家4口，三個國籍，在大阪开房产公司，主做日本房产租赁买卖和润日业务。帮百位朋友润日成功，中介过几千套房产。諮詢費：200元，微信：bithome-ceo。杠精直接拉黑。",
+        "id": "1286677970266988545",
+        "location": "大阪市中央区千日前1-5-19",
+        "name": "宅大阪林社长.sat",
+        "pinned_tweet_id": "1705189434856292410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599046560322445312/nluedpqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15762,
+          "following_count": 1258,
+          "like_count": 34579,
+          "listed_count": 67,
+          "media_count": 7585,
+          "tweet_count": 16935
+        },
+        "username": "hayashibithome1",
+        "verified": true
+      }
+    ]
+  }
+}

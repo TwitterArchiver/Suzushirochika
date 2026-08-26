@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2091797573564834272",
+    "created_at": "2026-08-24T08:08:15.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T09:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091799737481474463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091799737481474463",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091797573564834272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 恋可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091797558637277184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQeOy_iasAAd4du.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2091797573564834272",
+        "created_at": "2026-08-24T08:08:15.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091799737481474463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091799737481474463",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091797573564834272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 恋可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091797558637277184"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2091797573564834272",
+        "created_at": "2026-08-24T07:59:39.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091797573564834272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdE74iWHhk",
+              "end": 25,
+              "expanded_url": "https://x.com/0xo_snow/status/2091797573564834272/photo/1",
+              "media_key": "3_2091797558637277184",
+              "start": 2,
+              "url": "https://t.co/zdE74iWHhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091797573564834272",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091797558637277184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤫 https://t.co/zdE74iWHhk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091799737481474463",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15095,
+          "following_count": 756,
+          "like_count": 88565,
+          "listed_count": 14,
+          "media_count": 960,
+          "tweet_count": 18178
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "我叫れん/恋🎀 ip北京 我在接线下\n不要欺负我 我是个温良且胆小的普通人😳\n唯一想要的只是可爱\n🪦另一面@rina20496141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "rina20496141"
+              }
+            ]
+          }
+        },
+        "id": "1522094329954652161",
+        "is_identity_verified": false,
+        "location": "🚪88",
+        "most_recent_tweet_id": "2091797573564834272",
+        "name": "🐰银河系No.1無聊小姐",
+        "pinned_tweet_id": "2090659658977689698",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094329954652161/1787512714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090910158474166272/6XBFdxF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17982,
+          "following_count": 423,
+          "like_count": 17891,
+          "listed_count": 36,
+          "media_count": 1506,
+          "tweet_count": 15340
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

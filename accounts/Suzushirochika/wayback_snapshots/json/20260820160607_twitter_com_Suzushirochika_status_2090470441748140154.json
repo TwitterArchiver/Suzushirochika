@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090470019876729169",
+    "created_at": "2026-08-20T16:06:07.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090470441748140154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090470441748140154",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090470019876729169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 居然摸肚子也没关系！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11820,
+        "height": 720,
+        "media_key": "13_2090469860597972993",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090469860597972993/img/wBWT3vIkW9-WEr3H.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090469860597972993/vid/avc1/480x270/o4yvZWImQGiV_Npk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090469860597972993/vid/avc1/640x360/xFz6lblwLs5aNJhR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090469860597972993/vid/avc1/1280x720/eCyioZhoR_vMRvlG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090469860597972993/pl/wBzdZc9S8z2Av9pO.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090470019876729169",
+        "created_at": "2026-08-20T16:06:07.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090470441748140154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090470441748140154",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090470019876729169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 居然摸肚子也没关系！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090469860597972993"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2090470019876729169",
+        "created_at": "2026-08-20T16:04:26.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090470019876729169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/62nzetTGlN",
+              "end": 31,
+              "expanded_url": "https://x.com/0xo_snow/status/2090470019876729169/video/1",
+              "media_key": "13_2090469860597972993",
+              "start": 8,
+              "url": "https://t.co/62nzetTGlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090470019876729169",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090469860597972993"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这猫是真的乖吧 https://t.co/62nzetTGlN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090470441748140154",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15053,
+          "following_count": 752,
+          "like_count": 88077,
+          "listed_count": 14,
+          "media_count": 954,
+          "tweet_count": 18099
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "我叫れん/恋🎀 ip北京 我在接线下\n温良且胆小的普通人 拜托不要欺负我\n唯一想要的只是变可爱\n🪦另一面@rina20496141",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "rina20496141"
+              }
+            ]
+          }
+        },
+        "id": "1522094329954652161",
+        "is_identity_verified": false,
+        "location": "🚪88",
+        "most_recent_tweet_id": "2090470019876729169",
+        "name": "🐰银河系No.1無聊小姐",
+        "pinned_tweet_id": "2088578583417774583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522094329954652161/1786450107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087149090320883712/dXZKIGrv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17979,
+          "following_count": 423,
+          "like_count": 17832,
+          "listed_count": 35,
+          "media_count": 1498,
+          "tweet_count": 15290
+        },
+        "url": "",
+        "username": "0xo_snow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

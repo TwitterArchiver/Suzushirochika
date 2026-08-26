@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2005946701362638950",
+    "created_at": "2025-12-30T10:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T11:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005946701362638950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421301972007849986",
+          "start": 3,
+          "username": "pbpp10521715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005946701362638950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005555183020130662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pbpp10521715: 凭我个人经验来说能不休学就不要休学，目前我认识的5个休学的地雷女最终都因为各种各样的原因回不了学校或者回学校以后无法适应直接跳了的，宁可直接退学破文凭不要了直接断舍离，不然心里一直有一个结堵着你更难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2005946701362638950",
+        "created_at": "2025-12-30T10:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005946701362638950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421301972007849986",
+              "start": 3,
+              "username": "pbpp10521715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005946701362638950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005555183020130662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pbpp10521715: 凭我个人经验来说能不休学就不要休学，目前我认识的5个休学的地雷女最终都因为各种各样的原因回不了学校或者回学校以后无法适应直接跳了的，宁可直接退学破文凭不要了直接断舍离，不然心里一直有一个结堵着你更难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "2005555183020130662",
+        "created_at": "2025-12-29T08:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005555183020130662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005555183020130662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 63997,
+          "like_count": 642,
+          "quote_count": 13,
+          "reply_count": 56,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "凭我个人经验来说能不休学就不要休学，目前我认识的5个休学的地雷女最终都因为各种各样的原因回不了学校或者回学校以后无法适应直接跳了的，宁可直接退学破文凭不要了直接断舍离，不然心里一直有一个结堵着你更难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000756490651717632/hHxhaRLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14772,
+          "following_count": 828,
+          "like_count": 79117,
+          "listed_count": 24,
+          "media_count": 902,
+          "tweet_count": 16796
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "水逆中，随机掉落小白",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪咪摸摸",
+        "pinned_tweet_id": "1994214535100866917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005189372724027392/wrCnH6l9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12732,
+          "following_count": 476,
+          "like_count": 23910,
+          "listed_count": 26,
+          "media_count": 835,
+          "tweet_count": 9038
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      }
+    ]
+  }
+}

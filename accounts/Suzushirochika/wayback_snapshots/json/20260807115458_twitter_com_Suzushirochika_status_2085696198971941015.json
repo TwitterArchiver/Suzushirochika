@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2085674109741236562",
+    "created_at": "2026-08-07T11:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085696198971941015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Ajs_ririka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085696198971941015",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085674109741236562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajs_ririka 这天在北京最好门都不要出"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2085674094054473728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHNicVaAAAOEml.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2085674109741236562",
+        "created_at": "2026-08-07T11:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085696198971941015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Ajs_ririka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085696198971941015",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085674109741236562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajs_ririka 这天在北京最好门都不要出"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085674094054473728"
+          ]
+        },
+        "author_id": "1681716872415440896",
+        "conversation_id": "2085674109741236562",
+        "created_at": "2026-08-07T10:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085674109741236562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhMB13RFJt",
+              "end": 41,
+              "expanded_url": "https://x.com/Ajs_ririka/status/2085674109741236562/photo/1",
+              "media_key": "3_2085674094054473728",
+              "start": 18,
+              "url": "https://t.co/yhMB13RFJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085674109741236562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这天来北京旅游的\n我敬你们是条汉子 https://t.co/yhMB13RFJt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15063,
+          "following_count": 755,
+          "like_count": 87812,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18038
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "遗憾总是贯穿人生始终/逃生舱@Ajs_aya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "Ajs_aya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajisairirika",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajisairirika",
+                "start": 0,
+                "url": "https://t.co/ojeLWGdAIM"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "location": "精神世界",
+        "name": "Ririka",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986630336080650240/V8mqkC1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 1247,
+          "like_count": 32944,
+          "listed_count": 2,
+          "media_count": 956,
+          "tweet_count": 20757
+        },
+        "url": "https://t.co/ojeLWGdAIM",
+        "username": "Ajs_ririka",
+        "verified": false
+      }
+    ]
+  }
+}

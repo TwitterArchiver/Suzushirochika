@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2018208853591298493",
+    "created_at": "2026-02-02T06:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T07:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018209752850031088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2689170356",
+          "start": 0,
+          "username": "Hoshikawa_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018209752850031088",
+    "in_reply_to_user_id": "2689170356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018208853591298493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshikawa_ran 译者刚看完FateZero里面的亚历山大脑子晕晕的）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2018208612414615552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIeCkGbcAAPSZS.png",
+        "width": 1302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2018208853591298493",
+        "created_at": "2026-02-02T06:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018209752850031088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2689170356",
+              "start": 0,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018209752850031088",
+        "in_reply_to_user_id": "2689170356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018208853591298493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshikawa_ran 译者刚看完FateZero里面的亚历山大脑子晕晕的）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018208612414615552"
+          ]
+        },
+        "author_id": "2689170356",
+        "conversation_id": "2018208853591298493",
+        "created_at": "2026-02-02T06:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018208853591298493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6x5EBfF1j5",
+              "end": 50,
+              "expanded_url": "https://x.com/Hoshikawa_ran/status/2018208853591298493/photo/1",
+              "media_key": "3_2018208612414615552",
+              "start": 27,
+              "url": "https://t.co/6x5EBfF1j5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018208853591298493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😅亚历山大时代的火炮说是。译者脑子里装的是什么东西？ https://t.co/6x5EBfF1j5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14806,
+          "following_count": 793,
+          "like_count": 79942,
+          "listed_count": 13,
+          "media_count": 905,
+          "tweet_count": 16872
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇬🇱🇮🇷Fereydun ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15264,
+          "following_count": 391,
+          "like_count": 156989,
+          "listed_count": 73,
+          "media_count": 2684,
+          "tweet_count": 26554
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1800339189923487763",
+    "created_at": "2024-06-11T01:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T02:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800345728080072927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442362841193795593",
+          "start": 0,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800345728080072927",
+    "in_reply_to_user_id": "1442362841193795593",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800339189923487763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusunoki_riko 为什么不是捷达！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1800339189923487763",
+        "created_at": "2024-06-11T01:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T02:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800345728080072927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800345728080072927",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800339189923487763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko 为什么不是捷达！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800339185997582336"
+          ]
+        },
+        "author_id": "1442362841193795593",
+        "conversation_id": "1800339189923487763",
+        "created_at": "2024-06-11T01:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T02:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800339189923487763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/q7VpdcDKkk",
+              "end": 82,
+              "expanded_url": "https://twitter.com/kusunoki_riko/status/1800339189923487763/photo/1",
+              "media_key": "3_1800339185997582336",
+              "start": 59,
+              "url": "https://t.co/q7VpdcDKkk"
+            },
+            {
+              "display_url": "x.com/JCMarkEvo/stat…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/JCMarkEvo/status/1800143938642395510",
+              "start": 83,
+              "url": "https://t.co/W0DF62S4mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800339189923487763",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800143938642395510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那当然是奥迪100啊（而且必须是纯黑的）\n电视上开这车的基本都是心系百姓的村官支书啥的（而一般反面角色开的是桑塔纳） https://t.co/q7VpdcDKkk https://t.co/W0DF62S4mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13259,
+          "following_count": 901,
+          "like_count": 77348,
+          "listed_count": 22,
+          "tweet_count": 16483
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "为你明灯三千，为你花开满城： @Suzushirochika\n || \n旧墨已为陈迹，新章展卷待书\n || \n在这里，你可能看到不限于以下内容：①暴论  ②情绪宣泄  ③意义不明  ④日常  ⑤凡尔赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "Suzushirochika"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "location": "此心安处是吾乡",
+        "name": "楠•理子",
+        "pinned_tweet_id": "1669604468877565952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791833882444353536/SRl_9Z3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8026,
+          "following_count": 1537,
+          "like_count": 112536,
+          "listed_count": 30,
+          "tweet_count": 54191
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": true
+      }
+    ]
+  }
+}

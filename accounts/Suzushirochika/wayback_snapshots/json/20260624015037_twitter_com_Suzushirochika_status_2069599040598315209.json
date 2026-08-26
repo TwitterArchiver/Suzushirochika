@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2066176160502026647",
+    "created_at": "2026-06-24T01:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069599040598315209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1218028959109210113",
+          "start": 0,
+          "username": "RizumuA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069599040598315209",
+    "in_reply_to_user_id": "1218028959109210113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066176160502026647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RizumuA3 神作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2066176160502026647",
+        "created_at": "2026-06-24T01:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069599040598315209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1218028959109210113",
+              "start": 0,
+              "username": "RizumuA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069599040598315209",
+        "in_reply_to_user_id": "1218028959109210113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066176160502026647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RizumuA3 神作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1218028959109210113",
+        "conversation_id": "2066176160502026647",
+        "created_at": "2026-06-14T15:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066176160502026647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066176160502026647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8764,
+          "like_count": 62,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友带我看了两集《心理测量者》。不愧是 虚渊玄 的作品。非常好看，被安利到了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14983,
+          "following_count": 748,
+          "like_count": 85301,
+          "listed_count": 14,
+          "media_count": 946,
+          "tweet_count": 17710
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12076,
+          "following_count": 1592,
+          "like_count": 45606,
+          "listed_count": 59,
+          "media_count": 1979,
+          "tweet_count": 14905
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

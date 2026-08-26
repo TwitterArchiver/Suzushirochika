@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2072496543739850788",
+    "created_at": "2026-07-02T03:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072526476914938112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417155588551847937",
+          "start": 0,
+          "username": "JealousDevil9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072526476914938112",
+    "in_reply_to_user_id": "1417155588551847937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072496543739850788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JealousDevil9 😨害怕😰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072496543739850788].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072496543739850788",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072496543739850788"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2072496543739850788",
+        "created_at": "2026-07-02T03:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072526476914938112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417155588551847937",
+              "start": 0,
+              "username": "JealousDevil9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072526476914938112",
+        "in_reply_to_user_id": "1417155588551847937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072496543739850788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JealousDevil9 😨害怕😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15039,
+          "following_count": 747,
+          "like_count": 86088,
+          "listed_count": 14,
+          "media_count": 950,
+          "tweet_count": 17779
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T16:13:29.000Z",
+        "description": "祈求歡愉",
+        "id": "1417155588551847937",
+        "location": "Null",
+        "name": "サヤ₂",
+        "pinned_tweet_id": "1873222086057168919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711707302880026624/uOqSDoE1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 2854,
+          "like_count": 162920,
+          "listed_count": 10,
+          "media_count": 2103,
+          "tweet_count": 27556
+        },
+        "url": "",
+        "username": "JealousDevil9",
+        "verified": false
+      }
+    ]
+  }
+}

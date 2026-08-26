@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1836715970318200946",
+    "created_at": "2024-09-19T14:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T15:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836776477737771056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468163720195239938",
+          "start": 0,
+          "username": "xijinpingdiguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836776477737771056",
+    "in_reply_to_user_id": "1468163720195239938",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836715970318200946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinpingdiguo 哈人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1836715970318200946",
+        "created_at": "2024-09-19T14:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T15:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836776477737771056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468163720195239938",
+              "start": 0,
+              "username": "xijinpingdiguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836776477737771056",
+        "in_reply_to_user_id": "1468163720195239938",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836715970318200946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinpingdiguo 哈人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836715960948150272"
+          ]
+        },
+        "author_id": "1468163720195239938",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1836715970318200946",
+        "created_at": "2024-09-19T10:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T11:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836715970318200946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xj8suyq3rv",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xijinpingdiguo/status/1836715970318200946/photo/1",
+              "media_key": "3_1836715960948150272",
+              "start": 12,
+              "url": "https://t.co/XJ8SUyQ3RV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836715970318200946",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 96062,
+          "like_count": 800,
+          "quote_count": 28,
+          "reply_count": 149,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "ISI语言学校的四月生 https://t.co/XJ8SUyQ3RV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13423,
+          "following_count": 886,
+          "like_count": 77269,
+          "listed_count": 22,
+          "tweet_count": 16537
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T10:22:07.000Z",
+        "description": "兔友ptsd疗养院/日本网络警察/蜘蛛分类专家/兔友无害化处理专门机构/滞日蜘蛛防治研究所/战螂出道事务部/君子居必择乡、遊必就士、所以防邪僻而近中正也",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCpK6b…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCpK6b7YCSlU4aN_tPdP4Daw",
+                "start": 0,
+                "url": "https://t.co/vvlVA1CzKz"
+              }
+            ]
+          }
+        },
+        "id": "1468163720195239938",
+        "location": "神奈 横浜市 神奈川区",
+        "name": "習　献平(商業版)",
+        "pinned_tweet_id": "1587718622927257600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834408073861234688/zhZIWGYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79240,
+          "following_count": 771,
+          "like_count": 35550,
+          "listed_count": 348,
+          "tweet_count": 10444
+        },
+        "url": "https://t.co/vvlVA1CzKz",
+        "username": "xijinpingdiguo",
+        "verified": true
+      }
+    ]
+  }
+}

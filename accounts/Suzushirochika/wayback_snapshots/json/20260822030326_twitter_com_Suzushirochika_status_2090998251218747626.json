@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090604296995811786",
+    "created_at": "2026-08-22T03:03:26.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T04:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090998251218747626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1922389433510461442",
+          "start": 0,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090998251218747626",
+    "in_reply_to_user_id": "1922389433510461442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090604296995811786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RieXwX 呜呜狗子…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090604284391878656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNRhSkWcAAZxkT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090604296995811786",
+        "created_at": "2026-08-22T03:03:26.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090998251218747626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1922389433510461442",
+              "start": 0,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090998251218747626",
+        "in_reply_to_user_id": "1922389433510461442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090604296995811786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RieXwX 呜呜狗子…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090604284391878656"
+          ]
+        },
+        "author_id": "1922389433510461442",
+        "conversation_id": "2090604296995811786",
+        "created_at": "2026-08-21T00:58:00.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090604296995811786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOVtmVGIaY",
+              "end": 81,
+              "expanded_url": "https://x.com/RieXwX/status/2090604296995811786/photo/1",
+              "media_key": "3_2090604284391878656",
+              "start": 58,
+              "url": "https://t.co/uOVtmVGIaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090604296995811786",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090604284391878656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2540,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚好崩溃我都在准备上吊的绳子了 我家狗一直在外面挠我的门然后大叫 我把它放进来之后它一直让我抱它。好无语好无奈 https://t.co/uOVtmVGIaY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090998251218747626",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15069,
+          "following_count": 755,
+          "like_count": 88364,
+          "listed_count": 14,
+          "media_count": 959,
+          "tweet_count": 18161
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "而我就是一个只爱打游戏的老实人，我什么也不懂。",
+        "id": "1922389433510461442",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090979640336601374",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922389433510461442/1751180665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088818013822980096/si9ZLs38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10160,
+          "following_count": 55,
+          "like_count": 524,
+          "listed_count": 11,
+          "media_count": 406,
+          "tweet_count": 1493
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

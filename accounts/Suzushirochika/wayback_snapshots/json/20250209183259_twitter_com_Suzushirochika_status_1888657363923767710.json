@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1888657363923767710",
+    "created_at": "2025-02-09T18:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T19:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888657363923767710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1815649539057201152",
+          "start": 3,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888657363923767710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888514978896036181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NankyuSeiichi: 我在舞萌机厅旁边开药店和酒店，算不算产业集中化？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1888657363923767710",
+        "created_at": "2025-02-09T18:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T19:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888657363923767710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1815649539057201152",
+              "start": 3,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888657363923767710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888514978896036181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NankyuSeiichi: 我在舞萌机厅旁边开药店和酒店，算不算产业集中化？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1888514978896036181",
+        "created_at": "2025-02-09T09:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T10:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888514978896036181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888514978896036181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8436,
+          "like_count": 166,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在舞萌机厅旁边开药店和酒店，算不算产业集中化？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13860,
+          "following_count": 853,
+          "like_count": 78792,
+          "listed_count": 22,
+          "media_count": 921,
+          "tweet_count": 16747
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙、历史进程、自然边界、为时不晚",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1863574456205213709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 922,
+          "like_count": 10793,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 4979
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

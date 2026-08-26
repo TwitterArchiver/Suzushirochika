@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062080339770773504",
+        "3_2062080339749810176"
+      ],
+      "media_source_tweet_id": [
+        "2062080349233201286",
+        "2062080349233201286"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2062147633360331028",
+    "created_at": "2026-06-03T12:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062147633360331028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751994362324508672",
+          "start": 3,
+          "username": "Momo77mo77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/onBjYmaJVM",
+          "end": 115,
+          "expanded_url": "https://x.com/Momo77mo77/status/2062080349233201286/photo/1",
+          "media_key": "3_2062080339770773504",
+          "start": 92,
+          "url": "https://t.co/onBjYmaJVM"
+        },
+        {
+          "display_url": "pic.x.com/onBjYmaJVM",
+          "end": 115,
+          "expanded_url": "https://x.com/Momo77mo77/status/2062080349233201286/photo/1",
+          "media_key": "3_2062080339749810176",
+          "start": 92,
+          "url": "https://t.co/onBjYmaJVM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062147633360331028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062080349233201286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Momo77mo77: Ryougi Shiki Cosplay\n\n也是好多年前拍的\n虽然退坑了但是我真想再瘦一瘦再拍一次shiki 这个计划我到我五十岁之前 我一定再拍一次 https://t.co/onBjYmaJVM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2062080339770773504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ37JMZakAA7D6J.jpg",
+        "width": 575
+      },
+      {
+        "height": 683,
+        "media_key": "3_2062080339749810176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ37JMUasAA_Srv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062080339770773504",
+            "3_2062080339749810176"
+          ],
+          "media_source_tweet_id": [
+            "2062080349233201286",
+            "2062080349233201286"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2062147633360331028",
+        "created_at": "2026-06-03T12:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062147633360331028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751994362324508672",
+              "start": 3,
+              "username": "Momo77mo77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/onBjYmaJVM",
+              "end": 115,
+              "expanded_url": "https://x.com/Momo77mo77/status/2062080349233201286/photo/1",
+              "media_key": "3_2062080339770773504",
+              "start": 92,
+              "url": "https://t.co/onBjYmaJVM"
+            },
+            {
+              "display_url": "pic.x.com/onBjYmaJVM",
+              "end": 115,
+              "expanded_url": "https://x.com/Momo77mo77/status/2062080349233201286/photo/1",
+              "media_key": "3_2062080339749810176",
+              "start": 92,
+              "url": "https://t.co/onBjYmaJVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062147633360331028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062080349233201286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Momo77mo77: Ryougi Shiki Cosplay\n\n也是好多年前拍的\n虽然退坑了但是我真想再瘦一瘦再拍一次shiki 这个计划我到我五十岁之前 我一定再拍一次 https://t.co/onBjYmaJVM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062080339770773504",
+            "3_2062080339749810176"
+          ]
+        },
+        "author_id": "1751994362324508672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2062080349233201286",
+        "created_at": "2026-06-03T07:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062080349233201286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onBjYmaJVM",
+              "end": 99,
+              "expanded_url": "https://x.com/Momo77mo77/status/2062080349233201286/photo/1",
+              "media_key": "3_2062080339770773504",
+              "start": 76,
+              "url": "https://t.co/onBjYmaJVM"
+            },
+            {
+              "display_url": "pic.x.com/onBjYmaJVM",
+              "end": 99,
+              "expanded_url": "https://x.com/Momo77mo77/status/2062080349233201286/photo/1",
+              "media_key": "3_2062080339749810176",
+              "start": 76,
+              "url": "https://t.co/onBjYmaJVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062080349233201286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1915,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Ryougi Shiki Cosplay\n\n也是好多年前拍的\n虽然退坑了但是我真想再瘦一瘦再拍一次shiki 这个计划我到我五十岁之前 我一定再拍一次 https://t.co/onBjYmaJVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14975,
+          "following_count": 746,
+          "like_count": 84926,
+          "listed_count": 14,
+          "media_count": 938,
+          "tweet_count": 17610
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T15:43:10.000Z",
+        "description": "Thanks for liking🫶🏻Just casually posting old stuff here\nVkei/Metal head/Typemoon/Art",
+        "id": "1751994362324508672",
+        "name": "ENVY7",
+        "pinned_tweet_id": "2060066651765383624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055094442567299072/Zu-fgaD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 64,
+          "like_count": 284,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 244
+        },
+        "username": "Momo77mo77",
+        "verified": false
+      }
+    ]
+  }
+}

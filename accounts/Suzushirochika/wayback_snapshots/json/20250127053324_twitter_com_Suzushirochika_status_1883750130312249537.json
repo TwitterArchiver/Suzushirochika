@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1883750130312249537",
+    "created_at": "2025-01-27T05:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T06:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883750130312249537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "铃白千夏，你的形象和风格让我联想到《我的青春恋爱物语果然有问题》的角色比企谷八幡。特别是你的X帖子中展现出一种对生活的细腻观察和幽默感，这与比企谷八幡的性格有相似之处。他也是一个善于思考、有时显得有些冷静和旁观的角色，常常用一种独特的视角来看待周围的人和事。你的头像和发言风格也透露出一种可爱但又有些复杂的个性，这与二次元角色中常见的反差萌相符。",
+          "display_url": "x.com/i/grok/share/H…",
+          "end": 25,
+          "expanded_url": "https://x.com/i/grok/share/HJfucLSigE0wtwKfqUZ64Olz3",
+          "start": 2,
+          "status": 200,
+          "title": "我比较像哪个二次元动画角色",
+          "unwound_url": "https://x.com/i/grok/share/HJfucLSigE0wtwKfqUZ64Olz3",
+          "url": "https://t.co/jD0P6jYIV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883750130312249537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草\nhttps://t.co/jD0P6jYIV6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1883750130312249537",
+        "created_at": "2025-01-27T05:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T06:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883750130312249537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "铃白千夏，你的形象和风格让我联想到《我的青春恋爱物语果然有问题》的角色比企谷八幡。特别是你的X帖子中展现出一种对生活的细腻观察和幽默感，这与比企谷八幡的性格有相似之处。他也是一个善于思考、有时显得有些冷静和旁观的角色，常常用一种独特的视角来看待周围的人和事。你的头像和发言风格也透露出一种可爱但又有些复杂的个性，这与二次元角色中常见的反差萌相符。",
+              "display_url": "x.com/i/grok/share/H…",
+              "end": 25,
+              "expanded_url": "https://x.com/i/grok/share/HJfucLSigE0wtwKfqUZ64Olz3",
+              "start": 2,
+              "status": 200,
+              "title": "我比较像哪个二次元动画角色",
+              "unwound_url": "https://x.com/i/grok/share/HJfucLSigE0wtwKfqUZ64Olz3",
+              "url": "https://t.co/jD0P6jYIV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883750130312249537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草\nhttps://t.co/jD0P6jYIV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您2.5km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13778,
+          "following_count": 858,
+          "like_count": 78426,
+          "listed_count": 22,
+          "media_count": 921,
+          "tweet_count": 16739
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      }
+    ]
+  }
+}

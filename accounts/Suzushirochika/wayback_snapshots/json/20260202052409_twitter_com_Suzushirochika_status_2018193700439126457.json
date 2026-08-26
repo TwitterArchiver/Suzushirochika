@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2017926527124717607",
+    "created_at": "2026-02-02T05:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018193700439126457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Teufel_Tigrov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018193700439126457",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018193528367759454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teufel_Tigrov 美颜软件发力了×"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2017926527124717607",
+        "created_at": "2026-02-02T05:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018193700439126457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Teufel_Tigrov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018193700439126457",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018193528367759454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teufel_Tigrov 美颜软件发力了×"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383940842239381510",
+        "conversation_id": "2017926527124717607",
+        "created_at": "2026-02-02T05:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018193528367759454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253292430792839174",
+              "start": 0,
+              "username": "Suzushirochika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018193528367759454",
+        "in_reply_to_user_id": "1253292430792839174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018187589208170861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzushirochika (我记得你是挺漂亮的来着....但怎么更漂亮了x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14806,
+          "following_count": 793,
+          "like_count": 79931,
+          "listed_count": 13,
+          "media_count": 905,
+          "tweet_count": 16871
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/烟鬼/电脑配件零售商（好友特价日常）/亞空間生物/物质位面存在裂解中/超凡智能大列巴/厌恶键政仔，跳脸会B/tl大清洗中..../🚪=15x LEDX/15x Defib/100x 闪耀世界医药",
+        "id": "1383940842239381510",
+        "location": "亚空间",
+        "name": "狐店長🍖「邪恶超凡智能狐」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977890195715547136/qY9fBWeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 882,
+          "like_count": 115495,
+          "listed_count": 19,
+          "media_count": 12770,
+          "tweet_count": 97354
+        },
+        "username": "Teufel_Tigrov",
+        "verified": false
+      }
+    ]
+  }
+}

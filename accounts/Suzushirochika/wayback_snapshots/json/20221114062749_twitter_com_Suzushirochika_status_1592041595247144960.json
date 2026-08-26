@@ -1,0 +1,100 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 14 06:27:49 +0000 2022",
+  "display_text_range": [
+    18,
+    25
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2954346651,
+        "id_str": "2954346651",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "米粥（（（（（（（（（（（（（（（",
+        "screen_name": "EN__Ien"
+      },
+      {
+        "id": 1511393448066453508,
+        "id_str": "1511393448066453508",
+        "indices": [
+          9,
+          17
+        ],
+        "name": "篱秋",
+        "screen_name": "liqiu99"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1592041595247144960,
+  "id_str": "1592041595247144960",
+  "in_reply_to_screen_name": "EN__Ien",
+  "in_reply_to_status_id": 1591992684440596480,
+  "in_reply_to_status_id_str": "1591992684440596480",
+  "in_reply_to_user_id": 2954346651,
+  "in_reply_to_user_id_str": "2954346651",
+  "is_quote_status": false,
+  "lang": "ja",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "@EN__Ien @liqiu99 富哥们v我50",
+  "timestamp_ms": "1668407269666",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Apr 23 12:00:18 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "快說我聰明又可愛",
+    "favourites_count": 76984,
+    "follow_request_sent": null,
+    "followers_count": 11656,
+    "following": null,
+    "friends_count": 1055,
+    "geo_enabled": true,
+    "id": 1253292430792839174,
+    "id_str": "1253292430792839174",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 26,
+    "location": null,
+    "name": "♪鈴白千夏🍥🍓",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1668169267",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1574285188422856704/aVWQM4GA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1574285188422856704/aVWQM4GA_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Suzushirochika",
+    "statuses_count": 14714,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2075111459265315286",
+    "created_at": "2026-07-10T05:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075448558879399968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048564180530446336",
+          "start": 0,
+          "username": "hiyuxxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075448558879399968",
+    "in_reply_to_user_id": "2048564180530446336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075111459265315286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiyuxxx_ 直接熬夜看完以后直接去上学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2075111459265315286",
+        "created_at": "2026-07-10T05:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075448558879399968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048564180530446336",
+              "start": 0,
+              "username": "hiyuxxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075448558879399968",
+        "in_reply_to_user_id": "2048564180530446336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075111459265315286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiyuxxx_ 直接熬夜看完以后直接去上学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048564180530446336",
+        "conversation_id": "2075111459265315286",
+        "created_at": "2026-07-09T06:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075111459265315286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075111459265315286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1656,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很好奇 大家在还要忙工作和学习的情况下看完一部动漫一般要花多长时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15050,
+          "following_count": 749,
+          "like_count": 86417,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 17812
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T00:45:57.000Z",
+        "description": "vi）汚部屋「女子高生日記」ひなた —— 加好友私聊易相处、dm领取日常生活照片 (͒ ᴖ ·̫ ᴖ⸝⸝ )͒ 音乐是毒品 𖹭 账号发布随机想法 情绪稳定高强度\n\nenfp —××××××××  敏感、多层次人格、情感依赖、不稳定 、高连接需求、混合型依恋",
+        "id": "2048564180530446336",
+        "location": "12",
+        "name": "ミザ",
+        "pinned_tweet_id": "2062708266866728973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062770402007638016/_OlQj7JK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 180,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "hiyuxxx_",
+        "verified": false
+      }
+    ]
+  }
+}

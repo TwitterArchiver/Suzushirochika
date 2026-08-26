@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1980874061690597428",
+    "created_at": "2025-10-22T05:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T06:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980874061690597428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1965393379224944645",
+          "start": 3,
+          "username": "hagishigure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980874061690597428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980674556466720973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hagishigure: 我不得不給花路發父權牌子了。\n女權的本質是：自由，尊嚴，平等。\n做不到的一律歸為父權。\n規訓女性這種東西本來就是父權專屬。別人女性哪怕移植子宮都不管你花路的事情吧。哪來那麼多說教。\n還強調順女怎麼怎麼樣。你就沒把酷兒視作正常女性。\n我們酷兒不是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1980874061690597428",
+        "created_at": "2025-10-22T05:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980874061690597428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1965393379224944645",
+              "start": 3,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980874061690597428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980674556466720973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hagishigure: 我不得不給花路發父權牌子了。\n女權的本質是：自由，尊嚴，平等。\n做不到的一律歸為父權。\n規訓女性這種東西本來就是父權專屬。別人女性哪怕移植子宮都不管你花路的事情吧。哪來那麼多說教。\n還強調順女怎麼怎麼樣。你就沒把酷兒視作正常女性。\n我們酷兒不是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980674556466720973",
+        "created_at": "2025-10-21T16:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980674556466720973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ThrumboABBBAA/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/ThrumboABBBAA/status/1980619428736933934",
+              "start": 144,
+              "url": "https://t.co/gXDJb6EUjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980674556466720973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980619428736933934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不得不給花路發父權牌子了。\n女權的本質是：自由，尊嚴，平等。\n做不到的一律歸為父權。\n規訓女性這種東西本來就是父權專屬。別人女性哪怕移植子宮都不管你花路的事情吧。哪來那麼多說教。\n還強調順女怎麼怎麼樣。你就沒把酷兒視作正常女性。\n我們酷兒不是模仿女性的產物謝謝\n酷兒們只需要成為自己。 https://t.co/gXDJb6EUjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "1980575996366713094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14696,
+          "following_count": 831,
+          "like_count": 78440,
+          "listed_count": 24,
+          "media_count": 895,
+          "tweet_count": 16748
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 98,
+          "like_count": 4886,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 928
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

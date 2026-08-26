@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2059439013883445735",
+    "created_at": "2026-05-27T07:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059542288679010490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1651348660012355589",
+          "start": 0,
+          "username": "shoubaji122229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059542288679010490",
+    "in_reply_to_user_id": "1651348660012355589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059439013883445735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoubaji122229 小腹好美……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_2059438827157225472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSYs7FagAAbqPx.jpg",
+        "width": 2016
+      },
+      {
+        "height": 2016,
+        "media_key": "3_2059438827148898304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSYs7DbcAAigoI.jpg",
+        "width": 2688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2059439013883445735",
+        "created_at": "2026-05-27T07:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059542288679010490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1651348660012355589",
+              "start": 0,
+              "username": "shoubaji122229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059542288679010490",
+        "in_reply_to_user_id": "1651348660012355589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059439013883445735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoubaji122229 小腹好美……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059438827157225472",
+            "3_2059438827148898304"
+          ]
+        },
+        "author_id": "1651348660012355589",
+        "conversation_id": "2059439013883445735",
+        "created_at": "2026-05-27T00:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059439013883445735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnDurPTIzk",
+              "end": 60,
+              "expanded_url": "https://x.com/shoubaji122229/status/2059439013883445735/photo/1",
+              "media_key": "3_2059438827157225472",
+              "start": 37,
+              "url": "https://t.co/mnDurPTIzk"
+            },
+            {
+              "display_url": "pic.x.com/mnDurPTIzk",
+              "end": 60,
+              "expanded_url": "https://x.com/shoubaji122229/status/2059439013883445735/photo/1",
+              "media_key": "3_2059438827148898304",
+              "start": 37,
+              "url": "https://t.co/mnDurPTIzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059439013883445735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4654,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "裤子版型很好，面料柔软舒适，上身显瘦又百搭，做工细节也很到位，非常满意！ https://t.co/mnDurPTIzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2046269763236819308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14989,
+          "following_count": 746,
+          "like_count": 84625,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 17553
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T22:13:04.000Z",
+        "description": "Adios/努力的活着/两颗牙要补，一颗牙要拔/不接线下",
+        "id": "1651348660012355589",
+        "location": "床上",
+        "name": "手扒鸡",
+        "pinned_tweet_id": "1792953216293908943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991132117892501504/y_cH1hMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 2892,
+          "like_count": 8085,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 5276
+        },
+        "username": "shoubaji122229",
+        "verified": false
+      }
+    ]
+  }
+}

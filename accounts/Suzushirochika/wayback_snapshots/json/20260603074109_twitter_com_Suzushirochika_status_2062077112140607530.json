@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2061703026189193435",
+    "created_at": "2026-06-03T07:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062077112140607530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1130781616274468864",
+          "start": 0,
+          "username": "SGR_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062077112140607530",
+    "in_reply_to_user_id": "1130781616274468864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061703026189193435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SGR_nya 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2061703016571658240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyj-F8a4AA7Wef.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2061703026189193435",
+        "created_at": "2026-06-03T07:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062077112140607530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062077112140607530",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061703026189193435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061703016571658240"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2061703026189193435",
+        "created_at": "2026-06-02T06:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061703026189193435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2QmR86luK",
+              "end": 35,
+              "expanded_url": "https://x.com/SGR_nya/status/2061703026189193435/photo/1",
+              "media_key": "3_2061703016571658240",
+              "start": 12,
+              "url": "https://t.co/v2QmR86luK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061703026189193435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2030,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "顺便露肩挺涩的（划掉） https://t.co/v2QmR86luK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "₊⁺ ꒰১ 小天使請安 ໒꒱ྀི⁺₊",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14974,
+          "following_count": 745,
+          "like_count": 84862,
+          "listed_count": 15,
+          "media_count": 938,
+          "tweet_count": 17586
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62887,
+          "following_count": 2076,
+          "like_count": 52639,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2090747225756569907",
+    "created_at": "2026-08-21T13:07:09.000Z",
+    "display_text_range": [
+      26,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090787792586674408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1457264775440728070",
+          "start": 0,
+          "username": "yagi_riko"
+        },
+        {
+          "end": 25,
+          "id": "1442362841193795593",
+          "start": 11,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090787792586674408",
+    "in_reply_to_user_id": "1457264775440728070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090787462239199626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yagi_riko @kusunoki_riko 不是被摇回去干活了吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090787462239199626].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090787462239199626",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090787462239199626"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090747225756569907",
+        "created_at": "2026-08-21T13:07:09.000Z",
+        "display_text_range": [
+          26,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090787792586674408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1457264775440728070",
+              "start": 0,
+              "username": "yagi_riko"
+            },
+            {
+              "end": 25,
+              "id": "1442362841193795593",
+              "start": 11,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090787792586674408",
+        "in_reply_to_user_id": "1457264775440728070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090787462239199626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yagi_riko @kusunoki_riko 不是被摇回去干活了吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090787792586674408",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15062,
+          "following_count": 755,
+          "like_count": 88237,
+          "listed_count": 14,
+          "media_count": 958,
+          "tweet_count": 18148
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T08:33:04.000Z",
+        "description": "一个徘徊在时空与间隙之间的幽灵，是需要神奇的汤药才能维系住自己魔法的，不称职的水魔法师呢。也并不擅长治疗魔法，所以不要太接近我哦",
+        "id": "1457264775440728070",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088043974342877301",
+        "name": "クスノキ•リコ",
+        "pinned_tweet_id": "1960720311638270432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457264775440728070/1639173469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085182431376949248/QWjYVhsf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 64,
+          "like_count": 1439,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1560
+        },
+        "url": "",
+        "username": "yagi_riko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "是非在己，毁誉由人，得失不论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "is_identity_verified": false,
+        "location": "此心安处是吾乡",
+        "most_recent_tweet_id": "2090782996584603889",
+        "name": "楠•理子",
+        "pinned_tweet_id": "2083491575318155443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442362841193795593/1787237632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085005265947197440/xAse1W1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8158,
+          "following_count": 1541,
+          "like_count": 105576,
+          "listed_count": 32,
+          "media_count": 4412,
+          "tweet_count": 58979
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

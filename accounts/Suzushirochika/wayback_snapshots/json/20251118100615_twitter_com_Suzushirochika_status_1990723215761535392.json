@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990361878514814977"
+      ],
+      "media_source_tweet_id": [
+        "1990361887473803275"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "conversation_id": "1990723215761535392",
+    "created_at": "2025-11-18T10:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990723215761535392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1543918989390532608",
+          "start": 3,
+          "username": "ouoicy77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1t9xYFSjgd",
+          "end": 37,
+          "expanded_url": "https://x.com/ouoicy77/status/1990361887473803275/photo/1",
+          "media_key": "3_1990361878514814977",
+          "start": 14,
+          "url": "https://t.co/1t9xYFSjgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990723215761535392",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990361887473803275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ouoicy77: https://t.co/1t9xYFSjgd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990361878514814977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58vlUda0AENHvx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990361878514814977"
+          ],
+          "media_source_tweet_id": [
+            "1990361887473803275"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "1990723215761535392",
+        "created_at": "2025-11-18T10:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990723215761535392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1543918989390532608",
+              "start": 3,
+              "username": "ouoicy77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1t9xYFSjgd",
+              "end": 37,
+              "expanded_url": "https://x.com/ouoicy77/status/1990361887473803275/photo/1",
+              "media_key": "3_1990361878514814977",
+              "start": 14,
+              "url": "https://t.co/1t9xYFSjgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990723215761535392",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990361887473803275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ouoicy77: https://t.co/1t9xYFSjgd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990361878514814977"
+          ]
+        },
+        "author_id": "1543918989390532608",
+        "conversation_id": "1990361887473803275",
+        "created_at": "2025-11-17T10:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990361887473803275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1t9xYFSjgd",
+              "end": 23,
+              "expanded_url": "https://x.com/ouoicy77/status/1990361887473803275/photo/1",
+              "media_key": "3_1990361878514814977",
+              "start": 0,
+              "url": "https://t.co/1t9xYFSjgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990361887473803275",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 124139,
+          "like_count": 1843,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1t9xYFSjgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904708705041760256/ZrD8D2GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14757,
+          "following_count": 832,
+          "like_count": 78766,
+          "listed_count": 23,
+          "media_count": 899,
+          "tweet_count": 16785
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "谢谢喜欢 我只有这一个账号 置顶推广真假自辩",
+        "id": "1543918989390532608",
+        "location": "仅扩列521 私信只回口令",
+        "name": "饲",
+        "pinned_tweet_id": "1990684080804069747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31043,
+          "following_count": 59,
+          "like_count": 2759,
+          "listed_count": 113,
+          "media_count": 153,
+          "tweet_count": 642
+        },
+        "username": "ouoicy77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2086691615385829668",
+    "created_at": "2026-08-11T06:07:17.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087058252416622818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070541460659924992",
+          "start": 0,
+          "username": "Kiri_yume1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087058252416622818",
+    "in_reply_to_user_id": "2070541460659924992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086691615385829668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiri_yume1 曲马多：我们四个实在是太强了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2086691615385829668",
+        "created_at": "2026-08-11T06:07:17.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087058252416622818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070541460659924992",
+              "start": 0,
+              "username": "Kiri_yume1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087058252416622818",
+        "in_reply_to_user_id": "2070541460659924992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086691615385829668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiri_yume1 曲马多：我们四个实在是太强了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070541460659924992",
+        "conversation_id": "2086691615385829668",
+        "created_at": "2026-08-10T05:50:24.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086691615385829668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086691615385829668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4540,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃lsd好想吃曲马多好想吃羟考酮好想用丙泊酚。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087058252416622818",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2086307758375354520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15060,
+          "following_count": 754,
+          "like_count": 87929,
+          "listed_count": 14,
+          "media_count": 957,
+          "tweet_count": 18062
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "わがはいはきり夢です ||",
+        "id": "2070541460659924992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087044465286672493",
+        "name": "Kiriyume",
+        "pinned_tweet_id": "2070546609449173327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070541460659924992/1786408784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085185472918441984/2AOv8azU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 122,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

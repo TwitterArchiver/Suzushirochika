@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011733591764713477"
+      ],
+      "media_source_tweet_id": [
+        "2011736799371280578"
+      ]
+    },
+    "author_id": "1253292430792839174",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2011749104175734989",
+    "created_at": "2026-01-15T10:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T11:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011749104175734989"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 45,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "丰川祥子"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "豊川祥子"
+        },
+        {
+          "end": 76,
+          "start": 68,
+          "tag": "cosplay"
+        },
+        {
+          "end": 82,
+          "start": 77,
+          "tag": "发型致歉"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "876363325998678017",
+          "start": 3,
+          "username": "copymellowclip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2jZMWEeeqw",
+          "end": 106,
+          "expanded_url": "https://x.com/copymellowclip/status/2011736799371280578/photo/1",
+          "media_key": "3_2011733591764713477",
+          "start": 83,
+          "url": "https://t.co/2jZMWEeeqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011749104175734989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011736799371280578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @copymellowclip: 言ったでしょう？残りの人生、わたくしに下さいと\n\n#AveMujica #丰川祥子 #豊川祥子 #cosplay #发型致歉 https://t.co/2jZMWEeeqw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3058,
+        "media_key": "3_2011733591764713477",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-sdCwfbQAUSFrF.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011733591764713477"
+          ],
+          "media_source_tweet_id": [
+            "2011736799371280578"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2011749104175734989",
+        "created_at": "2026-01-15T10:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T11:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011749104175734989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "丰川祥子"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "豊川祥子"
+            },
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "cosplay"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "发型致歉"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "876363325998678017",
+              "start": 3,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jZMWEeeqw",
+              "end": 106,
+              "expanded_url": "https://x.com/copymellowclip/status/2011736799371280578/photo/1",
+              "media_key": "3_2011733591764713477",
+              "start": 83,
+              "url": "https://t.co/2jZMWEeeqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011749104175734989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011736799371280578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @copymellowclip: 言ったでしょう？残りの人生、わたくしに下さいと\n\n#AveMujica #丰川祥子 #豊川祥子 #cosplay #发型致歉 https://t.co/2jZMWEeeqw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011733591764713477"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2011736799371280578",
+        "created_at": "2026-01-15T09:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011736799371280578"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "丰川祥子"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "豊川祥子"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "cosplay"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "发型致歉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jZMWEeeqw",
+              "end": 86,
+              "expanded_url": "https://x.com/copymellowclip/status/2011736799371280578/photo/1",
+              "media_key": "3_2011733591764713477",
+              "start": 63,
+              "url": "https://t.co/2jZMWEeeqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011736799371280578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "言ったでしょう？残りの人生、わたくしに下さいと\n\n#AveMujica #丰川祥子 #豊川祥子 #cosplay #发型致歉 https://t.co/2jZMWEeeqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "location": "江岸區公安街33號",
+        "name": "鈴白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14772,
+          "following_count": 825,
+          "like_count": 79360,
+          "listed_count": 13,
+          "media_count": 902,
+          "tweet_count": 16809
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 76,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 53,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 492,
+          "like_count": 2540,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

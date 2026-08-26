@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "1891407472570548330",
+    "created_at": "2025-02-17T08:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T09:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891407610584207426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1014410526179246080",
+          "start": 0,
+          "username": "Tsurumi_vov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891407610584207426",
+    "in_reply_to_user_id": "1014410526179246080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891407472570548330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsurumi_vov 生日快乐！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "1891407472570548330",
+        "created_at": "2025-02-17T08:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T09:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891407610584207426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1014410526179246080",
+              "start": 0,
+              "username": "Tsurumi_vov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891407610584207426",
+        "in_reply_to_user_id": "1014410526179246080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891407472570548330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsurumi_vov 生日快乐！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891407463813103616"
+          ]
+        },
+        "author_id": "1014410526179246080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1891407472570548330",
+        "created_at": "2025-02-17T08:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T09:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891407472570548330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L636zk9U4Z",
+              "end": 28,
+              "expanded_url": "https://x.com/Tsurumi_vov/status/1891407472570548330/photo/1",
+              "media_key": "3_1891407463813103616",
+              "start": 5,
+              "url": "https://t.co/L636zk9U4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891407472570548330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日🎂🎉 https://t.co/L636zk9U4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "鱼鱼蒸好了",
+        "id": "1253292430792839174",
+        "location": "距您7.3km",
+        "name": "铃白千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743160640578170880/ADx-Ua74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13875,
+          "following_count": 852,
+          "like_count": 78873,
+          "listed_count": 22,
+          "media_count": 922,
+          "tweet_count": 16756
+        },
+        "username": "Suzushirochika",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-04T07:28:11.000Z",
+        "description": "米画师: 鹤子_Channel pixiv：https://t.co/2WY5D7wiVm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42877263",
+                "end": 45,
+                "expanded_url": "http://pixiv.net/users/42877263",
+                "start": 22,
+                "url": "https://t.co/2WY5D7wiVm"
+              }
+            ]
+          }
+        },
+        "id": "1014410526179246080",
+        "name": "♪Tsurumi🍥🍓",
+        "pinned_tweet_id": "1784616343154962876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813421005391466496/Qg9Q_VYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32294,
+          "following_count": 2952,
+          "like_count": 9917,
+          "listed_count": 159,
+          "media_count": 516,
+          "tweet_count": 2357
+        },
+        "username": "Tsurumi_vov",
+        "verified": false
+      }
+    ]
+  }
+}
