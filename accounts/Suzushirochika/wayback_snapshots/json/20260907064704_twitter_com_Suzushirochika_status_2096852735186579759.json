@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2096567049623597243",
+    "created_at": "2026-09-07T06:47:04.000Z",
+    "display_text_range": [
+      26,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096852735186579759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809823960969940992",
+          "start": 0,
+          "username": "rina20496141"
+        },
+        {
+          "end": 25,
+          "id": "1681716872415440896",
+          "start": 14,
+          "username": "Ajs_ririka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096852735186579759",
+    "in_reply_to_user_id": "1809823960969940992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096573388114567434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rina20496141 @Ajs_ririka 猫神雕像😺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2096573382922022912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiGYjabMAAaFP0.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2096567049623597243",
+        "created_at": "2026-09-07T06:47:04.000Z",
+        "display_text_range": [
+          26,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096852735186579759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809823960969940992",
+              "start": 0,
+              "username": "rina20496141"
+            },
+            {
+              "end": 25,
+              "id": "1681716872415440896",
+              "start": 14,
+              "username": "Ajs_ririka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096852735186579759",
+        "in_reply_to_user_id": "1809823960969940992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096573388114567434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rina20496141 @Ajs_ririka 猫神雕像😺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096573382922022912"
+          ]
+        },
+        "author_id": "1809823960969940992",
+        "conversation_id": "2096567049623597243",
+        "created_at": "2026-09-06T12:17:02.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096573388114567434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Ajs_ririka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfF2CMF8Y0",
+              "end": 40,
+              "expanded_url": "https://x.com/rina20496141/status/2096573388114567434/photo/1",
+              "media_key": "3_2096573382922022912",
+              "start": 17,
+              "url": "https://t.co/cfF2CMF8Y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096573388114567434",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096573382922022912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096568646864962033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajs_ririka 😠生气了 https://t.co/cfF2CMF8Y0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096852735186579759",
+        "name": "鈴白千夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15124,
+          "following_count": 755,
+          "like_count": 89611,
+          "listed_count": 14,
+          "media_count": 966,
+          "tweet_count": 18277
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T05:37:23.000Z",
+        "description": "掉落负能与日常😳😳\n有一个发猫的电报废话群 可以私聊进群\n另一面@0xo_snow\n不用担心我 我永远活着\n猎奇音频 #恋在唱歌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 59,
+                "tag": "恋在唱歌"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1809823960969940992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096782806802411674",
+        "name": "我什么都看不到我逃跑了",
+        "pinned_tweet_id": "2085921542685544774",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809823960969940992/1786130729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087128349126840320/lw4oXSav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 13,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "rina20496141",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "串子谨言慎行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajs_ririka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajs_ririka",
+                "start": 0,
+                "url": "https://t.co/5V4ZiY98Z7"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "is_identity_verified": false,
+        "location": "精神世界",
+        "most_recent_tweet_id": "2096842078403875076",
+        "name": "Ririka",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681716872415440896/1763025470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094073050883137536/djNHTXP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 1303,
+          "like_count": 36287,
+          "listed_count": 2,
+          "media_count": 1002,
+          "tweet_count": 22182
+        },
+        "url": "https://t.co/5V4ZiY98Z7",
+        "username": "Ajs_ririka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2094342810250215681",
+    "created_at": "2026-09-01T08:16:37.000Z",
+    "display_text_range": [
+      12,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094700945355796604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094700945355796604",
+    "in_reply_to_user_id": "623965569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094342810250215681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand (⁠人⁠*⁠´⁠∀⁠｀⁠)⁠｡⁠*ﾟ⁠+"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2094342801572188160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCZroWbUAALU4U.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2094342810250215681",
+        "created_at": "2026-09-01T08:16:37.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094700945355796604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094700945355796604",
+        "in_reply_to_user_id": "623965569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094342810250215681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand (⁠人⁠*⁠´⁠∀⁠｀⁠)⁠｡⁠*ﾟ⁠+"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094342801572188160"
+          ]
+        },
+        "author_id": "623965569",
+        "conversation_id": "2094342810250215681",
+        "created_at": "2026-08-31T08:33:31.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094342810250215681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPVFAX9HEL",
+              "end": 37,
+              "expanded_url": "https://x.com/nothousand/status/2094342810250215681/photo/1",
+              "media_key": "3_2094342801572188160",
+              "start": 14,
+              "url": "https://t.co/IPVFAX9HEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094342810250215681",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094342801572188160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 33672,
+          "like_count": 549,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "术后第41天！\n今日出门！ https://t.co/IPVFAX9HEL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094700945355796604",
+        "name": "鈴白千夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15112,
+          "following_count": 753,
+          "like_count": 89172,
+          "listed_count": 14,
+          "media_count": 964,
+          "tweet_count": 18243
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "is_identity_verified": false,
+        "location": "earth",
+        "most_recent_tweet_id": "2094668697466216864",
+        "name": "菁芊镜華",
+        "pinned_tweet_id": "2067307566095556947",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623965569/1748187103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079387399390695424/1IPeK7Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3307,
+          "following_count": 131,
+          "like_count": 9853,
+          "listed_count": 10,
+          "media_count": 614,
+          "tweet_count": 6089
+        },
+        "url": "",
+        "username": "nothousand",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

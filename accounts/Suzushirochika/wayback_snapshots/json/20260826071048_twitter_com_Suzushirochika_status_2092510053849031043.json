@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2092405807644348907",
+    "created_at": "2026-08-26T07:10:48.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092510053849031043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739791003857371136",
+          "start": 0,
+          "username": "Ahannn114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092510053849031043",
+    "in_reply_to_user_id": "1739791003857371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092405807644348907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ahannn114514 帅到我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3697,
+        "media_key": "3_2092405795271086080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQm3_BkaEAAPYkg.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2092405807644348907",
+        "created_at": "2026-08-26T07:10:48.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092510053849031043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739791003857371136",
+              "start": 0,
+              "username": "Ahannn114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092510053849031043",
+        "in_reply_to_user_id": "1739791003857371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092405807644348907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahannn114514 帅到我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092405795271086080"
+          ]
+        },
+        "author_id": "1739791003857371136",
+        "conversation_id": "2092405807644348907",
+        "created_at": "2026-08-26T00:16:34.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T01:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092405807644348907"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男娘"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "伪娘"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "femboy"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0N7B4QEp4",
+              "end": 50,
+              "expanded_url": "https://x.com/Ahannn114514/status/2092405807644348907/photo/1",
+              "media_key": "3_2092405795271086080",
+              "start": 27,
+              "url": "https://t.co/H0N7B4QEp4"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2092405807644348907",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092405795271086080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 893,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帅到你了？\n#男娘 #伪娘 #femboy #男の娘 https://t.co/H0N7B4QEp4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092510053849031043",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15098,
+          "following_count": 754,
+          "like_count": 88773,
+          "listed_count": 14,
+          "media_count": 961,
+          "tweet_count": 18209
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-26T23:31:26.000Z",
+        "description": "涩涩/男娘/170cm/57kg\nbilibili：寒Ahannn丶",
+        "id": "1739791003857371136",
+        "is_identity_verified": false,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2092405807644348907",
+        "name": "寒丶",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834263940387282944/kQO91_O1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 231,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "Ahannn114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

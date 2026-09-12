@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2092939784138498492",
+    "created_at": "2026-08-28T03:12:25.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093174839360331776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809823960969940992",
+          "start": 0,
+          "username": "rina20496141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093174839360331776",
+    "in_reply_to_user_id": "1809823960969940992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092939784138498492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rina20496141 呀米呀米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092939764119085056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQudoGiboAAuWFM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2092939784138498492",
+        "created_at": "2026-08-28T03:12:25.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093174839360331776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809823960969940992",
+              "start": 0,
+              "username": "rina20496141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093174839360331776",
+        "in_reply_to_user_id": "1809823960969940992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092939784138498492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rina20496141 呀米呀米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092939764119085056"
+          ]
+        },
+        "author_id": "1809823960969940992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092939784138498492",
+        "created_at": "2026-08-27T11:38:24.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092939784138498492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrDgnt9B56",
+              "end": 25,
+              "expanded_url": "https://x.com/rina20496141/status/2092939784138498492/photo/1",
+              "media_key": "3_2092939764119085056",
+              "start": 2,
+              "url": "https://t.co/ZrDgnt9B56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092939784138498492",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092939764119085056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 279,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/ZrDgnt9B56"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093174839360331776",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15106,
+          "following_count": 754,
+          "like_count": 88911,
+          "listed_count": 14,
+          "media_count": 961,
+          "tweet_count": 18224
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T05:37:23.000Z",
+        "description": "掉落负能与日常😳😳\n有一个发猫的电报废话群 可以私聊进群\n另一面@0xo_snow\n不用担心我 我永远活着\n猎奇音频 #恋在唱歌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 59,
+                "tag": "恋在唱歌"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "0xo_snow"
+              }
+            ]
+          }
+        },
+        "id": "1809823960969940992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092939784138498492",
+        "name": "全当我看不见吧",
+        "pinned_tweet_id": "2085921542685544774",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809823960969940992/1786130729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087128349126840320/lw4oXSav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 13,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "rina20496141",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

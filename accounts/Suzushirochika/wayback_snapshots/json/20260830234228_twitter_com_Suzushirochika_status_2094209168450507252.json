@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2094159215505863059",
+    "created_at": "2026-08-30T23:42:28.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T00:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094209168450507252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Suzushirochika…",
+          "end": 40,
+          "expanded_url": "https://x.com/Suzushirochika/status/2094157572966346895",
+          "start": 17,
+          "url": "https://t.co/ENfuYOxJW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094209168450507252",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094157572966346895",
+        "type": "quoted"
+      },
+      {
+        "id": "2094159215505863059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa https://t.co/ENfuYOxJW7"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094159215505863059].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094159215505863059",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094159215505863059"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_2094157568088436736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_xNn2bcAAmA3a.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2094159215505863059",
+        "created_at": "2026-08-30T23:42:28.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094209168450507252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Suzushirochika…",
+              "end": 40,
+              "expanded_url": "https://x.com/Suzushirochika/status/2094157572966346895",
+              "start": 17,
+              "url": "https://t.co/ENfuYOxJW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094209168450507252",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094157572966346895",
+            "type": "quoted"
+          },
+          {
+            "id": "2094159215505863059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa https://t.co/ENfuYOxJW7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094157568088436736"
+          ]
+        },
+        "author_id": "1253292430792839174",
+        "conversation_id": "2094141211019997439",
+        "created_at": "2026-08-30T20:17:27.000Z",
+        "display_text_range": [
+          11,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T21:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094157572966346895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1230377858154950663",
+              "start": 0,
+              "username": "F1avia886"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vC2rash0AL",
+              "end": 64,
+              "expanded_url": "https://x.com/Suzushirochika/status/2094157572966346895/photo/1",
+              "media_key": "3_2094157568088436736",
+              "start": 41,
+              "url": "https://t.co/vC2rash0AL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094157572966346895",
+        "in_reply_to_user_id": "1230377858154950663",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094157568088436736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094141211019997439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F1avia886 大脑会自动根据“合理、符合现实情况的算法”来推测此处的影像 https://t.co/vC2rash0AL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094209168450507252",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15106,
+          "following_count": 754,
+          "like_count": 89017,
+          "listed_count": 14,
+          "media_count": 963,
+          "tweet_count": 18232
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/NpPy1nijXR"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091154705976000826",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2092841802646671441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8220,
+          "following_count": 1174,
+          "like_count": 8022,
+          "listed_count": 12,
+          "media_count": 385,
+          "tweet_count": 4591
+        },
+        "url": "https://t.co/NpPy1nijXR",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-20T06:25:25.000Z",
+        "description": "si chiama Fava#",
+        "id": "1230377858154950663",
+        "is_identity_verified": false,
+        "location": "SouthPark",
+        "most_recent_tweet_id": "2094141211019997439",
+        "name": "Fla",
+        "pinned_tweet_id": "2092235789422018892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230377858154950663/1769857428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922331263144275968/pgNIGGM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7591,
+          "following_count": 71,
+          "like_count": 1527,
+          "listed_count": 11,
+          "media_count": 122,
+          "tweet_count": 2360
+        },
+        "url": "",
+        "username": "F1avia886",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

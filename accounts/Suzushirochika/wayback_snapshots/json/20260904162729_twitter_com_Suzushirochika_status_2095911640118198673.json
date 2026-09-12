@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2095905685099651230",
+    "created_at": "2026-09-04T16:27:29.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T17:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095911640118198673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796471454839816192",
+          "start": 0,
+          "username": "yuanyilingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095911640118198673",
+    "in_reply_to_user_id": "1796471454839816192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095905685099651230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyilingyi 抱抱绫酱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2095905685099651230",
+        "created_at": "2026-09-04T16:27:29.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095911640118198673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796471454839816192",
+              "start": 0,
+              "username": "yuanyilingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095911640118198673",
+        "in_reply_to_user_id": "1796471454839816192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095905685099651230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyilingyi 抱抱绫酱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796471454839816192",
+        "conversation_id": "2095905685099651230",
+        "created_at": "2026-09-04T16:03:50.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095905685099651230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095905685099651230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛苦，好累，好累，好恶心。为什么要这样，为什么吾辈还是会去接触这些，明明不想那么多就好了，明明。。明明根本就不会有人在意吾辈，吾辈又在自作多情了，擅自的。。去想一些根本不存在的事情，好想哭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095911640118198673",
+        "name": "鈴白千夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15117,
+          "following_count": 754,
+          "like_count": 89365,
+          "listed_count": 14,
+          "media_count": 966,
+          "tweet_count": 18261
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-31T09:19:29.000Z",
+        "description": "✨朝雾绫澜✨｜含糖🍥｜清水日常推✨｜互fo私信喵，fo会查成分回关｜转生版｜喜欢一切可爱的事物🎉",
+        "id": "1796471454839816192",
+        "is_identity_verified": false,
+        "location": "距离你10米",
+        "most_recent_tweet_id": "2095907590890721293",
+        "name": "纟夌🍀",
+        "pinned_tweet_id": "2076886094776574354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796471454839816192/1783578961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265125528231936/GdFIqysV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3496,
+          "following_count": 731,
+          "like_count": 4604,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 1764
+        },
+        "url": "",
+        "username": "yuanyilingyi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

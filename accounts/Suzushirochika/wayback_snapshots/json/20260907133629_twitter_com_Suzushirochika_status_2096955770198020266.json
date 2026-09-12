@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2096949512518721598",
+    "created_at": "2026-09-07T13:36:29.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T14:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096955770198020266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1130781616274468864",
+          "start": 0,
+          "username": "SGR_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096955770198020266",
+    "in_reply_to_user_id": "1130781616274468864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096949512518721598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SGR_nya 🏹🏹🏹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28633,
+        "height": 720,
+        "media_key": "13_2096949475856297984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096949475856297984/img/2WsiMN_dfQ5KOZ7G.jpg",
+        "public_metrics": {
+          "view_count": 81
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096949475856297984/vid/avc1/416x270/4Svk2lRS6X-QDT2M.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096949475856297984/vid/avc1/556x360/FkngsRSXHSIGQFtG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096949475856297984/vid/avc1/1112x720/ng-HXkOSrgli2_sv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096949475856297984/pl/xr-1L0qbcV8PRr6R.m3u8"
+          }
+        ],
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2096949512518721598",
+        "created_at": "2026-09-07T13:36:29.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096955770198020266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096955770198020266",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096949512518721598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 🏹🏹🏹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096949475856297984"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2096949512518721598",
+        "created_at": "2026-09-07T13:11:37.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096949512518721598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IrEH2KB2KX",
+              "end": 40,
+              "expanded_url": "https://x.com/SGR_nya/status/2096949512518721598/video/1",
+              "media_key": "13_2096949475856297984",
+              "start": 17,
+              "url": "https://t.co/IrEH2KB2KX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096949512518721598",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096949475856297984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "已经快要忘记我其实还会射箭的了😇 https://t.co/IrEH2KB2KX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096955770198020266",
+        "name": "鈴白千夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15123,
+          "following_count": 755,
+          "like_count": 89642,
+          "listed_count": 14,
+          "media_count": 967,
+          "tweet_count": 18280
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "is_identity_verified": false,
+        "location": "1DQ1-A（-0.9）",
+        "most_recent_tweet_id": "2096949512518721598",
+        "name": "希古列",
+        "pinned_tweet_id": "2094400947862782007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1762429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63335,
+          "following_count": 2076,
+          "like_count": 55119,
+          "listed_count": 4,
+          "media_count": 460,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

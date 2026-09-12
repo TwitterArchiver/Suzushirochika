@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2095074173672690056",
+    "created_at": "2026-09-02T14:49:39.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095162241104711884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1540590140027961345",
+          "start": 0,
+          "username": "nswwassa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095162241104711884",
+    "in_reply_to_user_id": "1540590140027961345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095074173672690056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nswwassa_ 姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095074115661262848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMyztoa8AAyG1Z.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2095074173672690056",
+        "created_at": "2026-09-02T14:49:39.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095162241104711884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1540590140027961345",
+              "start": 0,
+              "username": "nswwassa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095162241104711884",
+        "in_reply_to_user_id": "1540590140027961345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095074173672690056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nswwassa_ 姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095074115661262848"
+          ]
+        },
+        "author_id": "1540590140027961345",
+        "conversation_id": "2095074173672690056",
+        "created_at": "2026-09-02T08:59:42.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095074173672690056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lv6Yl4ULGN",
+              "end": 26,
+              "expanded_url": "https://x.com/nswwassa_/status/2095074173672690056/photo/1",
+              "media_key": "3_2095074115661262848",
+              "start": 3,
+              "url": "https://t.co/Lv6Yl4ULGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095074173672690056",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095074115661262848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 5580,
+          "like_count": 604,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐 https://t.co/Lv6Yl4ULGN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095162241104711884",
+        "name": "鈴白千夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15113,
+          "following_count": 753,
+          "like_count": 89309,
+          "listed_count": 14,
+          "media_count": 966,
+          "tweet_count": 18256
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-25T06:58:32.000Z",
+        "description": "",
+        "id": "1540590140027961345",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095074173672690056",
+        "name": "玻璃纸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1540590140027961345/1765003499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038071196047278080/JDNHvVjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 32,
+          "like_count": 48,
+          "listed_count": 4,
+          "media_count": 125,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "nswwassa_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

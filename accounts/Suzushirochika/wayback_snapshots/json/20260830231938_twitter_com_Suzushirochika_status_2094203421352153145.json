@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1253292430792839174",
+    "conversation_id": "2094126155339321729",
+    "created_at": "2026-08-30T23:19:38.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T00:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094203421352153145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2689170356",
+          "start": 0,
+          "username": "Hoshikawa_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094203421352153145",
+    "in_reply_to_user_id": "2689170356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094126155339321729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshikawa_ran 这期神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2094126155339321729",
+        "created_at": "2026-08-30T23:19:38.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094203421352153145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2689170356",
+              "start": 0,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094203421352153145",
+        "in_reply_to_user_id": "2689170356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094126155339321729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshikawa_ran 这期神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2689170356",
+        "conversation_id": "2094126155339321729",
+        "created_at": "2026-08-30T18:12:37.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094126155339321729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2094058808305926231",
+              "start": 37,
+              "url": "https://t.co/pvXmBEjyUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094126155339321729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 650,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094058808305926231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是按照你国“军训”的标准去训练真实的军队，培养出来的怕不是一堆范疆张达 https://t.co/pvXmBEjyUB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094203421352153145",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15106,
+          "following_count": 754,
+          "like_count": 89016,
+          "listed_count": 14,
+          "media_count": 963,
+          "tweet_count": 18231
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "is_identity_verified": false,
+        "location": "自由人联合体",
+        "most_recent_tweet_id": "2094126155339321729",
+        "name": "星川 蘭🇺🇦🇪🇺🇬🇱🇮🇷（🚫☫）Fereydun ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2689170356/1786196171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15220,
+          "following_count": 384,
+          "like_count": 161797,
+          "listed_count": 78,
+          "media_count": 2832,
+          "tweet_count": 27590
+        },
+        "url": "",
+        "username": "Hoshikawa_ran",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
